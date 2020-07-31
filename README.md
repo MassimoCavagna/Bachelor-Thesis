@@ -10,3 +10,4 @@ Need install "WazeRouteCalculator", "pandas_ods_reader", "geopy.geocoders", "ipy
 > jupyter nbextension enable --py widgetsnbextension
 > jupyter labextension install @jupyter-widgets/jupyterlab-manager
 ```
+Geolocation computes times and distances (9 hours)
