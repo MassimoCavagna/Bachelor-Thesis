@@ -1,5 +1,5 @@
 # Tesi
-Need install "WazeRouteCalculator", "pandas_ods_reader", "geopy.geocoders", "ipywidgets" and "functools"
+To work
 
 ```
 > pip install WazeRouteCalculator
@@ -7,7 +7,9 @@ Need install "WazeRouteCalculator", "pandas_ods_reader", "geopy.geocoders", "ipy
 > pip install geopy.geocoders
 > pip install functools
 > pip install ipywidgets
+> pip install pyroutelib3
 > jupyter nbextension enable --py widgetsnbextension
 > jupyter labextension install @jupyter-widgets/jupyterlab-manager
 ```
+If not working try with pip3 instead of pip
 Geolocation computes times and distances (9 hours)
