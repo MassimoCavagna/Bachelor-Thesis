@@ -8,6 +8,7 @@ To work
 > pip install functools
 > pip install ipywidgets
 > pip install pyroutelib3
+> pip install ipynb
 > jupyter nbextension enable --py widgetsnbextension
 > jupyter labextension install @jupyter-widgets/jupyterlab-manager
 ```
