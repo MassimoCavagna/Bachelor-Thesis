@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (861164 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991877 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2671548" minlon="9.8217773" maxlat="45.2748864" maxlon="9.8327637"/>
  <node id="292540937" visible="true" version="2" changeset="7700770" timestamp="2011-03-28T19:48:11Z" user="ilrobi" uid="22110" lat="45.2792185" lon="9.8360014"/>
  <node id="292540938" visible="true" version="2" changeset="7701154" timestamp="2011-03-28T20:21:32Z" user="ilrobi" uid="22110" lat="45.2733835" lon="9.8353629"/>
@@ -180,6 +180,19 @@
  <node id="7637853274" visible="true" version="1" changeset="86908566" timestamp="2020-06-20T11:40:07Z" user="FabioMTB" uid="4617656" lat="45.2665318" lon="9.8336810"/>
  <node id="7637853275" visible="true" version="1" changeset="86908566" timestamp="2020-06-20T11:40:07Z" user="FabioMTB" uid="4617656" lat="45.2663664" lon="9.8312951"/>
  <node id="7637867390" visible="true" version="1" changeset="86908566" timestamp="2020-06-20T11:40:07Z" user="FabioMTB" uid="4617656" lat="45.2664709" lon="9.8337628"/>
+ <node id="7991726124" visible="true" version="1" changeset="92229728" timestamp="2020-10-09T10:31:54Z" user="dega180" uid="454306" lat="45.2804405" lon="9.8243745"/>
+ <node id="7991726125" visible="true" version="1" changeset="92229728" timestamp="2020-10-09T10:31:54Z" user="dega180" uid="454306" lat="45.2801405" lon="9.8242722"/>
+ <node id="7991726126" visible="true" version="1" changeset="92229728" timestamp="2020-10-09T10:31:54Z" user="dega180" uid="454306" lat="45.2755333" lon="9.8230936"/>
+ <node id="7991726127" visible="true" version="1" changeset="92229728" timestamp="2020-10-09T10:31:54Z" user="dega180" uid="454306" lat="45.2752223" lon="9.8229777"/>
+ <node id="7991726128" visible="true" version="1" changeset="92229728" timestamp="2020-10-09T10:31:54Z" user="dega180" uid="454306" lat="45.2731557" lon="9.8224343"/>
+ <node id="7991726129" visible="true" version="1" changeset="92229728" timestamp="2020-10-09T10:31:54Z" user="dega180" uid="454306" lat="45.2725761" lon="9.8223112"/>
+ <node id="7991726130" visible="true" version="1" changeset="92229728" timestamp="2020-10-09T10:31:54Z" user="dega180" uid="454306" lat="45.2725115" lon="9.8222749"/>
+ <node id="7991726131" visible="true" version="1" changeset="92229728" timestamp="2020-10-09T10:31:54Z" user="dega180" uid="454306" lat="45.2724877" lon="9.8222218"/>
+ <node id="7991726132" visible="true" version="1" changeset="92229728" timestamp="2020-10-09T10:31:54Z" user="dega180" uid="454306" lat="45.2724843" lon="9.8221228"/>
+ <node id="7991726133" visible="true" version="1" changeset="92229728" timestamp="2020-10-09T10:31:54Z" user="dega180" uid="454306" lat="45.2726611" lon="9.8208066"/>
+ <node id="7991726134" visible="true" version="1" changeset="92229728" timestamp="2020-10-09T10:31:54Z" user="dega180" uid="454306" lat="45.2726577" lon="9.8207148"/>
+ <node id="7991726135" visible="true" version="1" changeset="92229728" timestamp="2020-10-09T10:31:54Z" user="dega180" uid="454306" lat="45.2726169" lon="9.8206713"/>
+ <node id="7991726136" visible="true" version="1" changeset="92229728" timestamp="2020-10-09T10:31:54Z" user="dega180" uid="454306" lat="45.2724096" lon="9.8205602"/>
  <way id="106306944" visible="true" version="5" changeset="86908566" timestamp="2020-06-20T11:40:07Z" user="FabioMTB" uid="4617656">
   <nd ref="292540937"/>
   <nd ref="7637772383"/>
@@ -385,6 +398,22 @@
   <nd ref="7637853261"/>
   <tag k="highway" v="track"/>
   <tag k="tracktype" v="grade3"/>
+ </way>
+ <way id="857160908" visible="true" version="1" changeset="92229728" timestamp="2020-10-09T10:31:54Z" user="dega180" uid="454306">
+  <nd ref="7991726124"/>
+  <nd ref="7991726125"/>
+  <nd ref="7991726126"/>
+  <nd ref="7991726127"/>
+  <nd ref="7991726128"/>
+  <nd ref="7991726129"/>
+  <nd ref="7991726130"/>
+  <nd ref="7991726131"/>
+  <nd ref="7991726132"/>
+  <nd ref="7991726133"/>
+  <nd ref="7991726134"/>
+  <nd ref="7991726135"/>
+  <nd ref="7991726136"/>
+  <tag k="highway" v="track"/>
  </way>
  <relation id="44470" visible="true" version="12" changeset="44130367" timestamp="2016-12-03T06:30:54Z" user="nyuriks" uid="339581">
   <member type="node" ref="62510523" role="admin_centre"/>

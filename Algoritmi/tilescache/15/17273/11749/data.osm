@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1508649 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3154030 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2903466" minlon="9.7668457" maxlat="45.2980751" maxlon="9.7778320"/>
  <node id="264347129" visible="true" version="3" changeset="12541123" timestamp="2012-07-29T21:41:37Z" user="freak_antoni" uid="646083" lat="45.2916022" lon="9.7641136"/>
  <node id="264347131" visible="true" version="2" changeset="6346698" timestamp="2010-11-11T20:34:46Z" user="ilrobi" uid="22110" lat="45.2932924" lon="9.7668006"/>
@@ -101,7 +101,9 @@
  <node id="871711465" visible="true" version="2" changeset="13596821" timestamp="2012-10-22T19:08:31Z" user="freak_antoni" uid="646083" lat="45.2980617" lon="9.7678986"/>
  <node id="871711466" visible="true" version="2" changeset="6353532" timestamp="2010-11-12T19:37:35Z" user="ilrobi" uid="22110" lat="45.2976595" lon="9.7672066"/>
  <node id="871711467" visible="true" version="3" changeset="13596821" timestamp="2012-10-22T19:08:31Z" user="freak_antoni" uid="646083" lat="45.2972895" lon="9.7664197"/>
- <node id="871711483" visible="true" version="2" changeset="5981555" timestamp="2010-10-07T20:46:38Z" user="coso" uid="175551" lat="45.2965636" lon="9.7715476"/>
+ <node id="871711483" visible="true" version="3" changeset="91900643" timestamp="2020-10-03T12:32:55Z" user="Mannivu" uid="1950277" lat="45.2965636" lon="9.7715476">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
  <node id="871711485" visible="true" version="1" changeset="5549964" timestamp="2010-08-21T08:55:43Z" user="bt1950" uid="330776" lat="45.2980752" lon="9.7703225"/>
  <node id="871711487" visible="true" version="1" changeset="5549964" timestamp="2010-08-21T08:55:43Z" user="bt1950" uid="330776" lat="45.2981733" lon="9.7702045"/>
  <node id="871711498" visible="true" version="3" changeset="11270673" timestamp="2012-04-11T21:56:15Z" user="freak_antoni" uid="646083" lat="45.3011418" lon="9.7668036"/>
@@ -545,9 +547,6 @@
  <node id="1761123007" visible="true" version="1" changeset="11663674" timestamp="2012-05-21T16:33:53Z" user="Andrea Marchini" uid="191899" lat="45.2899941" lon="9.7988004"/>
  <node id="1761123009" visible="true" version="1" changeset="11663674" timestamp="2012-05-21T16:33:53Z" user="Andrea Marchini" uid="191899" lat="45.2906139" lon="9.7988956">
   <tag k="railway" v="level_crossing"/>
- </node>
- <node id="1761123017" visible="true" version="1" changeset="11663674" timestamp="2012-05-21T16:33:53Z" user="Andrea Marchini" uid="191899" lat="45.2965636" lon="9.7715478">
-  <tag k="highway" v="traffic_signals"/>
  </node>
  <node id="1761123018" visible="true" version="1" changeset="11663674" timestamp="2012-05-21T16:33:53Z" user="Andrea Marchini" uid="191899" lat="45.2966551" lon="9.7716150">
   <tag k="amenity" v="drinking_water"/>
@@ -4418,10 +4417,6 @@
  <node id="3979552683" visible="true" version="3" changeset="36947319" timestamp="2016-02-01T22:10:40Z" user="AnyFile" uid="113669" lat="45.2906160" lon="9.7688494">
   <tag k="amenity" v="waste_basket"/>
  </node>
- <node id="3979552685" visible="true" version="1" changeset="36916208" timestamp="2016-01-31T13:16:14Z" user="4ELLE" uid="3582261" lat="45.2907783" lon="9.7689690">
-  <tag k="leisure" v="park"/>
-  <tag k="name" v="Parchetto Fratelli Di Dio"/>
- </node>
  <node id="3981763622" visible="true" version="1" changeset="36935017" timestamp="2016-02-01T11:58:55Z" user="4ELLE" uid="3582261" lat="45.2909510" lon="9.7688678">
   <tag k="amenity" v="drinking_water"/>
  </node>
@@ -4451,6 +4446,11 @@
  <node id="6442753533" visible="true" version="1" changeset="69801256" timestamp="2019-05-02T12:06:09Z" user="branib" uid="9641463" lat="45.2945149" lon="9.7729649"/>
  <node id="6442753534" visible="true" version="1" changeset="69801256" timestamp="2019-05-02T12:06:09Z" user="branib" uid="9641463" lat="45.2945960" lon="9.7725386"/>
  <node id="6462216869" visible="true" version="1" changeset="70078462" timestamp="2019-05-09T15:24:34Z" user="tmmanish" uid="9641464" lat="45.3007941" lon="9.7849009"/>
+ <node id="7968662701" visible="true" version="1" changeset="91900710" timestamp="2020-10-03T12:35:35Z" user="Mannivu" uid="1950277" lat="45.2904872" lon="9.7687943"/>
+ <node id="7968662702" visible="true" version="1" changeset="91900710" timestamp="2020-10-03T12:35:35Z" user="Mannivu" uid="1950277" lat="45.2911137" lon="9.7688426"/>
+ <node id="7968662703" visible="true" version="1" changeset="91900710" timestamp="2020-10-03T12:35:35Z" user="Mannivu" uid="1950277" lat="45.2910948" lon="9.7691940"/>
+ <node id="7968662704" visible="true" version="1" changeset="91900710" timestamp="2020-10-03T12:35:35Z" user="Mannivu" uid="1950277" lat="45.2908929" lon="9.7691725"/>
+ <node id="7968662705" visible="true" version="1" changeset="91900710" timestamp="2020-10-03T12:35:35Z" user="Mannivu" uid="1950277" lat="45.2904825" lon="9.7691497"/>
  <way id="24365548" visible="true" version="10" changeset="24231035" timestamp="2014-07-18T22:27:16Z" user="freak_antoni" uid="646083">
   <nd ref="264347155"/>
   <nd ref="2070673766"/>
@@ -4626,7 +4626,7 @@
   <tag k="name" v="Via Manenti"/>
   <tag k="oneway" v="no"/>
  </way>
- <way id="73542425" visible="true" version="4" changeset="11326905" timestamp="2012-04-16T20:34:53Z" user="freak_antoni" uid="646083">
+ <way id="73542425" visible="true" version="5" changeset="91900643" timestamp="2020-10-03T12:32:55Z" user="Mannivu" uid="1950277">
   <nd ref="988079346"/>
   <nd ref="871711441"/>
   <nd ref="871711440"/>
@@ -10919,6 +10919,16 @@
   <nd ref="6442753526"/>
   <nd ref="6442753533"/>
   <tag k="highway" v="residential"/>
+ </way>
+ <way id="854496820" visible="true" version="1" changeset="91900710" timestamp="2020-10-03T12:35:35Z" user="Mannivu" uid="1950277">
+  <nd ref="7968662705"/>
+  <nd ref="7968662704"/>
+  <nd ref="7968662703"/>
+  <nd ref="7968662702"/>
+  <nd ref="7968662701"/>
+  <nd ref="7968662705"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="Parchetto Fratelli Di Dio"/>
  </way>
  <relation id="183626" visible="true" version="56" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
   <member type="way" ref="38289883" role=""/>

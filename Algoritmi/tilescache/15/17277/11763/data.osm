@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2822293 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3083099 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1820368" minlon="9.8107910" maxlat="45.1897801" maxlon="9.8217773"/>
  <node id="417285543" visible="true" version="2" changeset="8916802" timestamp="2011-08-04T06:59:53Z" user="WernerP" uid="315015" lat="45.1739162" lon="9.8762837"/>
  <node id="417285544" visible="true" version="2" changeset="8916802" timestamp="2011-08-04T06:59:54Z" user="WernerP" uid="315015" lat="45.1751471" lon="9.8681602"/>
@@ -1684,7 +1684,7 @@
   <tag k="landuse" v="residential"/>
   <tag k="type" v="multipolygon"/>
  </relation>
- <relation id="7270317" visible="true" version="15" changeset="89584238" timestamp="2020-08-18T15:40:33Z" user="fedc" uid="602784">
+ <relation id="7270317" visible="true" version="16" changeset="91463099" timestamp="2020-09-24T19:19:53Z" user="astraspera" uid="2653653">
   <member type="way" ref="25855909" role=""/>
   <member type="way" ref="132705342" role=""/>
   <member type="way" ref="132705330" role=""/>
@@ -1792,6 +1792,7 @@
   <member type="way" ref="26585315" role=""/>
   <member type="way" ref="575450375" role=""/>
   <member type="way" ref="838271851" role=""/>
+  <member type="way" ref="851229405" role=""/>
   <member type="way" ref="131849217" role=""/>
   <tag k="name" v="Ferrovia Pavia-Mantova"/>
   <tag k="route" v="railway"/>

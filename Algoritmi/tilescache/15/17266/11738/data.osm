@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (853296 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991881 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3753024" minlon="9.6899414" maxlat="45.3830193" maxlon="9.7009277"/>
  <node id="257325554" visible="true" version="7" changeset="17774966" timestamp="2013-09-10T22:05:47Z" user="bt1950" uid="330776" lat="45.3733491" lon="9.6917375"/>
  <node id="257325555" visible="true" version="4" changeset="4648030" timestamp="2010-05-09T12:39:32Z" user="wiso" uid="30891" lat="45.3764368" lon="9.6916043"/>
@@ -132,6 +132,7 @@
  <node id="2015154993" visible="true" version="2" changeset="14974510" timestamp="2013-02-10T00:25:10Z" user="Geobia" uid="1219751" lat="45.3753117" lon="9.6973946"/>
  <node id="2015155009" visible="true" version="2" changeset="14974510" timestamp="2013-02-10T00:25:10Z" user="Geobia" uid="1219751" lat="45.3751993" lon="9.6976208"/>
  <node id="2015155014" visible="true" version="2" changeset="14974510" timestamp="2013-02-10T00:25:09Z" user="Geobia" uid="1219751" lat="45.3754045" lon="9.6975928"/>
+ <node id="2015155021" visible="true" version="2" changeset="92274363" timestamp="2020-10-10T12:33:07Z" user="dega180" uid="454306" lat="45.3748397" lon="9.6976379"/>
  <node id="2015155050" visible="true" version="2" changeset="14974510" timestamp="2013-02-10T00:25:09Z" user="Geobia" uid="1219751" lat="45.3753273" lon="9.6977022"/>
  <node id="2015155056" visible="true" version="2" changeset="14974510" timestamp="2013-02-10T00:25:10Z" user="Geobia" uid="1219751" lat="45.3752401" lon="9.6974168"/>
  <node id="2054214146" visible="true" version="2" changeset="19222463" timestamp="2013-12-01T20:30:36Z" user="wiso" uid="30891" lat="45.3845633" lon="9.6944099"/>
@@ -4720,8 +4721,9 @@
   <tag k="highway" v="cycleway"/>
   <tag k="segregated" v="no"/>
  </way>
- <way id="204729265" visible="true" version="3" changeset="37613096" timestamp="2016-03-04T17:30:39Z" user="bt1950" uid="330776">
+ <way id="204729265" visible="true" version="4" changeset="92274363" timestamp="2020-10-10T12:33:07Z" user="dega180" uid="454306">
   <nd ref="2147125788"/>
+  <nd ref="2015155021"/>
   <nd ref="2147125786"/>
   <nd ref="2147125789"/>
   <nd ref="2147125785"/>
@@ -9703,14 +9705,16 @@
   <tag k="name" v="Roggia Fossetta"/>
   <tag k="waterway" v="ditch"/>
  </way>
- <way id="477324511" visible="true" version="1" changeset="46421540" timestamp="2017-02-26T17:47:50Z" user="luca scandelli" uid="1786966">
+ <way id="477324511" visible="true" version="2" changeset="92274363" timestamp="2020-10-10T12:33:07Z" user="dega180" uid="454306">
   <nd ref="4706977077"/>
   <nd ref="4706985689"/>
   <nd ref="4706985690"/>
   <nd ref="4706985691"/>
   <nd ref="4706985692"/>
   <nd ref="4706985693"/>
+  <tag k="layer" v="-1"/>
   <tag k="name" v="Roggia Fossetta"/>
+  <tag k="tunnel" v="culvert"/>
   <tag k="waterway" v="ditch"/>
  </way>
  <way id="666013858" visible="true" version="1" changeset="66620321" timestamp="2019-01-25T04:28:54Z" user="kedarnap" uid="9259452">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (853293 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991865 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4215881" minlon="9.7009277" maxlat="45.4292987" maxlon="9.7119141"/>
  <node id="62512055" visible="true" version="1" changeset="85182" timestamp="2007-10-10T06:22:21Z" user="Niccolo" uid="864" lat="45.4288750" lon="9.7016590">
   <tag k="created_by" v="JOSM"/>
@@ -3709,7 +3709,7 @@
  <node id="3990538970" visible="true" version="1" changeset="37023593" timestamp="2016-02-05T16:40:43Z" user="bt1950" uid="330776" lat="45.4230023" lon="9.7039302"/>
  <node id="3990538971" visible="true" version="1" changeset="37023593" timestamp="2016-02-05T16:40:43Z" user="bt1950" uid="330776" lat="45.4230232" lon="9.7031968"/>
  <node id="3990538972" visible="true" version="1" changeset="37023593" timestamp="2016-02-05T16:40:43Z" user="bt1950" uid="330776" lat="45.4230316" lon="9.7038205"/>
- <node id="3990538973" visible="true" version="1" changeset="37023593" timestamp="2016-02-05T16:40:43Z" user="bt1950" uid="330776" lat="45.4230628" lon="9.7026142"/>
+ <node id="3990538973" visible="true" version="2" changeset="90938114" timestamp="2020-09-15T16:56:17Z" user="TheGanjalf" uid="11816683" lat="45.4230639" lon="9.7026127"/>
  <node id="3990538974" visible="true" version="1" changeset="37023593" timestamp="2016-02-05T16:40:43Z" user="bt1950" uid="330776" lat="45.4230640" lon="9.7020782"/>
  <node id="3990538975" visible="true" version="1" changeset="37023593" timestamp="2016-02-05T16:40:43Z" user="bt1950" uid="330776" lat="45.4230654" lon="9.7014629"/>
  <node id="3990538976" visible="true" version="1" changeset="37023593" timestamp="2016-02-05T16:40:43Z" user="bt1950" uid="330776" lat="45.4230704" lon="9.7031009"/>
@@ -4231,7 +4231,6 @@
  <node id="3993204474" visible="true" version="1" changeset="37055303" timestamp="2016-02-07T08:42:15Z" user="bt1950" uid="330776" lat="45.4226575" lon="9.7027624"/>
  <node id="3993204475" visible="true" version="1" changeset="37055303" timestamp="2016-02-07T08:42:15Z" user="bt1950" uid="330776" lat="45.4226607" lon="9.7020994"/>
  <node id="3993204476" visible="true" version="1" changeset="37055303" timestamp="2016-02-07T08:42:15Z" user="bt1950" uid="330776" lat="45.4226648" lon="9.7022319"/>
- <node id="3993204477" visible="true" version="1" changeset="37055303" timestamp="2016-02-07T08:42:15Z" user="bt1950" uid="330776" lat="45.4226827" lon="9.7023110"/>
  <node id="3993204478" visible="true" version="1" changeset="37055303" timestamp="2016-02-07T08:42:15Z" user="bt1950" uid="330776" lat="45.4227026" lon="9.7016503"/>
  <node id="3993204479" visible="true" version="1" changeset="37055303" timestamp="2016-02-07T08:42:15Z" user="bt1950" uid="330776" lat="45.4227050" lon="9.7017586"/>
  <node id="3993204480" visible="true" version="1" changeset="37055303" timestamp="2016-02-07T08:42:15Z" user="bt1950" uid="330776" lat="45.4227126" lon="9.7019028"/>
@@ -4240,7 +4239,7 @@
  <node id="3993204483" visible="true" version="1" changeset="37055303" timestamp="2016-02-07T08:42:15Z" user="bt1950" uid="330776" lat="45.4227226" lon="9.7022516"/>
  <node id="3993204484" visible="true" version="1" changeset="37055303" timestamp="2016-02-07T08:42:15Z" user="bt1950" uid="330776" lat="45.4227762" lon="9.7016469"/>
  <node id="3993204485" visible="true" version="1" changeset="37055303" timestamp="2016-02-07T08:42:15Z" user="bt1950" uid="330776" lat="45.4227787" lon="9.7017553"/>
- <node id="3993204486" visible="true" version="1" changeset="37055303" timestamp="2016-02-07T08:42:15Z" user="bt1950" uid="330776" lat="45.4227818" lon="9.7027332"/>
+ <node id="3993204486" visible="true" version="2" changeset="90938114" timestamp="2020-09-15T16:56:17Z" user="TheGanjalf" uid="11816683" lat="45.4227753" lon="9.7027378"/>
  <node id="3993204487" visible="true" version="1" changeset="37055303" timestamp="2016-02-07T08:42:15Z" user="bt1950" uid="330776" lat="45.4227862" lon="9.7018994"/>
  <node id="3993204488" visible="true" version="1" changeset="37055303" timestamp="2016-02-07T08:42:15Z" user="bt1950" uid="330776" lat="45.4227887" lon="9.7020078"/>
  <node id="3993204489" visible="true" version="1" changeset="37055303" timestamp="2016-02-07T08:42:15Z" user="bt1950" uid="330776" lat="45.4227938" lon="9.7021399"/>
@@ -7407,6 +7406,7 @@
  <node id="7112863573" visible="true" version="1" changeset="79262189" timestamp="2020-01-06T19:17:54Z" user="morsi" uid="139580" lat="45.5882998" lon="9.7425744"/>
  <node id="7115443009" visible="true" version="1" changeset="79311932" timestamp="2020-01-07T21:39:06Z" user="morsi" uid="139580" lat="45.6120430" lon="9.7427192"/>
  <node id="7115443080" visible="true" version="1" changeset="79311932" timestamp="2020-01-07T21:39:06Z" user="morsi" uid="139580" lat="45.5877423" lon="9.7421828"/>
+ <node id="7909272337" visible="true" version="1" changeset="90938114" timestamp="2020-09-15T16:56:17Z" user="TheGanjalf" uid="11816683" lat="45.4226841" lon="9.7023100"/>
  <way id="60046211" visible="true" version="5" changeset="36999064" timestamp="2016-02-04T14:08:33Z" user="bt1950" uid="330776">
   <nd ref="257326710"/>
   <nd ref="2317747796"/>
@@ -14035,7 +14035,7 @@
   <nd ref="3990539309"/>
   <tag k="building" v="residential"/>
  </way>
- <way id="396509506" visible="true" version="1" changeset="37055303" timestamp="2016-02-07T08:42:15Z" user="bt1950" uid="330776">
+ <way id="396509506" visible="true" version="2" changeset="90938114" timestamp="2020-09-15T16:56:17Z" user="TheGanjalf" uid="11816683">
   <nd ref="3990538975"/>
   <nd ref="3993204533"/>
   <nd ref="3993204518"/>
@@ -14049,8 +14049,8 @@
   <nd ref="3993204520"/>
   <nd ref="3993204475"/>
   <nd ref="3993204476"/>
-  <nd ref="3993204477"/>
-  <nd ref="3993204531"/>
+  <nd ref="7909272337"/>
+  <nd ref="3993204486"/>
   <tag k="barrier" v="fence"/>
  </way>
  <way id="396509507" visible="true" version="1" changeset="37055303" timestamp="2016-02-07T08:42:16Z" user="bt1950" uid="330776">
@@ -16666,6 +16666,11 @@
   <tag k="name" v="Via al Binengo"/>
   <tag k="surface" v="asphalt"/>
   <tag k="tracktype" v="grade1"/>
+ </way>
+ <way id="847602651" visible="true" version="1" changeset="90938114" timestamp="2020-09-15T16:56:17Z" user="TheGanjalf" uid="11816683">
+  <nd ref="7909272337"/>
+  <nd ref="3993204531"/>
+  <tag k="barrier" v="fence"/>
  </way>
  <relation id="44951" visible="true" version="16" changeset="44989740" timestamp="2017-01-07T22:07:00Z" user="sabas88" uid="454589">
   <member type="way" ref="295386146" role="outer"/>

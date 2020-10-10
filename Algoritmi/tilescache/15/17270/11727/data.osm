@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (853308 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991881 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4601306" minlon="9.7338867" maxlat="45.4678360" maxlon="9.7448730"/>
  <node id="307112393" visible="true" version="4" changeset="24483145" timestamp="2014-08-01T15:09:53Z" user="kaitu" uid="69717" lat="45.4596833" lon="9.7314094"/>
  <node id="558630573" visible="true" version="1" changeset="3052471" timestamp="2009-11-06T22:55:22Z" user="Luigi62" uid="90148" lat="45.4592219" lon="9.7318119"/>
@@ -212,7 +212,7 @@
   <tag k="name:left" v="Castel Gabbiano"/>
   <tag k="name:right" v="Camisano"/>
  </way>
- <way id="103406727" visible="true" version="4" changeset="46482171" timestamp="2017-03-01T00:49:47Z" user="SiMaz96" uid="3141745">
+ <way id="103406727" visible="true" version="6" changeset="90478739" timestamp="2020-09-06T12:31:21Z" user="Fr4n2" uid="11717245">
   <nd ref="1194077968"/>
   <nd ref="1194077950"/>
   <nd ref="1194077964"/>
@@ -228,6 +228,8 @@
   <nd ref="1194077963"/>
   <nd ref="3588301581"/>
   <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Via Fienili"/>
+  <tag k="surface" v="asphalt"/>
  </way>
  <way id="282555061" visible="true" version="2" changeset="26384937" timestamp="2014-10-28T11:14:49Z" user="morsi" uid="139580">
   <nd ref="2864965464"/>

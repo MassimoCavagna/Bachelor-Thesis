@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2014164 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991889 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3521452" minlon="9.6899414" maxlat="45.3598653" maxlon="9.7009277"/>
  <node id="252417479" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:47:34Z" user="wiso" uid="30891" lat="45.3643607" lon="9.6971482"/>
  <node id="252417480" visible="true" version="9" changeset="3196159" timestamp="2009-11-23T14:47:31Z" user="wiso" uid="30891" lat="45.3654993" lon="9.6976630"/>
@@ -1564,7 +1564,7 @@
   <tag k="crossing_ref" v="zebra"/>
   <tag k="highway" v="crossing"/>
  </node>
- <node id="2191098924" visible="true" version="1" changeset="15292427" timestamp="2013-03-08T17:07:58Z" user="wiso" uid="30891" lat="45.3611742" lon="9.6997571"/>
+ <node id="2191098924" visible="true" version="2" changeset="92274363" timestamp="2020-10-10T12:33:07Z" user="dega180" uid="454306" lat="45.3612492" lon="9.6997655"/>
  <node id="2191098926" visible="true" version="1" changeset="15292427" timestamp="2013-03-08T17:07:58Z" user="wiso" uid="30891" lat="45.3616309" lon="9.6995394"/>
  <node id="2191098929" visible="true" version="1" changeset="15292427" timestamp="2013-03-08T17:07:58Z" user="wiso" uid="30891" lat="45.3621575" lon="9.7022473">
   <tag k="crossing" v="uncontrolled"/>
@@ -3534,12 +3534,6 @@
  <node id="2459916248" visible="true" version="1" changeset="17858978" timestamp="2013-09-15T21:56:48Z" user="bt1950" uid="330776" lat="45.3598057" lon="9.7004841"/>
  <node id="2459916266" visible="true" version="1" changeset="17858978" timestamp="2013-09-15T21:56:48Z" user="bt1950" uid="330776" lat="45.3598335" lon="9.7010632"/>
  <node id="2459916281" visible="true" version="1" changeset="17858978" timestamp="2013-09-15T21:56:48Z" user="bt1950" uid="330776" lat="45.3598475" lon="9.7025236"/>
- <node id="2459916330" visible="true" version="1" changeset="17858978" timestamp="2013-09-15T21:56:49Z" user="bt1950" uid="330776" lat="45.3599239" lon="9.7025950"/>
- <node id="2459916398" visible="true" version="1" changeset="17858978" timestamp="2013-09-15T21:56:49Z" user="bt1950" uid="330776" lat="45.3600600" lon="9.7027309"/>
- <node id="2459916476" visible="true" version="1" changeset="17858978" timestamp="2013-09-15T21:56:50Z" user="bt1950" uid="330776" lat="45.3602438" lon="9.7028499"/>
- <node id="2459916634" visible="true" version="1" changeset="17858978" timestamp="2013-09-15T21:56:52Z" user="bt1950" uid="330776" lat="45.3604611" lon="9.7029518"/>
- <node id="2459916901" visible="true" version="1" changeset="17858978" timestamp="2013-09-15T21:56:55Z" user="bt1950" uid="330776" lat="45.3611106" lon="9.7030639"/>
- <node id="2459917128" visible="true" version="1" changeset="17858978" timestamp="2013-09-15T21:56:58Z" user="bt1950" uid="330776" lat="45.3625121" lon="9.7032746"/>
  <node id="2460622225" visible="true" version="1" changeset="17871795" timestamp="2013-09-16T17:08:42Z" user="bt1950" uid="330776" lat="45.3600957" lon="9.6927705">
   <tag k="addr:housenumber" v="12"/>
   <tag k="addr:postcode" v="26013"/>
@@ -5567,7 +5561,7 @@
  <node id="6085990127" visible="true" version="1" changeset="64826883" timestamp="2018-11-23T16:47:36Z" user="fedc" uid="602784" lat="45.3536003" lon="9.6903399"/>
  <node id="6085990128" visible="true" version="1" changeset="64826883" timestamp="2018-11-23T16:47:36Z" user="fedc" uid="602784" lat="45.3535106" lon="9.6904145"/>
  <node id="6085990129" visible="true" version="1" changeset="64826883" timestamp="2018-11-23T16:47:36Z" user="fedc" uid="602784" lat="45.3535037" lon="9.6904515"/>
- <node id="6830006674" visible="true" version="1" changeset="74999231" timestamp="2019-09-27T09:47:30Z" user="Lozebra" uid="10333023" lat="45.3607846" lon="9.6997757"/>
+ <node id="6830006674" visible="true" version="2" changeset="92274363" timestamp="2020-10-10T12:33:07Z" user="dega180" uid="454306" lat="45.3607287" lon="9.6997736"/>
  <node id="6830006682" visible="true" version="2" changeset="75963623" timestamp="2019-10-20T19:56:10Z" user="Constable" uid="527535" lat="45.3605890" lon="9.6958382"/>
  <node id="6830040885" visible="true" version="1" changeset="74999231" timestamp="2019-09-27T09:47:30Z" user="Lozebra" uid="10333023" lat="45.3596956" lon="9.6975983"/>
  <node id="6830040886" visible="true" version="1" changeset="74999231" timestamp="2019-09-27T09:47:30Z" user="Lozebra" uid="10333023" lat="45.3598955" lon="9.6975943"/>
@@ -10436,24 +10430,6 @@
   <tag k="addr:street" v="Via Montello"/>
   <tag k="building" v="industrial"/>
  </way>
- <way id="238135214" visible="true" version="1" changeset="17858978" timestamp="2013-09-15T21:56:58Z" user="bt1950" uid="330776">
-  <nd ref="2459917128"/>
-  <nd ref="2459916901"/>
-  <nd ref="2459916634"/>
-  <nd ref="2459916476"/>
-  <nd ref="2459916398"/>
-  <nd ref="2459916330"/>
-  <nd ref="2459916281"/>
-  <nd ref="2459916163"/>
-  <nd ref="2459916143"/>
-  <nd ref="2459916137"/>
-  <nd ref="2459916133"/>
-  <nd ref="2459916131"/>
-  <nd ref="2459916129"/>
-  <nd ref="2459916125"/>
-  <nd ref="2459916120"/>
-  <tag k="waterway" v="ditch"/>
- </way>
  <way id="238135285" visible="true" version="1" changeset="17858978" timestamp="2013-09-15T21:57:03Z" user="bt1950" uid="330776">
   <nd ref="2459916127"/>
   <nd ref="2459916123"/>
@@ -11569,7 +11545,7 @@
   <tag k="name" v="Roggia Borromea"/>
   <tag k="waterway" v="riverbank"/>
  </way>
- <way id="239364280" visible="true" version="1" changeset="18036229" timestamp="2013-09-25T21:48:30Z" user="bt1950" uid="330776">
+ <way id="239364280" visible="true" version="2" changeset="92274363" timestamp="2020-10-10T12:33:07Z" user="dega180" uid="454306">
   <nd ref="2471584275"/>
   <nd ref="2471584293"/>
   <nd ref="2471584298"/>
@@ -11671,7 +11647,8 @@
   <nd ref="2471584264"/>
   <nd ref="2471584275"/>
   <tag k="name" v="Roggia Borromea"/>
-  <tag k="waterway" v="riverbank"/>
+  <tag k="natural" v="water"/>
+  <tag k="water" v="river"/>
  </way>
  <way id="239364281" visible="true" version="2" changeset="19901535" timestamp="2014-01-09T16:00:02Z" user="mcheckimport" uid="893327">
   <nd ref="2471584172"/>
@@ -12229,6 +12206,18 @@
   <nd ref="2439701383"/>
   <nd ref="2439607618"/>
   <tag k="barrier" v="fence"/>
+ </way>
+ <way id="857511174" visible="true" version="1" changeset="92274363" timestamp="2020-10-10T12:33:07Z" user="dega180" uid="454306">
+  <nd ref="2459916281"/>
+  <nd ref="2459916163"/>
+  <nd ref="2459916143"/>
+  <nd ref="2459916137"/>
+  <nd ref="2459916133"/>
+  <nd ref="2459916131"/>
+  <nd ref="2459916129"/>
+  <nd ref="2459916125"/>
+  <nd ref="2459916120"/>
+  <tag k="waterway" v="ditch"/>
  </way>
  <relation id="240206" visible="true" version="165" changeset="74193056" timestamp="2019-09-06T20:52:47Z" user="fedc" uid="602784">
   <member type="node" ref="252720193" role="stop"/>

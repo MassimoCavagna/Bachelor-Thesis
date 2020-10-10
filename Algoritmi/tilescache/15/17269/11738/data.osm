@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (19926 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991860 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3753024" minlon="9.7229004" maxlat="45.3830193" maxlon="9.7338867"/>
  <node id="143555991" visible="true" version="25" changeset="44314406" timestamp="2016-12-11T01:00:15Z" user="alemintaka" uid="3690907" lat="45.4136852" lon="9.7334546"/>
  <node id="252517859" visible="true" version="3" changeset="4782279" timestamp="2010-05-23T11:30:34Z" user="wiso" uid="30891" lat="45.3788684" lon="9.7381734"/>
@@ -108,10 +108,10 @@
  <node id="613475546" visible="true" version="1" changeset="3617011" timestamp="2010-01-14T13:39:02Z" user="wiso" uid="30891" lat="45.3683190" lon="9.7318090"/>
  <node id="613475548" visible="true" version="1" changeset="3617011" timestamp="2010-01-14T13:39:02Z" user="wiso" uid="30891" lat="45.3683350" lon="9.7321205"/>
  <node id="613475550" visible="true" version="1" changeset="3617011" timestamp="2010-01-14T13:39:02Z" user="wiso" uid="30891" lat="45.3685154" lon="9.7334716"/>
- <node id="613475608" visible="true" version="1" changeset="3617011" timestamp="2010-01-14T13:39:04Z" user="wiso" uid="30891" lat="45.3652524" lon="9.7390591"/>
+ <node id="613475608" visible="true" version="2" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306" lat="45.3652509" lon="9.7390574"/>
  <node id="613475614" visible="true" version="1" changeset="3617011" timestamp="2010-01-14T13:39:04Z" user="wiso" uid="30891" lat="45.3667582" lon="9.7344689"/>
  <node id="613475616" visible="true" version="1" changeset="3617011" timestamp="2010-01-14T13:39:04Z" user="wiso" uid="30891" lat="45.3669466" lon="9.7366629"/>
- <node id="613475617" visible="true" version="1" changeset="3617011" timestamp="2010-01-14T13:39:04Z" user="wiso" uid="30891" lat="45.3670771" lon="9.7373654"/>
+ <node id="613475617" visible="true" version="2" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306" lat="45.3670706" lon="9.7373757"/>
  <node id="613475619" visible="true" version="1" changeset="3617011" timestamp="2010-01-14T13:39:04Z" user="wiso" uid="30891" lat="45.3668284" lon="9.7375505"/>
  <node id="613475621" visible="true" version="1" changeset="3617011" timestamp="2010-01-14T13:39:04Z" user="wiso" uid="30891" lat="45.3656820" lon="9.7387423"/>
  <node id="613475622" visible="true" version="1" changeset="3617011" timestamp="2010-01-14T13:39:04Z" user="wiso" uid="30891" lat="45.3685280" lon="9.7343114"/>
@@ -1870,7 +1870,6 @@
  <node id="5585145288" visible="true" version="1" changeset="58513081" timestamp="2018-04-28T20:47:21Z" user="fedc" uid="602784" lat="45.3858876" lon="9.8495880"/>
  <node id="5585145289" visible="true" version="1" changeset="58513081" timestamp="2018-04-28T20:47:21Z" user="fedc" uid="602784" lat="45.3867125" lon="9.8507002"/>
  <node id="5586425519" visible="true" version="1" changeset="58531153" timestamp="2018-04-29T16:00:46Z" user="fedc" uid="602784" lat="45.3993627" lon="9.8668477"/>
- <node id="5682095291" visible="true" version="1" changeset="59739293" timestamp="2018-06-11T12:00:58Z" user="Massimo Stringhi" uid="1020165" lat="45.3658776" lon="9.7385389"/>
  <node id="5787331117" visible="true" version="1" changeset="61089829" timestamp="2018-07-26T14:01:09Z" user="datamove" uid="4930752" lat="45.3794677" lon="9.7436958"/>
  <node id="6402086221" visible="true" version="1" changeset="69174819" timestamp="2019-04-13T11:53:10Z" user="kmarjbh" uid="9310279" lat="45.3825876" lon="9.7231062"/>
  <node id="6402086222" visible="true" version="1" changeset="69174819" timestamp="2019-04-13T11:53:10Z" user="kmarjbh" uid="9310279" lat="45.3825477" lon="9.7230011"/>
@@ -2017,6 +2016,7 @@
   <tag k="phone" v="+39 0373 780231"/>
   <tag k="shop" v="hardware"/>
  </node>
+ <node id="7994876897" visible="true" version="1" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306" lat="45.3658776" lon="9.7385389"/>
  <way id="23321957" visible="true" version="11" changeset="38583556" timestamp="2016-04-15T10:09:35Z" user="alemintaka" uid="3690907">
   <nd ref="252525007"/>
   <nd ref="746325492"/>
@@ -2119,7 +2119,7 @@
   <tag k="highway" v="tertiary"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="48278409" visible="true" version="3" changeset="59739293" timestamp="2018-06-11T12:00:59Z" user="Massimo Stringhi" uid="1020165">
+ <way id="48278409" visible="true" version="4" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306">
   <nd ref="613475747"/>
   <nd ref="613475749"/>
   <nd ref="613475730"/>
@@ -2162,7 +2162,7 @@
   <nd ref="613475616"/>
   <nd ref="613475617"/>
   <nd ref="613475619"/>
-  <nd ref="5682095291"/>
+  <nd ref="7994876897"/>
   <nd ref="613475621"/>
   <nd ref="613475608"/>
   <tag k="admin_level" v="8"/>
@@ -2257,11 +2257,11 @@
   <tag k="highway" v="residential"/>
   <tag k="name" v="Via Dossello"/>
  </way>
- <way id="83024726" visible="true" version="1" changeset="6183580" timestamp="2010-10-26T14:55:13Z" user="bt1950" uid="330776">
+ <way id="83024726" visible="true" version="2" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="746325501"/>
   <nd ref="746325589"/>
   <tag k="highway" v="unclassified"/>
-  <tag k="name" v="Via Mons. Capetti"/>
+  <tag k="name" v="Via Monsignor Capetti"/>
  </way>
  <way id="83103453" visible="true" version="2" changeset="6386892" timestamp="2010-11-16T17:58:36Z" user="bt1950" uid="330776">
   <nd ref="966846218"/>
@@ -2403,7 +2403,7 @@
   <nd ref="967988946"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="83188408" visible="true" version="2" changeset="6313065" timestamp="2010-11-07T16:28:46Z" user="bt1950" uid="330776">
+ <way id="83188408" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="967989130"/>
   <nd ref="967989407"/>
   <nd ref="967989548"/>
@@ -2411,7 +2411,7 @@
   <nd ref="967989130"/>
   <tag k="addr:housenumber" v="2a"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Olivelli T."/>
+  <tag k="addr:street" v="Via T. Olivelli"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83188410" visible="true" version="1" changeset="6209551" timestamp="2010-10-28T15:09:05Z" user="bt1950" uid="330776">
@@ -2447,7 +2447,7 @@
   <nd ref="967989074"/>
   <tag k="barrier" v="fence"/>
  </way>
- <way id="83188421" visible="true" version="2" changeset="6313065" timestamp="2010-11-07T16:28:52Z" user="bt1950" uid="330776">
+ <way id="83188421" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="967989491"/>
   <nd ref="967989647"/>
   <nd ref="967989134"/>
@@ -2475,7 +2475,7 @@
   <nd ref="967989491"/>
   <tag k="addr:housenumber" v="6"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Olivelli T."/>
+  <tag k="addr:street" v="Via T. Olivelli"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83188422" visible="true" version="1" changeset="6209551" timestamp="2010-10-28T15:09:07Z" user="bt1950" uid="330776">
@@ -2765,7 +2765,7 @@
   <nd ref="967989694"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="83188469" visible="true" version="2" changeset="6313065" timestamp="2010-11-07T16:28:49Z" user="bt1950" uid="330776">
+ <way id="83188469" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="967989084"/>
   <nd ref="967988934"/>
   <nd ref="967989070"/>
@@ -2782,7 +2782,7 @@
   <nd ref="967989084"/>
   <tag k="addr:housenumber" v="4"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Olivelli T."/>
+  <tag k="addr:street" v="Via T. Olivelli"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83188474" visible="true" version="1" changeset="6209551" timestamp="2010-10-28T15:09:16Z" user="bt1950" uid="330776">
@@ -3032,7 +3032,7 @@
   <tag k="addr:street" v="Via Abruzzo"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="83264206" visible="true" version="2" changeset="6346973" timestamp="2010-11-11T21:04:01Z" user="bt1950" uid="330776">
+ <way id="83264206" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="968777331"/>
   <nd ref="968778299"/>
   <nd ref="968776748"/>
@@ -3040,7 +3040,7 @@
   <nd ref="968777331"/>
   <tag k="addr:housenumber" v="1"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83264212" visible="true" version="1" changeset="6219181" timestamp="2010-10-29T14:45:54Z" user="bt1950" uid="330776">
@@ -3201,14 +3201,12 @@
   <nd ref="968776886"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="83264331" visible="true" version="3" changeset="6346973" timestamp="2010-11-11T21:04:06Z" user="bt1950" uid="330776">
+ <way id="83264331" visible="true" version="4" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="968777924"/>
   <nd ref="985990521"/>
   <nd ref="968777030"/>
   <nd ref="968776638"/>
   <nd ref="969090461"/>
-  <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
   <tag k="barrier" v="fence"/>
  </way>
  <way id="83264332" visible="true" version="2" changeset="6378384" timestamp="2010-11-15T15:57:24Z" user="bt1950" uid="330776">
@@ -3243,7 +3241,7 @@
   <nd ref="969090764"/>
   <tag k="barrier" v="fence"/>
  </way>
- <way id="83287608" visible="true" version="2" changeset="6346973" timestamp="2010-11-11T21:04:13Z" user="bt1950" uid="330776">
+ <way id="83287608" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="969090649"/>
   <nd ref="969089419"/>
   <nd ref="969089093"/>
@@ -3251,7 +3249,7 @@
   <nd ref="969090649"/>
   <tag k="addr:housenumber" v="13"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83287610" visible="true" version="2" changeset="6346973" timestamp="2010-11-11T21:04:18Z" user="bt1950" uid="330776">
@@ -3277,7 +3275,7 @@
   <nd ref="969090472"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="83287616" visible="true" version="2" changeset="6346973" timestamp="2010-11-11T21:04:07Z" user="bt1950" uid="330776">
+ <way id="83287616" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="969090194"/>
   <nd ref="969090325"/>
   <nd ref="969090526"/>
@@ -3285,7 +3283,7 @@
   <nd ref="969090194"/>
   <tag k="addr:housenumber" v="57"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83287617" visible="true" version="2" changeset="6378384" timestamp="2010-11-15T15:57:30Z" user="bt1950" uid="330776">
@@ -3301,7 +3299,7 @@
   <tag k="addr:street" v="Via Dossello"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="83287620" visible="true" version="2" changeset="6346973" timestamp="2010-11-11T21:04:25Z" user="bt1950" uid="330776">
+ <way id="83287620" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="969089241"/>
   <nd ref="969090449"/>
   <nd ref="969090261"/>
@@ -3309,7 +3307,7 @@
   <nd ref="969089241"/>
   <tag k="addr:housenumber" v="14"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83287624" visible="true" version="1" changeset="6221706" timestamp="2010-10-29T19:45:45Z" user="bt1950" uid="330776">
@@ -3318,7 +3316,7 @@
   <nd ref="969089892"/>
   <tag k="barrier" v="fence"/>
  </way>
- <way id="83287625" visible="true" version="2" changeset="6346973" timestamp="2010-11-11T21:04:22Z" user="bt1950" uid="330776">
+ <way id="83287625" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="969089419"/>
   <nd ref="969089617"/>
   <nd ref="969089785"/>
@@ -3326,7 +3324,7 @@
   <nd ref="969089419"/>
   <tag k="addr:housenumber" v="11"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83287627" visible="true" version="2" changeset="6346973" timestamp="2010-11-11T21:03:57Z" user="bt1950" uid="330776">
@@ -3348,7 +3346,7 @@
   <nd ref="969089845"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="83287631" visible="true" version="2" changeset="6346973" timestamp="2010-11-11T21:04:16Z" user="bt1950" uid="330776">
+ <way id="83287631" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="969090322"/>
   <nd ref="969090208"/>
   <nd ref="969089602"/>
@@ -3360,10 +3358,10 @@
   <nd ref="969090322"/>
   <tag k="addr:housenumber" v="33"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="83287633" visible="true" version="2" changeset="6346973" timestamp="2010-11-11T21:03:53Z" user="bt1950" uid="330776">
+ <way id="83287633" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="985990475"/>
   <nd ref="969089742"/>
   <nd ref="969089899"/>
@@ -3371,7 +3369,7 @@
   <nd ref="985990475"/>
   <tag k="addr:housenumber" v="49"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83287634" visible="true" version="2" changeset="6378384" timestamp="2010-11-15T15:57:25Z" user="bt1950" uid="330776">
@@ -3406,7 +3404,7 @@
   <nd ref="969090424"/>
   <tag k="barrier" v="fence"/>
  </way>
- <way id="83287639" visible="true" version="2" changeset="6378384" timestamp="2010-11-15T15:57:33Z" user="bt1950" uid="330776">
+ <way id="83287639" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="969090247"/>
   <nd ref="969090792"/>
   <nd ref="969090608"/>
@@ -3414,7 +3412,7 @@
   <nd ref="969090247"/>
   <tag k="addr:housenumber" v="48"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83287644" visible="true" version="2" changeset="12028215" timestamp="2012-06-26T16:37:19Z" user="Baliano" uid="382012">
@@ -3429,7 +3427,7 @@
   <nd ref="969089549"/>
   <tag k="barrier" v="fence"/>
  </way>
- <way id="83287646" visible="true" version="2" changeset="6346973" timestamp="2010-11-11T21:04:10Z" user="bt1950" uid="330776">
+ <way id="83287646" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="969089617"/>
   <nd ref="969089243"/>
   <nd ref="969090798"/>
@@ -3437,7 +3435,7 @@
   <nd ref="969089617"/>
   <tag k="addr:housenumber" v="9"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83287647" visible="true" version="1" changeset="6221706" timestamp="2010-10-29T19:45:49Z" user="bt1950" uid="330776">
@@ -3470,7 +3468,7 @@
   <nd ref="969090099"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="83287656" visible="true" version="2" changeset="6346973" timestamp="2010-11-11T21:03:57Z" user="bt1950" uid="330776">
+ <way id="83287656" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="969090519"/>
   <nd ref="969089320"/>
   <nd ref="969089153"/>
@@ -3478,7 +3476,7 @@
   <nd ref="969090519"/>
   <tag k="addr:housenumber" v="24"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83287659" visible="true" version="1" changeset="6221706" timestamp="2010-10-29T19:45:51Z" user="bt1950" uid="330776">
@@ -3497,7 +3495,7 @@
   <nd ref="969089475"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="83287662" visible="true" version="2" changeset="6346973" timestamp="2010-11-11T21:04:21Z" user="bt1950" uid="330776">
+ <way id="83287662" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="969090044"/>
   <nd ref="969089194"/>
   <nd ref="969089346"/>
@@ -3505,7 +3503,7 @@
   <nd ref="969090044"/>
   <tag k="addr:housenumber" v="29"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83287663" visible="true" version="1" changeset="6221706" timestamp="2010-10-29T19:45:52Z" user="bt1950" uid="330776">
@@ -3516,7 +3514,7 @@
   <nd ref="969090144"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="83287666" visible="true" version="2" changeset="6346973" timestamp="2010-11-11T21:04:08Z" user="bt1950" uid="330776">
+ <way id="83287666" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="969089764"/>
   <nd ref="969089783"/>
   <nd ref="969089616"/>
@@ -3524,7 +3522,7 @@
   <nd ref="969089764"/>
   <tag k="addr:housenumber" v="6"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83287672" visible="true" version="1" changeset="6221706" timestamp="2010-10-29T19:45:53Z" user="bt1950" uid="330776">
@@ -3552,7 +3550,7 @@
   <nd ref="969089485"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="83287679" visible="true" version="2" changeset="6378384" timestamp="2010-11-15T15:57:22Z" user="bt1950" uid="330776">
+ <way id="83287679" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="969090734"/>
   <nd ref="969090351"/>
   <nd ref="969090549"/>
@@ -3564,7 +3562,7 @@
   <nd ref="969090734"/>
   <tag k="addr:housenumber" v="60"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83287683" visible="true" version="1" changeset="6221706" timestamp="2010-10-29T19:45:55Z" user="bt1950" uid="330776">
@@ -3596,7 +3594,7 @@
   <nd ref="969090380"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="83287692" visible="true" version="2" changeset="6346973" timestamp="2010-11-11T21:04:20Z" user="bt1950" uid="330776">
+ <way id="83287692" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="969089120"/>
   <nd ref="969090320"/>
   <nd ref="969090183"/>
@@ -3604,7 +3602,7 @@
   <nd ref="969089120"/>
   <tag k="addr:housenumber" v="34"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83287695" visible="true" version="1" changeset="6221706" timestamp="2010-10-29T19:45:58Z" user="bt1950" uid="330776">
@@ -3642,7 +3640,7 @@
   <nd ref="969090703"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="83287703" visible="true" version="2" changeset="6346973" timestamp="2010-11-11T21:04:13Z" user="bt1950" uid="330776">
+ <way id="83287703" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="969090159"/>
   <nd ref="969090677"/>
   <nd ref="969090482"/>
@@ -3650,7 +3648,7 @@
   <nd ref="969090159"/>
   <tag k="addr:housenumber" v="22"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83287706" visible="true" version="1" changeset="6221706" timestamp="2010-10-29T19:46:02Z" user="bt1950" uid="330776">
@@ -3669,7 +3667,7 @@
   <tag k="addr:street" v="Via Fosse Ardeatine"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="83287708" visible="true" version="2" changeset="6346973" timestamp="2010-11-11T21:03:56Z" user="bt1950" uid="330776">
+ <way id="83287708" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="969089832"/>
   <nd ref="969090264"/>
   <nd ref="969090139"/>
@@ -3677,7 +3675,7 @@
   <nd ref="969089832"/>
   <tag k="addr:housenumber" v="21"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83287709" visible="true" version="2" changeset="6346973" timestamp="2010-11-11T21:04:08Z" user="bt1950" uid="330776">
@@ -3706,7 +3704,7 @@
   <nd ref="969090056"/>
   <tag k="barrier" v="fence"/>
  </way>
- <way id="83287715" visible="true" version="2" changeset="6378384" timestamp="2010-11-15T15:57:21Z" user="bt1950" uid="330776">
+ <way id="83287715" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="969090020"/>
   <nd ref="969090042"/>
   <nd ref="969089862"/>
@@ -3714,7 +3712,7 @@
   <nd ref="969090020"/>
   <tag k="addr:housenumber" v="40"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83287718" visible="true" version="1" changeset="6221706" timestamp="2010-10-29T19:46:04Z" user="bt1950" uid="330776">
@@ -3788,7 +3786,7 @@
   <nd ref="969089719"/>
   <tag k="barrier" v="fence"/>
  </way>
- <way id="83287728" visible="true" version="2" changeset="6346973" timestamp="2010-11-11T21:03:54Z" user="bt1950" uid="330776">
+ <way id="83287728" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="969089648"/>
   <nd ref="969089117"/>
   <nd ref="969089674"/>
@@ -3798,7 +3796,7 @@
   <nd ref="969089648"/>
   <tag k="addr:housenumber" v="18"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83287732" visible="true" version="1" changeset="6221706" timestamp="2010-10-29T19:46:07Z" user="bt1950" uid="330776">
@@ -3858,7 +3856,7 @@
   <tag k="addr:street" v="Via Dossello"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="83287740" visible="true" version="2" changeset="6378384" timestamp="2010-11-15T15:57:18Z" user="bt1950" uid="330776">
+ <way id="83287740" visible="true" version="3" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="969090645"/>
   <nd ref="969089447"/>
   <nd ref="969089480"/>
@@ -3868,7 +3866,7 @@
   <nd ref="969090645"/>
   <tag k="addr:housenumber" v="46"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="83337670" visible="true" version="1" changeset="6224427" timestamp="2010-10-30T07:50:35Z" user="bt1950" uid="330776">
@@ -4023,7 +4021,7 @@
   <nd ref="970449972"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="84404336" visible="true" version="1" changeset="6313065" timestamp="2010-11-07T16:28:39Z" user="bt1950" uid="330776">
+ <way id="84404336" visible="true" version="2" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="981165625"/>
   <nd ref="981165704"/>
   <nd ref="981165614"/>
@@ -4042,7 +4040,7 @@
   <nd ref="981165625"/>
   <tag k="addr:housenumber" v="5"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Olivelli T."/>
+  <tag k="addr:street" v="Via T. Olivelli"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="84404338" visible="true" version="1" changeset="6313065" timestamp="2010-11-07T16:28:39Z" user="bt1950" uid="330776">
@@ -4158,11 +4156,11 @@
   <nd ref="981328430"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="84446464" visible="true" version="3" changeset="6346973" timestamp="2010-11-11T21:04:05Z" user="bt1950" uid="330776">
+ <way id="84446464" visible="true" version="4" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="981328348"/>
   <nd ref="981328450"/>
   <tag k="highway" v="residential"/>
-  <tag k="name" v="Via Prof.Virgilio Sangiovanni"/>
+  <tag k="name" v="Via Professor Virgilio Sangiovanni"/>
  </way>
  <way id="84446465" visible="true" version="1" changeset="6314052" timestamp="2010-11-07T17:56:25Z" user="bt1950" uid="330776">
   <nd ref="981328364"/>
@@ -4447,7 +4445,7 @@
   <nd ref="985990475"/>
   <tag k="barrier" v="fence"/>
  </way>
- <way id="84955521" visible="true" version="1" changeset="6346973" timestamp="2010-11-11T21:03:49Z" user="bt1950" uid="330776">
+ <way id="84955521" visible="true" version="2" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="985990505"/>
   <nd ref="985990475"/>
   <nd ref="969090067"/>
@@ -4455,7 +4453,7 @@
   <nd ref="985990505"/>
   <tag k="addr:housenumber" v="51"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="84955528" visible="true" version="1" changeset="6346973" timestamp="2010-11-11T21:03:50Z" user="bt1950" uid="330776">
@@ -4469,11 +4467,11 @@
   <tag k="highway" v="residential"/>
   <tag k="name" v="Via Caduti di Cefalonia"/>
  </way>
- <way id="84955534" visible="true" version="1" changeset="6346973" timestamp="2010-11-11T21:03:51Z" user="bt1950" uid="330776">
+ <way id="84955534" visible="true" version="2" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="985990473"/>
   <nd ref="981328348"/>
   <tag k="highway" v="residential"/>
-  <tag k="name" v="Via Prof.Virgilio Sangiovanni"/>
+  <tag k="name" v="Via Professor Virgilio Sangiovanni"/>
  </way>
  <way id="84955538" visible="true" version="1" changeset="6346973" timestamp="2010-11-11T21:03:52Z" user="bt1950" uid="330776">
   <nd ref="985990482"/>
@@ -4490,7 +4488,7 @@
   <nd ref="985990521"/>
   <tag k="barrier" v="fence"/>
  </way>
- <way id="84955541" visible="true" version="1" changeset="6346973" timestamp="2010-11-11T21:03:52Z" user="bt1950" uid="330776">
+ <way id="84955541" visible="true" version="2" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="985990509"/>
   <nd ref="969090649"/>
   <nd ref="969089269"/>
@@ -4498,7 +4496,7 @@
   <nd ref="985990509"/>
   <tag k="addr:housenumber" v="15"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="85405055" visible="true" version="1" changeset="6378384" timestamp="2010-11-15T15:57:08Z" user="bt1950" uid="330776">
@@ -4584,7 +4582,7 @@
   <nd ref="990150902"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="85405071" visible="true" version="1" changeset="6378384" timestamp="2010-11-15T15:57:10Z" user="bt1950" uid="330776">
+ <way id="85405071" visible="true" version="2" changeset="91795389" timestamp="2020-10-01T03:48:58Z" user="dgitto" uid="554973">
   <nd ref="990150897"/>
   <nd ref="969090734"/>
   <nd ref="969090220"/>
@@ -4592,7 +4590,7 @@
   <nd ref="990150897"/>
   <tag k="addr:housenumber" v="58"/>
   <tag k="addr:postcode" v="26010"/>
-  <tag k="addr:street" v="Via Mons. Capetti"/>
+  <tag k="addr:street" v="Via Monsignor Capetti"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="85405072" visible="true" version="1" changeset="6378384" timestamp="2010-11-15T15:57:11Z" user="bt1950" uid="330776">

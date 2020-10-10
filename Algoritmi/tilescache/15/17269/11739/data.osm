@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (861160 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991862 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3675844" minlon="9.7229004" maxlat="45.3753024" maxlon="9.7338867"/>
  <node id="143555991" visible="true" version="25" changeset="44314406" timestamp="2016-12-11T01:00:15Z" user="alemintaka" uid="3690907" lat="45.4136852" lon="9.7334546"/>
  <node id="252517860" visible="true" version="4" changeset="82108575" timestamp="2020-03-12T11:00:30Z" user="billyboe" uid="10889914" lat="45.3794344" lon="9.7430394"/>
@@ -253,10 +253,10 @@
  <node id="613475546" visible="true" version="1" changeset="3617011" timestamp="2010-01-14T13:39:02Z" user="wiso" uid="30891" lat="45.3683190" lon="9.7318090"/>
  <node id="613475548" visible="true" version="1" changeset="3617011" timestamp="2010-01-14T13:39:02Z" user="wiso" uid="30891" lat="45.3683350" lon="9.7321205"/>
  <node id="613475550" visible="true" version="1" changeset="3617011" timestamp="2010-01-14T13:39:02Z" user="wiso" uid="30891" lat="45.3685154" lon="9.7334716"/>
- <node id="613475608" visible="true" version="1" changeset="3617011" timestamp="2010-01-14T13:39:04Z" user="wiso" uid="30891" lat="45.3652524" lon="9.7390591"/>
+ <node id="613475608" visible="true" version="2" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306" lat="45.3652509" lon="9.7390574"/>
  <node id="613475614" visible="true" version="1" changeset="3617011" timestamp="2010-01-14T13:39:04Z" user="wiso" uid="30891" lat="45.3667582" lon="9.7344689"/>
  <node id="613475616" visible="true" version="1" changeset="3617011" timestamp="2010-01-14T13:39:04Z" user="wiso" uid="30891" lat="45.3669466" lon="9.7366629"/>
- <node id="613475617" visible="true" version="1" changeset="3617011" timestamp="2010-01-14T13:39:04Z" user="wiso" uid="30891" lat="45.3670771" lon="9.7373654"/>
+ <node id="613475617" visible="true" version="2" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306" lat="45.3670706" lon="9.7373757"/>
  <node id="613475619" visible="true" version="1" changeset="3617011" timestamp="2010-01-14T13:39:04Z" user="wiso" uid="30891" lat="45.3668284" lon="9.7375505"/>
  <node id="613475621" visible="true" version="1" changeset="3617011" timestamp="2010-01-14T13:39:04Z" user="wiso" uid="30891" lat="45.3656820" lon="9.7387423"/>
  <node id="613475622" visible="true" version="1" changeset="3617011" timestamp="2010-01-14T13:39:04Z" user="wiso" uid="30891" lat="45.3685280" lon="9.7343114"/>
@@ -1220,7 +1220,6 @@
  <node id="5651625980" visible="true" version="2" changeset="64951983" timestamp="2018-11-27T21:28:14Z" user="fedc" uid="602784" lat="45.3510646" lon="9.7540831"/>
  <node id="5651625993" visible="true" version="2" changeset="64951983" timestamp="2018-11-27T21:28:14Z" user="fedc" uid="602784" lat="45.3511703" lon="9.7551940"/>
  <node id="5651625997" visible="true" version="1" changeset="59396879" timestamp="2018-05-30T12:05:27Z" user="Massimo Stringhi" uid="1020165" lat="45.3516352" lon="9.7551068"/>
- <node id="5682095291" visible="true" version="1" changeset="59739293" timestamp="2018-06-11T12:00:58Z" user="Massimo Stringhi" uid="1020165" lat="45.3658776" lon="9.7385389"/>
  <node id="5787331117" visible="true" version="1" changeset="61089829" timestamp="2018-07-26T14:01:09Z" user="datamove" uid="4930752" lat="45.3794677" lon="9.7436958"/>
  <node id="6432649974" visible="true" version="1" changeset="69640713" timestamp="2019-04-27T14:15:36Z" user="mudunur" uid="9310284" lat="45.3702049" lon="9.7271633"/>
  <node id="6432649975" visible="true" version="1" changeset="69640713" timestamp="2019-04-27T14:15:36Z" user="mudunur" uid="9310284" lat="45.3701720" lon="9.7270669"/>
@@ -1285,6 +1284,7 @@
  <node id="6863212271" visible="true" version="1" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653" lat="45.3536521" lon="9.7565266"/>
  <node id="6863212272" visible="true" version="1" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653" lat="45.3573845" lon="9.7593876"/>
  <node id="6863212273" visible="true" version="1" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653" lat="45.3558798" lon="9.7570074"/>
+ <node id="7994876897" visible="true" version="1" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306" lat="45.3658776" lon="9.7385389"/>
  <way id="24157707" visible="true" version="12" changeset="44331250" timestamp="2016-12-11T20:16:36Z" user="Elia Z" uid="2914055">
   <nd ref="143555991"/>
   <nd ref="3398224184"/>
@@ -1668,7 +1668,7 @@
   <tag k="source" v="Regione Lombardia - La banca dati territoriali CTR10000 è prodotta da Regione Lombardia - Infrastruttura per l'Informazione Territoriale"/>
   <tag k="voltage" v="132000"/>
  </way>
- <way id="48278409" visible="true" version="3" changeset="59739293" timestamp="2018-06-11T12:00:59Z" user="Massimo Stringhi" uid="1020165">
+ <way id="48278409" visible="true" version="4" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306">
   <nd ref="613475747"/>
   <nd ref="613475749"/>
   <nd ref="613475730"/>
@@ -1711,7 +1711,7 @@
   <nd ref="613475616"/>
   <nd ref="613475617"/>
   <nd ref="613475619"/>
-  <nd ref="5682095291"/>
+  <nd ref="7994876897"/>
   <nd ref="613475621"/>
   <nd ref="613475608"/>
   <tag k="admin_level" v="8"/>

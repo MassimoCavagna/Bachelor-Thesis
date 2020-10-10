@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (972453 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991886 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2903466" minlon="9.7009277" maxlat="45.2980751" maxlon="9.7119141"/>
  <node id="252583614" visible="true" version="7" changeset="86480713" timestamp="2020-06-10T19:51:21Z" user="HrsAppDevelopment" uid="5317920" lat="45.2901451" lon="9.6849181"/>
  <node id="252583680" visible="true" version="6" changeset="43274511" timestamp="2016-10-29T23:01:13Z" user="fedc" uid="602784" lat="45.2923408" lon="9.6742421"/>
@@ -480,6 +480,19 @@
  <node id="7640515563" visible="true" version="1" changeset="86940608" timestamp="2020-06-21T16:58:12Z" user="aacomm" uid="8511019" lat="45.2952827" lon="9.7022796"/>
  <node id="7640515564" visible="true" version="1" changeset="86940608" timestamp="2020-06-21T16:58:12Z" user="aacomm" uid="8511019" lat="45.2977506" lon="9.7014749"/>
  <node id="7640515565" visible="true" version="1" changeset="86940608" timestamp="2020-06-21T16:58:12Z" user="aacomm" uid="8511019" lat="45.3016315" lon="9.7004771"/>
+ <node id="7875891099" visible="true" version="1" changeset="90421525" timestamp="2020-09-04T14:47:34Z" user="HrsAppDevelopment" uid="5317920" lat="45.2915360" lon="9.7025038"/>
+ <node id="7875891100" visible="true" version="1" changeset="90421525" timestamp="2020-09-04T14:47:34Z" user="HrsAppDevelopment" uid="5317920" lat="45.2915398" lon="9.7026661"/>
+ <node id="7875891101" visible="true" version="1" changeset="90421525" timestamp="2020-09-04T14:47:34Z" user="HrsAppDevelopment" uid="5317920" lat="45.2913549" lon="9.7026661"/>
+ <node id="7875891102" visible="true" version="1" changeset="90421525" timestamp="2020-09-04T14:47:34Z" user="HrsAppDevelopment" uid="5317920" lat="45.2913540" lon="9.7025078"/>
+ <node id="7875891103" visible="true" version="1" changeset="90421525" timestamp="2020-09-04T14:47:34Z" user="HrsAppDevelopment" uid="5317920" lat="45.2914370" lon="9.7024863">
+  <tag k="amenity" v="restaurant"/>
+ </node>
+ <node id="7875891104" visible="true" version="1" changeset="90421525" timestamp="2020-09-04T14:47:34Z" user="HrsAppDevelopment" uid="5317920" lat="45.2921050" lon="9.7020679"/>
+ <node id="7875891105" visible="true" version="1" changeset="90421525" timestamp="2020-09-04T14:47:34Z" user="HrsAppDevelopment" uid="5317920" lat="45.2921861" lon="9.7026956"/>
+ <node id="7875891106" visible="true" version="1" changeset="90421525" timestamp="2020-09-04T14:47:34Z" user="HrsAppDevelopment" uid="5317920" lat="45.2913106" lon="9.7027224"/>
+ <node id="7875891107" visible="true" version="1" changeset="90421525" timestamp="2020-09-04T14:47:34Z" user="HrsAppDevelopment" uid="5317920" lat="45.2912785" lon="9.7021779"/>
+ <node id="7875891108" visible="true" version="1" changeset="90421525" timestamp="2020-09-04T14:47:34Z" user="HrsAppDevelopment" uid="5317920" lat="45.2911011" lon="9.7027385"/>
+ <node id="7875891109" visible="true" version="1" changeset="90421525" timestamp="2020-09-04T14:47:34Z" user="HrsAppDevelopment" uid="5317920" lat="45.2910841" lon="9.7021967"/>
  <way id="34621133" visible="true" version="5" changeset="44331559" timestamp="2016-12-11T20:32:33Z" user="Elia Z" uid="2914055">
   <nd ref="305809791"/>
   <nd ref="578597032"/>
@@ -1088,6 +1101,34 @@
   <tag k="segregated" v="yes"/>
   <tag k="surface" v="asphalt"/>
   <tag k="width" v="2"/>
+ </way>
+ <way id="844312496" visible="true" version="1" changeset="90421525" timestamp="2020-09-04T14:47:34Z" user="HrsAppDevelopment" uid="5317920">
+  <nd ref="7875891099"/>
+  <nd ref="7875891100"/>
+  <nd ref="7875891101"/>
+  <nd ref="7875891102"/>
+  <nd ref="7875891099"/>
+  <tag k="amenity" v="restaurant"/>
+  <tag k="building" v="yes"/>
+  <tag k="cuisine" v="regional"/>
+  <tag k="name" v="Agriturismo La Sorgente"/>
+  <tag k="website" v="http://www.agriturismolasorgente.info/"/>
+ </way>
+ <way id="844312497" visible="true" version="1" changeset="90421525" timestamp="2020-09-04T14:47:34Z" user="HrsAppDevelopment" uid="5317920">
+  <nd ref="7875891104"/>
+  <nd ref="7875891105"/>
+  <nd ref="7875891106"/>
+  <nd ref="7875891107"/>
+  <nd ref="7875891104"/>
+  <tag k="leisure" v="garden"/>
+ </way>
+ <way id="844312498" visible="true" version="1" changeset="90421525" timestamp="2020-09-04T14:47:34Z" user="HrsAppDevelopment" uid="5317920">
+  <nd ref="7875891107"/>
+  <nd ref="7875891106"/>
+  <nd ref="7875891108"/>
+  <nd ref="7875891109"/>
+  <nd ref="7875891107"/>
+  <tag k="amenity" v="parking"/>
  </way>
  <relation id="44592" visible="true" version="13" changeset="44130724" timestamp="2016-12-03T07:01:43Z" user="nyuriks" uid="339581">
   <member type="way" ref="328271006" role="outer"/>

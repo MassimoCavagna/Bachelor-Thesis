@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2255612 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991861 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2748864" minlon="9.8547363" maxlat="45.2826171" maxlon="9.8657227"/>
  <node id="451752935" visible="true" version="2" changeset="29502443" timestamp="2015-03-15T19:06:44Z" user="fedc" uid="602784" lat="45.2817859" lon="9.8637245"/>
  <node id="451752938" visible="true" version="2" changeset="29502443" timestamp="2015-03-15T19:06:45Z" user="fedc" uid="602784" lat="45.2824181" lon="9.8612059"/>
@@ -354,6 +354,12 @@
  <node id="5111703764" visible="true" version="1" changeset="52126589" timestamp="2017-09-17T20:13:14Z" user="fedc" uid="602784" lat="45.2894684" lon="9.8076467">
   <tag k="railway" v="level_crossing"/>
  </node>
+ <node id="7881075456" visible="true" version="1" changeset="90480494" timestamp="2020-09-06T13:31:15Z" user="Francoerbi41" uid="4982687" lat="45.2831966" lon="9.8553799">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="7881075457" visible="true" version="1" changeset="90480494" timestamp="2020-09-06T13:31:15Z" user="Francoerbi41" uid="4982687" lat="45.2832194" lon="9.8553862">
+  <tag k="railway" v="level_crossing"/>
+ </node>
  <way id="38286937" visible="true" version="5" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
   <nd ref="451753047"/>
   <nd ref="451752990"/>
@@ -495,7 +501,7 @@
   <nd ref="2656374579"/>
   <tag k="highway" v="unclassified"/>
  </way>
- <way id="260144065" visible="true" version="2" changeset="42740876" timestamp="2016-10-08T19:26:45Z" user="fedc" uid="602784">
+ <way id="260144065" visible="true" version="3" changeset="90480494" timestamp="2020-09-06T13:31:15Z" user="Francoerbi41" uid="4982687">
   <nd ref="2656374579"/>
   <nd ref="4438153815"/>
   <nd ref="2656374581"/>
@@ -513,6 +519,7 @@
   <nd ref="1224620843"/>
   <nd ref="1224620969"/>
   <tag k="highway" v="residential"/>
+  <tag k="name" v="Via Arderico da Soresina"/>
  </way>
  <way id="260144068" visible="true" version="1" changeset="20397908" timestamp="2014-02-05T18:18:37Z" user="Luca Mina" uid="1257620">
   <nd ref="2656374567"/>
@@ -551,10 +558,11 @@
   <tag k="railway" v="rail"/>
   <tag k="service" v="siding"/>
  </way>
- <way id="332930286" visible="true" version="3" changeset="29502834" timestamp="2015-03-15T19:29:28Z" user="fedc" uid="602784">
+ <way id="332930286" visible="true" version="4" changeset="90480494" timestamp="2020-09-06T13:31:15Z" user="Francoerbi41" uid="4982687">
   <nd ref="451753057"/>
   <nd ref="3400522991"/>
   <nd ref="3400522992"/>
+  <nd ref="7881075457"/>
   <nd ref="3400523693"/>
   <nd ref="3400524597"/>
   <nd ref="3400537883"/>
@@ -574,8 +582,9 @@
   <tag k="railway" v="rail"/>
   <tag k="service" v="siding"/>
  </way>
- <way id="332930287" visible="true" version="2" changeset="29502756" timestamp="2015-03-15T19:24:30Z" user="fedc" uid="602784">
+ <way id="332930287" visible="true" version="3" changeset="90480494" timestamp="2020-09-06T13:31:15Z" user="Francoerbi41" uid="4982687">
   <nd ref="3400522991"/>
+  <nd ref="7881075456"/>
   <nd ref="3400523705"/>
   <nd ref="3400523706"/>
   <nd ref="3400523707"/>
@@ -726,7 +735,7 @@
   <tag k="surface" v="unpaved"/>
   <tag k="tracktype" v="grade2"/>
  </way>
- <way id="446574185" visible="true" version="1" changeset="42741110" timestamp="2016-10-08T19:40:40Z" user="fedc" uid="602784">
+ <way id="446574185" visible="true" version="2" changeset="90480494" timestamp="2020-09-06T13:31:15Z" user="Francoerbi41" uid="4982687">
   <nd ref="4438173989"/>
   <nd ref="4438173990"/>
   <nd ref="4438173991"/>
@@ -747,6 +756,7 @@
   <nd ref="2650101108"/>
   <nd ref="4438173989"/>
   <tag k="landuse" v="industrial"/>
+  <tag k="name" v="Latteria Soresina"/>
  </way>
  <way id="446574191" visible="true" version="2" changeset="42781978" timestamp="2016-10-10T16:50:50Z" user="fedc" uid="602784">
   <nd ref="4440931816"/>

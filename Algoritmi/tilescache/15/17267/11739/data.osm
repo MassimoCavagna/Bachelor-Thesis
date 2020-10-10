@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (853317 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3578568 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3675844" minlon="9.7009277" maxlat="45.3753024" maxlon="9.7119141"/>
  <node id="252417479" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:47:34Z" user="wiso" uid="30891" lat="45.3643607" lon="9.6971482"/>
  <node id="252417480" visible="true" version="9" changeset="3196159" timestamp="2009-11-23T14:47:31Z" user="wiso" uid="30891" lat="45.3654993" lon="9.6976630"/>
@@ -4010,6 +4010,7 @@
  <node id="7112863573" visible="true" version="1" changeset="79262189" timestamp="2020-01-06T19:17:54Z" user="morsi" uid="139580" lat="45.5882998" lon="9.7425744"/>
  <node id="7115443009" visible="true" version="1" changeset="79311932" timestamp="2020-01-07T21:39:06Z" user="morsi" uid="139580" lat="45.6120430" lon="9.7427192"/>
  <node id="7115443080" visible="true" version="1" changeset="79311932" timestamp="2020-01-07T21:39:06Z" user="morsi" uid="139580" lat="45.5877423" lon="9.7421828"/>
+ <node id="7994868348" visible="true" version="1" changeset="92274363" timestamp="2020-10-10T12:33:07Z" user="dega180" uid="454306" lat="45.3744472" lon="9.7011767"/>
  <way id="23321804" visible="true" version="18" changeset="86273726" timestamp="2020-06-06T09:35:17Z" user="Alecs01" uid="1476146">
   <nd ref="252523417"/>
   <nd ref="345550783"/>
@@ -6027,7 +6028,7 @@
   <nd ref="2468544959"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="239500012" visible="true" version="3" changeset="37400850" timestamp="2016-02-23T22:46:41Z" user="bt1950" uid="330776">
+ <way id="239500012" visible="true" version="4" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306">
   <nd ref="2472775035"/>
   <nd ref="2472775032"/>
   <nd ref="2472775019"/>
@@ -6052,7 +6053,8 @@
   <nd ref="2472774999"/>
   <nd ref="2472775048"/>
   <nd ref="2472775035"/>
-  <tag k="waterway" v="riverbank"/>
+  <tag k="natural" v="water"/>
+  <tag k="water" v="river"/>
  </way>
  <way id="239500017" visible="true" version="1" changeset="18053030" timestamp="2013-09-26T21:44:58Z" user="bt1950" uid="330776">
   <nd ref="2472775219"/>
@@ -6279,7 +6281,7 @@
   <nd ref="2472774920"/>
   <tag k="barrier" v="fence"/>
  </way>
- <way id="239500633" visible="true" version="2" changeset="37502687" timestamp="2016-02-28T16:55:41Z" user="bt1950" uid="330776">
+ <way id="239500633" visible="true" version="3" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306">
   <nd ref="2472792821"/>
   <nd ref="2472792826"/>
   <nd ref="2472792824"/>
@@ -6287,7 +6289,8 @@
   <nd ref="2472792822"/>
   <nd ref="2472792819"/>
   <nd ref="2472792821"/>
-  <tag k="waterway" v="riverbank"/>
+  <tag k="natural" v="water"/>
+  <tag k="water" v="river"/>
  </way>
  <way id="239778544" visible="true" version="1" changeset="18079645" timestamp="2013-09-28T16:50:21Z" user="bt1950" uid="330776">
   <nd ref="2475473534"/>
@@ -8763,13 +8766,12 @@
   <tag k="name" v="Roggia Fossetta"/>
   <tag k="waterway" v="ditch"/>
  </way>
- <way id="477323283" visible="true" version="1" changeset="46421465" timestamp="2017-02-26T17:44:21Z" user="luca scandelli" uid="1786966">
+ <way id="477323283" visible="true" version="2" changeset="92274363" timestamp="2020-10-10T12:33:07Z" user="dega180" uid="454306">
   <nd ref="4706970665"/>
   <nd ref="4706970666"/>
   <nd ref="4706970667"/>
   <nd ref="4706970668"/>
   <nd ref="4706970669"/>
-  <nd ref="4706969060"/>
   <tag k="name" v="Roggia Fossetta"/>
   <tag k="waterway" v="ditch"/>
  </way>
@@ -8833,6 +8835,20 @@
   <nd ref="252522575"/>
   <tag k="highway" v="tertiary"/>
   <tag k="name" v="Via Ricengo"/>
+ </way>
+ <way id="857511176" visible="true" version="1" changeset="92274363" timestamp="2020-10-10T12:33:07Z" user="dega180" uid="454306">
+  <nd ref="7994868348"/>
+  <nd ref="4706969060"/>
+  <tag k="name" v="Roggia Fossetta"/>
+  <tag k="waterway" v="ditch"/>
+ </way>
+ <way id="857511177" visible="true" version="1" changeset="92274363" timestamp="2020-10-10T12:33:07Z" user="dega180" uid="454306">
+  <nd ref="4706970669"/>
+  <nd ref="7994868348"/>
+  <tag k="layer" v="-1"/>
+  <tag k="name" v="Roggia Fossetta"/>
+  <tag k="tunnel" v="culvert"/>
+  <tag k="waterway" v="ditch"/>
  </way>
  <relation id="546902" visible="true" version="11" changeset="80266499" timestamp="2020-01-29T15:42:47Z" user="Mannivu" uid="1950277">
   <member type="way" ref="54677320" role="outer"/>
@@ -8936,7 +8952,7 @@
   <tag k="wikidata" v="Q1284902"/>
   <tag k="wikipedia" v="it:Serio"/>
  </relation>
- <relation id="2250847" visible="true" version="30" changeset="89478011" timestamp="2020-08-16T17:01:40Z" user="manfre_" uid="11647044">
+ <relation id="2250847" visible="true" version="31" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306">
   <member type="way" ref="113678704" role=""/>
   <member type="way" ref="126701315" role=""/>
   <member type="way" ref="126701313" role=""/>
@@ -9008,6 +9024,7 @@
   <member type="way" ref="37012142" role=""/>
   <member type="way" ref="37012143" role=""/>
   <member type="way" ref="168704271" role=""/>
+  <member type="way" ref="857509825" role=""/>
   <member type="way" ref="732935571" role=""/>
   <member type="way" ref="168694165" role=""/>
   <member type="way" ref="168694169" role=""/>
@@ -9037,25 +9054,25 @@
   <member type="way" ref="549605532" role="forward"/>
   <member type="way" ref="577680963" role="backward"/>
   <tag k="cycle_network" v="Sistema Turistico Po di Lombardia"/>
-  <tag k="fixme" v="status=proposed deleted - state=proposed is correct tag if this is a proposed route"/>
   <tag k="name" v="I Navigli Cremonesi - II Tappa"/>
   <tag k="network" v="rcn"/>
   <tag k="ref" v="CR02"/>
   <tag k="route" v="bicycle"/>
   <tag k="type" v="route"/>
  </relation>
- <relation id="2456777" visible="true" version="6" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
+ <relation id="2456777" visible="true" version="7" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306">
   <member type="way" ref="685465647" role=""/>
   <member type="way" ref="168704728" role=""/>
   <member type="way" ref="184472593" role=""/>
   <member type="way" ref="184472589" role=""/>
-  <member type="way" ref="60558697" role=""/>
-  <member type="way" ref="685465648" role=""/>
-  <member type="way" ref="190104052" role=""/>
   <member type="way" ref="168704271" role=""/>
+  <member type="way" ref="857509825" role=""/>
   <member type="way" ref="732935571" role=""/>
   <member type="way" ref="168694165" role=""/>
   <member type="way" ref="168694169" role=""/>
+  <member type="way" ref="60558697" role=""/>
+  <member type="way" ref="685465648" role=""/>
+  <member type="way" ref="190104052" role=""/>
   <member type="way" ref="109381187" role=""/>
   <member type="way" ref="168706529" role=""/>
   <member type="way" ref="223544221" role=""/>

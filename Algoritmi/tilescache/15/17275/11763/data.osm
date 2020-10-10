@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (861176 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3154030 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1820368" minlon="9.7888184" maxlat="45.1897801" maxlon="9.7998047"/>
  <node id="62510729" visible="true" version="1" changeset="85182" timestamp="2007-10-10T06:21:19Z" user="Niccolo" uid="864" lat="45.1890700" lon="9.7898650">
   <tag k="created_by" v="JOSM"/>
@@ -1023,23 +1023,23 @@
   <tag k="office" v="labour_union"/>
   <tag k="phone" v="+39 0372 730147"/>
  </node>
- <node id="5719372851" visible="true" version="3" changeset="66699528" timestamp="2019-01-28T09:31:31Z" user="thetornado76" uid="1624486" lat="45.1891879" lon="9.7923307">
+ <node id="5719372851" visible="true" version="4" changeset="90696380" timestamp="2020-09-10T10:48:28Z" user="thetornado76" uid="1624486" lat="45.1891879" lon="9.7923307">
   <tag k="addr:city" v="Pizzighettone"/>
   <tag k="addr:housenumber" v="11"/>
   <tag k="addr:postcode" v="26026"/>
   <tag k="addr:street" v="Via Podgora"/>
   <tag k="amenity" v="doctors"/>
-  <tag k="contact:phone" v="921496136"/>
+  <tag k="contact:phone" v="+39 921496136"/>
   <tag k="healthcare" v="doctor"/>
   <tag k="healthcare:speciality" v="paediatrics"/>
   <tag k="name" v="Pediatra Dr.ssa Antonietta Cacace"/>
  </node>
- <node id="5719517191" visible="true" version="4" changeset="76149900" timestamp="2019-10-24T11:51:42Z" user="tdovera" uid="1694801" lat="45.1839133" lon="9.7910966">
+ <node id="5719517191" visible="true" version="5" changeset="90449050" timestamp="2020-09-05T10:56:23Z" user="mikki65" uid="295439" lat="45.1839133" lon="9.7910966">
   <tag k="addr:housenumber" v="56"/>
   <tag k="addr:street" v="Via G. B. Pirelli"/>
   <tag k="email" v="info.sicrem@glanzstoff.com"/>
   <tag k="man_made" v="works"/>
-  <tag k="name" v="Glanzstoff SICREM"/>
+  <tag k="name" v="Glanzstoff Sicrem"/>
   <tag k="phone" v="+39 0372 738011"/>
   <tag k="website" v="https://www.glanzstoff.com/en/who-we-are/in-the-world/glanzstoff-sicrem"/>
  </node>
@@ -1200,7 +1200,9 @@
  <node id="7824339623" visible="true" version="1" changeset="89596042" timestamp="2020-08-18T20:57:11Z" user="Sacajawea" uid="11656296" lat="45.1816077" lon="9.7935243"/>
  <node id="7824339624" visible="true" version="1" changeset="89596042" timestamp="2020-08-18T20:57:11Z" user="Sacajawea" uid="11656296" lat="45.1802152" lon="9.7933021"/>
  <node id="7824339625" visible="true" version="1" changeset="89596042" timestamp="2020-08-18T20:57:11Z" user="Sacajawea" uid="11656296" lat="45.1840096" lon="9.7944604"/>
- <way id="83421719" visible="true" version="21" changeset="81801995" timestamp="2020-03-05T04:15:37Z" user="mcheck" uid="478872">
+ <node id="7973398504" visible="true" version="1" changeset="91936531" timestamp="2020-10-04T15:15:17Z" user="tdovera" uid="1694801" lat="45.2182769" lon="9.8307200"/>
+ <node id="7973408205" visible="true" version="1" changeset="91936637" timestamp="2020-10-04T15:18:44Z" user="tdovera" uid="1694801" lat="45.2179467" lon="9.8305072"/>
+ <way id="83421719" visible="true" version="23" changeset="91936637" timestamp="2020-10-04T15:18:44Z" user="tdovera" uid="1694801">
   <nd ref="971083036"/>
   <nd ref="971083500"/>
   <nd ref="971083372"/>
@@ -1230,6 +1232,8 @@
   <nd ref="481304098"/>
   <nd ref="972661279"/>
   <nd ref="481304097"/>
+  <nd ref="7973398504"/>
+  <nd ref="7973408205"/>
   <nd ref="2061321556"/>
   <nd ref="481304095"/>
   <nd ref="2061321646"/>
@@ -3285,7 +3289,7 @@
   <tag k="landuse" v="residential"/>
   <tag k="type" v="multipolygon"/>
  </relation>
- <relation id="7270317" visible="true" version="15" changeset="89584238" timestamp="2020-08-18T15:40:33Z" user="fedc" uid="602784">
+ <relation id="7270317" visible="true" version="16" changeset="91463099" timestamp="2020-09-24T19:19:53Z" user="astraspera" uid="2653653">
   <member type="way" ref="25855909" role=""/>
   <member type="way" ref="132705342" role=""/>
   <member type="way" ref="132705330" role=""/>
@@ -3393,6 +3397,7 @@
   <member type="way" ref="26585315" role=""/>
   <member type="way" ref="575450375" role=""/>
   <member type="way" ref="838271851" role=""/>
+  <member type="way" ref="851229405" role=""/>
   <member type="way" ref="131849217" role=""/>
   <tag k="name" v="Ferrovia Pavia-Mantova"/>
   <tag k="route" v="railway"/>

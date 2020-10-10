@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1078251 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3083099 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3444241" minlon="9.6789551" maxlat="45.3521452" maxlon="9.6899414"/>
  <node id="252520635" visible="true" version="12" changeset="17560043" timestamp="2013-08-28T18:56:34Z" user="bt1950" uid="330776" lat="45.3515766" lon="9.6874673"/>
  <node id="252520636" visible="true" version="20" changeset="38301028" timestamp="2016-04-04T20:17:02Z" user="alemintaka" uid="3690907" lat="45.3526075" lon="9.6874985"/>
@@ -4721,6 +4721,21 @@
  <node id="7137348111" visible="true" version="1" changeset="79661733" timestamp="2020-01-16T18:38:41Z" user="fedc" uid="602784" lat="45.3328799" lon="9.6830193"/>
  <node id="7500824429" visible="true" version="1" changeset="84936780" timestamp="2020-05-09T12:46:13Z" user="astraspera" uid="2653653" lat="45.3207790" lon="9.6325574"/>
  <node id="7500824477" visible="true" version="1" changeset="84936780" timestamp="2020-05-09T12:46:13Z" user="astraspera" uid="2653653" lat="45.3211454" lon="9.6365144"/>
+ <node id="7890473977" visible="true" version="2" changeset="91300755" timestamp="2020-09-22T13:54:17Z" user="Attilio Murtas" uid="9210044" lat="45.3509444" lon="9.6866667">
+  <tag k="circumference" v="4.9"/>
+  <tag k="denotation" v="natural_monument"/>
+  <tag k="ele" v="75"/>
+  <tag k="genus" v="Quercus"/>
+  <tag k="height" v="23.0"/>
+  <tag k="leaf_cycle" v="deciduous"/>
+  <tag k="leaf_type" v="broadleaved"/>
+  <tag k="natural" v="tree"/>
+  <tag k="source" v="Ministero delle politiche agricole alimentari e forestali - Direzione generale dell'economia montana e delle foreste - Difor4"/>
+  <tag k="source:date" v="2020-07-24"/>
+  <tag k="species" v="Quercus robur L."/>
+  <tag k="species:it" v="Farnia"/>
+  <tag k="website" v="https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260"/>
+ </node>
  <way id="23321594" visible="true" version="4" changeset="17560043" timestamp="2013-08-28T18:56:33Z" user="bt1950" uid="330776">
   <nd ref="2191098734"/>
   <nd ref="2191098731"/>

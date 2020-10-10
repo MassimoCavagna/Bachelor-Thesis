@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (853296 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2923323 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1897801" minlon="9.7888184" maxlat="45.1975223" maxlon="9.7998047"/>
  <node id="481303896" visible="true" version="2" changeset="53547221" timestamp="2017-11-06T07:36:15Z" user="morsi" uid="139580" lat="45.1876246" lon="9.7790700"/>
  <node id="481303968" visible="true" version="2" changeset="6866595" timestamp="2011-01-04T22:17:37Z" user="albertux" uid="118185" lat="45.1928572" lon="9.7870445"/>
@@ -587,6 +587,8 @@
  <node id="7531423687" visible="true" version="1" changeset="85368122" timestamp="2020-05-18T08:04:07Z" user="GioCatta" uid="10563162" lat="45.1907090" lon="9.7899040"/>
  <node id="7531423688" visible="true" version="1" changeset="85368122" timestamp="2020-05-18T08:04:07Z" user="GioCatta" uid="10563162" lat="45.1908779" lon="9.7898556"/>
  <node id="7531423689" visible="true" version="1" changeset="85368122" timestamp="2020-05-18T08:04:07Z" user="GioCatta" uid="10563162" lat="45.1906775" lon="9.7884319"/>
+ <node id="7973398504" visible="true" version="1" changeset="91936531" timestamp="2020-10-04T15:15:17Z" user="tdovera" uid="1694801" lat="45.2182769" lon="9.8307200"/>
+ <node id="7973408205" visible="true" version="1" changeset="91936637" timestamp="2020-10-04T15:18:44Z" user="tdovera" uid="1694801" lat="45.2179467" lon="9.8305072"/>
  <way id="40029796" visible="true" version="13" changeset="81410168" timestamp="2020-02-24T14:15:17Z" user="DnaX" uid="69259">
   <nd ref="1083390508"/>
   <nd ref="1083391606"/>
@@ -772,7 +774,7 @@
   <tag k="it:lombardia:ctrn:cascina:CS_ID" v="1947"/>
   <tag k="landuse" v="farmyard"/>
  </way>
- <way id="83421719" visible="true" version="21" changeset="81801995" timestamp="2020-03-05T04:15:37Z" user="mcheck" uid="478872">
+ <way id="83421719" visible="true" version="23" changeset="91936637" timestamp="2020-10-04T15:18:44Z" user="tdovera" uid="1694801">
   <nd ref="971083036"/>
   <nd ref="971083500"/>
   <nd ref="971083372"/>
@@ -802,6 +804,8 @@
   <nd ref="481304098"/>
   <nd ref="972661279"/>
   <nd ref="481304097"/>
+  <nd ref="7973398504"/>
+  <nd ref="7973408205"/>
   <nd ref="2061321556"/>
   <nd ref="481304095"/>
   <nd ref="2061321646"/>

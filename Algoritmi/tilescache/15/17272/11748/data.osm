@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (853293 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991863 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2980751" minlon="9.7558594" maxlat="45.3058026" maxlon="9.7668457"/>
  <node id="264347690" visible="true" version="3" changeset="17009688" timestamp="2013-07-19T09:39:00Z" user="ilrobi" uid="22110" lat="45.3054431" lon="9.7532100"/>
  <node id="264347694" visible="true" version="2" changeset="5621304" timestamp="2010-08-28T23:45:48Z" user="wiso" uid="30891" lat="45.3058795" lon="9.7560391"/>
@@ -531,8 +531,8 @@
  <node id="1715149909" visible="true" version="4" changeset="12440795" timestamp="2012-07-22T21:36:06Z" user="freak_antoni" uid="646083" lat="45.2991028" lon="9.7666736"/>
  <node id="1715149935" visible="true" version="4" changeset="12440795" timestamp="2012-07-22T21:36:06Z" user="freak_antoni" uid="646083" lat="45.2994302" lon="9.7647221"/>
  <node id="1715149952" visible="true" version="4" changeset="12440795" timestamp="2012-07-22T21:36:06Z" user="freak_antoni" uid="646083" lat="45.2994305" lon="9.7648781"/>
- <node id="1715149973" visible="true" version="5" changeset="90206357" timestamp="2020-08-31T18:32:56Z" user="mcheck" uid="478872" lat="45.2995279" lon="9.7647218">
-  <tag k="addr:street" v="Via Giuseppe Mazzini"/>
+ <node id="1715149973" visible="true" version="6" changeset="90478432" timestamp="2020-09-06T12:16:23Z" user="sorcrosc" uid="160229" lat="45.2995279" lon="9.7647218">
+  <tag k="addr:street" v="Via Mazzini"/>
  </node>
  <node id="1715149975" visible="true" version="4" changeset="12440795" timestamp="2012-07-22T21:36:06Z" user="freak_antoni" uid="646083" lat="45.2995282" lon="9.7648778"/>
  <node id="1715149990" visible="true" version="3" changeset="12440795" timestamp="2012-07-22T21:36:06Z" user="freak_antoni" uid="646083" lat="45.2995977" lon="9.7657603"/>
@@ -574,7 +574,7 @@
  <node id="1715150124" visible="true" version="4" changeset="12440795" timestamp="2012-07-22T21:36:07Z" user="freak_antoni" uid="646083" lat="45.2999886" lon="9.7665779"/>
  <node id="1715150138" visible="true" version="4" changeset="12440795" timestamp="2012-07-22T21:36:07Z" user="freak_antoni" uid="646083" lat="45.2999882" lon="9.7666895"/>
  <node id="1715150140" visible="true" version="3" changeset="36080983" timestamp="2015-12-21T09:22:45Z" user="Taurus77" uid="2044340" lat="45.2999184" lon="9.7594258"/>
- <node id="1715150141" visible="true" version="1" changeset="11292429" timestamp="2012-04-13T20:59:02Z" user="freak_antoni" uid="646083" lat="45.2999909" lon="9.7584395">
+ <node id="1715150141" visible="true" version="2" changeset="91900643" timestamp="2020-10-03T12:32:55Z" user="Mannivu" uid="1950277" lat="45.2999909" lon="9.7584395">
   <tag k="barrier" v="gate"/>
  </node>
  <node id="1715150142" visible="true" version="3" changeset="12440795" timestamp="2012-07-22T21:36:07Z" user="freak_antoni" uid="646083" lat="45.2999841" lon="9.7660638"/>
@@ -1230,11 +1230,10 @@
   <tag k="barrier" v="gate"/>
   <tag k="source" v="survey"/>
  </node>
- <node id="1850677306" visible="true" version="3" changeset="90206357" timestamp="2020-08-31T18:32:56Z" user="mcheck" uid="478872" lat="45.2981923" lon="9.7646887">
+ <node id="1850677306" visible="true" version="4" changeset="90478432" timestamp="2020-09-06T12:16:23Z" user="sorcrosc" uid="160229" lat="45.2981923" lon="9.7646887">
   <tag k="addr:housenumber" v="4"/>
-  <tag k="addr:street" v="Via Giuseppe Mazzini"/>
+  <tag k="addr:street" v="Via Mazzini"/>
   <tag k="barrier" v="gate"/>
-  <tag k="source" v="survey"/>
  </node>
  <node id="1850677307" visible="true" version="2" changeset="14299699" timestamp="2012-12-16T21:55:53Z" user="freak_antoni" uid="646083" lat="45.2993213" lon="9.7654873">
   <tag k="addr:housenumber" v="5"/>
@@ -2490,9 +2489,9 @@
   <tag k="addr:street" v="Via Edallo"/>
   <tag k="barrier" v="gate"/>
  </node>
- <node id="1978393630" visible="true" version="2" changeset="90206357" timestamp="2020-08-31T18:32:56Z" user="mcheck" uid="478872" lat="45.2987892" lon="9.7646392">
+ <node id="1978393630" visible="true" version="3" changeset="90478432" timestamp="2020-09-06T12:16:23Z" user="sorcrosc" uid="160229" lat="45.2987892" lon="9.7646392">
   <tag k="addr:housenumber" v="18"/>
-  <tag k="addr:street" v="Via Giuseppe Mazzini"/>
+  <tag k="addr:street" v="Via Mazzini"/>
   <tag k="barrier" v="gate"/>
  </node>
  <node id="1978393633" visible="true" version="1" changeset="13596821" timestamp="2012-10-22T19:06:08Z" user="freak_antoni" uid="646083" lat="45.2991385" lon="9.7649764">
@@ -2500,14 +2499,14 @@
   <tag k="addr:street" v="Via Sant'Omobono"/>
   <tag k="barrier" v="gate"/>
  </node>
- <node id="1978393639" visible="true" version="2" changeset="90206357" timestamp="2020-08-31T18:32:56Z" user="mcheck" uid="478872" lat="45.2978979" lon="9.7647582">
+ <node id="1978393639" visible="true" version="3" changeset="90478432" timestamp="2020-09-06T12:16:23Z" user="sorcrosc" uid="160229" lat="45.2978979" lon="9.7647582">
   <tag k="addr:housenumber" v="2a"/>
-  <tag k="addr:street" v="Via Giuseppe Mazzini"/>
+  <tag k="addr:street" v="Via Mazzini"/>
   <tag k="barrier" v="gate"/>
  </node>
- <node id="1978393645" visible="true" version="2" changeset="90206357" timestamp="2020-08-31T18:32:56Z" user="mcheck" uid="478872" lat="45.2983935" lon="9.7646735">
+ <node id="1978393645" visible="true" version="3" changeset="90478432" timestamp="2020-09-06T12:16:23Z" user="sorcrosc" uid="160229" lat="45.2983935" lon="9.7646735">
   <tag k="addr:housenumber" v="6"/>
-  <tag k="addr:street" v="Via Giuseppe Mazzini"/>
+  <tag k="addr:street" v="Via Mazzini"/>
   <tag k="barrier" v="gate"/>
  </node>
  <node id="1978394246" visible="true" version="1" changeset="13596821" timestamp="2012-10-22T19:06:32Z" user="freak_antoni" uid="646083" lat="45.2954823" lon="9.7663645"/>
@@ -2594,14 +2593,14 @@
  <node id="2006324193" visible="true" version="2" changeset="14864979" timestamp="2013-01-31T22:07:36Z" user="freak_antoni" uid="646083" lat="45.3060709" lon="9.7551507"/>
  <node id="2006324197" visible="true" version="1" changeset="13820922" timestamp="2012-11-10T13:50:14Z" user="freak_antoni" uid="646083" lat="45.3050971" lon="9.7548927"/>
  <node id="2006324206" visible="true" version="2" changeset="14467069" timestamp="2012-12-30T17:24:05Z" user="freak_antoni" uid="646083" lat="45.3058898" lon="9.7560764"/>
- <node id="2009606396" visible="true" version="2" changeset="90206357" timestamp="2020-08-31T18:32:56Z" user="mcheck" uid="478872" lat="45.2996742" lon="9.7646344">
+ <node id="2009606396" visible="true" version="3" changeset="90478432" timestamp="2020-09-06T12:16:23Z" user="sorcrosc" uid="160229" lat="45.2996742" lon="9.7646344">
   <tag k="addr:housenumber" v="22"/>
-  <tag k="addr:street" v="Via Giuseppe Mazzini"/>
+  <tag k="addr:street" v="Via Mazzini"/>
   <tag k="barrier" v="gate"/>
  </node>
- <node id="2009606397" visible="true" version="2" changeset="90206357" timestamp="2020-08-31T18:32:56Z" user="mcheck" uid="478872" lat="45.2999322" lon="9.7646410">
+ <node id="2009606397" visible="true" version="3" changeset="90478432" timestamp="2020-09-06T12:16:23Z" user="sorcrosc" uid="160229" lat="45.2999322" lon="9.7646410">
   <tag k="addr:housenumber" v="24"/>
-  <tag k="addr:street" v="Via Giuseppe Mazzini"/>
+  <tag k="addr:street" v="Via Mazzini"/>
   <tag k="barrier" v="gate"/>
  </node>
  <node id="2009606398" visible="true" version="2" changeset="32736290" timestamp="2015-07-19T18:31:54Z" user="Alecs01" uid="1476146" lat="45.3040699" lon="9.7588853">
@@ -2709,9 +2708,7 @@
   <tag k="barrier" v="gate"/>
  </node>
  <node id="2070674694" visible="true" version="1" changeset="14299699" timestamp="2012-12-16T21:55:12Z" user="freak_antoni" uid="646083" lat="45.2993178" lon="9.7663405"/>
- <node id="2070674695" visible="true" version="1" changeset="14299699" timestamp="2012-12-16T21:55:12Z" user="freak_antoni" uid="646083" lat="45.2993183" lon="9.7660292"/>
- <node id="2070674696" visible="true" version="1" changeset="14299699" timestamp="2012-12-16T21:55:12Z" user="freak_antoni" uid="646083" lat="45.2993186" lon="9.7659863"/>
- <node id="2070674697" visible="true" version="2" changeset="55611730" timestamp="2018-01-20T19:39:45Z" user="marco antinori" uid="7482024" lat="45.3000744" lon="9.7658588"/>
+ <node id="2070674695" visible="true" version="2" changeset="91900076" timestamp="2020-10-03T12:13:05Z" user="Mannivu" uid="1950277" lat="45.2993186" lon="9.7659863"/>
  <node id="2070674698" visible="true" version="1" changeset="14299699" timestamp="2012-12-16T21:55:12Z" user="freak_antoni" uid="646083" lat="45.2995517" lon="9.7663413"/>
  <node id="2070674699" visible="true" version="1" changeset="14299699" timestamp="2012-12-16T21:55:12Z" user="freak_antoni" uid="646083" lat="45.2995523" lon="9.7659887"/>
  <node id="2070674700" visible="true" version="1" changeset="14299699" timestamp="2012-12-16T21:55:12Z" user="freak_antoni" uid="646083" lat="45.2997853" lon="9.7663582"/>
@@ -2976,14 +2973,14 @@
   <tag k="addr:street" v="Via Matteotti"/>
   <tag k="barrier" v="gate"/>
  </node>
- <node id="3307715563" visible="true" version="2" changeset="90206357" timestamp="2020-08-31T18:32:56Z" user="mcheck" uid="478872" lat="45.2995289" lon="9.7646295">
+ <node id="3307715563" visible="true" version="3" changeset="90478432" timestamp="2020-09-06T12:16:23Z" user="sorcrosc" uid="160229" lat="45.2995289" lon="9.7646295">
   <tag k="addr:housenumber" v="20"/>
-  <tag k="addr:street" v="Via Giuseppe Mazzini"/>
+  <tag k="addr:street" v="Via Mazzini"/>
   <tag k="barrier" v="gate"/>
  </node>
- <node id="3307721961" visible="true" version="2" changeset="90206357" timestamp="2020-08-31T18:32:56Z" user="mcheck" uid="478872" lat="45.2987220" lon="9.7646452">
+ <node id="3307721961" visible="true" version="3" changeset="90478432" timestamp="2020-09-06T12:16:23Z" user="sorcrosc" uid="160229" lat="45.2987220" lon="9.7646452">
   <tag k="addr:housenumber" v="16"/>
-  <tag k="addr:street" v="Via Giuseppe Mazzini"/>
+  <tag k="addr:street" v="Via Mazzini"/>
   <tag k="barrier" v="gate"/>
  </node>
  <node id="3420052867" visible="true" version="2" changeset="69827336" timestamp="2019-05-03T05:10:28Z" user="flevin" uid="9196098" lat="45.3030041" lon="9.7608897"/>
@@ -3276,14 +3273,14 @@
   <tag k="junction" v="roundabout"/>
   <tag k="name" v="Via Stazione"/>
  </way>
- <way id="73594278" visible="true" version="5" changeset="90206357" timestamp="2020-08-31T18:32:56Z" user="mcheck" uid="478872">
+ <way id="73594278" visible="true" version="6" changeset="90478432" timestamp="2020-09-06T12:16:23Z" user="sorcrosc" uid="160229">
   <nd ref="986919222"/>
   <nd ref="986919308"/>
   <nd ref="872212834"/>
   <nd ref="986918628"/>
   <nd ref="872212517"/>
   <tag k="highway" v="residential"/>
-  <tag k="name" v="Via Giuseppe Mazzini"/>
+  <tag k="name" v="Via Mazzini"/>
   <tag k="oneway" v="no"/>
  </way>
  <way id="73594280" visible="true" version="5" changeset="13596821" timestamp="2012-10-22T19:08:16Z" user="freak_antoni" uid="646083">
@@ -3963,24 +3960,24 @@
   <nd ref="1715150275"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="159400081" visible="true" version="4" changeset="90206357" timestamp="2020-08-31T18:32:56Z" user="mcheck" uid="478872">
+ <way id="159400081" visible="true" version="5" changeset="90478432" timestamp="2020-09-06T12:16:23Z" user="sorcrosc" uid="160229">
   <nd ref="1715149876"/>
   <nd ref="1715149879"/>
   <nd ref="1715149890"/>
   <nd ref="1715149887"/>
   <nd ref="1715149876"/>
   <tag k="addr:housenumber" v="16"/>
-  <tag k="addr:street" v="Via Giuseppe Mazzini"/>
+  <tag k="addr:street" v="Via Mazzini"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="159400090" visible="true" version="4" changeset="90206357" timestamp="2020-08-31T18:32:56Z" user="mcheck" uid="478872">
+ <way id="159400090" visible="true" version="5" changeset="90478432" timestamp="2020-09-06T12:16:23Z" user="sorcrosc" uid="160229">
   <nd ref="1715149858"/>
   <nd ref="1715149868"/>
   <nd ref="1715149873"/>
   <nd ref="1715149871"/>
   <nd ref="1715149858"/>
   <tag k="addr:housenumber" v="8; 10; 12; 14"/>
-  <tag k="addr:street" v="Via Giuseppe Mazzini"/>
+  <tag k="addr:street" v="Via Mazzini"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="159400091" visible="true" version="1" changeset="11292429" timestamp="2012-04-13T20:59:24Z" user="freak_antoni" uid="646083">
@@ -4017,13 +4014,12 @@
   <nd ref="1715149851"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="159400109" visible="true" version="2" changeset="11454729" timestamp="2012-04-29T21:34:48Z" user="freak_antoni" uid="646083">
+ <way id="159400109" visible="true" version="3" changeset="91900616" timestamp="2020-10-03T12:31:54Z" user="Mannivu" uid="1950277">
   <nd ref="1715150294"/>
   <nd ref="1715150296"/>
   <nd ref="1715150138"/>
   <nd ref="1715150124"/>
   <nd ref="1715150294"/>
-  <tag k="addr:housenumber" v="122;140"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="159400117" visible="true" version="2" changeset="11454729" timestamp="2012-04-29T21:34:52Z" user="freak_antoni" uid="646083">
@@ -4046,9 +4042,8 @@
   <tag k="addr:street" v="Via Bressanoro"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="159400126" visible="true" version="3" changeset="55611730" timestamp="2018-01-20T19:39:46Z" user="marco antinori" uid="7482024">
+ <way id="159400126" visible="true" version="4" changeset="91900076" timestamp="2020-10-03T12:13:05Z" user="Mannivu" uid="1950277">
   <nd ref="1715150175"/>
-  <nd ref="2070674697"/>
   <nd ref="1715150185"/>
   <nd ref="1834726160"/>
   <nd ref="1715150218"/>
@@ -4057,7 +4052,7 @@
   <nd ref="1715150175"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="159400129" visible="true" version="3" changeset="33010150" timestamp="2015-07-31T15:50:10Z" user="freak_antoni" uid="646083">
+ <way id="159400129" visible="true" version="4" changeset="91900114" timestamp="2020-10-03T12:14:45Z" user="Mannivu" uid="1950277">
   <nd ref="1715149907"/>
   <nd ref="1715149909"/>
   <nd ref="1715150119"/>
@@ -4067,7 +4062,6 @@
   <nd ref="3675135226"/>
   <nd ref="3675135426"/>
   <nd ref="1715149907"/>
-  <tag k="addr:housenumber" v="88;90:92;118"/>
   <tag k="building" v="yes"/>
  </way>
  <way id="159400134" visible="true" version="1" changeset="11292429" timestamp="2012-04-13T20:59:30Z" user="freak_antoni" uid="646083">
@@ -4370,8 +4364,9 @@
   <nd ref="1715189876"/>
   <tag k="leisure" v="sports_centre"/>
  </way>
- <way id="159404419" visible="true" version="3" changeset="12633698" timestamp="2012-08-06T14:06:17Z" user="freak_antoni" uid="646083">
+ <way id="159404419" visible="true" version="4" changeset="91900643" timestamp="2020-10-03T12:32:55Z" user="Mannivu" uid="1950277">
   <nd ref="1715188336"/>
+  <nd ref="1715150141"/>
   <nd ref="1715189036"/>
   <nd ref="1715189270"/>
   <nd ref="1715189274"/>
@@ -5140,10 +5135,10 @@
   <tag k="barrier" v="fence"/>
   <tag k="source" v="survey"/>
  </way>
- <way id="174375384" visible="true" version="3" changeset="14299699" timestamp="2012-12-16T21:55:52Z" user="freak_antoni" uid="646083">
+ <way id="174375384" visible="true" version="4" changeset="91900076" timestamp="2020-10-03T12:13:05Z" user="Mannivu" uid="1950277">
   <nd ref="1850677347"/>
   <nd ref="2070671952"/>
-  <nd ref="2070674696"/>
+  <nd ref="2070674695"/>
   <nd ref="2070674699"/>
   <nd ref="1715188581"/>
   <tag k="barrier" v="wall"/>
@@ -7429,11 +7424,6 @@
   <nd ref="2009606907"/>
   <nd ref="2009606911"/>
   <nd ref="2009606910"/>
-  <tag k="barrier" v="fence"/>
- </way>
- <way id="196777403" visible="true" version="1" changeset="14299699" timestamp="2012-12-16T21:55:44Z" user="freak_antoni" uid="646083">
-  <nd ref="2070674697"/>
-  <nd ref="2070674695"/>
   <tag k="barrier" v="fence"/>
  </way>
  <way id="196777414" visible="true" version="1" changeset="14299699" timestamp="2012-12-16T21:55:45Z" user="freak_antoni" uid="646083">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (853314 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991874 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3289787" minlon="9.7778320" maxlat="45.3367019" maxlon="9.7888184"/>
  <node id="446461114" visible="true" version="2" changeset="7747719" timestamp="2011-04-02T19:56:11Z" user="ilrobi" uid="22110" lat="45.3394534" lon="9.7803788"/>
  <node id="872211495" visible="true" version="2" changeset="7747719" timestamp="2011-04-02T19:56:14Z" user="ilrobi" uid="22110" lat="45.3398369" lon="9.7796649"/>
@@ -336,31 +336,323 @@
  <node id="7395363119" visible="true" version="1" changeset="83432133" timestamp="2020-04-12T16:09:25Z" user="Yiyi (itwikipedia)" uid="1404750" lat="45.3335790" lon="9.7825746"/>
  <node id="7395363120" visible="true" version="1" changeset="83432133" timestamp="2020-04-12T16:09:25Z" user="Yiyi (itwikipedia)" uid="1404750" lat="45.3339451" lon="9.7827334"/>
  <node id="7395363121" visible="true" version="1" changeset="83432133" timestamp="2020-04-12T16:09:25Z" user="Yiyi (itwikipedia)" uid="1404750" lat="45.3335577" lon="9.7830369"/>
+ <node id="7975842020" visible="true" version="1" changeset="91963780" timestamp="2020-10-05T07:05:19Z" user="wanethernet" uid="11930992" lat="45.3355425" lon="9.7762504"/>
+ <node id="7975843253" visible="true" version="1" changeset="91964068" timestamp="2020-10-05T07:08:54Z" user="wanethernet" uid="11930992" lat="45.3364649" lon="9.7779439">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="7975852293" visible="true" version="1" changeset="91964283" timestamp="2020-10-05T07:11:21Z" user="wanethernet" uid="11930992" lat="45.3362311" lon="9.7791429"/>
+ <node id="7975852294" visible="true" version="1" changeset="91964283" timestamp="2020-10-05T07:11:21Z" user="wanethernet" uid="11930992" lat="45.3362028" lon="9.7793065"/>
+ <node id="7975852295" visible="true" version="1" changeset="91964283" timestamp="2020-10-05T07:11:21Z" user="wanethernet" uid="11930992" lat="45.3360915" lon="9.7792636"/>
+ <node id="7975852296" visible="true" version="1" changeset="91964283" timestamp="2020-10-05T07:11:21Z" user="wanethernet" uid="11930992" lat="45.3361236" lon="9.7791026"/>
+ <node id="7975852622" visible="true" version="1" changeset="91964053" timestamp="2020-10-05T07:08:38Z" user="wanethernet" uid="11930992" lat="45.3364083" lon="9.7781665"/>
+ <node id="7975852623" visible="true" version="1" changeset="91964053" timestamp="2020-10-05T07:08:38Z" user="wanethernet" uid="11930992" lat="45.3363763" lon="9.7781343"/>
+ <node id="7975852624" visible="true" version="1" changeset="91964053" timestamp="2020-10-05T07:08:38Z" user="wanethernet" uid="11930992" lat="45.3363951" lon="9.7780727"/>
+ <node id="7975852625" visible="true" version="1" changeset="91964053" timestamp="2020-10-05T07:08:38Z" user="wanethernet" uid="11930992" lat="45.3362273" lon="9.7779171"/>
+ <node id="7975852626" visible="true" version="1" changeset="91964053" timestamp="2020-10-05T07:08:38Z" user="wanethernet" uid="11930992" lat="45.3361613" lon="9.7780780"/>
+ <node id="7975852627" visible="true" version="1" changeset="91964053" timestamp="2020-10-05T07:08:38Z" user="wanethernet" uid="11930992" lat="45.3363272" lon="9.7782175"/>
+ <node id="7975852628" visible="true" version="1" changeset="91964053" timestamp="2020-10-05T07:08:38Z" user="wanethernet" uid="11930992" lat="45.3363197" lon="9.7782363"/>
+ <node id="7975852629" visible="true" version="1" changeset="91964053" timestamp="2020-10-05T07:08:38Z" user="wanethernet" uid="11930992" lat="45.3363668" lon="9.7782711"/>
+ <node id="7975856647" visible="true" version="1" changeset="91964111" timestamp="2020-10-05T07:09:25Z" user="wanethernet" uid="11930992" lat="45.3360859" lon="9.7781934">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="7975860160" visible="true" version="1" changeset="91964207" timestamp="2020-10-05T07:10:38Z" user="wanethernet" uid="11930992" lat="45.3363197" lon="9.7788773"/>
+ <node id="7975860161" visible="true" version="1" changeset="91964207" timestamp="2020-10-05T07:10:38Z" user="wanethernet" uid="11930992" lat="45.3362989" lon="9.7790195"/>
+ <node id="7975860162" visible="true" version="1" changeset="91964207" timestamp="2020-10-05T07:10:38Z" user="wanethernet" uid="11930992" lat="45.3361839" lon="9.7789846"/>
+ <node id="7975860163" visible="true" version="1" changeset="91964207" timestamp="2020-10-05T07:10:38Z" user="wanethernet" uid="11930992" lat="45.3362103" lon="9.7788425"/>
+ <node id="7977008725" visible="true" version="1" changeset="91984736" timestamp="2020-10-05T12:00:52Z" user="wanethernet" uid="11930992" lat="45.3363633" lon="9.7785416"/>
+ <node id="7977008726" visible="true" version="1" changeset="91984736" timestamp="2020-10-05T12:00:52Z" user="wanethernet" uid="11930992" lat="45.3361691" lon="9.7784799"/>
+ <node id="7977008727" visible="true" version="1" changeset="91984736" timestamp="2020-10-05T12:00:52Z" user="wanethernet" uid="11930992" lat="45.3361483" lon="9.7786274"/>
+ <node id="7977008728" visible="true" version="1" changeset="91984736" timestamp="2020-10-05T12:00:52Z" user="wanethernet" uid="11930992" lat="45.3363538" lon="9.7786811"/>
+ <node id="7977027942" visible="true" version="1" changeset="91984809" timestamp="2020-10-05T12:01:46Z" user="wanethernet" uid="11930992" lat="45.3366310" lon="9.7787159"/>
+ <node id="7977027943" visible="true" version="1" changeset="91984809" timestamp="2020-10-05T12:01:46Z" user="wanethernet" uid="11930992" lat="45.3364557" lon="9.7786489"/>
+ <node id="7977027944" visible="true" version="1" changeset="91984809" timestamp="2020-10-05T12:01:46Z" user="wanethernet" uid="11930992" lat="45.3364293" lon="9.7788098"/>
+ <node id="7977027945" visible="true" version="1" changeset="91984809" timestamp="2020-10-05T12:01:46Z" user="wanethernet" uid="11930992" lat="45.3366121" lon="9.7788715"/>
+ <node id="7977031731" visible="true" version="1" changeset="91984771" timestamp="2020-10-05T12:01:17Z" user="wanethernet" uid="11930992" lat="45.3361728" lon="9.7784504"/>
+ <node id="7977031732" visible="true" version="1" changeset="91984771" timestamp="2020-10-05T12:01:17Z" user="wanethernet" uid="11930992" lat="45.3361536" lon="9.7785898"/>
+ <node id="7977031733" visible="true" version="1" changeset="91984771" timestamp="2020-10-05T12:01:17Z" user="wanethernet" uid="11930992" lat="45.3359447" lon="9.7785550"/>
+ <node id="7977031734" visible="true" version="1" changeset="91984771" timestamp="2020-10-05T12:01:17Z" user="wanethernet" uid="11930992" lat="45.3359598" lon="9.7783968"/>
+ <node id="7977034589" visible="true" version="1" changeset="91984946" timestamp="2020-10-05T12:03:48Z" user="wanethernet" uid="11930992" lat="45.3360201" lon="9.7791827">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="7977039211" visible="true" version="1" changeset="91984971" timestamp="2020-10-05T12:04:17Z" user="wanethernet" uid="11930992" lat="45.3359617" lon="9.7797566"/>
+ <node id="7977039212" visible="true" version="1" changeset="91984971" timestamp="2020-10-05T12:04:17Z" user="wanethernet" uid="11930992" lat="45.3359654" lon="9.7800758"/>
+ <node id="7977039213" visible="true" version="1" changeset="91984971" timestamp="2020-10-05T12:04:17Z" user="wanethernet" uid="11930992" lat="45.3357373" lon="9.7801000"/>
+ <node id="7977039214" visible="true" version="1" changeset="91984971" timestamp="2020-10-05T12:04:17Z" user="wanethernet" uid="11930992" lat="45.3357373" lon="9.7800034"/>
+ <node id="7977039215" visible="true" version="1" changeset="91984971" timestamp="2020-10-05T12:04:17Z" user="wanethernet" uid="11930992" lat="45.3358731" lon="9.7799954"/>
+ <node id="7977039216" visible="true" version="1" changeset="91984971" timestamp="2020-10-05T12:04:17Z" user="wanethernet" uid="11930992" lat="45.3358693" lon="9.7797593"/>
+ <node id="7977039806" visible="true" version="1" changeset="91984926" timestamp="2020-10-05T12:03:30Z" user="wanethernet" uid="11930992" lat="45.3361050" lon="9.7787911"/>
+ <node id="7977039807" visible="true" version="1" changeset="91984926" timestamp="2020-10-05T12:03:30Z" user="wanethernet" uid="11930992" lat="45.3360465" lon="9.7790780"/>
+ <node id="7977039808" visible="true" version="1" changeset="91984926" timestamp="2020-10-05T12:03:30Z" user="wanethernet" uid="11930992" lat="45.3359711" lon="9.7790512"/>
+ <node id="7977039809" visible="true" version="1" changeset="91984926" timestamp="2020-10-05T12:03:30Z" user="wanethernet" uid="11930992" lat="45.3360277" lon="9.7787615"/>
+ <node id="7979677744" visible="true" version="1" changeset="92019629" timestamp="2020-10-06T05:35:08Z" user="wanethernet" uid="11930992" lat="45.3362506" lon="9.7794080"/>
+ <node id="7979677745" visible="true" version="1" changeset="92019629" timestamp="2020-10-06T05:35:08Z" user="wanethernet" uid="11930992" lat="45.3362506" lon="9.7796520"/>
+ <node id="7979677746" visible="true" version="1" changeset="92019629" timestamp="2020-10-06T05:35:08Z" user="wanethernet" uid="11930992" lat="45.3361356" lon="9.7796708"/>
+ <node id="7979677747" visible="true" version="1" changeset="92019629" timestamp="2020-10-06T05:35:08Z" user="wanethernet" uid="11930992" lat="45.3361300" lon="9.7794160"/>
+ <node id="7979677748" visible="true" version="1" changeset="92019629" timestamp="2020-10-06T05:35:08Z" user="wanethernet" uid="11930992" lat="45.3361328" lon="9.7795434"/>
+ <node id="7979677776" visible="true" version="1" changeset="92019735" timestamp="2020-10-06T05:37:05Z" user="wanethernet" uid="11930992" lat="45.3360451" lon="9.7793892"/>
+ <node id="7979677777" visible="true" version="1" changeset="92019735" timestamp="2020-10-06T05:37:05Z" user="wanethernet" uid="11930992" lat="45.3359829" lon="9.7796413"/>
+ <node id="7979677778" visible="true" version="1" changeset="92019735" timestamp="2020-10-06T05:37:05Z" user="wanethernet" uid="11930992" lat="45.3358848" lon="9.7795903"/>
+ <node id="7979677779" visible="true" version="1" changeset="92019735" timestamp="2020-10-06T05:37:05Z" user="wanethernet" uid="11930992" lat="45.3359527" lon="9.7793329"/>
+ <node id="7979681269" visible="true" version="1" changeset="92019606" timestamp="2020-10-06T05:34:32Z" user="wanethernet" uid="11930992" lat="45.3363110" lon="9.7792122"/>
+ <node id="7979681270" visible="true" version="1" changeset="92019606" timestamp="2020-10-06T05:34:32Z" user="wanethernet" uid="11930992" lat="45.3363147" lon="9.7792819"/>
+ <node id="7979681271" visible="true" version="1" changeset="92019606" timestamp="2020-10-06T05:34:32Z" user="wanethernet" uid="11930992" lat="45.3362714" lon="9.7792899"/>
+ <node id="7979681272" visible="true" version="1" changeset="92019606" timestamp="2020-10-06T05:34:32Z" user="wanethernet" uid="11930992" lat="45.3362714" lon="9.7792095"/>
+ <node id="7979697825" visible="true" version="1" changeset="92019801" timestamp="2020-10-06T05:38:31Z" user="wanethernet" uid="11930992" lat="45.3362487" lon="9.7800115"/>
+ <node id="7979697826" visible="true" version="1" changeset="92019801" timestamp="2020-10-06T05:38:31Z" user="wanethernet" uid="11930992" lat="45.3361281" lon="9.7800356"/>
+ <node id="7979697827" visible="true" version="1" changeset="92019801" timestamp="2020-10-06T05:38:31Z" user="wanethernet" uid="11930992" lat="45.3361243" lon="9.7798934"/>
+ <node id="7979698341" visible="true" version="1" changeset="92019666" timestamp="2020-10-06T05:36:01Z" user="wanethernet" uid="11930992" lat="45.3363996" lon="9.7792846"/>
+ <node id="7979698342" visible="true" version="1" changeset="92019666" timestamp="2020-10-06T05:36:01Z" user="wanethernet" uid="11930992" lat="45.3363826" lon="9.7796333"/>
+ <node id="7979698343" visible="true" version="1" changeset="92019666" timestamp="2020-10-06T05:36:01Z" user="wanethernet" uid="11930992" lat="45.3363204" lon="9.7796333"/>
+ <node id="7979698344" visible="true" version="1" changeset="92019666" timestamp="2020-10-06T05:36:01Z" user="wanethernet" uid="11930992" lat="45.3363279" lon="9.7792819"/>
+ <node id="7979700387" visible="true" version="1" changeset="92019642" timestamp="2020-10-06T05:35:33Z" user="wanethernet" uid="11930992" lat="45.3364165" lon="9.7791424"/>
+ <node id="7979700388" visible="true" version="1" changeset="92019642" timestamp="2020-10-06T05:35:33Z" user="wanethernet" uid="11930992" lat="45.3364165" lon="9.7792846"/>
+ <node id="7979700389" visible="true" version="1" changeset="92019642" timestamp="2020-10-06T05:35:33Z" user="wanethernet" uid="11930992" lat="45.3363487" lon="9.7792846"/>
+ <node id="7979700390" visible="true" version="1" changeset="92019642" timestamp="2020-10-06T05:35:33Z" user="wanethernet" uid="11930992" lat="45.3363505" lon="9.7791397"/>
+ <node id="7979702226" visible="true" version="1" changeset="92019761" timestamp="2020-10-06T05:37:44Z" user="wanethernet" uid="11930992" lat="45.3362393" lon="9.7797915"/>
+ <node id="7979702227" visible="true" version="1" changeset="92019761" timestamp="2020-10-06T05:37:44Z" user="wanethernet" uid="11930992" lat="45.3362431" lon="9.7798800"/>
+ <node id="7979702228" visible="true" version="1" changeset="92019761" timestamp="2020-10-06T05:37:44Z" user="wanethernet" uid="11930992" lat="45.3361469" lon="9.7798908"/>
+ <node id="7979702229" visible="true" version="1" changeset="92019761" timestamp="2020-10-06T05:37:44Z" user="wanethernet" uid="11930992" lat="45.3361413" lon="9.7797996"/>
+ <node id="7979702230" visible="true" version="1" changeset="92019761" timestamp="2020-10-06T05:37:44Z" user="wanethernet" uid="11930992" lat="45.3361520" lon="9.7797987"/>
+ <node id="7979704792" visible="true" version="1" changeset="92019713" timestamp="2020-10-06T05:36:41Z" user="wanethernet" uid="11930992" lat="45.3359320" lon="9.7793248"/>
+ <node id="7979704793" visible="true" version="1" changeset="92019713" timestamp="2020-10-06T05:36:41Z" user="wanethernet" uid="11930992" lat="45.3359056" lon="9.7794187"/>
+ <node id="7979704794" visible="true" version="1" changeset="92019713" timestamp="2020-10-06T05:36:41Z" user="wanethernet" uid="11930992" lat="45.3358716" lon="9.7794026"/>
+ <node id="7979704795" visible="true" version="1" changeset="92019713" timestamp="2020-10-06T05:36:41Z" user="wanethernet" uid="11930992" lat="45.3358980" lon="9.7793034"/>
+ <node id="7979704796" visible="true" version="1" changeset="92019713" timestamp="2020-10-06T05:36:41Z" user="wanethernet" uid="11930992" lat="45.3359217" lon="9.7793613"/>
+ <node id="7979718973" visible="true" version="1" changeset="92020620" timestamp="2020-10-06T05:55:13Z" user="wanethernet" uid="11930992" lat="45.3357246" lon="9.7802716"/>
+ <node id="7979718974" visible="true" version="1" changeset="92020620" timestamp="2020-10-06T05:55:13Z" user="wanethernet" uid="11930992" lat="45.3357246" lon="9.7805962"/>
+ <node id="7979718975" visible="true" version="1" changeset="92020620" timestamp="2020-10-06T05:55:13Z" user="wanethernet" uid="11930992" lat="45.3356397" lon="9.7805988"/>
+ <node id="7979718976" visible="true" version="1" changeset="92020620" timestamp="2020-10-06T05:55:13Z" user="wanethernet" uid="11930992" lat="45.3356435" lon="9.7802743"/>
+ <node id="7979721956" visible="true" version="1" changeset="92020529" timestamp="2020-10-06T05:53:17Z" user="wanethernet" uid="11930992" lat="45.3360036" lon="9.7801643"/>
+ <node id="7979721957" visible="true" version="1" changeset="92020529" timestamp="2020-10-06T05:53:17Z" user="wanethernet" uid="11930992" lat="45.3360357" lon="9.7806632"/>
+ <node id="7979721958" visible="true" version="1" changeset="92020529" timestamp="2020-10-06T05:53:17Z" user="wanethernet" uid="11930992" lat="45.3359207" lon="9.7806632"/>
+ <node id="7979721959" visible="true" version="1" changeset="92020529" timestamp="2020-10-06T05:53:17Z" user="wanethernet" uid="11930992" lat="45.3359150" lon="9.7803735"/>
+ <node id="7979721960" visible="true" version="1" changeset="92020529" timestamp="2020-10-06T05:53:17Z" user="wanethernet" uid="11930992" lat="45.3358735" lon="9.7803789"/>
+ <node id="7979721961" visible="true" version="1" changeset="92020529" timestamp="2020-10-06T05:53:17Z" user="wanethernet" uid="11930992" lat="45.3358641" lon="9.7801751"/>
+ <node id="7979723832" visible="true" version="1" changeset="92020679" timestamp="2020-10-06T05:56:24Z" user="wanethernet" uid="11930992" lat="45.3356152" lon="9.7803574"/>
+ <node id="7979723833" visible="true" version="1" changeset="92020679" timestamp="2020-10-06T05:56:24Z" user="wanethernet" uid="11930992" lat="45.3356096" lon="9.7806739"/>
+ <node id="7979723834" visible="true" version="1" changeset="92020679" timestamp="2020-10-06T05:56:24Z" user="wanethernet" uid="11930992" lat="45.3353663" lon="9.7806525"/>
+ <node id="7979723835" visible="true" version="1" changeset="92020679" timestamp="2020-10-06T05:56:24Z" user="wanethernet" uid="11930992" lat="45.3353927" lon="9.7803279"/>
+ <node id="7979723836" visible="true" version="1" changeset="92020679" timestamp="2020-10-06T05:56:24Z" user="wanethernet" uid="11930992" lat="45.3354663" lon="9.7803306"/>
+ <node id="7979723837" visible="true" version="1" changeset="92020679" timestamp="2020-10-06T05:56:24Z" user="wanethernet" uid="11930992" lat="45.3354663" lon="9.7804969"/>
+ <node id="7979723838" visible="true" version="1" changeset="92020679" timestamp="2020-10-06T05:56:24Z" user="wanethernet" uid="11930992" lat="45.3355209" lon="9.7805023"/>
+ <node id="7979723839" visible="true" version="1" changeset="92020679" timestamp="2020-10-06T05:56:24Z" user="wanethernet" uid="11930992" lat="45.3355285" lon="9.7803467"/>
+ <node id="7979730677" visible="true" version="2" changeset="92269672" timestamp="2020-10-10T09:43:49Z" user="Alecs01" uid="1476146" lat="45.3352004" lon="9.7809261"/>
+ <node id="7979730678" visible="true" version="2" changeset="92269672" timestamp="2020-10-10T09:43:49Z" user="Alecs01" uid="1476146" lat="45.3351495" lon="9.7813847"/>
+ <node id="7979730679" visible="true" version="2" changeset="92269672" timestamp="2020-10-10T09:43:49Z" user="Alecs01" uid="1476146" lat="45.3349647" lon="9.7813552"/>
+ <node id="7979730680" visible="true" version="2" changeset="92269672" timestamp="2020-10-10T09:43:49Z" user="Alecs01" uid="1476146" lat="45.3350269" lon="9.7808858"/>
+ <node id="7979735710" visible="true" version="1" changeset="92020589" timestamp="2020-10-06T05:54:32Z" user="wanethernet" uid="11930992" lat="45.3361488" lon="9.7805157"/>
+ <node id="7979735711" visible="true" version="1" changeset="92020589" timestamp="2020-10-06T05:54:32Z" user="wanethernet" uid="11930992" lat="45.3361488" lon="9.7805586"/>
+ <node id="7979735712" visible="true" version="1" changeset="92020589" timestamp="2020-10-06T05:54:32Z" user="wanethernet" uid="11930992" lat="45.3361149" lon="9.7805586"/>
+ <node id="7979735713" visible="true" version="1" changeset="92020589" timestamp="2020-10-06T05:54:32Z" user="wanethernet" uid="11930992" lat="45.3361149" lon="9.7806525"/>
+ <node id="7979735714" visible="true" version="1" changeset="92020589" timestamp="2020-10-06T05:54:32Z" user="wanethernet" uid="11930992" lat="45.3360545" lon="9.7806579"/>
+ <node id="7979735715" visible="true" version="1" changeset="92020589" timestamp="2020-10-06T05:54:32Z" user="wanethernet" uid="11930992" lat="45.3360470" lon="9.7805211"/>
+ <node id="7979735733" visible="true" version="1" changeset="92020640" timestamp="2020-10-06T05:55:42Z" user="wanethernet" uid="11930992" lat="45.3358603" lon="9.7806149"/>
+ <node id="7979735734" visible="true" version="1" changeset="92020640" timestamp="2020-10-06T05:55:42Z" user="wanethernet" uid="11930992" lat="45.3358603" lon="9.7806766"/>
+ <node id="7979735735" visible="true" version="1" changeset="92020640" timestamp="2020-10-06T05:55:42Z" user="wanethernet" uid="11930992" lat="45.3356416" lon="9.7806820"/>
+ <node id="7979735736" visible="true" version="1" changeset="92020640" timestamp="2020-10-06T05:55:42Z" user="wanethernet" uid="11930992" lat="45.3356416" lon="9.7806149"/>
+ <node id="7979737550" visible="true" version="1" changeset="92020560" timestamp="2020-10-06T05:53:56Z" user="wanethernet" uid="11930992" lat="45.3359301" lon="9.7802609"/>
+ <node id="7979737551" visible="true" version="1" changeset="92020560" timestamp="2020-10-06T05:53:56Z" user="wanethernet" uid="11930992" lat="45.3359358" lon="9.7803574"/>
+ <node id="7979737552" visible="true" version="1" changeset="92020560" timestamp="2020-10-06T05:53:56Z" user="wanethernet" uid="11930992" lat="45.3358727" lon="9.7803607"/>
+ <node id="7979737553" visible="true" version="1" changeset="92020560" timestamp="2020-10-06T05:53:56Z" user="wanethernet" uid="11930992" lat="45.3358682" lon="9.7802642"/>
+ <node id="7979738229" visible="true" version="1" changeset="92020707" timestamp="2020-10-06T05:56:57Z" user="wanethernet" uid="11930992" lat="45.3361318" lon="9.7807732"/>
+ <node id="7979738230" visible="true" version="1" changeset="92020707" timestamp="2020-10-06T05:56:57Z" user="wanethernet" uid="11930992" lat="45.3361356" lon="9.7811246"/>
+ <node id="7979738231" visible="true" version="1" changeset="92020707" timestamp="2020-10-06T05:56:57Z" user="wanethernet" uid="11930992" lat="45.3359961" lon="9.7811299"/>
+ <node id="7979738232" visible="true" version="1" changeset="92020707" timestamp="2020-10-06T05:56:57Z" user="wanethernet" uid="11930992" lat="45.3359942" lon="9.7807786"/>
+ <node id="7979742501" visible="true" version="1" changeset="92020729" timestamp="2020-10-06T05:57:28Z" user="wanethernet" uid="11930992" lat="45.3358999" lon="9.7807812"/>
+ <node id="7979742502" visible="true" version="1" changeset="92020729" timestamp="2020-10-06T05:57:28Z" user="wanethernet" uid="11930992" lat="45.3358980" lon="9.7808832"/>
+ <node id="7979742503" visible="true" version="1" changeset="92020729" timestamp="2020-10-06T05:57:28Z" user="wanethernet" uid="11930992" lat="45.3359263" lon="9.7808832"/>
+ <node id="7979742504" visible="true" version="1" changeset="92020729" timestamp="2020-10-06T05:57:28Z" user="wanethernet" uid="11930992" lat="45.3359263" lon="9.7810655"/>
+ <node id="7979742505" visible="true" version="1" changeset="92020729" timestamp="2020-10-06T05:57:28Z" user="wanethernet" uid="11930992" lat="45.3358132" lon="9.7810655"/>
+ <node id="7979742506" visible="true" version="1" changeset="92020729" timestamp="2020-10-06T05:57:28Z" user="wanethernet" uid="11930992" lat="45.3358094" lon="9.7807759"/>
+ <node id="7979830137" visible="true" version="1" changeset="92023178" timestamp="2020-10-06T06:35:12Z" user="wanethernet" uid="11930992" lat="45.3353093" lon="9.7806917">
+  <tag k="bus" v="yes"/>
+  <tag k="highway" v="bus_stop"/>
+  <tag k="public_transport" v="platform"/>
+ </node>
+ <node id="7979833391" visible="true" version="1" changeset="92023094" timestamp="2020-10-06T06:34:10Z" user="wanethernet" uid="11930992" lat="45.3355790" lon="9.7807508"/>
+ <node id="7979833392" visible="true" version="1" changeset="92023094" timestamp="2020-10-06T06:34:10Z" user="wanethernet" uid="11930992" lat="45.3355846" lon="9.7809680"/>
+ <node id="7979833393" visible="true" version="1" changeset="92023094" timestamp="2020-10-06T06:34:10Z" user="wanethernet" uid="11930992" lat="45.3355375" lon="9.7809680"/>
+ <node id="7979833394" visible="true" version="1" changeset="92023094" timestamp="2020-10-06T06:34:10Z" user="wanethernet" uid="11930992" lat="45.3355318" lon="9.7808527"/>
+ <node id="7979833395" visible="true" version="1" changeset="92023094" timestamp="2020-10-06T06:34:10Z" user="wanethernet" uid="11930992" lat="45.3353791" lon="9.7808661"/>
+ <node id="7979833396" visible="true" version="1" changeset="92023094" timestamp="2020-10-06T06:34:10Z" user="wanethernet" uid="11930992" lat="45.3353866" lon="9.7807642"/>
+ <node id="7979833446" visible="true" version="1" changeset="92023253" timestamp="2020-10-06T06:36:20Z" user="wanethernet" uid="11930992" lat="45.3350322" lon="9.7805871">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="7979844362" visible="true" version="1" changeset="92023703" timestamp="2020-10-06T06:42:51Z" user="wanethernet" uid="11930992" lat="45.3355363" lon="9.7809432"/>
+ <node id="7979844363" visible="true" version="1" changeset="92023703" timestamp="2020-10-06T06:42:51Z" user="wanethernet" uid="11930992" lat="45.3355394" lon="9.7810190"/>
+ <node id="7979844364" visible="true" version="1" changeset="92023703" timestamp="2020-10-06T06:42:51Z" user="wanethernet" uid="11930992" lat="45.3354074" lon="9.7810190"/>
+ <node id="7979844365" visible="true" version="1" changeset="92023703" timestamp="2020-10-06T06:42:51Z" user="wanethernet" uid="11930992" lat="45.3354093" lon="9.7809412"/>
+ <node id="7979845837" visible="true" version="1" changeset="92023223" timestamp="2020-10-06T06:35:57Z" user="wanethernet" uid="11930992" lat="45.3353452" lon="9.7807803">
+  <tag k="bus" v="yes"/>
+  <tag k="highway" v="bus_stop"/>
+  <tag k="public_transport" v="platform"/>
+ </node>
+ <node id="7979873701" visible="true" version="1" changeset="92023808" timestamp="2020-10-06T06:44:05Z" user="wanethernet" uid="11930992" lat="45.3356336" lon="9.7809814"/>
+ <node id="7979873702" visible="true" version="1" changeset="92023808" timestamp="2020-10-06T06:44:05Z" user="wanethernet" uid="11930992" lat="45.3356317" lon="9.7814642"/>
+ <node id="7979874098" visible="true" version="1" changeset="92023753" timestamp="2020-10-06T06:43:31Z" user="wanethernet" uid="11930992" lat="45.3353263" lon="9.7809519"/>
+ <node id="7979874099" visible="true" version="1" changeset="92023753" timestamp="2020-10-06T06:43:31Z" user="wanethernet" uid="11930992" lat="45.3352999" lon="9.7814401"/>
+ <node id="7979874100" visible="true" version="1" changeset="92023753" timestamp="2020-10-06T06:43:31Z" user="wanethernet" uid="11930992" lat="45.3355280" lon="9.7814615"/>
+ <node id="7979874101" visible="true" version="1" changeset="92023753" timestamp="2020-10-06T06:43:31Z" user="wanethernet" uid="11930992" lat="45.3355318" lon="9.7813757"/>
+ <node id="7979874102" visible="true" version="1" changeset="92023753" timestamp="2020-10-06T06:43:31Z" user="wanethernet" uid="11930992" lat="45.3353584" lon="9.7813596"/>
+ <node id="7979874103" visible="true" version="1" changeset="92023753" timestamp="2020-10-06T06:43:31Z" user="wanethernet" uid="11930992" lat="45.3353659" lon="9.7810512"/>
+ <node id="7979874104" visible="true" version="1" changeset="92023753" timestamp="2020-10-06T06:43:31Z" user="wanethernet" uid="11930992" lat="45.3354074" lon="9.7810538"/>
+ <node id="7980106114" visible="true" version="1" changeset="92030093" timestamp="2020-10-06T08:01:19Z" user="wanethernet" uid="11930992" lat="45.3351717" lon="9.7800453"/>
+ <node id="7980106115" visible="true" version="1" changeset="92030093" timestamp="2020-10-06T08:01:19Z" user="wanethernet" uid="11930992" lat="45.3351623" lon="9.7800909"/>
+ <node id="7980106116" visible="true" version="1" changeset="92030093" timestamp="2020-10-06T08:01:19Z" user="wanethernet" uid="11930992" lat="45.3351868" lon="9.7800990"/>
+ <node id="7980106117" visible="true" version="1" changeset="92030093" timestamp="2020-10-06T08:01:19Z" user="wanethernet" uid="11930992" lat="45.3351698" lon="9.7801902"/>
+ <node id="7980106118" visible="true" version="1" changeset="92030093" timestamp="2020-10-06T08:01:19Z" user="wanethernet" uid="11930992" lat="45.3350095" lon="9.7801365"/>
+ <node id="7980106119" visible="true" version="1" changeset="92030093" timestamp="2020-10-06T08:01:19Z" user="wanethernet" uid="11930992" lat="45.3350340" lon="9.7800024"/>
+ <node id="7982149708" visible="true" version="1" changeset="92061779" timestamp="2020-10-06T17:02:10Z" user="wanethernet" uid="11930992" lat="45.3348334" lon="9.7803004"/>
+ <node id="7982149709" visible="true" version="1" changeset="92061779" timestamp="2020-10-06T17:02:10Z" user="wanethernet" uid="11930992" lat="45.3348372" lon="9.7805955"/>
+ <node id="7982149710" visible="true" version="1" changeset="92061779" timestamp="2020-10-06T17:02:10Z" user="wanethernet" uid="11930992" lat="45.3346977" lon="9.7806035"/>
+ <node id="7982149711" visible="true" version="1" changeset="92061779" timestamp="2020-10-06T17:02:10Z" user="wanethernet" uid="11930992" lat="45.3346939" lon="9.7803085"/>
+ <node id="7982170735" visible="true" version="1" changeset="92061817" timestamp="2020-10-06T17:03:10Z" user="wanethernet" uid="11930992" lat="45.3347599" lon="9.7801583"/>
+ <node id="7982170736" visible="true" version="1" changeset="92061817" timestamp="2020-10-06T17:03:10Z" user="wanethernet" uid="11930992" lat="45.3347656" lon="9.7802441"/>
+ <node id="7982170737" visible="true" version="1" changeset="92061817" timestamp="2020-10-06T17:03:10Z" user="wanethernet" uid="11930992" lat="45.3345525" lon="9.7802843"/>
+ <node id="7982170738" visible="true" version="1" changeset="92061817" timestamp="2020-10-06T17:03:10Z" user="wanethernet" uid="11930992" lat="45.3345468" lon="9.7801824"/>
+ <node id="7982184544" visible="true" version="1" changeset="92061929" timestamp="2020-10-06T17:06:11Z" user="wanethernet" uid="11930992" lat="45.3343489" lon="9.7804506"/>
+ <node id="7982184545" visible="true" version="1" changeset="92061929" timestamp="2020-10-06T17:06:11Z" user="wanethernet" uid="11930992" lat="45.3342640" lon="9.7803273"/>
+ <node id="7982184546" visible="true" version="1" changeset="92061929" timestamp="2020-10-06T17:06:11Z" user="wanethernet" uid="11930992" lat="45.3342263" lon="9.7803890"/>
+ <node id="7982184547" visible="true" version="1" changeset="92061929" timestamp="2020-10-06T17:06:11Z" user="wanethernet" uid="11930992" lat="45.3343055" lon="9.7805150"/>
+ <node id="7982188431" visible="true" version="1" changeset="92061872" timestamp="2020-10-06T17:04:54Z" user="wanethernet" uid="11930992" lat="45.3348579" lon="9.7799678"/>
+ <node id="7982188432" visible="true" version="1" changeset="92061872" timestamp="2020-10-06T17:04:54Z" user="wanethernet" uid="11930992" lat="45.3348504" lon="9.7802119"/>
+ <node id="7982188433" visible="true" version="1" changeset="92061872" timestamp="2020-10-06T17:04:54Z" user="wanethernet" uid="11930992" lat="45.3347976" lon="9.7802253"/>
+ <node id="7982188434" visible="true" version="1" changeset="92061872" timestamp="2020-10-06T17:04:54Z" user="wanethernet" uid="11930992" lat="45.3347976" lon="9.7799759"/>
+ <node id="7982189373" visible="true" version="1" changeset="92061837" timestamp="2020-10-06T17:03:37Z" user="wanethernet" uid="11930992" lat="45.3346096" lon="9.7801753"/>
+ <node id="7982189374" visible="true" version="1" changeset="92061837" timestamp="2020-10-06T17:03:37Z" user="wanethernet" uid="11930992" lat="45.3346336" lon="9.7798257"/>
+ <node id="7982189375" visible="true" version="1" changeset="92061837" timestamp="2020-10-06T17:03:37Z" user="wanethernet" uid="11930992" lat="45.3346807" lon="9.7798257"/>
+ <node id="7982189376" visible="true" version="1" changeset="92061837" timestamp="2020-10-06T17:03:37Z" user="wanethernet" uid="11930992" lat="45.3346883" lon="9.7797479"/>
+ <node id="7982189377" visible="true" version="1" changeset="92061837" timestamp="2020-10-06T17:03:37Z" user="wanethernet" uid="11930992" lat="45.3345770" lon="9.7797479"/>
+ <node id="7982189378" visible="true" version="1" changeset="92061895" timestamp="2020-10-06T17:05:20Z" user="wanethernet" uid="11930992" lat="45.3345167" lon="9.7800725"/>
+ <node id="7982189379" visible="true" version="1" changeset="92061895" timestamp="2020-10-06T17:05:20Z" user="wanethernet" uid="11930992" lat="45.3345110" lon="9.7801932"/>
+ <node id="7982189380" visible="true" version="1" changeset="92061895" timestamp="2020-10-06T17:05:20Z" user="wanethernet" uid="11930992" lat="45.3344243" lon="9.7801932"/>
+ <node id="7982189381" visible="true" version="1" changeset="92061895" timestamp="2020-10-06T17:05:20Z" user="wanethernet" uid="11930992" lat="45.3344281" lon="9.7800671"/>
+ <node id="7982189382" visible="true" version="1" changeset="92061917" timestamp="2020-10-06T17:05:45Z" user="wanethernet" uid="11930992" lat="45.3343941" lon="9.7798498"/>
+ <node id="7982189383" visible="true" version="1" changeset="92061917" timestamp="2020-10-06T17:05:45Z" user="wanethernet" uid="11930992" lat="45.3344356" lon="9.7799786"/>
+ <node id="7982189384" visible="true" version="1" changeset="92061917" timestamp="2020-10-06T17:05:45Z" user="wanethernet" uid="11930992" lat="45.3343413" lon="9.7800617"/>
+ <node id="7982207901" visible="true" version="1" changeset="92061852" timestamp="2020-10-06T17:04:10Z" user="wanethernet" uid="11930992" lat="45.3348466" lon="9.7799652"/>
+ <node id="7982207902" visible="true" version="1" changeset="92061852" timestamp="2020-10-06T17:04:10Z" user="wanethernet" uid="11930992" lat="45.3348598" lon="9.7798364"/>
+ <node id="7982207903" visible="true" version="1" changeset="92061852" timestamp="2020-10-06T17:04:10Z" user="wanethernet" uid="11930992" lat="45.3347128" lon="9.7798498"/>
+ <node id="7982207904" visible="true" version="1" changeset="92061852" timestamp="2020-10-06T17:04:10Z" user="wanethernet" uid="11930992" lat="45.3347165" lon="9.7799142"/>
+ <node id="7982209905" visible="true" version="1" changeset="92061795" timestamp="2020-10-06T17:02:32Z" user="wanethernet" uid="11930992" lat="45.3349654" lon="9.7809039">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="7982213800" visible="true" version="1" changeset="92061958" timestamp="2020-10-06T17:06:52Z" user="wanethernet" uid="11930992" lat="45.3342659" lon="9.7799491"/>
+ <node id="7982213801" visible="true" version="1" changeset="92061958" timestamp="2020-10-06T17:06:52Z" user="wanethernet" uid="11930992" lat="45.3343281" lon="9.7800805"/>
+ <node id="7982213802" visible="true" version="1" changeset="92061958" timestamp="2020-10-06T17:06:52Z" user="wanethernet" uid="11930992" lat="45.3342188" lon="9.7802253"/>
+ <node id="7982213803" visible="true" version="1" changeset="92061958" timestamp="2020-10-06T17:06:52Z" user="wanethernet" uid="11930992" lat="45.3341415" lon="9.7800885"/>
+ <node id="7982217985" visible="true" version="1" changeset="92061917" timestamp="2020-10-06T17:05:45Z" user="wanethernet" uid="11930992" lat="45.3342980" lon="9.7799249"/>
+ <node id="7989224815" visible="true" version="1" changeset="92190337" timestamp="2020-10-08T18:05:33Z" user="wanethernet" uid="11930992" lat="45.3341435" lon="9.7805442">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="7989224824" visible="true" version="1" changeset="92190423" timestamp="2020-10-08T18:07:12Z" user="wanethernet" uid="11930992" lat="45.3336174" lon="9.7800775"/>
+ <node id="7989224825" visible="true" version="1" changeset="92190423" timestamp="2020-10-08T18:07:12Z" user="wanethernet" uid="11930992" lat="45.3336514" lon="9.7802196"/>
+ <node id="7989224826" visible="true" version="1" changeset="92190423" timestamp="2020-10-08T18:07:12Z" user="wanethernet" uid="11930992" lat="45.3336306" lon="9.7803564"/>
+ <node id="7989224827" visible="true" version="1" changeset="92190423" timestamp="2020-10-08T18:07:12Z" user="wanethernet" uid="11930992" lat="45.3335590" lon="9.7803323"/>
+ <node id="7989224828" visible="true" version="1" changeset="92190423" timestamp="2020-10-08T18:07:12Z" user="wanethernet" uid="11930992" lat="45.3335722" lon="9.7802679"/>
+ <node id="7989224829" visible="true" version="1" changeset="92190423" timestamp="2020-10-08T18:07:12Z" user="wanethernet" uid="11930992" lat="45.3335307" lon="9.7801311"/>
+ <node id="7989232469" visible="true" version="1" changeset="92190365" timestamp="2020-10-08T18:06:02Z" user="wanethernet" uid="11930992" lat="45.3342038" lon="9.7803886"/>
+ <node id="7989232470" visible="true" version="1" changeset="92190365" timestamp="2020-10-08T18:06:02Z" user="wanethernet" uid="11930992" lat="45.3341284" lon="9.7802706"/>
+ <node id="7989232471" visible="true" version="1" changeset="92190365" timestamp="2020-10-08T18:06:02Z" user="wanethernet" uid="11930992" lat="45.3340587" lon="9.7803779"/>
+ <node id="7989232472" visible="true" version="1" changeset="92190365" timestamp="2020-10-08T18:06:02Z" user="wanethernet" uid="11930992" lat="45.3341341" lon="9.7804959"/>
+ <node id="7989241360" visible="true" version="1" changeset="92190514" timestamp="2020-10-08T18:09:14Z" user="wanethernet" uid="11930992" lat="45.3331706" lon="9.7804825"/>
+ <node id="7989241361" visible="true" version="1" changeset="92190514" timestamp="2020-10-08T18:09:14Z" user="wanethernet" uid="11930992" lat="45.3331574" lon="9.7806461"/>
+ <node id="7989241362" visible="true" version="1" changeset="92190514" timestamp="2020-10-08T18:09:14Z" user="wanethernet" uid="11930992" lat="45.3329632" lon="9.7806300"/>
+ <node id="7989241363" visible="true" version="1" changeset="92190514" timestamp="2020-10-08T18:09:14Z" user="wanethernet" uid="11930992" lat="45.3329745" lon="9.7804610"/>
+ <node id="7989253834" visible="true" version="1" changeset="92190475" timestamp="2020-10-08T18:08:23Z" user="wanethernet" uid="11930992" lat="45.3333629" lon="9.7800721"/>
+ <node id="7989253835" visible="true" version="1" changeset="92190475" timestamp="2020-10-08T18:08:23Z" user="wanethernet" uid="11930992" lat="45.3333440" lon="9.7805173"/>
+ <node id="7989253836" visible="true" version="1" changeset="92190475" timestamp="2020-10-08T18:08:23Z" user="wanethernet" uid="11930992" lat="45.3332630" lon="9.7805093"/>
+ <node id="7989253837" visible="true" version="1" changeset="92190475" timestamp="2020-10-08T18:08:23Z" user="wanethernet" uid="11930992" lat="45.3332837" lon="9.7800560"/>
+ <node id="7989270439" visible="true" version="1" changeset="92190398" timestamp="2020-10-08T18:06:40Z" user="wanethernet" uid="11930992" lat="45.3337815" lon="9.7796939"/>
+ <node id="7989270440" visible="true" version="1" changeset="92190398" timestamp="2020-10-08T18:06:40Z" user="wanethernet" uid="11930992" lat="45.3337834" lon="9.7800721"/>
+ <node id="7989270441" visible="true" version="1" changeset="92190398" timestamp="2020-10-08T18:06:40Z" user="wanethernet" uid="11930992" lat="45.3336344" lon="9.7800801"/>
+ <node id="7989270442" visible="true" version="1" changeset="92190398" timestamp="2020-10-08T18:06:40Z" user="wanethernet" uid="11930992" lat="45.3336344" lon="9.7796912"/>
+ <node id="7989272862" visible="true" version="1" changeset="92190445" timestamp="2020-10-08T18:07:44Z" user="wanethernet" uid="11930992" lat="45.3334930" lon="9.7801687"/>
+ <node id="7989272863" visible="true" version="1" changeset="92190445" timestamp="2020-10-08T18:07:44Z" user="wanethernet" uid="11930992" lat="45.3334553" lon="9.7805281"/>
+ <node id="7989272864" visible="true" version="1" changeset="92190445" timestamp="2020-10-08T18:07:44Z" user="wanethernet" uid="11930992" lat="45.3333629" lon="9.7805066"/>
+ <node id="7989272865" visible="true" version="1" changeset="92190445" timestamp="2020-10-08T18:07:44Z" user="wanethernet" uid="11930992" lat="45.3334025" lon="9.7801365"/>
+ <node id="7992300935" visible="true" version="1" changeset="92241677" timestamp="2020-10-09T13:49:38Z" user="wanethernet" uid="11930992" lat="45.3329562" lon="9.7808434"/>
+ <node id="7992300936" visible="true" version="1" changeset="92241677" timestamp="2020-10-09T13:49:38Z" user="wanethernet" uid="11930992" lat="45.3329505" lon="9.7809426"/>
+ <node id="7992300937" visible="true" version="1" changeset="92241677" timestamp="2020-10-09T13:49:38Z" user="wanethernet" uid="11930992" lat="45.3328016" lon="9.7809265"/>
+ <node id="7992300938" visible="true" version="1" changeset="92241677" timestamp="2020-10-09T13:49:38Z" user="wanethernet" uid="11930992" lat="45.3328129" lon="9.7806959"/>
+ <node id="7992300939" visible="true" version="1" changeset="92241677" timestamp="2020-10-09T13:49:38Z" user="wanethernet" uid="11930992" lat="45.3328977" lon="9.7807039"/>
+ <node id="7992300940" visible="true" version="1" changeset="92241677" timestamp="2020-10-09T13:49:38Z" user="wanethernet" uid="11930992" lat="45.3328902" lon="9.7808353"/>
+ <node id="7992300941" visible="true" version="1" changeset="92241677" timestamp="2020-10-09T13:49:38Z" user="wanethernet" uid="11930992" lat="45.3328940" lon="9.7807696"/>
+ <node id="7992323858" visible="true" version="1" changeset="92241629" timestamp="2020-10-09T13:48:29Z" user="wanethernet" uid="11930992" lat="45.3330938" lon="9.7811197"/>
+ <node id="7992323859" visible="true" version="1" changeset="92241629" timestamp="2020-10-09T13:48:29Z" user="wanethernet" uid="11930992" lat="45.3329788" lon="9.7811170"/>
+ <node id="7992325347" visible="true" version="1" changeset="92241735" timestamp="2020-10-09T13:50:39Z" user="wanethernet" uid="11930992" lat="45.3331297" lon="9.7807307"/>
+ <node id="7992325348" visible="true" version="1" changeset="92241735" timestamp="2020-10-09T13:50:39Z" user="wanethernet" uid="11930992" lat="45.3331259" lon="9.7809507"/>
+ <node id="7992325349" visible="true" version="1" changeset="92241735" timestamp="2020-10-09T13:50:39Z" user="wanethernet" uid="11930992" lat="45.3330165" lon="9.7809507"/>
+ <node id="7992325350" visible="true" version="1" changeset="92241735" timestamp="2020-10-09T13:50:39Z" user="wanethernet" uid="11930992" lat="45.3330241" lon="9.7807254"/>
+ <node id="7992326800" visible="true" version="1" changeset="92241706" timestamp="2020-10-09T13:50:10Z" user="wanethernet" uid="11930992" lat="45.3330203" lon="9.7813680"/>
+ <node id="7992326801" visible="true" version="1" changeset="92241706" timestamp="2020-10-09T13:50:10Z" user="wanethernet" uid="11930992" lat="45.3330203" lon="9.7814281"/>
+ <node id="7992326802" visible="true" version="1" changeset="92241706" timestamp="2020-10-09T13:50:10Z" user="wanethernet" uid="11930992" lat="45.3329694" lon="9.7814281"/>
+ <node id="7992334757" visible="true" version="1" changeset="92241651" timestamp="2020-10-09T13:48:58Z" user="wanethernet" uid="11930992" lat="45.3329260" lon="9.7813798"/>
+ <node id="7992334758" visible="true" version="1" changeset="92241651" timestamp="2020-10-09T13:48:58Z" user="wanethernet" uid="11930992" lat="45.3329166" lon="9.7815542"/>
+ <node id="7992334759" visible="true" version="1" changeset="92241651" timestamp="2020-10-09T13:48:58Z" user="wanethernet" uid="11930992" lat="45.3327959" lon="9.7815542"/>
+ <node id="7992334760" visible="true" version="1" changeset="92241651" timestamp="2020-10-09T13:48:58Z" user="wanethernet" uid="11930992" lat="45.3328035" lon="9.7813718"/>
+ <node id="7992359518" visible="true" version="1" changeset="92241598" timestamp="2020-10-09T13:47:51Z" user="wanethernet" uid="11930992" lat="45.3330938" lon="9.7812269"/>
+ <node id="7992359519" visible="true" version="1" changeset="92241598" timestamp="2020-10-09T13:47:51Z" user="wanethernet" uid="11930992" lat="45.3330938" lon="9.7813664"/>
+ <node id="7992359520" visible="true" version="1" changeset="92241598" timestamp="2020-10-09T13:47:51Z" user="wanethernet" uid="11930992" lat="45.3329732" lon="9.7813691"/>
+ <node id="7992359521" visible="true" version="1" changeset="92241598" timestamp="2020-10-09T13:47:51Z" user="wanethernet" uid="11930992" lat="45.3329732" lon="9.7812269"/>
+ <node id="7993095059" visible="true" version="1" changeset="92251962" timestamp="2020-10-09T18:48:05Z" user="wanethernet" uid="11930992" lat="45.3329661" lon="9.7797813"/>
+ <node id="7993095060" visible="true" version="1" changeset="92251962" timestamp="2020-10-09T18:48:05Z" user="wanethernet" uid="11930992" lat="45.3329661" lon="9.7799878"/>
+ <node id="7993095061" visible="true" version="1" changeset="92251962" timestamp="2020-10-09T18:48:05Z" user="wanethernet" uid="11930992" lat="45.3328001" lon="9.7799932"/>
+ <node id="7993095062" visible="true" version="1" changeset="92251962" timestamp="2020-10-09T18:48:05Z" user="wanethernet" uid="11930992" lat="45.3328001" lon="9.7797839"/>
+ <node id="7993099607" visible="true" version="1" changeset="92252092" timestamp="2020-10-09T18:52:19Z" user="wanethernet" uid="11930992" lat="45.3334525" lon="9.7794755"/>
+ <node id="7993099608" visible="true" version="1" changeset="92252092" timestamp="2020-10-09T18:52:19Z" user="wanethernet" uid="11930992" lat="45.3334412" lon="9.7796257"/>
+ <node id="7993099609" visible="true" version="1" changeset="92252092" timestamp="2020-10-09T18:52:19Z" user="wanethernet" uid="11930992" lat="45.3333168" lon="9.7796176"/>
+ <node id="7993099610" visible="true" version="1" changeset="92252092" timestamp="2020-10-09T18:52:19Z" user="wanethernet" uid="11930992" lat="45.3333281" lon="9.7794621"/>
+ <node id="7993102710" visible="true" version="1" changeset="92252073" timestamp="2020-10-09T18:51:43Z" user="wanethernet" uid="11930992" lat="45.3333319" lon="9.7791992"/>
+ <node id="7993102711" visible="true" version="1" changeset="92252073" timestamp="2020-10-09T18:51:43Z" user="wanethernet" uid="11930992" lat="45.3333224" lon="9.7793870"/>
+ <node id="7993102712" visible="true" version="1" changeset="92252073" timestamp="2020-10-09T18:51:43Z" user="wanethernet" uid="11930992" lat="45.3332357" lon="9.7793870"/>
+ <node id="7993102713" visible="true" version="1" changeset="92252073" timestamp="2020-10-09T18:51:43Z" user="wanethernet" uid="11930992" lat="45.3332357" lon="9.7793092"/>
+ <node id="7993102714" visible="true" version="1" changeset="92252073" timestamp="2020-10-09T18:51:43Z" user="wanethernet" uid="11930992" lat="45.3332508" lon="9.7793092"/>
+ <node id="7993102715" visible="true" version="1" changeset="92252073" timestamp="2020-10-09T18:51:43Z" user="wanethernet" uid="11930992" lat="45.3332527" lon="9.7791939"/>
+ <node id="7993110301" visible="true" version="1" changeset="92252112" timestamp="2020-10-09T18:53:02Z" user="wanethernet" uid="11930992" lat="45.3334601" lon="9.7792663"/>
+ <node id="7993110302" visible="true" version="1" changeset="92252112" timestamp="2020-10-09T18:53:02Z" user="wanethernet" uid="11930992" lat="45.3334506" lon="9.7794299"/>
+ <node id="7993110303" visible="true" version="1" changeset="92252112" timestamp="2020-10-09T18:53:02Z" user="wanethernet" uid="11930992" lat="45.3333488" lon="9.7794245"/>
+ <node id="7993110304" visible="true" version="1" changeset="92252112" timestamp="2020-10-09T18:53:02Z" user="wanethernet" uid="11930992" lat="45.3333620" lon="9.7792555"/>
+ <node id="7993120845" visible="true" version="1" changeset="92251952" timestamp="2020-10-09T18:47:34Z" user="wanethernet" uid="11930992" lat="45.3332621" lon="9.7800602"/>
+ <node id="7993120846" visible="true" version="1" changeset="92251952" timestamp="2020-10-09T18:47:34Z" user="wanethernet" uid="11930992" lat="45.3332602" lon="9.7801434"/>
+ <node id="7993120847" visible="true" version="1" changeset="92251952" timestamp="2020-10-09T18:47:34Z" user="wanethernet" uid="11930992" lat="45.3329925" lon="9.7801407"/>
+ <node id="7993120848" visible="true" version="1" changeset="92251952" timestamp="2020-10-09T18:47:34Z" user="wanethernet" uid="11930992" lat="45.3329943" lon="9.7800522"/>
+ <node id="7993122074" visible="true" version="1" changeset="92251984" timestamp="2020-10-09T18:48:45Z" user="wanethernet" uid="11930992" lat="45.3327172" lon="9.7798349"/>
+ <node id="7993122075" visible="true" version="1" changeset="92251984" timestamp="2020-10-09T18:48:45Z" user="wanethernet" uid="11930992" lat="45.3327191" lon="9.7799878"/>
+ <node id="7993122076" visible="true" version="1" changeset="92251984" timestamp="2020-10-09T18:48:45Z" user="wanethernet" uid="11930992" lat="45.3326116" lon="9.7799958"/>
+ <node id="7993122077" visible="true" version="1" changeset="92251984" timestamp="2020-10-09T18:48:45Z" user="wanethernet" uid="11930992" lat="45.3326078" lon="9.7798429"/>
+ <node id="7993123207" visible="true" version="1" changeset="92252034" timestamp="2020-10-09T18:50:36Z" user="wanethernet" uid="11930992" lat="45.3333733" lon="9.7797169"/>
+ <node id="7993123208" visible="true" version="1" changeset="92252034" timestamp="2020-10-09T18:50:36Z" user="wanethernet" uid="11930992" lat="45.3333677" lon="9.7799636"/>
+ <node id="7993123209" visible="true" version="1" changeset="92252034" timestamp="2020-10-09T18:50:36Z" user="wanethernet" uid="11930992" lat="45.3332376" lon="9.7799636"/>
+ <node id="7993123210" visible="true" version="1" changeset="92252034" timestamp="2020-10-09T18:50:36Z" user="wanethernet" uid="11930992" lat="45.3332470" lon="9.7797062"/>
+ <node id="7993123211" visible="true" version="1" changeset="92252034" timestamp="2020-10-09T18:50:36Z" user="wanethernet" uid="11930992" lat="45.3332387" lon="9.7799341"/>
+ <node id="7993123212" visible="true" version="1" changeset="92252034" timestamp="2020-10-09T18:50:36Z" user="wanethernet" uid="11930992" lat="45.3330660" lon="9.7799315"/>
+ <node id="7993123213" visible="true" version="1" changeset="92252034" timestamp="2020-10-09T18:50:36Z" user="wanethernet" uid="11930992" lat="45.3330754" lon="9.7795855"/>
+ <node id="7993123214" visible="true" version="1" changeset="92252034" timestamp="2020-10-09T18:50:36Z" user="wanethernet" uid="11930992" lat="45.3332508" lon="9.7795935"/>
+ <node id="7993124517" visible="true" version="1" changeset="92252052" timestamp="2020-10-09T18:51:06Z" user="wanethernet" uid="11930992" lat="45.3331150" lon="9.7791402"/>
+ <node id="7993124518" visible="true" version="1" changeset="92252052" timestamp="2020-10-09T18:51:06Z" user="wanethernet" uid="11930992" lat="45.3331112" lon="9.7794513"/>
+ <node id="7993124519" visible="true" version="1" changeset="92252052" timestamp="2020-10-09T18:51:06Z" user="wanethernet" uid="11930992" lat="45.3329642" lon="9.7794567"/>
+ <node id="7993124520" visible="true" version="1" changeset="92252052" timestamp="2020-10-09T18:51:06Z" user="wanethernet" uid="11930992" lat="45.3329717" lon="9.7791322"/>
+ <node id="7993125777" visible="true" version="1" changeset="92252005" timestamp="2020-10-09T18:49:27Z" user="wanethernet" uid="11930992" lat="45.3327285" lon="9.7795640"/>
+ <node id="7993125778" visible="true" version="1" changeset="92252005" timestamp="2020-10-09T18:49:27Z" user="wanethernet" uid="11930992" lat="45.3327285" lon="9.7797222"/>
+ <node id="7993125779" visible="true" version="1" changeset="92252005" timestamp="2020-10-09T18:49:27Z" user="wanethernet" uid="11930992" lat="45.3325739" lon="9.7797357"/>
+ <node id="7993125780" visible="true" version="1" changeset="92252005" timestamp="2020-10-09T18:49:27Z" user="wanethernet" uid="11930992" lat="45.3325739" lon="9.7796445"/>
+ <node id="7993125781" visible="true" version="1" changeset="92252005" timestamp="2020-10-09T18:49:27Z" user="wanethernet" uid="11930992" lat="45.3325927" lon="9.7796337"/>
+ <node id="7993125782" visible="true" version="1" changeset="92252005" timestamp="2020-10-09T18:49:27Z" user="wanethernet" uid="11930992" lat="45.3325965" lon="9.7795640"/>
+ <node id="7994567763" visible="true" version="1" changeset="92269672" timestamp="2020-10-10T09:43:49Z" user="Alecs01" uid="1476146" lat="45.3363556" lon="9.7776929"/>
  <way id="73863149" visible="true" version="1" changeset="5562306" timestamp="2010-08-22T15:37:26Z" user="bt1950" uid="330776">
   <nd ref="874037909"/>
   <nd ref="874037911"/>
   <tag k="highway" v="residential"/>
  </way>
- <way id="73863154" visible="true" version="5" changeset="61087710" timestamp="2018-07-26T12:48:31Z" user="datamove" uid="4930752">
-  <nd ref="874038016"/>
-  <nd ref="874037925"/>
-  <tag k="highway" v="residential"/>
-  <tag k="name" v="Via Francesco Genala"/>
- </way>
- <way id="73863179" visible="true" version="3" changeset="7747719" timestamp="2011-04-02T19:56:20Z" user="ilrobi" uid="22110">
+ <way id="73863179" visible="true" version="4" changeset="92269672" timestamp="2020-10-10T09:43:49Z" user="Alecs01" uid="1476146">
   <nd ref="874037878"/>
   <nd ref="1229707115"/>
   <nd ref="1229707361"/>
   <nd ref="874038013"/>
+  <nd ref="7994567763"/>
   <nd ref="874038015"/>
   <tag k="highway" v="residential"/>
- </way>
- <way id="106949121" visible="true" version="2" changeset="61087710" timestamp="2018-07-26T12:48:31Z" user="datamove" uid="4930752">
-  <nd ref="874038015"/>
-  <nd ref="1229707423"/>
-  <nd ref="874038016"/>
-  <tag k="highway" v="residential"/>
-  <tag k="name" v="Via Francesco Genala"/>
  </way>
  <way id="106949130" visible="true" version="1" changeset="7747719" timestamp="2011-04-02T19:56:03Z" user="ilrobi" uid="22110">
   <nd ref="874037911"/>
@@ -377,7 +669,10 @@
   <tag k="highway" v="residential"/>
   <tag k="name" v="Via Giuseppe Parini"/>
  </way>
- <way id="106949140" visible="true" version="2" changeset="61087710" timestamp="2018-07-26T12:48:31Z" user="datamove" uid="4930752">
+ <way id="106949140" visible="true" version="3" changeset="92269672" timestamp="2020-10-10T09:43:49Z" user="Alecs01" uid="1476146">
+  <nd ref="874038015"/>
+  <nd ref="1229707423"/>
+  <nd ref="874038016"/>
   <nd ref="874037925"/>
   <nd ref="874037952"/>
   <tag k="highway" v="residential"/>
@@ -498,7 +793,7 @@
   <tag k="highway" v="residential"/>
   <tag k="name" v="Via Cristoforo Colombo"/>
  </way>
- <way id="162919840" visible="true" version="4" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
+ <way id="162919840" visible="true" version="5" changeset="91963780" timestamp="2020-10-05T07:05:19Z" user="wanethernet" uid="11930992">
   <nd ref="1747130693"/>
   <nd ref="1747130691"/>
   <nd ref="1747130675"/>
@@ -558,6 +853,7 @@
   <nd ref="6863226002"/>
   <nd ref="6863226001"/>
   <nd ref="6863226000"/>
+  <nd ref="7975842020"/>
   <nd ref="6863225999"/>
   <nd ref="6863225998"/>
   <nd ref="1747130734"/>
@@ -718,5 +1014,547 @@
   <nd ref="7395363116"/>
   <tag k="landuse" v="cemetery"/>
   <tag k="name" v="Cimitero di Fiesco"/>
+ </way>
+ <way id="855267294" visible="true" version="1" changeset="91964053" timestamp="2020-10-05T07:08:38Z" user="wanethernet" uid="11930992">
+  <nd ref="7975852622"/>
+  <nd ref="7975852623"/>
+  <nd ref="7975852624"/>
+  <nd ref="7975852625"/>
+  <nd ref="7975852626"/>
+  <nd ref="7975852627"/>
+  <nd ref="7975852628"/>
+  <nd ref="7975852629"/>
+  <nd ref="7975852622"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855267666" visible="true" version="1" changeset="91964207" timestamp="2020-10-05T07:10:38Z" user="wanethernet" uid="11930992">
+  <nd ref="7975860160"/>
+  <nd ref="7975860161"/>
+  <nd ref="7975860162"/>
+  <nd ref="7975860163"/>
+  <nd ref="7975860160"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855268039" visible="true" version="1" changeset="91964283" timestamp="2020-10-05T07:11:21Z" user="wanethernet" uid="11930992">
+  <nd ref="7975852293"/>
+  <nd ref="7975852294"/>
+  <nd ref="7975852295"/>
+  <nd ref="7975852296"/>
+  <nd ref="7975852293"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855385775" visible="true" version="2" changeset="91984771" timestamp="2020-10-05T12:01:17Z" user="wanethernet" uid="11930992">
+  <nd ref="7977008725"/>
+  <nd ref="7977008726"/>
+  <nd ref="7977031732"/>
+  <nd ref="7977008727"/>
+  <nd ref="7977008728"/>
+  <nd ref="7977008725"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855385839" visible="true" version="1" changeset="91984771" timestamp="2020-10-05T12:01:17Z" user="wanethernet" uid="11930992">
+  <nd ref="7977031731"/>
+  <nd ref="7977031732"/>
+  <nd ref="7977031733"/>
+  <nd ref="7977031734"/>
+  <nd ref="7977031731"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855385899" visible="true" version="1" changeset="91984809" timestamp="2020-10-05T12:01:46Z" user="wanethernet" uid="11930992">
+  <nd ref="7977027942"/>
+  <nd ref="7977027943"/>
+  <nd ref="7977027944"/>
+  <nd ref="7977027945"/>
+  <nd ref="7977027942"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855386454" visible="true" version="1" changeset="91984926" timestamp="2020-10-05T12:03:30Z" user="wanethernet" uid="11930992">
+  <nd ref="7977039806"/>
+  <nd ref="7977039807"/>
+  <nd ref="7977039808"/>
+  <nd ref="7977039809"/>
+  <nd ref="7977039806"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855386817" visible="true" version="1" changeset="91984971" timestamp="2020-10-05T12:04:17Z" user="wanethernet" uid="11930992">
+  <nd ref="7977039211"/>
+  <nd ref="7977039212"/>
+  <nd ref="7977039213"/>
+  <nd ref="7977039214"/>
+  <nd ref="7977039215"/>
+  <nd ref="7977039216"/>
+  <nd ref="7977039211"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855734867" visible="true" version="1" changeset="92019606" timestamp="2020-10-06T05:34:32Z" user="wanethernet" uid="11930992">
+  <nd ref="7979681269"/>
+  <nd ref="7979681270"/>
+  <nd ref="7979681271"/>
+  <nd ref="7979681272"/>
+  <nd ref="7979681269"/>
+  <tag k="leisure" v="swimming_pool"/>
+ </way>
+ <way id="855735099" visible="true" version="1" changeset="92019629" timestamp="2020-10-06T05:35:08Z" user="wanethernet" uid="11930992">
+  <nd ref="7979677744"/>
+  <nd ref="7979677745"/>
+  <nd ref="7979677746"/>
+  <nd ref="7979677748"/>
+  <nd ref="7979677747"/>
+  <nd ref="7979677744"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855735136" visible="true" version="2" changeset="92019666" timestamp="2020-10-06T05:36:01Z" user="wanethernet" uid="11930992">
+  <nd ref="7979700387"/>
+  <nd ref="7979700388"/>
+  <nd ref="7979698341"/>
+  <nd ref="7979700389"/>
+  <nd ref="7979700390"/>
+  <nd ref="7979700387"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855735192" visible="true" version="1" changeset="92019666" timestamp="2020-10-06T05:36:01Z" user="wanethernet" uid="11930992">
+  <nd ref="7979698341"/>
+  <nd ref="7979698342"/>
+  <nd ref="7979698343"/>
+  <nd ref="7979698344"/>
+  <nd ref="7979698341"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855735336" visible="true" version="1" changeset="92019713" timestamp="2020-10-06T05:36:41Z" user="wanethernet" uid="11930992">
+  <nd ref="7979704792"/>
+  <nd ref="7979704796"/>
+  <nd ref="7979704793"/>
+  <nd ref="7979704794"/>
+  <nd ref="7979704795"/>
+  <nd ref="7979704792"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855735414" visible="true" version="1" changeset="92019735" timestamp="2020-10-06T05:37:05Z" user="wanethernet" uid="11930992">
+  <nd ref="7979677776"/>
+  <nd ref="7979677777"/>
+  <nd ref="7979677778"/>
+  <nd ref="7979677779"/>
+  <nd ref="7979677776"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855735455" visible="true" version="1" changeset="92019761" timestamp="2020-10-06T05:37:44Z" user="wanethernet" uid="11930992">
+  <nd ref="7979702226"/>
+  <nd ref="7979702227"/>
+  <nd ref="7979702228"/>
+  <nd ref="7979702229"/>
+  <nd ref="7979702230"/>
+  <nd ref="7979702226"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855735603" visible="true" version="1" changeset="92019801" timestamp="2020-10-06T05:38:31Z" user="wanethernet" uid="11930992">
+  <nd ref="7979702227"/>
+  <nd ref="7979697825"/>
+  <nd ref="7979697826"/>
+  <nd ref="7979697827"/>
+  <nd ref="7979702227"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855738429" visible="true" version="2" changeset="92020560" timestamp="2020-10-06T05:53:56Z" user="wanethernet" uid="11930992">
+  <nd ref="7979721956"/>
+  <nd ref="7979721957"/>
+  <nd ref="7979721958"/>
+  <nd ref="7979721959"/>
+  <nd ref="7979721960"/>
+  <nd ref="7979737552"/>
+  <nd ref="7979737553"/>
+  <nd ref="7979721961"/>
+  <nd ref="7979721956"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855738527" visible="true" version="1" changeset="92020560" timestamp="2020-10-06T05:53:56Z" user="wanethernet" uid="11930992">
+  <nd ref="7979737550"/>
+  <nd ref="7979737551"/>
+  <nd ref="7979737552"/>
+  <nd ref="7979737553"/>
+  <nd ref="7979737550"/>
+  <tag k="generator:method" v="photovoltaic"/>
+  <tag k="generator:output:electricity" v="yes"/>
+  <tag k="generator:source" v="solar"/>
+  <tag k="generator:type" v="solar_photovoltaic_panel"/>
+  <tag k="power" v="generator"/>
+ </way>
+ <way id="855738578" visible="true" version="1" changeset="92020589" timestamp="2020-10-06T05:54:32Z" user="wanethernet" uid="11930992">
+  <nd ref="7979735710"/>
+  <nd ref="7979735711"/>
+  <nd ref="7979735712"/>
+  <nd ref="7979735713"/>
+  <nd ref="7979735714"/>
+  <nd ref="7979735715"/>
+  <nd ref="7979735710"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855738680" visible="true" version="1" changeset="92020620" timestamp="2020-10-06T05:55:13Z" user="wanethernet" uid="11930992">
+  <nd ref="7979718973"/>
+  <nd ref="7979718974"/>
+  <nd ref="7979718975"/>
+  <nd ref="7979718976"/>
+  <nd ref="7979718973"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855738706" visible="true" version="1" changeset="92020640" timestamp="2020-10-06T05:55:42Z" user="wanethernet" uid="11930992">
+  <nd ref="7979735733"/>
+  <nd ref="7979735734"/>
+  <nd ref="7979735735"/>
+  <nd ref="7979735736"/>
+  <nd ref="7979735733"/>
+  <tag k="amenity" v="parking"/>
+ </way>
+ <way id="855738825" visible="true" version="1" changeset="92020679" timestamp="2020-10-06T05:56:24Z" user="wanethernet" uid="11930992">
+  <nd ref="7979723832"/>
+  <nd ref="7979723833"/>
+  <nd ref="7979723834"/>
+  <nd ref="7979723835"/>
+  <nd ref="7979723836"/>
+  <nd ref="7979723837"/>
+  <nd ref="7979723838"/>
+  <nd ref="7979723839"/>
+  <nd ref="7979723832"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855738875" visible="true" version="1" changeset="92020707" timestamp="2020-10-06T05:56:57Z" user="wanethernet" uid="11930992">
+  <nd ref="7979738229"/>
+  <nd ref="7979738230"/>
+  <nd ref="7979738231"/>
+  <nd ref="7979738232"/>
+  <nd ref="7979738229"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855738909" visible="true" version="1" changeset="92020729" timestamp="2020-10-06T05:57:28Z" user="wanethernet" uid="11930992">
+  <nd ref="7979742501"/>
+  <nd ref="7979742502"/>
+  <nd ref="7979742503"/>
+  <nd ref="7979742504"/>
+  <nd ref="7979742505"/>
+  <nd ref="7979742506"/>
+  <nd ref="7979742501"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855739441" visible="true" version="2" changeset="92269672" timestamp="2020-10-10T09:43:49Z" user="Alecs01" uid="1476146">
+  <nd ref="7979730677"/>
+  <nd ref="7979730678"/>
+  <nd ref="7979730679"/>
+  <nd ref="7979730680"/>
+  <nd ref="7979730677"/>
+  <tag k="amenity" v="place_of_worship"/>
+  <tag k="building" v="church"/>
+  <tag k="religion" v="christian"/>
+ </way>
+ <way id="855748350" visible="true" version="2" changeset="92023703" timestamp="2020-10-06T06:42:51Z" user="wanethernet" uid="11930992">
+  <nd ref="7979833391"/>
+  <nd ref="7979833392"/>
+  <nd ref="7979833393"/>
+  <nd ref="7979844362"/>
+  <nd ref="7979833394"/>
+  <nd ref="7979833395"/>
+  <nd ref="7979833396"/>
+  <nd ref="7979833391"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855750828" visible="true" version="1" changeset="92023703" timestamp="2020-10-06T06:42:51Z" user="wanethernet" uid="11930992">
+  <nd ref="7979844362"/>
+  <nd ref="7979844363"/>
+  <nd ref="7979844364"/>
+  <nd ref="7979844365"/>
+  <nd ref="7979844362"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855751025" visible="true" version="1" changeset="92023753" timestamp="2020-10-06T06:43:31Z" user="wanethernet" uid="11930992">
+  <nd ref="7979844365"/>
+  <nd ref="7979874098"/>
+  <nd ref="7979874099"/>
+  <nd ref="7979874100"/>
+  <nd ref="7979874101"/>
+  <nd ref="7979874102"/>
+  <nd ref="7979874103"/>
+  <nd ref="7979874104"/>
+  <nd ref="7979844365"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855751167" visible="true" version="1" changeset="92023808" timestamp="2020-10-06T06:44:05Z" user="wanethernet" uid="11930992">
+  <nd ref="7979873701"/>
+  <nd ref="7979833393"/>
+  <nd ref="7979874100"/>
+  <nd ref="7979873702"/>
+  <nd ref="7979873701"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="855780706" visible="true" version="1" changeset="92030093" timestamp="2020-10-06T08:01:19Z" user="wanethernet" uid="11930992">
+  <nd ref="7980106114"/>
+  <nd ref="7980106115"/>
+  <nd ref="7980106116"/>
+  <nd ref="7980106117"/>
+  <nd ref="7980106118"/>
+  <nd ref="7980106119"/>
+  <nd ref="7980106114"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="856053332" visible="true" version="1" changeset="92061779" timestamp="2020-10-06T17:02:10Z" user="wanethernet" uid="11930992">
+  <nd ref="7982149708"/>
+  <nd ref="7982149709"/>
+  <nd ref="7982149710"/>
+  <nd ref="7982149711"/>
+  <nd ref="7982149708"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="856053499" visible="true" version="2" changeset="92061837" timestamp="2020-10-06T17:03:37Z" user="wanethernet" uid="11930992">
+  <nd ref="7982170735"/>
+  <nd ref="7982170736"/>
+  <nd ref="7982170737"/>
+  <nd ref="7982170738"/>
+  <nd ref="7982189373"/>
+  <nd ref="7982170735"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="856053603" visible="true" version="1" changeset="92061837" timestamp="2020-10-06T17:03:37Z" user="wanethernet" uid="11930992">
+  <nd ref="7982189373"/>
+  <nd ref="7982189374"/>
+  <nd ref="7982189375"/>
+  <nd ref="7982189376"/>
+  <nd ref="7982189377"/>
+  <nd ref="7982170738"/>
+  <nd ref="7982189373"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="856053674" visible="true" version="1" changeset="92061852" timestamp="2020-10-06T17:04:10Z" user="wanethernet" uid="11930992">
+  <nd ref="7982207901"/>
+  <nd ref="7982207902"/>
+  <nd ref="7982189376"/>
+  <nd ref="7982189375"/>
+  <nd ref="7982207903"/>
+  <nd ref="7982207904"/>
+  <nd ref="7982207901"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="856053743" visible="true" version="1" changeset="92061872" timestamp="2020-10-06T17:04:54Z" user="wanethernet" uid="11930992">
+  <nd ref="7982188431"/>
+  <nd ref="7982188432"/>
+  <nd ref="7982188433"/>
+  <nd ref="7982188434"/>
+  <nd ref="7982188431"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="856053862" visible="true" version="1" changeset="92061895" timestamp="2020-10-06T17:05:20Z" user="wanethernet" uid="11930992">
+  <nd ref="7982189378"/>
+  <nd ref="7982189379"/>
+  <nd ref="7982189380"/>
+  <nd ref="7982189381"/>
+  <nd ref="7982189378"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="856053973" visible="true" version="1" changeset="92061917" timestamp="2020-10-06T17:05:45Z" user="wanethernet" uid="11930992">
+  <nd ref="7982189382"/>
+  <nd ref="7982189383"/>
+  <nd ref="7982189384"/>
+  <nd ref="7982217985"/>
+  <nd ref="7982189382"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="856054017" visible="true" version="1" changeset="92061929" timestamp="2020-10-06T17:06:11Z" user="wanethernet" uid="11930992">
+  <nd ref="7982184544"/>
+  <nd ref="7982184545"/>
+  <nd ref="7982184546"/>
+  <nd ref="7982184547"/>
+  <nd ref="7982184544"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="856054253" visible="true" version="1" changeset="92061958" timestamp="2020-10-06T17:06:52Z" user="wanethernet" uid="11930992">
+  <nd ref="7982213800"/>
+  <nd ref="7982213801"/>
+  <nd ref="7982213802"/>
+  <nd ref="7982213803"/>
+  <nd ref="7982213800"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="856893863" visible="true" version="1" changeset="92190365" timestamp="2020-10-08T18:06:02Z" user="wanethernet" uid="11930992">
+  <nd ref="7989232469"/>
+  <nd ref="7989232470"/>
+  <nd ref="7989232471"/>
+  <nd ref="7989232472"/>
+  <nd ref="7989232469"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="856894208" visible="true" version="1" changeset="92190398" timestamp="2020-10-08T18:06:40Z" user="wanethernet" uid="11930992">
+  <nd ref="7989270439"/>
+  <nd ref="7989270440"/>
+  <nd ref="7989270441"/>
+  <nd ref="7989270442"/>
+  <nd ref="7989270439"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="856894294" visible="true" version="1" changeset="92190423" timestamp="2020-10-08T18:07:12Z" user="wanethernet" uid="11930992">
+  <nd ref="7989224824"/>
+  <nd ref="7989224825"/>
+  <nd ref="7989224826"/>
+  <nd ref="7989224827"/>
+  <nd ref="7989224828"/>
+  <nd ref="7989224829"/>
+  <nd ref="7989224824"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="856894470" visible="true" version="1" changeset="92190445" timestamp="2020-10-08T18:07:44Z" user="wanethernet" uid="11930992">
+  <nd ref="7989272862"/>
+  <nd ref="7989272863"/>
+  <nd ref="7989272864"/>
+  <nd ref="7989272865"/>
+  <nd ref="7989272862"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="856894645" visible="true" version="1" changeset="92190475" timestamp="2020-10-08T18:08:23Z" user="wanethernet" uid="11930992">
+  <nd ref="7989253834"/>
+  <nd ref="7989253835"/>
+  <nd ref="7989253836"/>
+  <nd ref="7989253837"/>
+  <nd ref="7989253834"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="856894736" visible="true" version="1" changeset="92190514" timestamp="2020-10-08T18:09:14Z" user="wanethernet" uid="11930992">
+  <nd ref="7989241360"/>
+  <nd ref="7989241361"/>
+  <nd ref="7989241362"/>
+  <nd ref="7989241363"/>
+  <nd ref="7989241360"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="857227885" visible="true" version="2" changeset="92241706" timestamp="2020-10-09T13:50:10Z" user="wanethernet" uid="11930992">
+  <nd ref="7992359518"/>
+  <nd ref="7992359519"/>
+  <nd ref="7992326800"/>
+  <nd ref="7992359520"/>
+  <nd ref="7992359521"/>
+  <nd ref="7992359518"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="857228102" visible="true" version="1" changeset="92241629" timestamp="2020-10-09T13:48:29Z" user="wanethernet" uid="11930992">
+  <nd ref="7992359518"/>
+  <nd ref="7992323858"/>
+  <nd ref="7992323859"/>
+  <nd ref="7992359521"/>
+  <nd ref="7992359518"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="857228254" visible="true" version="1" changeset="92241651" timestamp="2020-10-09T13:48:58Z" user="wanethernet" uid="11930992">
+  <nd ref="7992334757"/>
+  <nd ref="7992334758"/>
+  <nd ref="7992334759"/>
+  <nd ref="7992334760"/>
+  <nd ref="7992334757"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="857229244" visible="true" version="1" changeset="92241677" timestamp="2020-10-09T13:49:38Z" user="wanethernet" uid="11930992">
+  <nd ref="7992300935"/>
+  <nd ref="7992300936"/>
+  <nd ref="7992300937"/>
+  <nd ref="7992300938"/>
+  <nd ref="7992300939"/>
+  <nd ref="7992300941"/>
+  <nd ref="7992300940"/>
+  <nd ref="7992300935"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="857229408" visible="true" version="1" changeset="92241706" timestamp="2020-10-09T13:50:10Z" user="wanethernet" uid="11930992">
+  <nd ref="7992326800"/>
+  <nd ref="7992326801"/>
+  <nd ref="7992326802"/>
+  <nd ref="7992359520"/>
+  <nd ref="7992326800"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="857229543" visible="true" version="1" changeset="92241735" timestamp="2020-10-09T13:50:39Z" user="wanethernet" uid="11930992">
+  <nd ref="7992325347"/>
+  <nd ref="7992325348"/>
+  <nd ref="7992325349"/>
+  <nd ref="7992325350"/>
+  <nd ref="7992325347"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="857320098" visible="true" version="1" changeset="92251952" timestamp="2020-10-09T18:47:34Z" user="wanethernet" uid="11930992">
+  <nd ref="7993120845"/>
+  <nd ref="7993120846"/>
+  <nd ref="7993120847"/>
+  <nd ref="7993120848"/>
+  <nd ref="7993120845"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="857320175" visible="true" version="1" changeset="92251962" timestamp="2020-10-09T18:48:05Z" user="wanethernet" uid="11930992">
+  <nd ref="7993095059"/>
+  <nd ref="7993095060"/>
+  <nd ref="7993095061"/>
+  <nd ref="7993095062"/>
+  <nd ref="7993095059"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="857320729" visible="true" version="1" changeset="92251984" timestamp="2020-10-09T18:48:45Z" user="wanethernet" uid="11930992">
+  <nd ref="7993122074"/>
+  <nd ref="7993122075"/>
+  <nd ref="7993122076"/>
+  <nd ref="7993122077"/>
+  <nd ref="7993122074"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="857320834" visible="true" version="1" changeset="92252005" timestamp="2020-10-09T18:49:27Z" user="wanethernet" uid="11930992">
+  <nd ref="7993125777"/>
+  <nd ref="7993125778"/>
+  <nd ref="7993125779"/>
+  <nd ref="7993125780"/>
+  <nd ref="7993125781"/>
+  <nd ref="7993125782"/>
+  <nd ref="7993125777"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="857321261" visible="true" version="1" changeset="92252034" timestamp="2020-10-09T18:50:36Z" user="wanethernet" uid="11930992">
+  <nd ref="7993123207"/>
+  <nd ref="7993123208"/>
+  <nd ref="7993123209"/>
+  <nd ref="7993123211"/>
+  <nd ref="7993123210"/>
+  <nd ref="7993123207"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="857321262" visible="true" version="1" changeset="92252034" timestamp="2020-10-09T18:50:36Z" user="wanethernet" uid="11930992">
+  <nd ref="7993123211"/>
+  <nd ref="7993123212"/>
+  <nd ref="7993123213"/>
+  <nd ref="7993123214"/>
+  <nd ref="7993123211"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="857321299" visible="true" version="1" changeset="92252052" timestamp="2020-10-09T18:51:06Z" user="wanethernet" uid="11930992">
+  <nd ref="7993124517"/>
+  <nd ref="7993124518"/>
+  <nd ref="7993124519"/>
+  <nd ref="7993124520"/>
+  <nd ref="7993124517"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="857321378" visible="true" version="1" changeset="92252073" timestamp="2020-10-09T18:51:43Z" user="wanethernet" uid="11930992">
+  <nd ref="7993102710"/>
+  <nd ref="7993102711"/>
+  <nd ref="7993102712"/>
+  <nd ref="7993102713"/>
+  <nd ref="7993102714"/>
+  <nd ref="7993102715"/>
+  <nd ref="7993102710"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="857321471" visible="true" version="1" changeset="92252092" timestamp="2020-10-09T18:52:19Z" user="wanethernet" uid="11930992">
+  <nd ref="7993099607"/>
+  <nd ref="7993099608"/>
+  <nd ref="7993099609"/>
+  <nd ref="7993099610"/>
+  <nd ref="7993099607"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="857321525" visible="true" version="1" changeset="92252112" timestamp="2020-10-09T18:53:02Z" user="wanethernet" uid="11930992">
+  <nd ref="7993110301"/>
+  <nd ref="7993110302"/>
+  <nd ref="7993110303"/>
+  <nd ref="7993110304"/>
+  <nd ref="7993110301"/>
+  <tag k="building" v="yes"/>
  </way>
 </osm>
