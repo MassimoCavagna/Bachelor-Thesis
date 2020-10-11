@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (853293 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991863 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2980751" minlon="10.1843262" maxlat="45.3058026" maxlon="10.1953125"/>
  <node id="336115699" visible="true" version="2" changeset="834170" timestamp="2009-01-24T22:26:30Z" user="Diego Guidotti" uid="1700" lat="45.2932048" lon="10.1960950"/>
  <node id="336115712" visible="true" version="1" changeset="834170" timestamp="2009-01-24T22:26:24Z" user="Diego Guidotti" uid="1700" lat="45.3020888" lon="10.1948939"/>
@@ -420,11 +420,11 @@
   <tag k="oneway" v="yes"/>
   <tag k="ref" v="SP11v3"/>
  </way>
- <way id="128133212" visible="true" version="2" changeset="15167837" timestamp="2013-02-25T22:47:57Z" user="Baliano" uid="382012">
+ <way id="128133212" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1416635021"/>
   <nd ref="1416635035"/>
   <nd ref="336116420"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="unclassified"/>
   <tag k="lanes" v="1"/>
   <tag k="oneway" v="yes"/>
  </way>
@@ -437,7 +437,7 @@
   <tag k="oneway" v="yes"/>
   <tag k="ref" v="SP11v3"/>
  </way>
- <way id="128133215" visible="true" version="5" changeset="17357653" timestamp="2013-08-15T10:42:27Z" user="White_Rabbit" uid="604999">
+ <way id="128133215" visible="true" version="6" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1417492856"/>
   <nd ref="336116410"/>
   <nd ref="336116411"/>
@@ -451,7 +451,7 @@
   <nd ref="1418716294"/>
   <nd ref="336116415"/>
   <nd ref="336116417"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Videtti"/>
  </way>
  <way id="128133216" visible="true" version="6" changeset="51321985" timestamp="2017-08-21T23:00:33Z" user="marco scartapacchio" uid="6514221">
@@ -713,11 +713,11 @@
   <tag k="highway" v="secondary"/>
   <tag k="ref" v="SP11v3"/>
  </way>
- <way id="207246037" visible="true" version="1" changeset="15167837" timestamp="2013-02-25T22:47:44Z" user="Baliano" uid="382012">
+ <way id="207246037" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336116420"/>
   <nd ref="1416635033"/>
   <nd ref="1416635030"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="unclassified"/>
   <tag k="lanes" v="1"/>
   <tag k="oneway" v="yes"/>
  </way>
@@ -771,14 +771,14 @@
   <tag k="highway" v="residential"/>
   <tag k="name" v="Via Papa Giovanni Ventitreesimo"/>
  </way>
- <way id="233608804" visible="true" version="2" changeset="51357855" timestamp="2017-08-22T22:32:10Z" user="marco scartapacchio" uid="6514221">
+ <way id="233608804" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336116417"/>
   <nd ref="336116418"/>
   <nd ref="5052318861"/>
   <nd ref="1417492852"/>
   <nd ref="1418716252"/>
   <nd ref="336116420"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="unclassified"/>
   <tag k="name" v="Via Videtti"/>
  </way>
  <way id="517071047" visible="true" version="1" changeset="51282313" timestamp="2017-08-20T17:40:54Z" user="marco scartapacchio" uid="6514221">

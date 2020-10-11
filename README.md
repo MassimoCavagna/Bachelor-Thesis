@@ -9,6 +9,10 @@ To work
 > pip install ipywidgets
 > pip install pyroutelib3
 > pip install ipynb
+> pip install selenium
+> pip install folium
+> pip install kneed
+> pip install imgkit
 > jupyter nbextension enable --py widgetsnbextension
 > jupyter labextension install @jupyter-widgets/jupyterlab-manager
 ```

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (861164 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991865 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3212544" minlon="10.0634766" maxlat="45.3289787" maxlon="10.0744629"/>
  <node id="336472904" visible="true" version="2" changeset="11262141" timestamp="2012-04-11T11:08:08Z" user="dpe12" uid="207365" lat="45.3233868" lon="10.0705337"/>
  <node id="336472925" visible="true" version="2" changeset="11262141" timestamp="2012-04-11T08:59:18Z" user="dpe12" uid="207365" lat="45.3205413" lon="10.0723828"/>
@@ -969,12 +969,12 @@
   <tag k="name" v="Via Raffaello Sanzio"/>
   <tag k="oneway" v="no"/>
  </way>
- <way id="30663425" visible="true" version="9" changeset="11772172" timestamp="2012-06-01T21:30:58Z" user="Gianluigi" uid="498903">
+ <way id="30663425" visible="true" version="10" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336475930"/>
   <nd ref="339102272"/>
   <nd ref="339102273"/>
   <nd ref="339102274"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Ercole De Gaspari"/>
   <tag k="oneway" v="no"/>
  </way>
@@ -1191,11 +1191,11 @@
   <tag k="name:left" v="Verolavecchia"/>
   <tag k="name:right" v="Verolanuova"/>
  </way>
- <way id="58665761" visible="true" version="3" changeset="30165207" timestamp="2015-04-12T16:32:58Z" user="Alecs01" uid="1476146">
+ <way id="58665761" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="726862178"/>
   <nd ref="726862260"/>
   <nd ref="726862368"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Viale Europa"/>
   <tag k="oneway" v="yes"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
@@ -1209,12 +1209,12 @@
   <tag k="ref" v="SP11"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
  </way>
- <way id="58665767" visible="true" version="4" changeset="46797819" timestamp="2017-03-12T23:00:22Z" user="SiMaz96" uid="3141745">
+ <way id="58665767" visible="true" version="5" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="726862368"/>
   <nd ref="726862196"/>
   <nd ref="4731313168"/>
   <nd ref="726862117"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Viale Europa"/>
   <tag k="oneway" v="yes"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
@@ -1268,11 +1268,11 @@
   <tag k="oneway" v="no"/>
   <tag k="ref" v="SP11"/>
  </way>
- <way id="59198269" visible="true" version="4" changeset="11772172" timestamp="2012-06-01T21:30:57Z" user="Gianluigi" uid="498903">
+ <way id="59198269" visible="true" version="5" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="734171708"/>
   <nd ref="339102275"/>
   <nd ref="339102276"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Ercole De Gaspari"/>
   <tag k="oneway" v="no"/>
  </way>
@@ -1437,11 +1437,11 @@
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
   <tag k="waterway" v="river"/>
  </way>
- <way id="59198277" visible="true" version="3" changeset="17201388" timestamp="2013-08-03T08:59:19Z" user="mcheckimport" uid="893327">
+ <way id="59198277" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="339102274"/>
   <nd ref="734171708"/>
   <tag k="bridge" v="yes"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="layer" v="1"/>
  </way>
  <way id="66512964" visible="true" version="2" changeset="5192776" timestamp="2010-07-11T17:52:20Z" user="Moliva" uid="107039">
@@ -1458,14 +1458,14 @@
   <tag k="surface" v="asphalt"/>
   <tag k="width" v="6"/>
  </way>
- <way id="67238906" visible="true" version="3" changeset="88768475" timestamp="2020-07-31T07:46:08Z" user="gspinoza" uid="562239">
+ <way id="67238906" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336475918"/>
   <nd ref="811942919"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Luigi Semenza"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
  </way>
- <way id="67238909" visible="true" version="3" changeset="11772172" timestamp="2012-06-01T21:31:01Z" user="Gianluigi" uid="498903">
+ <way id="67238909" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336475918"/>
   <nd ref="336475923"/>
   <nd ref="811943031"/>
@@ -1473,7 +1473,7 @@
   <nd ref="811942942"/>
   <nd ref="811942876"/>
   <nd ref="336476304"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Luigi Semenza"/>
   <tag k="oneway" v="yes"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
@@ -1561,7 +1561,7 @@
   <tag k="name" v="San Rocco"/>
   <tag k="religion" v="christian"/>
  </way>
- <way id="158527629" visible="true" version="4" changeset="15344465" timestamp="2013-03-12T19:45:46Z" user="coso" uid="175551">
+ <way id="158527629" visible="true" version="5" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="339102280"/>
   <nd ref="1711300656"/>
   <nd ref="339102281"/>
@@ -1569,11 +1569,11 @@
   <nd ref="339102282"/>
   <nd ref="1707013402"/>
   <nd ref="726862368"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Viale Europa"/>
   <tag k="oneway" v="no"/>
  </way>
- <way id="158527630" visible="true" version="4" changeset="11772172" timestamp="2012-06-01T21:31:00Z" user="Gianluigi" uid="498903">
+ <way id="158527630" visible="true" version="5" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="339102276"/>
   <nd ref="339102277"/>
   <nd ref="339102278"/>
@@ -1581,11 +1581,11 @@
   <nd ref="1768072478"/>
   <nd ref="1711187360"/>
   <nd ref="339102280"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Giuseppe Mazzini"/>
   <tag k="oneway" v="no"/>
  </way>
- <way id="158527919" visible="true" version="11" changeset="70632646" timestamp="2019-05-26T13:22:20Z" user="Piter00" uid="2168459">
+ <way id="158527919" visible="true" version="12" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="339102276"/>
   <nd ref="3528807662"/>
   <nd ref="1707108447"/>
@@ -1599,7 +1599,7 @@
   <nd ref="336472940"/>
   <nd ref="1711192639"/>
   <nd ref="1773052399"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via San Rocco"/>
   <tag k="oneway" v="no"/>
  </way>
@@ -1618,19 +1618,19 @@
   <tag k="name" v="Via Mondini"/>
   <tag k="oneway" v="no"/>
  </way>
- <way id="158533374" visible="true" version="3" changeset="11772172" timestamp="2012-06-01T21:30:54Z" user="Gianluigi" uid="498903">
+ <way id="158533374" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1707156109"/>
   <nd ref="1707156166"/>
   <nd ref="336475914"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Antonio Gramsci"/>
   <tag k="source" v="knowledge"/>
  </way>
- <way id="158538411" visible="true" version="3" changeset="68717575" timestamp="2019-03-31T07:53:58Z" user="Pepilepioux" uid="3341187">
+ <way id="158538411" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336475914"/>
   <nd ref="1707195881"/>
   <nd ref="811942919"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Antonio Gramsci"/>
   <tag k="oneway" v="yes"/>
  </way>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1078257 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991876 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2903466" minlon="10.2282715" maxlat="45.2980751" maxlon="10.2392578"/>
  <node id="392448262" visible="true" version="2" changeset="9161785" timestamp="2011-08-29T20:29:50Z" user="Gianluigi" uid="498903" lat="45.2966561" lon="10.2378048"/>
  <node id="392448266" visible="true" version="3" changeset="33441655" timestamp="2015-08-19T14:52:40Z" user="Moliva" uid="107039" lat="45.2974142" lon="10.2242607"/>
@@ -1196,16 +1196,17 @@
   <tag k="wikidata" v="Q111479"/>
   <tag k="wikipedia" v="it:Pralboino"/>
  </relation>
- <relation id="44634" visible="true" version="14" changeset="51663240" timestamp="2017-09-02T08:18:49Z" user="ddanyll" uid="334691">
+ <relation id="44634" visible="true" version="15" changeset="90702200" timestamp="2020-09-10T12:23:30Z" user="ddanyll" uid="334691">
+  <member type="node" ref="62507931" role="admin_centre"/>
   <member type="way" ref="51525442" role="outer"/>
   <member type="way" ref="520747741" role="outer"/>
   <member type="way" ref="512252733" role="outer"/>
+  <member type="way" ref="846061850" role="outer"/>
   <member type="way" ref="51525072" role="outer"/>
   <member type="way" ref="51336027" role="outer"/>
   <member type="way" ref="51082372" role="outer"/>
   <member type="way" ref="51029414" role="outer"/>
   <member type="way" ref="51519710" role="outer"/>
-  <member type="node" ref="62507931" role="admin_centre"/>
   <tag k="admin_level" v="8"/>
   <tag k="boundary" v="administrative"/>
   <tag k="name" v="Gottolengo"/>

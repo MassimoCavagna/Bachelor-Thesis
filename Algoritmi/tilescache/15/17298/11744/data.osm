@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2167791 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3154030 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3289787" minlon="10.0415039" maxlat="45.3367019" maxlon="10.0524902"/>
  <node id="336477139" visible="true" version="11" changeset="46797819" timestamp="2017-03-12T23:00:10Z" user="SiMaz96" uid="3141745" lat="45.3297763" lon="10.0426861"/>
  <node id="336477143" visible="true" version="11" changeset="46797819" timestamp="2017-03-12T23:00:10Z" user="SiMaz96" uid="3141745" lat="45.3271781" lon="10.0459833"/>
@@ -711,7 +711,7 @@
  <node id="7758105882" visible="true" version="1" changeset="88584671" timestamp="2020-07-27T20:31:11Z" user="Benny4L" uid="647382" lat="45.3034194" lon="10.0151091">
   <tag k="power" v="tower"/>
  </node>
- <way id="58665756" visible="true" version="2" changeset="11720082" timestamp="2012-05-27T20:54:58Z" user="Gianluigi" uid="498903">
+ <way id="58665756" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="339102547"/>
   <nd ref="726862304"/>
   <nd ref="726862219"/>
@@ -730,10 +730,10 @@
   <nd ref="726862187"/>
   <nd ref="726862223"/>
   <nd ref="726862141"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
  </way>
- <way id="58665765" visible="true" version="4" changeset="23125731" timestamp="2014-06-24T15:58:50Z" user="TheHammer" uid="554234">
+ <way id="58665765" visible="true" version="5" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="339102547"/>
   <nd ref="339102548"/>
   <nd ref="726862198"/>
@@ -754,7 +754,7 @@
   <nd ref="339102559"/>
   <nd ref="1768072834"/>
   <nd ref="1768072832"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
  </way>
  <way id="58665769" visible="true" version="5" changeset="18391528" timestamp="2013-10-16T18:43:22Z" user="mcheckimport" uid="893327">
   <nd ref="1378986715"/>
@@ -768,7 +768,7 @@
   <tag k="highway" v="residential"/>
   <tag k="name" v="Vicolo San Pietro"/>
  </way>
- <way id="58665778" visible="true" version="3" changeset="11772172" timestamp="2012-06-01T21:31:21Z" user="Gianluigi" uid="498903">
+ <way id="58665778" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="726862374"/>
   <nd ref="726862284"/>
   <nd ref="726862324"/>
@@ -861,11 +861,11 @@
   <nd ref="726862269"/>
   <nd ref="726862185"/>
   <nd ref="726862294"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="unclassified"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
   <tag k="surface" v="gravel"/>
  </way>
- <way id="58665785" visible="true" version="3" changeset="11720082" timestamp="2012-05-27T20:55:01Z" user="Gianluigi" uid="498903">
+ <way id="58665785" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="339102374"/>
   <nd ref="726862369"/>
   <nd ref="726862175"/>
@@ -902,7 +902,7 @@
   <nd ref="1768072930"/>
   <nd ref="726862181"/>
   <nd ref="726862374"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
  </way>
  <way id="116518146" visible="true" version="21" changeset="88584671" timestamp="2020-07-27T20:31:11Z" user="Benny4L" uid="647382">
@@ -1015,7 +1015,7 @@
   <tag k="ref" v="21.363"/>
   <tag k="voltage" v="380000"/>
  </way>
- <way id="123753346" visible="true" version="3" changeset="11772172" timestamp="2012-06-01T21:31:21Z" user="Gianluigi" uid="498903">
+ <way id="123753346" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="339102377"/>
   <nd ref="726862119"/>
   <nd ref="339102378"/>
@@ -1025,16 +1025,16 @@
   <nd ref="1768072662"/>
   <nd ref="339102381"/>
   <nd ref="726862127"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
  </way>
- <way id="123753638" visible="true" version="3" changeset="11772172" timestamp="2012-06-01T21:31:19Z" user="Gianluigi" uid="498903">
+ <way id="123753638" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="726862111"/>
   <nd ref="1378992396"/>
   <nd ref="1378992398"/>
   <nd ref="1378992397"/>
   <nd ref="1378992395"/>
   <nd ref="377157415"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
  </way>
  <way id="154730083" visible="true" version="6" changeset="25378497" timestamp="2014-09-11T21:59:57Z" user="TorCguy" uid="338843">
   <nd ref="1672207280"/>
@@ -1177,7 +1177,7 @@
   <tag k="oneway" v="no"/>
   <tag k="ref" v="SP11"/>
  </way>
- <way id="204274683" visible="true" version="2" changeset="73163890" timestamp="2019-08-08T16:50:21Z" user="gloriamar" uid="10201400">
+ <way id="204274683" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="339102449"/>
   <nd ref="1768072740"/>
   <nd ref="1768072742"/>
@@ -1198,7 +1198,7 @@
   <nd ref="726862240"/>
   <nd ref="726862163"/>
   <nd ref="339102377"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
  </way>
  <way id="211315664" visible="true" version="1" changeset="15445401" timestamp="2013-03-21T17:11:55Z" user="Pyknite" uid="193512">
   <nd ref="2213278020"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3453443 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991885 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4678360" minlon="9.7338867" maxlat="45.4755403" maxlon="9.7448730"/>
  <node id="307112168" visible="true" version="3" changeset="4277727" timestamp="2010-03-30T15:45:26Z" user="Luigi62" uid="90148" lat="45.4563160" lon="9.7611927"/>
  <node id="307112393" visible="true" version="4" changeset="24483145" timestamp="2014-08-01T15:09:53Z" user="kaitu" uid="69717" lat="45.4596833" lon="9.7314094"/>
@@ -444,7 +444,7 @@
   <tag k="province:left" v="Bergamo"/>
   <tag k="province:right" v="Cremona"/>
  </way>
- <way id="103406727" visible="true" version="4" changeset="46482171" timestamp="2017-03-01T00:49:47Z" user="SiMaz96" uid="3141745">
+ <way id="103406727" visible="true" version="6" changeset="90478739" timestamp="2020-09-06T12:31:21Z" user="Fr4n2" uid="11717245">
   <nd ref="1194077968"/>
   <nd ref="1194077950"/>
   <nd ref="1194077964"/>
@@ -460,6 +460,8 @@
   <nd ref="1194077963"/>
   <nd ref="3588301581"/>
   <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Via Fienili"/>
+  <tag k="surface" v="asphalt"/>
  </way>
  <way id="282555062" visible="true" version="3" changeset="45728570" timestamp="2017-02-01T21:57:24Z" user="FvGordon" uid="161619">
   <nd ref="2864965472"/>

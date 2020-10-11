@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (19926 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2876344 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4447168" minlon="9.7778320" maxlat="45.4524242" maxlon="9.7888184"/>
  <node id="307109451" visible="true" version="3" changeset="4277727" timestamp="2010-03-30T15:45:29Z" user="Luigi62" uid="90148" lat="45.4293547" lon="9.7848936"/>
  <node id="307113421" visible="true" version="3" changeset="4277727" timestamp="2010-03-30T15:45:31Z" user="Luigi62" uid="90148" lat="45.4699056" lon="9.7867281"/>
@@ -102,6 +102,12 @@
  <node id="4241174016" visible="true" version="1" changeset="39991277" timestamp="2016-06-13T12:03:30Z" user="werthtobi" uid="122327" lat="45.4553275" lon="9.7905742"/>
  <node id="4241174017" visible="true" version="1" changeset="39991277" timestamp="2016-06-13T12:03:30Z" user="werthtobi" uid="122327" lat="45.4535664" lon="9.7887159"/>
  <node id="4241174018" visible="true" version="1" changeset="39991277" timestamp="2016-06-13T12:03:30Z" user="werthtobi" uid="122327" lat="45.4558539" lon="9.7913316"/>
+ <node id="7937985336" visible="true" version="1" changeset="91439120" timestamp="2020-09-24T13:34:06Z" user="aacomm" uid="8511019" lat="45.4475508" lon="9.7767967"/>
+ <node id="7937985337" visible="true" version="1" changeset="91439120" timestamp="2020-09-24T13:34:06Z" user="aacomm" uid="8511019" lat="45.4476580" lon="9.7786126"/>
+ <node id="7937985338" visible="true" version="1" changeset="91439120" timestamp="2020-09-24T13:34:06Z" user="aacomm" uid="8511019" lat="45.4485067" lon="9.7784758"/>
+ <node id="7937985339" visible="true" version="1" changeset="91439120" timestamp="2020-09-24T13:34:06Z" user="aacomm" uid="8511019" lat="45.4484803" lon="9.7782183"/>
+ <node id="7937985340" visible="true" version="1" changeset="91439120" timestamp="2020-09-24T13:34:06Z" user="aacomm" uid="8511019" lat="45.4490599" lon="9.7780949"/>
+ <node id="7937985341" visible="true" version="1" changeset="91439120" timestamp="2020-09-24T13:34:06Z" user="aacomm" uid="8511019" lat="45.4488943" lon="9.7769093"/>
  <way id="27981549" visible="true" version="4" changeset="4277727" timestamp="2010-03-30T15:45:30Z" user="Luigi62" uid="90148">
   <nd ref="307113421"/>
   <nd ref="538801759"/>
@@ -171,7 +177,7 @@
   <tag k="name:left" v="Fontanella"/>
   <tag k="name:right" v="Barbata"/>
  </way>
- <way id="28593532" visible="true" version="3" changeset="39991277" timestamp="2016-06-13T12:03:31Z" user="werthtobi" uid="122327">
+ <way id="28593532" visible="true" version="4" changeset="91439120" timestamp="2020-09-24T13:34:06Z" user="aacomm" uid="8511019">
   <nd ref="311187904"/>
   <nd ref="4241174015"/>
   <nd ref="311187978"/>
@@ -187,9 +193,10 @@
   <nd ref="840390492"/>
   <nd ref="311188156"/>
   <tag k="highway" v="unclassified"/>
+  <tag k="ref" v="SP105"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="60046226" visible="true" version="2" changeset="39991277" timestamp="2016-06-13T12:03:31Z" user="werthtobi" uid="122327">
+ <way id="60046226" visible="true" version="3" changeset="91439120" timestamp="2020-09-24T13:34:06Z" user="aacomm" uid="8511019">
   <nd ref="746306315"/>
   <nd ref="746306181"/>
   <nd ref="746306217"/>
@@ -197,6 +204,7 @@
   <nd ref="746306224"/>
   <nd ref="746306176"/>
   <tag k="highway" v="unclassified"/>
+  <tag k="ref" v="SP12"/>
   <tag k="surface" v="asphalt"/>
  </way>
  <way id="345287374" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:38:07Z" user="adirricor" uid="245439">
@@ -205,7 +213,7 @@
   <nd ref="3519739234"/>
   <tag k="highway" v="track"/>
  </way>
- <way id="609459933" visible="true" version="1" changeset="60899045" timestamp="2018-07-20T09:23:15Z" user="datamove" uid="4930752">
+ <way id="609459933" visible="true" version="2" changeset="91439120" timestamp="2020-09-24T13:34:06Z" user="aacomm" uid="8511019">
   <nd ref="311187413"/>
   <nd ref="3519740927"/>
   <nd ref="430435487"/>
@@ -224,6 +232,19 @@
   <nd ref="746306315"/>
   <nd ref="311187904"/>
   <tag k="highway" v="unclassified"/>
+  <tag k="ref" v="SP105"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="850941516" visible="true" version="1" changeset="91439120" timestamp="2020-09-24T13:34:06Z" user="aacomm" uid="8511019">
+  <nd ref="7937985341"/>
+  <nd ref="7937985340"/>
+  <nd ref="7937985339"/>
+  <nd ref="7937985338"/>
+  <nd ref="7937985337"/>
+  <nd ref="7937985336"/>
+  <nd ref="7937985341"/>
+  <tag k="landuse" v="farmyard"/>
+  <tag k="name" v="Cascina Scotta"/>
  </way>
  <relation id="44995" visible="true" version="9" changeset="44130518" timestamp="2016-12-03T06:43:27Z" user="nyuriks" uid="339581">
   <member type="way" ref="27981499" role="outer"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1277289 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3083194 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3984500" minlon="9.8767090" maxlat="45.4061637" maxlon="9.8876953"/>
  <node id="295985308" visible="true" version="4" changeset="51420225" timestamp="2017-08-24T22:16:06Z" user="fedc" uid="602784" lat="45.4024924" lon="9.8710646"/>
  <node id="295985318" visible="true" version="3" changeset="29849366" timestamp="2015-03-30T12:47:07Z" user="fedc" uid="602784" lat="45.4016285" lon="9.8745695"/>
@@ -1605,16 +1605,17 @@
   <tag k="highway" v="cycleway"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <relation id="2250491" visible="true" version="31" changeset="75318682" timestamp="2019-10-05T13:35:17Z" user="astraspera" uid="2653653">
+ <relation id="2250491" visible="true" version="32" changeset="90474198" timestamp="2020-09-06T09:31:17Z" user="Francoerbi41" uid="4982687">
   <member type="node" ref="971083416" role=""/>
   <member type="way" ref="168994659" role=""/>
   <member type="way" ref="106951340" role=""/>
   <member type="way" ref="731899382" role=""/>
+  <member type="way" ref="186923820" role=""/>
   <member type="way" ref="446870764" role=""/>
   <member type="way" ref="446870765" role=""/>
   <member type="way" ref="446866552" role=""/>
   <member type="way" ref="446866551" role=""/>
-  <member type="way" ref="186923820" role=""/>
+  <member type="way" ref="168997671" role=""/>
   <member type="way" ref="168996607" role=""/>
   <member type="way" ref="168996608" role=""/>
   <member type="way" ref="168994661" role=""/>
@@ -1632,18 +1633,18 @@
   <member type="way" ref="168994665" role=""/>
   <member type="way" ref="106951330" role=""/>
   <member type="way" ref="106951310" role=""/>
-  <member type="way" ref="168997659" role=""/>
-  <member type="way" ref="106312881" role=""/>
-  <member type="way" ref="168997657" role=""/>
-  <member type="way" ref="168997671" role=""/>
+  <member type="way" ref="169003979" role=""/>
+  <member type="way" ref="169003990" role=""/>
+  <member type="way" ref="169003989" role=""/>
+  <member type="way" ref="106306890" role=""/>
+  <member type="way" ref="26673735" role=""/>
   <member type="way" ref="169001945" role=""/>
   <member type="way" ref="169001946" role=""/>
   <member type="way" ref="169001940" role=""/>
-  <member type="way" ref="26673735" role=""/>
-  <member type="way" ref="106306890" role=""/>
-  <member type="way" ref="169003989" role=""/>
-  <member type="way" ref="169003990" role=""/>
-  <member type="way" ref="169003979" role=""/>
+  <member type="way" ref="168997659" role=""/>
+  <member type="way" ref="844716687" role=""/>
+  <member type="way" ref="106312881" role=""/>
+  <member type="way" ref="168997657" role=""/>
   <member type="way" ref="169003987" role=""/>
   <member type="way" ref="169003988" role=""/>
   <member type="way" ref="83421631" role=""/>

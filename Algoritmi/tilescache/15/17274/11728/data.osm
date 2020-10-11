@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3795329 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991874 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4524242" minlon="9.7778320" maxlat="45.4601306" maxlon="9.7888184"/>
  <node id="307109451" visible="true" version="3" changeset="4277727" timestamp="2010-03-30T15:45:29Z" user="Luigi62" uid="90148" lat="45.4293547" lon="9.7848936"/>
  <node id="307113421" visible="true" version="3" changeset="4277727" timestamp="2010-03-30T15:45:31Z" user="Luigi62" uid="90148" lat="45.4699056" lon="9.7867281"/>
@@ -147,7 +147,7 @@
   <tag k="name:left" v="Fontanella"/>
   <tag k="name:right" v="Barbata"/>
  </way>
- <way id="28593532" visible="true" version="3" changeset="39991277" timestamp="2016-06-13T12:03:31Z" user="werthtobi" uid="122327">
+ <way id="28593532" visible="true" version="4" changeset="91439120" timestamp="2020-09-24T13:34:06Z" user="aacomm" uid="8511019">
   <nd ref="311187904"/>
   <nd ref="4241174015"/>
   <nd ref="311187978"/>
@@ -163,6 +163,7 @@
   <nd ref="840390492"/>
   <nd ref="311188156"/>
   <tag k="highway" v="unclassified"/>
+  <tag k="ref" v="SP105"/>
   <tag k="surface" v="asphalt"/>
  </way>
  <relation id="44995" visible="true" version="9" changeset="44130518" timestamp="2016-12-03T06:43:27Z" user="nyuriks" uid="339581">

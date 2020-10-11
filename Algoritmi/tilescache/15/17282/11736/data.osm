@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1246476 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991878 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3907352" minlon="9.8657227" maxlat="45.3984500" maxlon="9.8767090"/>
  <node id="295985308" visible="true" version="4" changeset="51420225" timestamp="2017-08-24T22:16:06Z" user="fedc" uid="602784" lat="45.4024924" lon="9.8710646"/>
  <node id="295985326" visible="true" version="3" changeset="36804860" timestamp="2016-01-25T20:48:24Z" user="fedc" uid="602784" lat="45.3989123" lon="9.8804124"/>
@@ -2079,7 +2079,7 @@
   <tag k="barrier" v="retaining_wall"/>
   <tag k="historic" v="wall"/>
  </way>
- <way id="411720142" visible="true" version="3" changeset="58714357" timestamp="2018-05-05T19:11:43Z" user="Alecs01" uid="1476146">
+ <way id="411720142" visible="true" version="4" changeset="90494652" timestamp="2020-09-06T22:20:47Z" user="HrsAppDevelopment" uid="5317920">
   <nd ref="4133392656"/>
   <nd ref="4133392658"/>
   <nd ref="4133392662"/>
@@ -2125,6 +2125,7 @@
   <nd ref="5599201217"/>
   <nd ref="4133392670"/>
   <nd ref="4133392656"/>
+  <tag k="historic" v="castle"/>
  </way>
  <way id="411720143" visible="true" version="3" changeset="51420989" timestamp="2017-08-24T23:11:59Z" user="fedc" uid="602784">
   <nd ref="4133392629"/>
@@ -2140,7 +2141,7 @@
   <tag k="barrier" v="retaining_wall"/>
   <tag k="historic" v="wall"/>
  </way>
- <way id="411720145" visible="true" version="3" changeset="58714357" timestamp="2018-05-05T19:11:43Z" user="Alecs01" uid="1476146">
+ <way id="411720145" visible="true" version="4" changeset="90494652" timestamp="2020-09-06T22:20:47Z" user="HrsAppDevelopment" uid="5317920">
   <nd ref="4133392606"/>
   <nd ref="4133392608"/>
   <nd ref="4133392610"/>
@@ -2163,10 +2164,11 @@
   <nd ref="4133392604"/>
   <nd ref="4133392606"/>
   <tag k="building:part" v="yes"/>
+  <tag k="historic" v="tower"/>
   <tag k="man_made" v="tower"/>
   <tag k="tower:type" v="defensive"/>
  </way>
- <way id="411720146" visible="true" version="3" changeset="58714357" timestamp="2018-05-05T19:11:43Z" user="Alecs01" uid="1476146">
+ <way id="411720146" visible="true" version="4" changeset="90494652" timestamp="2020-09-06T22:20:47Z" user="HrsAppDevelopment" uid="5317920">
   <nd ref="4133392651"/>
   <nd ref="4133392654"/>
   <nd ref="4133392658"/>
@@ -2177,10 +2179,11 @@
   <nd ref="4133392657"/>
   <nd ref="4133392651"/>
   <tag k="building:part" v="yes"/>
+  <tag k="historic" v="tower"/>
   <tag k="man_made" v="tower"/>
   <tag k="tower:type" v="defensive"/>
  </way>
- <way id="411720147" visible="true" version="3" changeset="58714357" timestamp="2018-05-05T19:11:44Z" user="Alecs01" uid="1476146">
+ <way id="411720147" visible="true" version="4" changeset="90494652" timestamp="2020-09-06T22:20:47Z" user="HrsAppDevelopment" uid="5317920">
   <nd ref="4133392634"/>
   <nd ref="4133392642"/>
   <nd ref="4133392644"/>
@@ -2192,10 +2195,11 @@
   <nd ref="4133392631"/>
   <nd ref="4133392634"/>
   <tag k="building:part" v="yes"/>
+  <tag k="historic" v="tower"/>
   <tag k="man_made" v="tower"/>
   <tag k="tower:type" v="defensive"/>
  </way>
- <way id="411720148" visible="true" version="3" changeset="58714357" timestamp="2018-05-05T19:11:44Z" user="Alecs01" uid="1476146">
+ <way id="411720148" visible="true" version="4" changeset="90494652" timestamp="2020-09-06T22:20:47Z" user="HrsAppDevelopment" uid="5317920">
   <nd ref="4133392638"/>
   <nd ref="4133392636"/>
   <nd ref="4133392632"/>
@@ -2208,6 +2212,7 @@
   <nd ref="4133392643"/>
   <nd ref="4133392638"/>
   <tag k="building:part" v="yes"/>
+  <tag k="historic" v="tower"/>
   <tag k="man_made" v="tower"/>
   <tag k="tower:type" v="defensive"/>
  </way>

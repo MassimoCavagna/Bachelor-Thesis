@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (977774 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2876344 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4138765" minlon="9.7778320" maxlat="45.4215881" maxlon="9.7888184"/>
  <node id="62511303" visible="true" version="1" changeset="85182" timestamp="2007-10-10T06:21:44Z" user="Niccolo" uid="864" lat="45.4191750" lon="9.7825610">
   <tag k="created_by" v="JOSM"/>
@@ -255,7 +255,7 @@
  <node id="7394339149" visible="true" version="1" changeset="83422321" timestamp="2020-04-12T10:07:06Z" user="Yiyi (itwikipedia)" uid="1404750" lat="45.4145294" lon="9.7887580"/>
  <node id="7394380107" visible="true" version="1" changeset="83422332" timestamp="2020-04-12T10:07:27Z" user="Yiyi (itwikipedia)" uid="1404750" lat="45.4153803" lon="9.7892409"/>
  <node id="7394387376" visible="true" version="1" changeset="83422285" timestamp="2020-04-12T10:06:11Z" user="Yiyi (itwikipedia)" uid="1404750" lat="45.4152641" lon="9.7900195"/>
- <way id="37011308" visible="true" version="4" changeset="16330909" timestamp="2013-05-28T21:54:02Z" user="gigi2037" uid="616481">
+ <way id="37011308" visible="true" version="5" changeset="91439120" timestamp="2020-09-24T13:34:06Z" user="aacomm" uid="8511019">
   <nd ref="311186979"/>
   <nd ref="2323729071"/>
   <nd ref="1319167062"/>
@@ -273,13 +273,15 @@
   <nd ref="311187095"/>
   <tag k="highway" v="residential"/>
   <tag k="name" v="Via Romanengo"/>
+  <tag k="ref" v="SP20"/>
  </way>
- <way id="37011320" visible="true" version="12" changeset="60899045" timestamp="2018-07-20T09:23:16Z" user="datamove" uid="4930752">
+ <way id="37011320" visible="true" version="13" changeset="91439120" timestamp="2020-09-24T13:34:06Z" user="aacomm" uid="8511019">
   <nd ref="311187095"/>
   <nd ref="2323729085"/>
   <nd ref="430434232"/>
   <tag k="highway" v="unclassified"/>
   <tag k="name" v="Via Romanengo"/>
+  <tag k="ref" v="SP20"/>
  </way>
  <way id="47334354" visible="true" version="10" changeset="25722161" timestamp="2014-09-28T10:19:07Z" user="motopisolo" uid="2055277">
   <nd ref="252522702"/>
@@ -303,7 +305,7 @@
   <nd ref="840390676"/>
   <tag k="highway" v="secondary"/>
  </way>
- <way id="109248839" visible="true" version="3" changeset="60899045" timestamp="2018-07-20T09:23:16Z" user="datamove" uid="4930752">
+ <way id="109248839" visible="true" version="4" changeset="91439120" timestamp="2020-09-24T13:34:06Z" user="aacomm" uid="8511019">
   <nd ref="430433219"/>
   <nd ref="2323729007"/>
   <nd ref="430433220"/>
@@ -316,6 +318,7 @@
   <nd ref="311186979"/>
   <tag k="highway" v="unclassified"/>
   <tag k="name" v="Via Romanengo"/>
+  <tag k="ref" v="SP20"/>
  </way>
  <way id="109248993" visible="true" version="7" changeset="83422332" timestamp="2020-04-12T10:07:27Z" user="Yiyi (itwikipedia)" uid="1404750">
   <nd ref="430434235"/>
@@ -512,7 +515,7 @@
   <tag k="highway" v="unclassified"/>
   <tag k="name" v="Via Papa Giovanni ventitreesimo"/>
  </way>
- <way id="609459929" visible="true" version="1" changeset="60899045" timestamp="2018-07-20T09:23:15Z" user="datamove" uid="4930752">
+ <way id="609459929" visible="true" version="2" changeset="91439120" timestamp="2020-09-24T13:34:06Z" user="aacomm" uid="8511019">
   <nd ref="1319167138"/>
   <nd ref="430434245"/>
   <nd ref="430434247"/>
@@ -563,14 +566,16 @@
   <nd ref="311187413"/>
   <tag k="highway" v="unclassified"/>
   <tag k="name" v="Via Fontanella"/>
+  <tag k="ref" v="SP20"/>
  </way>
- <way id="609459932" visible="true" version="1" changeset="60899045" timestamp="2018-07-20T09:23:15Z" user="datamove" uid="4930752">
+ <way id="609459932" visible="true" version="2" changeset="91439120" timestamp="2020-09-24T13:34:06Z" user="aacomm" uid="8511019">
   <nd ref="430434232"/>
   <nd ref="430434235"/>
   <nd ref="3519740981"/>
   <nd ref="1319167138"/>
   <tag k="highway" v="unclassified"/>
   <tag k="name" v="Piazza Roma"/>
+  <tag k="ref" v="SP20"/>
  </way>
  <way id="790976628" visible="true" version="1" changeset="83422321" timestamp="2020-04-12T10:07:06Z" user="Yiyi (itwikipedia)" uid="1404750">
   <nd ref="7394339138"/>

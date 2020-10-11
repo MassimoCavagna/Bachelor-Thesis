@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (129272 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991865 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4370083" minlon="9.7668457" maxlat="45.4447168" maxlon="9.7778320"/>
  <node id="307109674" visible="true" version="3" changeset="4277727" timestamp="2010-03-30T15:45:31Z" user="Luigi62" uid="90148" lat="45.4297566" lon="9.7695010"/>
  <node id="307112168" visible="true" version="3" changeset="4277727" timestamp="2010-03-30T15:45:26Z" user="Luigi62" uid="90148" lat="45.4563160" lon="9.7611927"/>
@@ -50,23 +50,18 @@
   <tag k="power" v="tower"/>
  </node>
  <node id="3519738815" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:40Z" user="adirricor" uid="245439" lat="45.4371851" lon="9.7742488"/>
- <node id="3519738884" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:42Z" user="adirricor" uid="245439" lat="45.4328599" lon="9.7766789"/>
  <node id="3519739224" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:43Z" user="adirricor" uid="245439" lat="45.4368937" lon="9.7761631"/>
  <node id="3519739821" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:45Z" user="adirricor" uid="245439" lat="45.4373582" lon="9.7759654"/>
  <node id="3519739827" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:45Z" user="adirricor" uid="245439" lat="45.4448544" lon="9.7765869"/>
- <node id="3519739864" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:46Z" user="adirricor" uid="245439" lat="45.4328145" lon="9.7767878"/>
  <node id="3519740455" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:49Z" user="adirricor" uid="245439" lat="45.4353519" lon="9.7766092"/>
  <node id="3519740933" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:50Z" user="adirricor" uid="245439" lat="45.4347406" lon="9.7767264"/>
  <node id="3519740947" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:51Z" user="adirricor" uid="245439" lat="45.4345124" lon="9.7767540"/>
  <node id="3519740987" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:52Z" user="adirricor" uid="245439" lat="45.4422401" lon="9.7764160"/>
  <node id="3519741603" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:52Z" user="adirricor" uid="245439" lat="45.4343205" lon="9.7767540"/>
- <node id="3519741606" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:53Z" user="adirricor" uid="245439" lat="45.4328471" lon="9.7777992"/>
  <node id="3519741609" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:53Z" user="adirricor" uid="245439" lat="45.4373507" lon="9.7761371"/>
  <node id="3519741620" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:53Z" user="adirricor" uid="245439" lat="45.4370382" lon="9.7761424"/>
- <node id="3519742133" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:56Z" user="adirricor" uid="245439" lat="45.4329747" lon="9.7855355"/>
  <node id="3519742176" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:57Z" user="adirricor" uid="245439" lat="45.4339139" lon="9.7767057"/>
  <node id="3519742648" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:59Z" user="adirricor" uid="245439" lat="45.4433602" lon="9.7764689"/>
- <node id="3519742909" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:38:01Z" user="adirricor" uid="245439" lat="45.4328734" lon="9.7796285"/>
  <node id="3519742945" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:38:02Z" user="adirricor" uid="245439" lat="45.4372001" lon="9.7744741"/>
  <node id="7209329333" visible="true" version="1" changeset="80975403" timestamp="2020-02-13T20:54:50Z" user="Klaus Schwer" uid="10698544" lat="45.4318229" lon="9.7750291"/>
  <node id="7209329334" visible="true" version="1" changeset="80975403" timestamp="2020-02-13T20:54:50Z" user="Klaus Schwer" uid="10698544" lat="45.4378957" lon="9.7745758"/>
@@ -131,7 +126,7 @@
   <nd ref="3519741609"/>
   <tag k="highway" v="track"/>
  </way>
- <way id="345287433" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:38:12Z" user="adirricor" uid="245439">
+ <way id="345287433" visible="true" version="2" changeset="91439120" timestamp="2020-09-24T13:34:06Z" user="aacomm" uid="8511019">
   <nd ref="746306251"/>
   <nd ref="746306276"/>
   <nd ref="746306232"/>
@@ -146,14 +141,8 @@
   <nd ref="3519740947"/>
   <nd ref="3519741603"/>
   <nd ref="3519742176"/>
-  <nd ref="3519738884"/>
-  <nd ref="3519739864"/>
-  <nd ref="3519741606"/>
-  <nd ref="3519742909"/>
-  <nd ref="3519742133"/>
-  <tag k="highway" v="unclassified"/>
-  <tag k="oneway" v="no"/>
-  <tag k="surface" v="asphalt"/>
+  <tag k="highway" v="track"/>
+  <tag k="tracktype" v="grade4"/>
  </way>
  <relation id="43893" visible="true" version="69" changeset="65915268" timestamp="2018-12-31T15:21:32Z" user="fayor" uid="743479">
   <member type="way" ref="323021234" role="outer"/>

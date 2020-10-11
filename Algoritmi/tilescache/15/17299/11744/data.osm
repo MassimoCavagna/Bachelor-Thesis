@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (861176 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991864 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3289787" minlon="10.0524902" maxlat="45.3367019" maxlon="10.0634766"/>
  <node id="336477143" visible="true" version="11" changeset="46797819" timestamp="2017-03-12T23:00:10Z" user="SiMaz96" uid="3141745" lat="45.3271781" lon="10.0459833"/>
  <node id="336477149" visible="true" version="10" changeset="27450439" timestamp="2014-12-14T05:03:32Z" user="TorCguy" uid="338843" lat="45.3265596" lon="10.0468437"/>
@@ -758,18 +758,18 @@
  <node id="6795531765" visible="true" version="1" changeset="74477379" timestamp="2019-09-14T15:48:51Z" user="Road~Runner" uid="1732100" lat="45.3285615" lon="10.0581021"/>
  <node id="7036101914" visible="true" version="1" changeset="78001730" timestamp="2019-12-05T14:16:19Z" user="demon_box" uid="350864" lat="45.3358847" lon="10.0651108"/>
  <node id="7036909930" visible="true" version="1" changeset="78015943" timestamp="2019-12-05T20:29:42Z" user="demon_box" uid="350864" lat="45.3358569" lon="10.0652105"/>
- <way id="30663447" visible="true" version="8" changeset="11720082" timestamp="2012-05-27T20:55:00Z" user="Gianluigi" uid="498903">
+ <way id="30663447" visible="true" version="9" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="339102449"/>
   <nd ref="726862276"/>
   <nd ref="726862193"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
  </way>
- <way id="33242014" visible="true" version="3" changeset="11772172" timestamp="2012-06-01T21:31:18Z" user="Gianluigi" uid="498903">
+ <way id="33242014" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="377157971"/>
   <nd ref="377157415"/>
   <nd ref="377157420"/>
   <nd ref="339102369"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
  </way>
  <way id="41569018" visible="true" version="2" changeset="5159885" timestamp="2010-07-07T16:51:36Z" user="Moliva" uid="107039">
   <nd ref="510078051"/>
@@ -866,7 +866,7 @@
   <tag k="landuse" v="forest"/>
   <tag k="source" v="Regione Lombardia - La banca dati territoriali CTR10000 è prodotta da Regione Lombardia - Infrastruttura per l'Informazione Territoriale"/>
  </way>
- <way id="58665756" visible="true" version="2" changeset="11720082" timestamp="2012-05-27T20:54:58Z" user="Gianluigi" uid="498903">
+ <way id="58665756" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="339102547"/>
   <nd ref="726862304"/>
   <nd ref="726862219"/>
@@ -885,10 +885,10 @@
   <nd ref="726862187"/>
   <nd ref="726862223"/>
   <nd ref="726862141"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
  </way>
- <way id="58665764" visible="true" version="5" changeset="74477379" timestamp="2019-09-14T15:48:51Z" user="Road~Runner" uid="1732100">
+ <way id="58665764" visible="true" version="6" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="726862280"/>
   <nd ref="6795531760"/>
   <nd ref="1768072610"/>
@@ -905,9 +905,9 @@
   <nd ref="726862170"/>
   <nd ref="339102365"/>
   <nd ref="339102366"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
  </way>
- <way id="58665765" visible="true" version="4" changeset="23125731" timestamp="2014-06-24T15:58:50Z" user="TheHammer" uid="554234">
+ <way id="58665765" visible="true" version="5" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="339102547"/>
   <nd ref="339102548"/>
   <nd ref="726862198"/>
@@ -928,15 +928,15 @@
   <nd ref="339102559"/>
   <nd ref="1768072834"/>
   <nd ref="1768072832"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
  </way>
- <way id="58665771" visible="true" version="3" changeset="14924739" timestamp="2013-02-05T18:03:36Z" user="Baliano" uid="382012">
+ <way id="58665771" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="339102366"/>
   <nd ref="726862150"/>
   <nd ref="726862342"/>
   <nd ref="726862251"/>
   <nd ref="726862193"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="oneway" v="yes"/>
  </way>
  <way id="59195735" visible="true" version="3" changeset="59297522" timestamp="2018-05-26T16:38:49Z" user="pigio66" uid="7507474">
@@ -1237,7 +1237,7 @@
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
   <tag k="waterway" v="river"/>
  </way>
- <way id="66512965" visible="true" version="2" changeset="11720082" timestamp="2012-05-27T20:54:56Z" user="Gianluigi" uid="498903">
+ <way id="66512965" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="726862193"/>
   <nd ref="726862230"/>
   <nd ref="339102538"/>
@@ -1258,13 +1258,13 @@
   <nd ref="726862239"/>
   <nd ref="339102546"/>
   <nd ref="339102547"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="lanes" v="2"/>
   <tag k="maxspeed" v="50"/>
   <tag k="name" v="Via Nazario Sauro"/>
   <tag k="width" v="6"/>
  </way>
- <way id="66512973" visible="true" version="2" changeset="11720082" timestamp="2012-05-27T20:55:04Z" user="Gianluigi" uid="498903">
+ <way id="66512973" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="805314554"/>
   <nd ref="805314412"/>
   <nd ref="805314577"/>
@@ -1274,28 +1274,28 @@
   <nd ref="805314483"/>
   <nd ref="805350824"/>
   <nd ref="805350670"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="unclassified"/>
   <tag k="lanes" v="2"/>
   <tag k="layer" v="0"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
   <tag k="width" v="6"/>
  </way>
- <way id="66512974" visible="true" version="2" changeset="11720082" timestamp="2012-05-27T20:54:57Z" user="Gianluigi" uid="498903">
+ <way id="66512974" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="805350670"/>
   <nd ref="805350908"/>
   <nd ref="1768072811"/>
   <nd ref="805350869"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="layer" v="0"/>
   <tag k="name" v="Via Trento"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
   <tag k="width" v="5"/>
  </way>
- <way id="66512975" visible="true" version="3" changeset="17666874" timestamp="2013-09-04T09:49:08Z" user="mcheckimport" uid="893327">
+ <way id="66512975" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="805350869"/>
   <nd ref="805350710"/>
   <tag k="bridge" v="yes"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="layer" v="1"/>
   <tag k="name" v="Via Trento"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
@@ -1385,7 +1385,7 @@
   <tag k="tracktype" v="grade3"/>
   <tag k="width" v="3"/>
  </way>
- <way id="66512984" visible="true" version="2" changeset="11720082" timestamp="2012-05-27T20:54:57Z" user="Gianluigi" uid="498903">
+ <way id="66512984" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="805350710"/>
   <nd ref="805350628"/>
   <nd ref="805350815"/>
@@ -1399,20 +1399,20 @@
   <nd ref="805350967"/>
   <nd ref="805350728"/>
   <nd ref="726862325"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="layer" v="0"/>
   <tag k="name" v="Via Trento"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
   <tag k="width" v="5"/>
  </way>
- <way id="123753638" visible="true" version="3" changeset="11772172" timestamp="2012-06-01T21:31:19Z" user="Gianluigi" uid="498903">
+ <way id="123753638" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="726862111"/>
   <nd ref="1378992396"/>
   <nd ref="1378992398"/>
   <nd ref="1378992397"/>
   <nd ref="1378992395"/>
   <nd ref="377157415"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
  </way>
  <way id="165250297" visible="true" version="2" changeset="25378497" timestamp="2014-09-11T21:59:58Z" user="TorCguy" uid="338843">
   <nd ref="1768072809"/>
@@ -1593,7 +1593,7 @@
   <nd ref="1768072767"/>
   <tag k="man_made" v="wastewater_plant"/>
  </way>
- <way id="204274683" visible="true" version="2" changeset="73163890" timestamp="2019-08-08T16:50:21Z" user="gloriamar" uid="10201400">
+ <way id="204274683" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="339102449"/>
   <nd ref="1768072740"/>
   <nd ref="1768072742"/>
@@ -1614,12 +1614,12 @@
   <nd ref="726862240"/>
   <nd ref="726862163"/>
   <nd ref="339102377"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
  </way>
- <way id="204274686" visible="true" version="1" changeset="14924739" timestamp="2013-02-05T18:03:33Z" user="Baliano" uid="382012">
+ <way id="204274686" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="339102366"/>
   <nd ref="339102449"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="oneway" v="yes"/>
  </way>
  <way id="211315684" visible="true" version="1" changeset="15445401" timestamp="2013-03-21T17:11:56Z" user="Pyknite" uid="193512">
@@ -1638,13 +1638,13 @@
   <tag k="name" v="Vaso Lusignolo"/>
   <tag k="waterway" v="stream"/>
  </way>
- <way id="290736643" visible="true" version="1" changeset="23416748" timestamp="2014-07-01T19:24:02Z" user="White_Rabbit" uid="604999">
+ <way id="290736643" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1768072502"/>
   <nd ref="1768072520"/>
   <nd ref="1768072559"/>
   <nd ref="1768072606"/>
   <nd ref="1768072744"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
  </way>
  <way id="302970346" visible="true" version="1" changeset="25378497" timestamp="2014-09-11T21:59:56Z" user="TorCguy" uid="338843">
   <nd ref="3072544936"/>

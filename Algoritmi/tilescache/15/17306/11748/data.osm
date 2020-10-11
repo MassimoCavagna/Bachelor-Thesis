@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2167791 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991884 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2980751" minlon="10.1293945" maxlat="45.3058026" maxlon="10.1403809"/>
  <node id="9194624" visible="true" version="9" changeset="823786" timestamp="2009-03-17T09:02:47Z" user="Manfred Caruso" uid="24705" lat="45.3479505" lon="10.1610517"/>
  <node id="9197403" visible="true" version="10" changeset="20748808" timestamp="2014-02-24T11:25:32Z" user="Goffredo" uid="194751" lat="45.3237823" lon="10.1490667"/>
@@ -1250,7 +1250,7 @@
   <tag k="type" v="route"/>
   <tag k="wikipedia" v="en:European route E70"/>
  </relation>
- <relation id="6088003" visible="true" version="76" changeset="90095379" timestamp="2020-08-28T18:33:17Z" user="laser82" uid="1060356">
+ <relation id="6088003" visible="true" version="77" changeset="91757597" timestamp="2020-09-30T09:28:36Z" user="fabioavi" uid="3555583">
   <member type="node" ref="6083599362" role="stop"/>
   <member type="node" ref="527958074" role="platform"/>
   <member type="node" ref="4238802393" role="platform"/>
@@ -1302,8 +1302,10 @@
   <member type="way" ref="211666373" role=""/>
   <member type="way" ref="27824461" role=""/>
   <member type="way" ref="18105380" role=""/>
+  <member type="way" ref="853235730" role=""/>
   <member type="way" ref="80664529" role=""/>
   <member type="way" ref="76742224" role=""/>
+  <member type="way" ref="853235728" role=""/>
   <member type="way" ref="826256052" role=""/>
   <member type="way" ref="646478003" role=""/>
   <member type="way" ref="18105506" role=""/>
@@ -1318,6 +1320,7 @@
   <member type="way" ref="550914498" role=""/>
   <member type="way" ref="183142618" role=""/>
   <member type="way" ref="572871119" role=""/>
+  <member type="way" ref="853235725" role=""/>
   <member type="way" ref="157144976" role=""/>
   <member type="way" ref="274136210" role=""/>
   <member type="way" ref="647492013" role=""/>
@@ -2100,7 +2103,7 @@
   <tag k="type" v="route"/>
   <tag k="website" v="https://meinfernbus.de/unser-angebot/linien/481.html"/>
  </relation>
- <relation id="9039031" visible="true" version="74" changeset="88807460" timestamp="2020-08-01T06:19:28Z" user="Romolo Solari" uid="582244">
+ <relation id="9039031" visible="true" version="75" changeset="91757597" timestamp="2020-09-30T09:28:36Z" user="fabioavi" uid="3555583">
   <member type="node" ref="1799420570" role="stop"/>
   <member type="node" ref="4318833054" role="platform"/>
   <member type="node" ref="6658728073" role="stop"/>
@@ -2901,6 +2904,7 @@
   <member type="way" ref="24259890" role=""/>
   <member type="way" ref="19786476" role=""/>
   <member type="way" ref="23614251" role=""/>
+  <member type="way" ref="853235723" role=""/>
   <member type="way" ref="429328252" role=""/>
   <member type="way" ref="429328251" role=""/>
   <member type="way" ref="429328253" role=""/>
@@ -2914,8 +2918,10 @@
   <member type="way" ref="832859346" role=""/>
   <member type="way" ref="832859348" role=""/>
   <member type="way" ref="826256052" role=""/>
+  <member type="way" ref="853235728" role=""/>
   <member type="way" ref="76742224" role=""/>
   <member type="way" ref="80664529" role=""/>
+  <member type="way" ref="853235730" role=""/>
   <member type="way" ref="80664525" role=""/>
   <member type="way" ref="429328250" role=""/>
   <member type="way" ref="429328248" role=""/>

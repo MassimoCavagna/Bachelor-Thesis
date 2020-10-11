@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1726249 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991876 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3212544" minlon="10.1293945" maxlat="45.3289787" maxlon="10.1403809"/>
  <node id="336127767" visible="true" version="15" changeset="17878066" timestamp="2013-09-16T23:33:03Z" user="mcheckimport" uid="893327" lat="45.3399872" lon="10.1458989"/>
  <node id="336127769" visible="true" version="12" changeset="855080" timestamp="2009-01-30T12:17:42Z" user="Thorin" uid="92379" lat="45.3388225" lon="10.1452409"/>
@@ -386,12 +386,12 @@
  <node id="4379713000" visible="true" version="1" changeset="41856908" timestamp="2016-09-01T20:21:40Z" user="Elia Z" uid="2914055" lat="45.3258066" lon="10.1376103"/>
  <node id="4379713007" visible="true" version="1" changeset="41856908" timestamp="2016-09-01T20:21:40Z" user="Elia Z" uid="2914055" lat="45.3371595" lon="10.1442626"/>
  <node id="4382549412" visible="true" version="1" changeset="41895226" timestamp="2016-09-03T19:26:18Z" user="Elia Z" uid="2914055" lat="45.3165789" lon="10.1192211"/>
- <way id="30489468" visible="true" version="8" changeset="13218922" timestamp="2012-09-23T11:49:31Z" user="White_Rabbit" uid="604999">
+ <way id="30489468" visible="true" version="9" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1712046437"/>
   <nd ref="1712046458"/>
   <nd ref="336454545"/>
   <nd ref="336454274"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Galanti"/>
  </way>
  <way id="58506038" visible="true" version="4" changeset="41895226" timestamp="2016-09-03T19:26:21Z" user="Elia Z" uid="2914055">
@@ -446,7 +446,7 @@
   <tag k="ref" v="SPBS45bis"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
  </way>
- <way id="128224990" visible="true" version="4" changeset="11772172" timestamp="2012-06-01T21:31:11Z" user="Gianluigi" uid="498903">
+ <way id="128224990" visible="true" version="5" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1417492939"/>
   <nd ref="1417492944"/>
   <nd ref="336454076"/>
@@ -454,19 +454,9 @@
   <nd ref="336454078"/>
   <nd ref="1713418916"/>
   <nd ref="336127778"/>
-  <nd ref="1417492914"/>
-  <nd ref="1417492909"/>
-  <nd ref="336454086"/>
-  <nd ref="495195927"/>
-  <nd ref="1672762655"/>
-  <nd ref="336454091"/>
-  <nd ref="1672762654"/>
-  <nd ref="495197517"/>
-  <nd ref="336453355"/>
-  <nd ref="336453338"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
  </way>
- <way id="128224994" visible="true" version="3" changeset="18988971" timestamp="2013-11-19T08:32:57Z" user="demetrio_m" uid="196617">
+ <way id="128224994" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1417492932"/>
   <nd ref="1417492934"/>
   <nd ref="2539412318"/>
@@ -491,7 +481,7 @@
   <nd ref="2539412317"/>
   <nd ref="1417492928"/>
   <nd ref="1417492932"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="junction" v="roundabout"/>
  </way>
  <way id="154802523" visible="true" version="1" changeset="10961689" timestamp="2012-03-12T22:55:13Z" user="Gianluigi" uid="498903">
@@ -520,12 +510,12 @@
   <tag k="highway" v="residential"/>
   <tag k="name" v="Via Donatori di sangue"/>
  </way>
- <way id="154802538" visible="true" version="4" changeset="34533500" timestamp="2015-10-09T16:34:37Z" user="Gurjot Singh Mann" uid="798464">
+ <way id="154802538" visible="true" version="5" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336454553"/>
   <nd ref="3779700475"/>
   <nd ref="3779700470"/>
   <nd ref="336127782"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="unclassified"/>
   <tag k="name" v="Via Caduti dispersi in Russia"/>
   <tag k="oneway" v="yes"/>
  </way>
@@ -584,7 +574,7 @@
   <tag k="highway" v="residential"/>
   <tag k="name" v="Via Agostino Gallo"/>
  </way>
- <way id="159104012" visible="true" version="3" changeset="13218922" timestamp="2012-09-23T11:49:30Z" user="White_Rabbit" uid="604999">
+ <way id="159104012" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1417492951"/>
   <nd ref="1417492950"/>
   <nd ref="1712046645"/>
@@ -598,7 +588,7 @@
   <nd ref="1417492908"/>
   <nd ref="1712046534"/>
   <nd ref="336454540"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Commenda"/>
  </way>
  <way id="159104015" visible="true" version="2" changeset="13218922" timestamp="2012-09-23T11:49:32Z" user="White_Rabbit" uid="604999">
@@ -626,12 +616,12 @@
   <tag k="highway" v="residential"/>
   <tag k="name" v="Via Don L. Quinzanini"/>
  </way>
- <way id="159104040" visible="true" version="3" changeset="13218922" timestamp="2012-09-23T11:49:29Z" user="White_Rabbit" uid="604999">
+ <way id="159104040" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1712046490"/>
   <nd ref="1712046486"/>
   <nd ref="1712046481"/>
   <nd ref="1712046470"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Alessandro Luzzago"/>
  </way>
  <way id="159104041" visible="true" version="2" changeset="13218922" timestamp="2012-09-23T11:49:31Z" user="White_Rabbit" uid="604999">
@@ -817,17 +807,17 @@
   <tag k="highway" v="unclassified"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="165774582" visible="true" version="2" changeset="18988971" timestamp="2013-11-19T08:32:57Z" user="demetrio_m" uid="196617">
+ <way id="165774582" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1417492923"/>
   <nd ref="1773052745"/>
   <nd ref="1417492928"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="182519808" visible="true" version="1" changeset="13218922" timestamp="2012-09-23T11:49:26Z" user="White_Rabbit" uid="604999">
+ <way id="182519808" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1712046492"/>
   <nd ref="336454540"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Piazza Roma"/>
  </way>
  <way id="182519809" visible="true" version="1" changeset="13218922" timestamp="2012-09-23T11:49:26Z" user="White_Rabbit" uid="604999">
@@ -844,7 +834,7 @@
   <tag k="name" v="San Michele Arcangelo"/>
   <tag k="religion" v="christian"/>
  </way>
- <way id="182519810" visible="true" version="1" changeset="13218922" timestamp="2012-09-23T11:49:26Z" user="White_Rabbit" uid="604999">
+ <way id="182519810" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1712046470"/>
   <nd ref="1712046464"/>
   <nd ref="1712046454"/>
@@ -852,19 +842,19 @@
   <nd ref="1712046448"/>
   <nd ref="1928801846"/>
   <nd ref="1712046437"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Alessandro Luzzago"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="182519812" visible="true" version="1" changeset="13218922" timestamp="2012-09-23T11:49:26Z" user="White_Rabbit" uid="604999">
+ <way id="182519812" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336454441"/>
   <nd ref="1773052660"/>
   <nd ref="336454553"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="unclassified"/>
   <tag k="name" v="Via Caduti dispersi in Russia"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="182519813" visible="true" version="1" changeset="13218922" timestamp="2012-09-23T11:49:27Z" user="White_Rabbit" uid="604999">
+ <way id="182519813" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336454545"/>
   <nd ref="1712046471"/>
   <nd ref="336454548"/>
@@ -873,10 +863,10 @@
   <nd ref="1713418858"/>
   <nd ref="336454549"/>
   <nd ref="336454553"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="unclassified"/>
   <tag k="name" v="Via Caduti dispersi in Russia"/>
  </way>
- <way id="182519814" visible="true" version="1" changeset="13218922" timestamp="2012-09-23T11:49:27Z" user="White_Rabbit" uid="604999">
+ <way id="182519814" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1417492908"/>
   <nd ref="1417492907"/>
   <nd ref="336454054"/>
@@ -891,16 +881,16 @@
   <nd ref="1417492938"/>
   <nd ref="336454073"/>
   <nd ref="1417492941"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Cigole"/>
  </way>
- <way id="182519815" visible="true" version="2" changeset="78227289" timestamp="2019-12-10T21:25:38Z" user="demon_box" uid="350864">
+ <way id="182519815" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336454274"/>
   <nd ref="1712046505"/>
   <nd ref="1712046514"/>
   <nd ref="1672762664"/>
   <tag k="alt_name" v="Via Papa Giovanni XXIII"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Papa Giovanni Ventitreesimo"/>
  </way>
  <way id="182519816" visible="true" version="2" changeset="78227289" timestamp="2019-12-10T21:25:38Z" user="demon_box" uid="350864">
@@ -913,13 +903,13 @@
   <tag k="highway" v="residential"/>
   <tag k="name" v="Via Papa Giovanni Ventitreesimo"/>
  </way>
- <way id="182519817" visible="true" version="1" changeset="13218922" timestamp="2012-09-23T11:49:28Z" user="White_Rabbit" uid="604999">
+ <way id="182519817" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336454545"/>
   <nd ref="1712046490"/>
   <nd ref="336454543"/>
   <nd ref="1712046496"/>
   <nd ref="336454540"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via San Michele"/>
   <tag k="oneway" v="yes"/>
  </way>
@@ -956,19 +946,19 @@
   <nd ref="1672762623"/>
   <tag k="highway" v="unclassified"/>
  </way>
- <way id="182519821" visible="true" version="2" changeset="18988971" timestamp="2013-11-19T08:32:57Z" user="demetrio_m" uid="196617">
+ <way id="182519821" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1672762664"/>
   <nd ref="1417492912"/>
   <nd ref="1417492920"/>
   <nd ref="1417492921"/>
   <nd ref="1417492923"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
  </way>
- <way id="246990924" visible="true" version="1" changeset="18988971" timestamp="2013-11-19T08:32:56Z" user="demetrio_m" uid="196617">
+ <way id="246990924" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1417492930"/>
   <nd ref="336454277"/>
   <nd ref="1417492923"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="oneway" v="yes"/>
  </way>
  <way id="356068234" visible="true" version="3" changeset="41163388" timestamp="2016-08-01T10:01:41Z" user="agnostico" uid="3084054">
@@ -1004,6 +994,20 @@
   <nd ref="3900297857"/>
   <nd ref="3900293860"/>
   <tag k="building" v="yes"/>
+ </way>
+ <way id="846694408" visible="true" version="1" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
+  <nd ref="336127778"/>
+  <nd ref="1417492914"/>
+  <nd ref="1417492909"/>
+  <nd ref="336454086"/>
+  <nd ref="495195927"/>
+  <nd ref="1672762655"/>
+  <nd ref="336454091"/>
+  <nd ref="1672762654"/>
+  <nd ref="495197517"/>
+  <nd ref="336453355"/>
+  <nd ref="336453338"/>
+  <tag k="highway" v="unclassified"/>
  </way>
  <relation id="2745318" visible="true" version="2" changeset="41895226" timestamp="2016-09-03T19:26:31Z" user="Elia Z" uid="2914055">
   <member type="way" ref="136665474" role="from"/>

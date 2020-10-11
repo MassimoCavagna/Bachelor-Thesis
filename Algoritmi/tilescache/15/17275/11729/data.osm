@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (972647 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3154030 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4447168" minlon="9.7888184" maxlat="45.4524242" maxlon="9.7998047"/>
  <node id="311187904" visible="true" version="4" changeset="4781924" timestamp="2010-05-23T10:43:44Z" user="wiso" uid="30891" lat="45.4505863" lon="9.7856886"/>
  <node id="311187978" visible="true" version="3" changeset="39991277" timestamp="2016-06-13T12:03:30Z" user="werthtobi" uid="122327" lat="45.4520608" lon="9.7888232"/>
@@ -429,7 +429,7 @@
  <node id="7498292625" visible="true" version="1" changeset="84899855" timestamp="2020-05-08T14:14:39Z" user="aacomm" uid="8511019" lat="45.4459776" lon="9.7994104"/>
  <node id="7498292626" visible="true" version="1" changeset="84899855" timestamp="2020-05-08T14:14:39Z" user="aacomm" uid="8511019" lat="45.4455956" lon="9.7997296"/>
  <node id="7498292627" visible="true" version="1" changeset="84899855" timestamp="2020-05-08T14:14:39Z" user="aacomm" uid="8511019" lat="45.4459979" lon="9.7993866"/>
- <way id="28593532" visible="true" version="3" changeset="39991277" timestamp="2016-06-13T12:03:31Z" user="werthtobi" uid="122327">
+ <way id="28593532" visible="true" version="4" changeset="91439120" timestamp="2020-09-24T13:34:06Z" user="aacomm" uid="8511019">
   <nd ref="311187904"/>
   <nd ref="4241174015"/>
   <nd ref="311187978"/>
@@ -445,6 +445,7 @@
   <nd ref="840390492"/>
   <nd ref="311188156"/>
   <tag k="highway" v="unclassified"/>
+  <tag k="ref" v="SP105"/>
   <tag k="surface" v="asphalt"/>
  </way>
  <way id="70417507" visible="true" version="5" changeset="18092489" timestamp="2013-09-29T13:30:40Z" user="mcheckimport" uid="893327">

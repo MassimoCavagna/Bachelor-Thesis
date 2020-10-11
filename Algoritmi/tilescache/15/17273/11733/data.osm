@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (972487 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991886 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4138765" minlon="9.7668457" maxlat="45.4215881" maxlon="9.7778320"/>
  <node id="143555995" visible="true" version="19" changeset="22394483" timestamp="2014-05-17T19:01:22Z" user="motopisolo" uid="2055277" lat="45.4174643" lon="9.7591922"/>
  <node id="143555996" visible="true" version="19" changeset="7907246" timestamp="2011-04-19T14:49:13Z" user="ilrobi" uid="22110" lat="45.4149112" lon="9.7695677"/>
@@ -221,7 +221,7 @@
   <nd ref="311186837"/>
   <tag k="highway" v="unclassified"/>
  </way>
- <way id="109248839" visible="true" version="3" changeset="60899045" timestamp="2018-07-20T09:23:16Z" user="datamove" uid="4930752">
+ <way id="109248839" visible="true" version="4" changeset="91439120" timestamp="2020-09-24T13:34:06Z" user="aacomm" uid="8511019">
   <nd ref="430433219"/>
   <nd ref="2323729007"/>
   <nd ref="430433220"/>
@@ -234,6 +234,7 @@
   <nd ref="311186979"/>
   <tag k="highway" v="unclassified"/>
   <tag k="name" v="Via Romanengo"/>
+  <tag k="ref" v="SP20"/>
  </way>
  <way id="109248840" visible="true" version="3" changeset="60899045" timestamp="2018-07-20T09:23:16Z" user="datamove" uid="4930752">
   <nd ref="430433219"/>

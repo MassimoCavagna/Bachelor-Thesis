@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2822293 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991883 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3212544" minlon="10.0744629" maxlat="45.3289787" maxlon="10.0854492"/>
  <node id="62508210" visible="true" version="3" changeset="71251205" timestamp="2019-06-14T12:16:14Z" user="demon_box" uid="350864" lat="45.3285814" lon="10.0760863">
   <tag k="gfoss_id" v="2365"/>
@@ -1085,12 +1085,12 @@
  <node id="6694903638" visible="true" version="1" changeset="73156381" timestamp="2019-08-08T13:46:56Z" user="gloriamar" uid="10201400" lat="45.3244425" lon="10.0761411"/>
  <node id="6694903639" visible="true" version="1" changeset="73156381" timestamp="2019-08-08T13:46:56Z" user="gloriamar" uid="10201400" lat="45.3239823" lon="10.0761518"/>
  <node id="6694903640" visible="true" version="1" changeset="73156381" timestamp="2019-08-08T13:46:56Z" user="gloriamar" uid="10201400" lat="45.3242237" lon="10.0754759"/>
- <way id="30663425" visible="true" version="9" changeset="11772172" timestamp="2012-06-01T21:30:58Z" user="Gianluigi" uid="498903">
+ <way id="30663425" visible="true" version="10" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336475930"/>
   <nd ref="339102272"/>
   <nd ref="339102273"/>
   <nd ref="339102274"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Ercole De Gaspari"/>
   <tag k="oneway" v="no"/>
  </way>
@@ -1362,13 +1362,13 @@
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
   <tag k="width" v="6"/>
  </way>
- <way id="66749626" visible="true" version="4" changeset="88768475" timestamp="2020-07-31T07:46:08Z" user="gspinoza" uid="562239">
+ <way id="66749626" visible="true" version="5" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="807044570"/>
   <nd ref="807044264"/>
   <nd ref="807044481"/>
   <nd ref="807044208"/>
   <nd ref="807044425"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="lanes" v="2"/>
   <tag k="name" v="Via Arnaldo Bambini"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
@@ -1387,14 +1387,14 @@
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
   <tag k="width" v="4"/>
  </way>
- <way id="67238903" visible="true" version="2" changeset="11772172" timestamp="2012-06-01T21:30:59Z" user="Gianluigi" uid="498903">
+ <way id="67238903" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="811943034"/>
   <nd ref="336476290"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="maxspeed" v="50"/>
   <tag k="name" v="Via Gerolamo Rovetta"/>
  </way>
- <way id="67238905" visible="true" version="6" changeset="71251678" timestamp="2019-06-14T12:32:31Z" user="demon_box" uid="350864">
+ <way id="67238905" visible="true" version="7" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336475943"/>
   <nd ref="807044239"/>
   <nd ref="807044417"/>
@@ -1402,7 +1402,7 @@
   <nd ref="807044203"/>
   <nd ref="1711295733"/>
   <nd ref="336475948"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="maxspeed" v="50"/>
   <tag k="name" v="Via Dante Alighieri"/>
   <tag k="oneway" v="yes"/>
@@ -1419,16 +1419,16 @@
   <tag k="oneway" v="yes"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
  </way>
- <way id="67238908" visible="true" version="5" changeset="58030406" timestamp="2018-04-12T09:39:20Z" user="armando baratti" uid="8063162">
+ <way id="67238908" visible="true" version="6" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336475948"/>
   <nd ref="807044457"/>
   <nd ref="336475951"/>
   <nd ref="807044425"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="maxspeed" v="50"/>
   <tag k="name" v="Via Monsignor Giacinto Gaggia"/>
  </way>
- <way id="67238909" visible="true" version="3" changeset="11772172" timestamp="2012-06-01T21:31:01Z" user="Gianluigi" uid="498903">
+ <way id="67238909" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336475918"/>
   <nd ref="336475923"/>
   <nd ref="811943031"/>
@@ -1436,7 +1436,7 @@
   <nd ref="811942942"/>
   <nd ref="811942876"/>
   <nd ref="336476304"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Luigi Semenza"/>
   <tag k="oneway" v="yes"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
@@ -1460,12 +1460,12 @@
   <tag k="name" v="Basilica Romana Minore San Lorenzo Martire"/>
   <tag k="religion" v="christian"/>
  </way>
- <way id="67238911" visible="true" version="3" changeset="11772172" timestamp="2012-06-01T21:31:00Z" user="Gianluigi" uid="498903">
+ <way id="67238911" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336475940"/>
   <nd ref="811943017"/>
   <nd ref="811942886"/>
   <nd ref="811942989"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="maxspeed" v="50"/>
   <tag k="name" v="Via Giuseppe Garibaldi"/>
  </way>
@@ -1506,7 +1506,7 @@
   <tag k="name" v="Piazza della Libertà"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
  </way>
- <way id="67238916" visible="true" version="2" changeset="11772172" timestamp="2012-06-01T21:30:48Z" user="Gianluigi" uid="498903">
+ <way id="67238916" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336476290"/>
   <nd ref="811942927"/>
   <nd ref="336476294"/>
@@ -1514,16 +1514,16 @@
   <nd ref="811942994"/>
   <nd ref="336476299"/>
   <nd ref="336476304"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="maxspeed" v="50"/>
   <tag k="name" v="Piazza della Libertà"/>
  </way>
- <way id="67238918" visible="true" version="4" changeset="88945868" timestamp="2020-08-04T19:44:05Z" user="demon_box" uid="350864">
+ <way id="67238918" visible="true" version="5" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="811942889"/>
   <nd ref="811943023"/>
   <nd ref="811942958"/>
   <nd ref="336476290"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="maxspeed" v="50"/>
   <tag k="name" v="Via Roma"/>
   <tag k="oneway" v="yes"/>
@@ -1535,10 +1535,10 @@
   <tag k="name" v="Piazza della Libertà"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
  </way>
- <way id="67238920" visible="true" version="2" changeset="11772172" timestamp="2012-06-01T21:30:55Z" user="Gianluigi" uid="498903">
+ <way id="67238920" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336475940"/>
   <nd ref="336475943"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="maxspeed" v="50"/>
   <tag k="name" v="Via Camillo Benso Conte di Cavour"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
@@ -1561,29 +1561,29 @@
   <tag k="oneway" v="no"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
  </way>
- <way id="67238924" visible="true" version="7" changeset="88945868" timestamp="2020-08-04T19:44:05Z" user="demon_box" uid="350864">
+ <way id="67238924" visible="true" version="8" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="807044374"/>
   <nd ref="811942935"/>
   <nd ref="811943029"/>
   <nd ref="811942987"/>
   <nd ref="811942916"/>
   <nd ref="811942989"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="maxspeed" v="50"/>
   <tag k="name" v="Via Giuseppe Zanardelli"/>
   <tag k="oneway" v="yes"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
   <tag k="width" v="6"/>
  </way>
- <way id="67239178" visible="true" version="5" changeset="88945868" timestamp="2020-08-04T19:44:05Z" user="demon_box" uid="350864">
+ <way id="67239178" visible="true" version="6" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="811942989"/>
   <nd ref="811942889"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="maxspeed" v="50"/>
   <tag k="name" v="Via Giuseppe Garibaldi"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="67239181" visible="true" version="6" changeset="59309773" timestamp="2018-05-27T09:44:55Z" user="pigio66" uid="7507474">
+ <way id="67239181" visible="true" version="7" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="807044425"/>
   <nd ref="336475954"/>
   <nd ref="1773052584"/>
@@ -1602,7 +1602,7 @@
   <nd ref="807923673"/>
   <nd ref="807923974"/>
   <nd ref="807924005"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
  </way>
  <way id="85274609" visible="true" version="2" changeset="11262141" timestamp="2012-04-11T09:29:02Z" user="dpe12" uid="207365">
   <nd ref="988808084"/>
@@ -1673,13 +1673,13 @@
   <tag k="amenity" v="school"/>
   <tag k="name" v="Scuola Secondaria di Primo Grado Ercole De Gaspari"/>
  </way>
- <way id="159012935" visible="true" version="3" changeset="41160791" timestamp="2016-08-01T07:28:59Z" user="White_Rabbit" uid="604999">
+ <way id="159012935" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336475943"/>
   <nd ref="1711187388"/>
   <nd ref="807044439"/>
   <nd ref="4330534671"/>
   <nd ref="1711187355"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Castello"/>
   <tag k="oneway" v="no"/>
  </way>
@@ -1701,11 +1701,11 @@
   <tag k="name" v="Via Indipendenza"/>
   <tag k="oneway" v="no"/>
  </way>
- <way id="159012940" visible="true" version="3" changeset="17201388" timestamp="2013-08-03T09:02:11Z" user="mcheckimport" uid="893327">
+ <way id="159012940" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1711187379"/>
   <nd ref="1711187355"/>
   <tag k="bridge" v="yes"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="layer" v="1"/>
   <tag k="oneway" v="no"/>
  </way>
@@ -1735,7 +1735,7 @@
   <tag k="name" v="Via Giacomo Matteotti"/>
   <tag k="oneway" v="no"/>
  </way>
- <way id="159017129" visible="true" version="4" changeset="59309773" timestamp="2018-05-27T09:44:53Z" user="pigio66" uid="7507474">
+ <way id="159017129" visible="true" version="5" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1711221940"/>
   <nd ref="1711224134"/>
   <nd ref="1711221939"/>
@@ -1745,16 +1745,16 @@
   <nd ref="1711221938"/>
   <nd ref="1711221941"/>
   <nd ref="807044302"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Giuseppe Verdi"/>
   <tag k="oneway" v="no"/>
  </way>
- <way id="159017130" visible="true" version="2" changeset="11772172" timestamp="2012-06-01T21:31:06Z" user="Gianluigi" uid="498903">
+ <way id="159017130" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1711221940"/>
   <nd ref="1711221960"/>
   <nd ref="1711221946"/>
   <nd ref="1711219038"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Stadio"/>
   <tag k="oneway" v="no"/>
  </way>
@@ -1802,19 +1802,19 @@
   <tag k="name" v="Vicolo Stretto"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="159017569" visible="true" version="2" changeset="11772172" timestamp="2012-06-01T21:31:05Z" user="Gianluigi" uid="498903">
+ <way id="159017569" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="811942889"/>
   <nd ref="1711226018"/>
   <nd ref="1711226011"/>
   <nd ref="1711221940"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Roberto Sandri"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="159017666" visible="true" version="4" changeset="68717575" timestamp="2019-03-31T07:53:59Z" user="Pepilepioux" uid="3341187">
+ <way id="159017666" visible="true" version="5" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="2909698049"/>
   <nd ref="1711226972"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Giordano Bruno"/>
   <tag k="oneway" v="yes"/>
  </way>
@@ -1845,30 +1845,30 @@
   <tag k="name" v="Via Castellaro"/>
   <tag k="oneway" v="no"/>
  </way>
- <way id="159024767" visible="true" version="3" changeset="41160791" timestamp="2016-08-01T07:28:59Z" user="White_Rabbit" uid="604999">
+ <way id="159024767" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1711295738"/>
   <nd ref="1711295737"/>
   <nd ref="1711295728"/>
   <nd ref="1711295724"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Ricurva"/>
  </way>
- <way id="159024769" visible="true" version="2" changeset="11772172" timestamp="2012-06-01T21:30:55Z" user="Gianluigi" uid="498903">
+ <way id="159024769" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1711295724"/>
   <nd ref="1711295742"/>
   <nd ref="1711295736"/>
   <nd ref="1711295732"/>
   <nd ref="1711295744"/>
   <nd ref="336475951"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Carlo Borromeo"/>
   <tag k="oneway" v="no"/>
  </way>
- <way id="159024770" visible="true" version="2" changeset="11772172" timestamp="2012-06-01T21:30:48Z" user="Gianluigi" uid="498903">
+ <way id="159024770" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="807044439"/>
   <nd ref="1711295727"/>
   <nd ref="1711295738"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Piazza Donato"/>
  </way>
  <way id="159025667" visible="true" version="1" changeset="11262141" timestamp="2012-04-11T11:11:11Z" user="dpe12" uid="207365">
@@ -1891,11 +1891,11 @@
   <tag k="name" v="Vicolo Angusto"/>
   <tag k="oneway" v="no"/>
  </way>
- <way id="159025670" visible="true" version="2" changeset="11772172" timestamp="2012-06-01T21:30:56Z" user="Gianluigi" uid="498903">
+ <way id="159025670" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1711187379"/>
   <nd ref="1711302227"/>
   <nd ref="1711187302"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Castello"/>
   <tag k="oneway" v="no"/>
  </way>
@@ -2180,13 +2180,13 @@
   <tag k="name" v="Via Castellaro"/>
   <tag k="oneway" v="no"/>
  </way>
- <way id="206889892" visible="true" version="3" changeset="88768475" timestamp="2020-07-31T07:46:08Z" user="gspinoza" uid="562239">
+ <way id="206889892" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="807044374"/>
   <nd ref="807044354"/>
   <nd ref="1711224142"/>
   <nd ref="1711221961"/>
   <nd ref="807044570"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="lanes" v="2"/>
   <tag k="maxspeed" v="50"/>
   <tag k="name" v="Via Guglielmo Marconi"/>
@@ -2319,20 +2319,20 @@
   <nd ref="2213277986"/>
   <tag k="highway" v="residential"/>
  </way>
- <way id="287342361" visible="true" version="3" changeset="68717575" timestamp="2019-03-31T07:53:59Z" user="Pepilepioux" uid="3341187">
+ <way id="287342361" visible="true" version="4" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="2909698048"/>
   <nd ref="2909698049"/>
   <tag k="bridge" v="yes"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="layer" v="1"/>
   <tag k="name" v="Via Giordano Bruno"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="287342363" visible="true" version="2" changeset="68717558" timestamp="2019-03-31T07:53:05Z" user="Pepilepioux" uid="3341187">
+ <way id="287342363" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1711221940"/>
   <nd ref="1711226016"/>
   <nd ref="2909698048"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Giordano Bruno"/>
   <tag k="oneway" v="yes"/>
  </way>
@@ -2345,25 +2345,25 @@
   <tag k="name" v="Piazza della Libertà"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
  </way>
- <way id="302957519" visible="true" version="1" changeset="25376350" timestamp="2014-09-11T20:09:52Z" user="TorCguy" uid="338843">
+ <way id="302957519" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="811942891"/>
   <nd ref="336475930"/>
   <nd ref="336475935"/>
   <nd ref="811942981"/>
   <nd ref="336475940"/>
   <tag k="alt_name" v="Via Cavour"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="maxspeed" v="50"/>
   <tag k="name" v="Via Camillo Benso Conte di Cavour"/>
   <tag k="oneway" v="yes"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
  </way>
- <way id="302957520" visible="true" version="1" changeset="25376350" timestamp="2014-09-11T20:09:52Z" user="TorCguy" uid="338843">
+ <way id="302957520" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="3072392821"/>
   <nd ref="811942891"/>
   <tag k="alt_name" v="Via Cavour"/>
   <tag k="bridge" v="yes"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="layer" v="1"/>
   <tag k="maxspeed" v="50"/>
   <tag k="name" v="Via Camillo Benso Conte di Cavour"/>
@@ -2687,7 +2687,7 @@
   <tag k="highway" v="footway"/>
   <tag k="horse" v="no"/>
  </way>
- <way id="591326482" visible="true" version="1" changeset="59308896" timestamp="2018-05-27T08:48:44Z" user="pigio66" uid="7507474">
+ <way id="591326482" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="4731313230"/>
   <nd ref="4731313204"/>
   <nd ref="807044289"/>
@@ -2701,7 +2701,7 @@
   <nd ref="1711706685"/>
   <nd ref="807044302"/>
   <nd ref="807044570"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="lanes" v="2"/>
   <tag k="layer" v="0"/>
   <tag k="maxspeed" v="50"/>
@@ -2709,7 +2709,7 @@
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
   <tag k="width" v="6"/>
  </way>
- <way id="591332275" visible="true" version="2" changeset="70632835" timestamp="2019-05-26T13:31:33Z" user="Piter00" uid="2168459">
+ <way id="591332275" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="4731313176"/>
   <nd ref="1707180517"/>
   <nd ref="1711028334"/>
@@ -2719,7 +2719,7 @@
   <nd ref="336476280"/>
   <nd ref="1711226972"/>
   <tag k="cycleway" v="lane"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Gerolamo Rovetta"/>
   <tag k="surface" v="asphalt"/>
  </way>
@@ -2743,11 +2743,11 @@
   <tag k="name" v="Palazzo del Fiorino"/>
   <tag k="wikidata" v="Q63457457"/>
  </way>
- <way id="692585930" visible="true" version="1" changeset="70632835" timestamp="2019-05-26T13:31:33Z" user="Piter00" uid="2168459">
+ <way id="692585930" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1711226972"/>
   <nd ref="336476286"/>
   <nd ref="811943034"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Gerolamo Rovetta"/>
   <tag k="surface" v="asphalt"/>
  </way>

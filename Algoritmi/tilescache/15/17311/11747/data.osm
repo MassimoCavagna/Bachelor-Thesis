@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (861173 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991872 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3058026" minlon="10.1843262" maxlat="45.3135290" maxlon="10.1953125"/>
  <node id="62507473" visible="true" version="6" changeset="55505516" timestamp="2018-01-16T21:14:35Z" user="SiMaz96" uid="3141745" lat="45.3086363" lon="10.1893747">
   <tag k="gfoss_id" v="2223"/>
@@ -1164,7 +1164,7 @@
   <tag k="highway" v="unclassified"/>
   <tag k="name" v="Via Bassano Bresciano"/>
  </way>
- <way id="128133215" visible="true" version="5" changeset="17357653" timestamp="2013-08-15T10:42:27Z" user="White_Rabbit" uid="604999">
+ <way id="128133215" visible="true" version="6" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1417492856"/>
   <nd ref="336116410"/>
   <nd ref="336116411"/>
@@ -1178,17 +1178,17 @@
   <nd ref="1418716294"/>
   <nd ref="336116415"/>
   <nd ref="336116417"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Videtti"/>
  </way>
- <way id="128228657" visible="true" version="4" changeset="51519314" timestamp="2017-08-28T19:05:14Z" user="marco scartapacchio" uid="6514221">
+ <way id="128228657" visible="true" version="5" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336448525"/>
   <nd ref="2419688034"/>
   <nd ref="1426553271"/>
   <nd ref="336448737"/>
   <nd ref="2419688037"/>
   <nd ref="2419688040"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Paolo Farina"/>
  </way>
  <way id="128354868" visible="true" version="7" changeset="51357855" timestamp="2017-08-22T22:32:12Z" user="marco scartapacchio" uid="6514221">
@@ -1326,7 +1326,7 @@
   <tag k="highway" v="residential"/>
   <tag k="name" v="Via Pace"/>
  </way>
- <way id="129265302" visible="true" version="5" changeset="51321985" timestamp="2017-08-21T23:00:35Z" user="marco scartapacchio" uid="6514221">
+ <way id="129265302" visible="true" version="6" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1426553306"/>
   <nd ref="336116399"/>
   <nd ref="5049734037"/>
@@ -1339,7 +1339,7 @@
   <nd ref="336116406"/>
   <nd ref="2419688062"/>
   <nd ref="2419688055"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via San Gervasio"/>
  </way>
  <way id="129265305" visible="true" version="2" changeset="17357653" timestamp="2013-08-15T10:42:27Z" user="White_Rabbit" uid="604999">
@@ -1568,10 +1568,10 @@
   <tag k="highway" v="residential"/>
   <tag k="name" v="Via Paolo Farina"/>
  </way>
- <way id="233608792" visible="true" version="2" changeset="17371302" timestamp="2013-08-16T12:42:15Z" user="White_Rabbit" uid="604999">
+ <way id="233608792" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="2419688053"/>
   <nd ref="2419688051"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Farina"/>
  </way>
  <way id="233608794" visible="true" version="3" changeset="89429508" timestamp="2020-08-14T20:38:46Z" user="Ysogo" uid="6220204">
@@ -1752,31 +1752,31 @@
   <tag k="highway" v="residential"/>
   <tag k="name" v="Vicolo Pellegrini"/>
  </way>
- <way id="233608821" visible="true" version="1" changeset="17357653" timestamp="2013-08-15T10:42:24Z" user="White_Rabbit" uid="604999">
+ <way id="233608821" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="2419688043"/>
   <nd ref="2419688041"/>
   <nd ref="2419688038"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="233608822" visible="true" version="1" changeset="17357653" timestamp="2013-08-15T10:42:24Z" user="White_Rabbit" uid="604999">
+ <way id="233608822" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="2419688065"/>
   <nd ref="2419688061"/>
   <nd ref="2419688055"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="233608824" visible="true" version="2" changeset="17371302" timestamp="2013-08-16T12:42:16Z" user="White_Rabbit" uid="604999">
+ <way id="233608824" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="2419688051"/>
   <nd ref="2419688058"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="233608825" visible="true" version="1" changeset="17357653" timestamp="2013-08-15T10:42:25Z" user="White_Rabbit" uid="604999">
+ <way id="233608825" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1417492856"/>
   <nd ref="2419688035"/>
   <nd ref="2419688040"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="oneway" v="yes"/>
  </way>
  <way id="233608826" visible="true" version="2" changeset="51519314" timestamp="2017-08-28T19:05:14Z" user="marco scartapacchio" uid="6514221">
@@ -1787,12 +1787,12 @@
   <tag k="access" v="private"/>
   <tag k="highway" v="residential"/>
  </way>
- <way id="233608827" visible="true" version="1" changeset="17357653" timestamp="2013-08-15T10:42:25Z" user="White_Rabbit" uid="604999">
+ <way id="233608827" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="2419688040"/>
   <nd ref="2419688043"/>
   <nd ref="2419688044"/>
   <nd ref="336116409"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="oneway" v="yes"/>
  </way>
  <way id="233608828" visible="true" version="3" changeset="51357855" timestamp="2017-08-22T22:32:12Z" user="marco scartapacchio" uid="6514221">
@@ -1823,23 +1823,23 @@
   <nd ref="2419688116"/>
   <tag k="leisure" v="garden"/>
  </way>
- <way id="233734587" visible="true" version="2" changeset="51519314" timestamp="2017-08-28T19:05:14Z" user="marco scartapacchio" uid="6514221">
+ <way id="233734587" visible="true" version="3" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="2419688051"/>
   <nd ref="1426553282"/>
   <nd ref="336116407"/>
   <nd ref="336116409"/>
   <nd ref="2419688038"/>
   <nd ref="1417492856"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Paolo Farina"/>
  </way>
- <way id="233734588" visible="true" version="1" changeset="17371302" timestamp="2013-08-16T12:42:12Z" user="White_Rabbit" uid="604999">
+ <way id="233734588" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="2419688055"/>
   <nd ref="2419688053"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via San Gervasio"/>
  </way>
- <way id="233734589" visible="true" version="1" changeset="17371302" timestamp="2013-08-16T12:42:12Z" user="White_Rabbit" uid="604999">
+ <way id="233734589" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1416635068"/>
   <nd ref="1417492860"/>
   <nd ref="1417492859"/>
@@ -1849,21 +1849,21 @@
   <nd ref="1416635065"/>
   <nd ref="1417492857"/>
   <nd ref="2419688065"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via Vittorio Veneto"/>
  </way>
- <way id="233734590" visible="true" version="1" changeset="17371302" timestamp="2013-08-16T12:42:12Z" user="White_Rabbit" uid="604999">
+ <way id="233734590" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="2419688058"/>
   <nd ref="2419688065"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="233734591" visible="true" version="1" changeset="17371302" timestamp="2013-08-16T12:42:12Z" user="White_Rabbit" uid="604999">
+ <way id="233734591" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="2419688053"/>
   <nd ref="2420746647"/>
   <nd ref="2420746648"/>
   <nd ref="2419688058"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="oneway" v="yes"/>
  </way>
  <way id="517083677" visible="true" version="2" changeset="51321985" timestamp="2017-08-21T23:00:34Z" user="marco scartapacchio" uid="6514221">
