@@ -3,6 +3,7 @@ param nG := 8;
 
 param C := 28;
 
+param v :=
 "Agnadello, Marconi, 6" 1
 "Annicco, Giuseppe Garibaldi, 6" 1
 "Bagnolo Cremasco, Roma, 3" 1
@@ -68,8 +69,9 @@ param C := 28;
 "Cremona, Palosca n. 2" 1
 "Casaletto Vaprio, Maggiore, 7" 1
 "Cremona, Sesto 39" 1
+;
 
-
+param f :=
 "Agnadello, Marconi, 6" 4 "Agnadello, Marconi, 6" 4 2289
 "Agnadello, Marconi, 6" 4 "Annicco, Giuseppe Garibaldi, 6" 2 15
 "Agnadello, Marconi, 6" 4 "Bagnolo Cremasco, Roma, 3" 4 91
@@ -3551,3 +3553,4 @@ param C := 28;
 "Cremona, Sesto 39" 3 "Vescovato, Roma, 44" 3 14
 "Cremona, Sesto 39" 3 "Casaletto Vaprio, Maggiore, 7" 4 0
 "Cremona, Sesto 39" 3 "Cremona, Sesto 39" 3 364
+;
