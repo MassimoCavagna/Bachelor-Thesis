@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3098032 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3094907 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4755403" minlon="9.7338867" maxlat="45.4832435" maxlon="9.7448730"/>
  <node id="207316791" visible="true" version="7" changeset="64147813" timestamp="2018-11-03T19:25:33Z" user="Mannivu" uid="1950277" lat="45.4809053" lon="9.7387698"/>
  <node id="307115207" visible="true" version="2" changeset="2927306" timestamp="2009-10-23T08:28:05Z" user="Luigi62" uid="90148" lat="45.4821665" lon="9.7200369"/>
@@ -1017,7 +1017,7 @@
   <tag k="name:left" v="Isso"/>
   <tag k="name:right" v="Fara Olivana con Sola"/>
  </way>
- <way id="125610585" visible="true" version="7" changeset="67679913" timestamp="2019-03-01T10:12:55Z" user="g195" uid="668137">
+ <way id="125610585" visible="true" version="7" changeset="67679913" timestamp="2019-03-01T10:12:55Z" user="Ramying" uid="668137">
   <nd ref="1394759979"/>
   <nd ref="3120791572"/>
   <nd ref="1394759971"/>
@@ -1046,7 +1046,7 @@
   <tag k="maxspeed" v="50"/>
   <tag k="old_ref" v="SPexSS11"/>
  </way>
- <way id="125610587" visible="true" version="7" changeset="67679913" timestamp="2019-03-01T10:12:55Z" user="g195" uid="668137">
+ <way id="125610587" visible="true" version="7" changeset="67679913" timestamp="2019-03-01T10:12:55Z" user="Ramying" uid="668137">
   <nd ref="1394759959"/>
   <nd ref="1394759963"/>
   <nd ref="4547123139"/>
@@ -1057,7 +1057,7 @@
   <tag k="old_ref" v="SPexSS11"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="125610588" visible="true" version="7" changeset="67679913" timestamp="2019-03-01T10:12:55Z" user="g195" uid="668137">
+ <way id="125610588" visible="true" version="7" changeset="67679913" timestamp="2019-03-01T10:12:55Z" user="Ramying" uid="668137">
   <nd ref="1394759973"/>
   <nd ref="1394759976"/>
   <nd ref="4547123138"/>
@@ -1069,7 +1069,7 @@
   <tag k="old_ref" v="SS11"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="125610589" visible="true" version="7" changeset="67679913" timestamp="2019-03-01T10:12:55Z" user="g195" uid="668137">
+ <way id="125610589" visible="true" version="7" changeset="67679913" timestamp="2019-03-01T10:12:55Z" user="Ramying" uid="668137">
   <nd ref="1394759993"/>
   <nd ref="1394759985"/>
   <nd ref="1394759977"/>
@@ -1079,7 +1079,7 @@
   <tag k="old_ref" v="SS11"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="125610590" visible="true" version="7" changeset="67679913" timestamp="2019-03-01T10:12:55Z" user="g195" uid="668137">
+ <way id="125610590" visible="true" version="7" changeset="67679913" timestamp="2019-03-01T10:12:55Z" user="Ramying" uid="668137">
   <nd ref="3120791571"/>
   <nd ref="1394759990"/>
   <nd ref="1394759991"/>
@@ -3490,7 +3490,7 @@
   <tag k="restriction" v="only_straight_on"/>
   <tag k="type" v="restriction"/>
  </relation>
- <relation id="6780651" visible="true" version="37" changeset="85139777" timestamp="2020-05-13T10:45:43Z" user="gigi2037" uid="616481">
+ <relation id="6780651" visible="true" version="38" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306">
   <member type="way" ref="107052224" role=""/>
   <member type="way" ref="107052180" role=""/>
   <member type="way" ref="38845337" role=""/>
@@ -3657,7 +3657,6 @@
   <member type="way" ref="458939193" role=""/>
   <member type="way" ref="458939185" role=""/>
   <member type="way" ref="458939190" role=""/>
-  <member type="way" ref="458939186" role=""/>
   <member type="way" ref="761476566" role=""/>
   <member type="way" ref="458939192" role=""/>
   <member type="way" ref="458939189" role=""/>
@@ -3782,7 +3781,7 @@
   <tag k="route" v="road"/>
   <tag k="type" v="route"/>
  </relation>
- <relation id="6782208" visible="true" version="44" changeset="87720126" timestamp="2020-07-08T16:21:46Z" user="Mannivu" uid="1950277">
+ <relation id="6782208" visible="true" version="46" changeset="91841154" timestamp="2020-10-01T18:20:37Z" user="Mannivu" uid="1950277">
   <member type="way" ref="285591085" role=""/>
   <member type="way" ref="256114733" role=""/>
   <member type="way" ref="172687416" role=""/>
@@ -3929,7 +3928,9 @@
   <member type="way" ref="168832964" role=""/>
   <member type="way" ref="168832962" role=""/>
   <member type="way" ref="168832963" role=""/>
-  <member type="way" ref="225033830" role=""/>
+  <member type="way" ref="225033831" role=""/>
+  <member type="way" ref="853996836" role=""/>
+  <member type="way" ref="853996837" role=""/>
   <member type="way" ref="609346404" role=""/>
   <member type="way" ref="447086127" role=""/>
   <member type="way" ref="447086130" role=""/>
@@ -3939,11 +3940,9 @@
   <member type="way" ref="206488777" role=""/>
   <member type="way" ref="206488778" role=""/>
   <member type="way" ref="314875560" role=""/>
+  <member type="way" ref="847236508" role=""/>
   <member type="way" ref="240595471" role=""/>
-  <member type="way" ref="240487465" role=""/>
   <member type="way" ref="710628304" role=""/>
-  <member type="way" ref="710628303" role=""/>
-  <member type="way" ref="710628305" role=""/>
   <member type="way" ref="710628302" role=""/>
   <member type="way" ref="457425264" role=""/>
   <member type="way" ref="180789951" role=""/>

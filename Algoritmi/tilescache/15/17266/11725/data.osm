@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (861166 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2523336 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4755403" minlon="9.6899414" maxlat="45.4832435" maxlon="9.7009277"/>
  <node id="207316811" visible="true" version="5" changeset="8983087" timestamp="2011-08-11T08:00:30Z" user="ilrobi" uid="22110" lat="45.4824784" lon="9.7050562"/>
  <node id="207316813" visible="true" version="5" changeset="8983087" timestamp="2011-08-11T08:00:30Z" user="ilrobi" uid="22110" lat="45.4817261" lon="9.7006915"/>
@@ -1058,20 +1058,8 @@
  <node id="6796513678" visible="true" version="1" changeset="74491743" timestamp="2019-09-15T09:43:51Z" user="Mannivu" uid="1950277" lat="45.4775527" lon="9.6912906"/>
  <node id="6796513679" visible="true" version="1" changeset="74491743" timestamp="2019-09-15T09:43:51Z" user="Mannivu" uid="1950277" lat="45.4777934" lon="9.6911457"/>
  <node id="6796513680" visible="true" version="1" changeset="74491743" timestamp="2019-09-15T09:43:51Z" user="Mannivu" uid="1950277" lat="45.4777030" lon="9.6891371"/>
- <node id="7264850664" visible="true" version="2" changeset="81823269" timestamp="2020-03-05T12:56:10Z" user="Mannivu" uid="1950277" lat="45.4765183" lon="9.6927355">
-  <tag k="height" v="42"/>
-  <tag k="man_made" v="tower"/>
-  <tag k="name" v="Torre Civica"/>
-  <tag k="start_date" v="1492"/>
-  <tag k="tower:construction" v="brick"/>
-  <tag k="tower:type" v="bell_tower"/>
- </node>
- <node id="7264850665" visible="true" version="1" changeset="81793905" timestamp="2020-03-04T21:55:32Z" user="Davide Baita" uid="10858083" lat="45.4767473" lon="9.6930590">
-  <tag k="amenity" v="place_of_worship"/>
-  <tag k="description" v="Chiesa di Santo Stefano, risale al XIV secolo, anche se probabilmente sorge su una chiesa ancora più antica."/>
-  <tag k="name" v="Chiesa di Santo Stefano"/>
-  <tag k="religion" v="christian"/>
- </node>
+ <node id="7264850664" visible="true" version="3" changeset="91901362" timestamp="2020-10-03T12:56:35Z" user="Mannivu" uid="1950277" lat="45.4764999" lon="9.6926873"/>
+ <node id="7264850665" visible="true" version="2" changeset="91901362" timestamp="2020-10-03T12:56:35Z" user="Mannivu" uid="1950277" lat="45.4767637" lon="9.6929978"/>
  <node id="7264850666" visible="true" version="1" changeset="81793905" timestamp="2020-03-04T21:55:32Z" user="Davide Baita" uid="10858083" lat="45.4764251" lon="9.6916904">
   <tag k="man_made" v="watermill"/>
  </node>
@@ -1085,6 +1073,16 @@
  <node id="7340175604" visible="true" version="1" changeset="82750218" timestamp="2020-03-28T11:05:18Z" user="Mannivu" uid="1950277" lat="45.4797873" lon="9.6902464"/>
  <node id="7340175605" visible="true" version="1" changeset="82750218" timestamp="2020-03-28T11:05:18Z" user="Mannivu" uid="1950277" lat="45.4798611" lon="9.6899489"/>
  <node id="7340175607" visible="true" version="1" changeset="82750218" timestamp="2020-03-28T11:05:18Z" user="Mannivu" uid="1950277" lat="45.4795031" lon="9.6927080"/>
+ <node id="7968662766" visible="true" version="1" changeset="91901362" timestamp="2020-10-03T12:56:35Z" user="Mannivu" uid="1950277" lat="45.4766236" lon="9.6930322"/>
+ <node id="7968662767" visible="true" version="1" changeset="91901362" timestamp="2020-10-03T12:56:35Z" user="Mannivu" uid="1950277" lat="45.4766597" lon="9.6933308"/>
+ <node id="7968662768" visible="true" version="1" changeset="91901362" timestamp="2020-10-03T12:56:35Z" user="Mannivu" uid="1950277" lat="45.4767998" lon="9.6932963"/>
+ <node id="7968662769" visible="true" version="1" changeset="91901362" timestamp="2020-10-03T12:56:35Z" user="Mannivu" uid="1950277" lat="45.4767871" lon="9.6931915"/>
+ <node id="7968662770" visible="true" version="1" changeset="91901362" timestamp="2020-10-03T12:56:35Z" user="Mannivu" uid="1950277" lat="45.4768286" lon="9.6931813"/>
+ <node id="7968662771" visible="true" version="1" changeset="91901362" timestamp="2020-10-03T12:56:35Z" user="Mannivu" uid="1950277" lat="45.4768193" lon="9.6931043"/>
+ <node id="7968662772" visible="true" version="1" changeset="91901362" timestamp="2020-10-03T12:56:35Z" user="Mannivu" uid="1950277" lat="45.4767778" lon="9.6931145"/>
+ <node id="7968662773" visible="true" version="1" changeset="91901362" timestamp="2020-10-03T12:56:35Z" user="Mannivu" uid="1950277" lat="45.4764583" lon="9.6927945"/>
+ <node id="7968662774" visible="true" version="1" changeset="91901362" timestamp="2020-10-03T12:56:35Z" user="Mannivu" uid="1950277" lat="45.4765157" lon="9.6927730"/>
+ <node id="7968662775" visible="true" version="1" changeset="91901362" timestamp="2020-10-03T12:56:35Z" user="Mannivu" uid="1950277" lat="45.4764426" lon="9.6927088"/>
  <way id="23750917" visible="true" version="7" changeset="78245531" timestamp="2019-12-11T07:43:36Z" user="demon_box" uid="350864">
   <nd ref="937802550"/>
   <nd ref="257327329"/>
@@ -1093,7 +1091,7 @@
   <tag k="name" v="Piazza Papa Giovanni Ventitreesimo"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="116948583" visible="true" version="9" changeset="67679913" timestamp="2019-03-01T10:12:57Z" user="g195" uid="668137">
+ <way id="116948583" visible="true" version="9" changeset="67679913" timestamp="2019-03-01T10:12:57Z" user="Ramying" uid="668137">
   <nd ref="261678510"/>
   <nd ref="1394587065"/>
   <tag k="highway" v="secondary"/>
@@ -1200,7 +1198,7 @@
   <tag k="highway" v="residential"/>
   <tag k="name" v="Via Giuseppina Carozzi"/>
  </way>
- <way id="125592225" visible="true" version="8" changeset="67679913" timestamp="2019-03-01T10:12:54Z" user="g195" uid="668137">
+ <way id="125592225" visible="true" version="8" changeset="67679913" timestamp="2019-03-01T10:12:54Z" user="Ramying" uid="668137">
   <nd ref="1394587065"/>
   <nd ref="1394616600"/>
   <tag k="highway" v="secondary_link"/>
@@ -1209,7 +1207,7 @@
   <tag k="oneway" v="yes"/>
   <tag k="ref" v="SPexSS591"/>
  </way>
- <way id="125592226" visible="true" version="9" changeset="67679913" timestamp="2019-03-01T10:12:54Z" user="g195" uid="668137">
+ <way id="125592226" visible="true" version="9" changeset="67679913" timestamp="2019-03-01T10:12:54Z" user="Ramying" uid="668137">
   <nd ref="1394587050"/>
   <nd ref="1394616616"/>
   <nd ref="1394616608"/>
@@ -1421,7 +1419,7 @@
   <tag k="highway" v="residential"/>
   <tag k="name" v="Piazza Locatelli"/>
  </way>
- <way id="125592275" visible="true" version="6" changeset="67679913" timestamp="2019-03-01T10:12:54Z" user="g195" uid="668137">
+ <way id="125592275" visible="true" version="6" changeset="67679913" timestamp="2019-03-01T10:12:54Z" user="Ramying" uid="668137">
   <nd ref="1394616581"/>
   <nd ref="1394616584"/>
   <nd ref="1394616595"/>
@@ -1434,7 +1432,7 @@
   <tag k="maxspeed" v="90"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="125592277" visible="true" version="7" changeset="67679913" timestamp="2019-03-01T10:12:54Z" user="g195" uid="668137">
+ <way id="125592277" visible="true" version="7" changeset="67679913" timestamp="2019-03-01T10:12:54Z" user="Ramying" uid="668137">
   <nd ref="1394616600"/>
   <nd ref="4549799297"/>
   <nd ref="4549799298"/>
@@ -1615,7 +1613,7 @@
   <tag k="oneway" v="yes"/>
   <tag k="ref" v="SP11"/>
  </way>
- <way id="194910667" visible="true" version="6" changeset="67679913" timestamp="2019-03-01T10:12:57Z" user="g195" uid="668137">
+ <way id="194910667" visible="true" version="6" changeset="67679913" timestamp="2019-03-01T10:12:57Z" user="Ramying" uid="668137">
   <nd ref="1394616609"/>
   <nd ref="1394616610"/>
   <nd ref="1394616613"/>
@@ -2084,7 +2082,7 @@
   <tag k="wikidata" v="Q3940137"/>
   <tag k="wikipedia" v="it:Roggia Alchina"/>
  </way>
- <way id="458844324" visible="true" version="3" changeset="67679913" timestamp="2019-03-01T10:12:57Z" user="g195" uid="668137">
+ <way id="458844324" visible="true" version="3" changeset="67679913" timestamp="2019-03-01T10:12:57Z" user="Ramying" uid="668137">
   <nd ref="1394616600"/>
   <nd ref="4549799299"/>
   <nd ref="4549799296"/>
@@ -2842,6 +2840,34 @@
   <tag k="turn:lanes:backward" v="slight_right|"/>
   <tag k="turn:lanes:forward" v="|right"/>
  </way>
+ <way id="854501303" visible="true" version="1" changeset="91901362" timestamp="2020-10-03T12:56:35Z" user="Mannivu" uid="1950277">
+  <nd ref="7264850665"/>
+  <nd ref="7968662772"/>
+  <nd ref="7968662771"/>
+  <nd ref="7968662770"/>
+  <nd ref="7968662769"/>
+  <nd ref="7968662768"/>
+  <nd ref="7968662767"/>
+  <nd ref="7968662766"/>
+  <nd ref="7264850665"/>
+  <tag k="amenity" v="place_of_worship"/>
+  <tag k="description" v="Chiesa di Santo Stefano, risale al XIV secolo, anche se probabilmente sorge su una chiesa ancora più antica."/>
+  <tag k="name" v="Chiesa di Santo Stefano"/>
+  <tag k="religion" v="christian"/>
+ </way>
+ <way id="854501304" visible="true" version="1" changeset="91901362" timestamp="2020-10-03T12:56:35Z" user="Mannivu" uid="1950277">
+  <nd ref="7264850664"/>
+  <nd ref="7968662774"/>
+  <nd ref="7968662773"/>
+  <nd ref="7968662775"/>
+  <nd ref="7264850664"/>
+  <tag k="height" v="42"/>
+  <tag k="man_made" v="tower"/>
+  <tag k="name" v="Torre Civica"/>
+  <tag k="start_date" v="1492"/>
+  <tag k="tower:construction" v="brick"/>
+  <tag k="tower:type" v="bell_tower"/>
+ </way>
  <relation id="2623941" visible="true" version="69" changeset="85283263" timestamp="2020-05-15T22:10:34Z" user="gigi2037" uid="616481">
   <member type="way" ref="125589803" role=""/>
   <member type="way" ref="654187716" role=""/>
@@ -3039,7 +3065,7 @@
   <tag k="source" v="http://www.muoversi.regione.lombardia.it"/>
   <tag k="type" v="route"/>
  </relation>
- <relation id="6780651" visible="true" version="37" changeset="85139777" timestamp="2020-05-13T10:45:43Z" user="gigi2037" uid="616481">
+ <relation id="6780651" visible="true" version="38" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306">
   <member type="way" ref="107052224" role=""/>
   <member type="way" ref="107052180" role=""/>
   <member type="way" ref="38845337" role=""/>
@@ -3206,7 +3232,6 @@
   <member type="way" ref="458939193" role=""/>
   <member type="way" ref="458939185" role=""/>
   <member type="way" ref="458939190" role=""/>
-  <member type="way" ref="458939186" role=""/>
   <member type="way" ref="761476566" role=""/>
   <member type="way" ref="458939192" role=""/>
   <member type="way" ref="458939189" role=""/>
@@ -3331,7 +3356,7 @@
   <tag k="route" v="road"/>
   <tag k="type" v="route"/>
  </relation>
- <relation id="6782208" visible="true" version="44" changeset="87720126" timestamp="2020-07-08T16:21:46Z" user="Mannivu" uid="1950277">
+ <relation id="6782208" visible="true" version="46" changeset="91841154" timestamp="2020-10-01T18:20:37Z" user="Mannivu" uid="1950277">
   <member type="way" ref="285591085" role=""/>
   <member type="way" ref="256114733" role=""/>
   <member type="way" ref="172687416" role=""/>
@@ -3478,7 +3503,9 @@
   <member type="way" ref="168832964" role=""/>
   <member type="way" ref="168832962" role=""/>
   <member type="way" ref="168832963" role=""/>
-  <member type="way" ref="225033830" role=""/>
+  <member type="way" ref="225033831" role=""/>
+  <member type="way" ref="853996836" role=""/>
+  <member type="way" ref="853996837" role=""/>
   <member type="way" ref="609346404" role=""/>
   <member type="way" ref="447086127" role=""/>
   <member type="way" ref="447086130" role=""/>
@@ -3488,11 +3515,9 @@
   <member type="way" ref="206488777" role=""/>
   <member type="way" ref="206488778" role=""/>
   <member type="way" ref="314875560" role=""/>
+  <member type="way" ref="847236508" role=""/>
   <member type="way" ref="240595471" role=""/>
-  <member type="way" ref="240487465" role=""/>
   <member type="way" ref="710628304" role=""/>
-  <member type="way" ref="710628303" role=""/>
-  <member type="way" ref="710628305" role=""/>
   <member type="way" ref="710628302" role=""/>
   <member type="way" ref="457425264" role=""/>
   <member type="way" ref="180789951" role=""/>

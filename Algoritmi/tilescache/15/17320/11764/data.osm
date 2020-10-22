@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (325138 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="45.1742925" minlon="10.2832031" maxlat="45.1820368" maxlon="10.2941895"/>
+ <node id="951672778" visible="true" version="1" changeset="6058629" timestamp="2010-10-16T15:34:49Z" user="ilrobi" uid="22110" lat="45.1831064" lon="10.2915931"/>
+ <node id="1822193058" visible="true" version="1" changeset="12190781" timestamp="2012-07-11T21:49:06Z" user="Gianluigi" uid="498903" lat="45.1803029" lon="10.2926987"/>
+ <node id="1822193060" visible="true" version="1" changeset="12190781" timestamp="2012-07-11T21:49:06Z" user="Gianluigi" uid="498903" lat="45.1804233" lon="10.2932596"/>
+ <node id="1822193065" visible="true" version="1" changeset="12190781" timestamp="2012-07-11T21:49:07Z" user="Gianluigi" uid="498903" lat="45.1807155" lon="10.2932718"/>
+ <node id="1822193067" visible="true" version="1" changeset="12190781" timestamp="2012-07-11T21:49:07Z" user="Gianluigi" uid="498903" lat="45.1809562" lon="10.2922231"/>
+ <node id="1822193068" visible="true" version="2" changeset="46954611" timestamp="2017-03-18T12:17:27Z" user="Spanholz" uid="2209894" lat="45.1811381" lon="10.2923152"/>
+ <node id="1822193069" visible="true" version="1" changeset="12190781" timestamp="2012-07-11T21:49:07Z" user="Gianluigi" uid="498903" lat="45.1811797" lon="10.2927231"/>
+ <node id="1822193074" visible="true" version="1" changeset="12190781" timestamp="2012-07-11T21:49:07Z" user="Gianluigi" uid="498903" lat="45.1816054" lon="10.2921464"/>
+ <node id="4741390831" visible="true" version="2" changeset="89874779" timestamp="2020-08-24T19:21:16Z" user="fedc" uid="602784" lat="45.1821704" lon="10.2920209"/>
+ <node id="4741390833" visible="true" version="1" changeset="46954611" timestamp="2017-03-18T12:17:26Z" user="Spanholz" uid="2209894" lat="45.1813764" lon="10.2922071"/>
+ <node id="4741390834" visible="true" version="1" changeset="46954611" timestamp="2017-03-18T12:17:26Z" user="Spanholz" uid="2209894" lat="45.1812781" lon="10.2922346"/>
+ <node id="4741390835" visible="true" version="1" changeset="46954611" timestamp="2017-03-18T12:17:26Z" user="Spanholz" uid="2209894" lat="45.1811971" lon="10.2923022"/>
+ <node id="4741390836" visible="true" version="1" changeset="46954611" timestamp="2017-03-18T12:17:26Z" user="Spanholz" uid="2209894" lat="45.1805301" lon="10.2930975"/>
+ <node id="4741390837" visible="true" version="1" changeset="46954611" timestamp="2017-03-18T12:17:27Z" user="Spanholz" uid="2209894" lat="45.1803554" lon="10.2931989"/>
+ <node id="4741390838" visible="true" version="1" changeset="46954611" timestamp="2017-03-18T12:17:27Z" user="Spanholz" uid="2209894" lat="45.1798662" lon="10.2932260"/>
+ <node id="4741390839" visible="true" version="1" changeset="46954611" timestamp="2017-03-18T12:17:27Z" user="Spanholz" uid="2209894" lat="45.1791390" lon="10.2932909"/>
+ <way id="171142329" visible="true" version="1" changeset="12190781" timestamp="2012-07-11T21:49:21Z" user="Gianluigi" uid="498903">
+  <nd ref="1822193069"/>
+  <nd ref="1822193065"/>
+  <nd ref="1822193060"/>
+  <nd ref="1822193058"/>
+  <nd ref="1822193067"/>
+  <nd ref="1822193068"/>
+  <nd ref="1822193069"/>
+  <tag k="landuse" v="farmyard"/>
+ </way>
+ <way id="171142370" visible="true" version="2" changeset="46954611" timestamp="2017-03-18T12:17:27Z" user="Spanholz" uid="2209894">
+  <nd ref="951672778"/>
+  <nd ref="4741390831"/>
+  <nd ref="1822193074"/>
+  <nd ref="4741390833"/>
+  <tag k="highway" v="unclassified"/>
+ </way>
+ <way id="481202856" visible="true" version="1" changeset="46954611" timestamp="2017-03-18T12:17:27Z" user="Spanholz" uid="2209894">
+  <nd ref="4741390833"/>
+  <nd ref="4741390834"/>
+  <nd ref="4741390835"/>
+  <nd ref="4741390836"/>
+  <nd ref="4741390837"/>
+  <nd ref="4741390838"/>
+  <nd ref="4741390839"/>
+  <tag k="highway" v="track"/>
+ </way>
+</osm>

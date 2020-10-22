@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1078257 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1877508 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4678360" minlon="9.7119141" maxlat="45.4755403" maxlon="9.7229004"/>
  <node id="62511491" visible="true" version="1" changeset="85182" timestamp="2007-10-10T06:21:54Z" user="Niccolo" uid="864" lat="45.4682760" lon="9.7164590">
   <tag k="created_by" v="JOSM"/>
@@ -526,7 +526,7 @@
   <tag k="fee" v="no"/>
   <tag k="parking" v="surface"/>
  </way>
- <way id="222876767" visible="true" version="3" changeset="90019902" timestamp="2020-08-27T10:20:13Z" user="Fr4n2" uid="11717245">
+ <way id="222876767" visible="true" version="4" changeset="90478720" timestamp="2020-09-06T12:28:43Z" user="Fr4n2" uid="11717245">
   <nd ref="2318211628"/>
   <nd ref="2318211629"/>
   <nd ref="2318211631"/>
@@ -536,6 +536,7 @@
   <nd ref="2318211624"/>
   <nd ref="2318211623"/>
   <tag k="highway" v="unclassified"/>
+  <tag k="name" v="Via Suore Orsoline di Comasca"/>
   <tag k="surface" v="compacted"/>
  </way>
  <way id="222876769" visible="true" version="1" changeset="16264056" timestamp="2013-05-24T11:12:08Z" user="gigi2037" uid="616481">
@@ -592,18 +593,21 @@
   <tag k="name" v="Via Roma 1A 1B"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="222876776" visible="true" version="1" changeset="16264056" timestamp="2013-05-24T11:12:10Z" user="gigi2037" uid="616481">
+ <way id="222876776" visible="true" version="2" changeset="90478739" timestamp="2020-09-06T12:29:27Z" user="Fr4n2" uid="11717245">
   <nd ref="2318211500"/>
   <nd ref="2318211512"/>
   <nd ref="2318211525"/>
   <tag k="highway" v="track"/>
+  <tag k="surface" v="asphalt"/>
  </way>
- <way id="222876777" visible="true" version="2" changeset="90019902" timestamp="2020-08-27T10:14:56Z" user="Fr4n2" uid="11717245">
+ <way id="222876777" visible="true" version="4" changeset="90665695" timestamp="2020-09-09T20:55:00Z" user="Fr4n2" uid="11717245">
   <nd ref="1196894416"/>
   <nd ref="2318211467"/>
   <nd ref="2318211500"/>
+  <tag k="cycleway:both" v="no"/>
   <tag k="highway" v="unclassified"/>
   <tag k="name" v="Via Conte Bernardino Branca di Romanico"/>
+  <tag k="surface" v="asphalt"/>
  </way>
  <way id="222876779" visible="true" version="4" changeset="90019989" timestamp="2020-08-27T10:16:21Z" user="Fr4n2" uid="11717245">
   <nd ref="2318211426"/>
@@ -965,13 +969,14 @@
   <tag k="name" v="Via Roma 1 C D E F"/>
   <tag k="surface" v="compacted"/>
  </way>
- <way id="841263908" visible="true" version="1" changeset="90019902" timestamp="2020-08-27T10:20:13Z" user="Fr4n2" uid="11717245">
+ <way id="841263908" visible="true" version="2" changeset="90478720" timestamp="2020-09-06T12:29:10Z" user="Fr4n2" uid="11717245">
   <nd ref="2318211574"/>
   <nd ref="2318211621"/>
   <nd ref="2318211622"/>
   <nd ref="2318211627"/>
   <nd ref="2318211628"/>
   <tag k="highway" v="unclassified"/>
+  <tag k="name" v="Via Dorina Mosconi"/>
   <tag k="surface" v="compacted"/>
  </way>
  <relation id="45066" visible="true" version="9" changeset="44130367" timestamp="2016-12-03T06:31:43Z" user="nyuriks" uid="339581">
@@ -991,7 +996,7 @@
   <tag k="wikidata" v="Q42821"/>
   <tag k="wikipedia" v="it:Castel Gabbiano"/>
  </relation>
- <relation id="6780651" visible="true" version="37" changeset="85139777" timestamp="2020-05-13T10:45:43Z" user="gigi2037" uid="616481">
+ <relation id="6780651" visible="true" version="38" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306">
   <member type="way" ref="107052224" role=""/>
   <member type="way" ref="107052180" role=""/>
   <member type="way" ref="38845337" role=""/>
@@ -1158,7 +1163,6 @@
   <member type="way" ref="458939193" role=""/>
   <member type="way" ref="458939185" role=""/>
   <member type="way" ref="458939190" role=""/>
-  <member type="way" ref="458939186" role=""/>
   <member type="way" ref="761476566" role=""/>
   <member type="way" ref="458939192" role=""/>
   <member type="way" ref="458939189" role=""/>
@@ -1283,7 +1287,7 @@
   <tag k="route" v="road"/>
   <tag k="type" v="route"/>
  </relation>
- <relation id="6782208" visible="true" version="44" changeset="87720126" timestamp="2020-07-08T16:21:46Z" user="Mannivu" uid="1950277">
+ <relation id="6782208" visible="true" version="46" changeset="91841154" timestamp="2020-10-01T18:20:37Z" user="Mannivu" uid="1950277">
   <member type="way" ref="285591085" role=""/>
   <member type="way" ref="256114733" role=""/>
   <member type="way" ref="172687416" role=""/>
@@ -1430,7 +1434,9 @@
   <member type="way" ref="168832964" role=""/>
   <member type="way" ref="168832962" role=""/>
   <member type="way" ref="168832963" role=""/>
-  <member type="way" ref="225033830" role=""/>
+  <member type="way" ref="225033831" role=""/>
+  <member type="way" ref="853996836" role=""/>
+  <member type="way" ref="853996837" role=""/>
   <member type="way" ref="609346404" role=""/>
   <member type="way" ref="447086127" role=""/>
   <member type="way" ref="447086130" role=""/>
@@ -1440,11 +1446,9 @@
   <member type="way" ref="206488777" role=""/>
   <member type="way" ref="206488778" role=""/>
   <member type="way" ref="314875560" role=""/>
+  <member type="way" ref="847236508" role=""/>
   <member type="way" ref="240595471" role=""/>
-  <member type="way" ref="240487465" role=""/>
   <member type="way" ref="710628304" role=""/>
-  <member type="way" ref="710628303" role=""/>
-  <member type="way" ref="710628305" role=""/>
   <member type="way" ref="710628302" role=""/>
   <member type="way" ref="457425264" role=""/>
   <member type="way" ref="180789951" role=""/>

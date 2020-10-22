@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (861172 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2320387 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3135290" minlon="9.8657227" maxlat="45.3212544" maxlon="9.8767090"/>
  <node id="264353651" visible="true" version="2" changeset="440084" timestamp="2008-05-13T20:21:04Z" user="ilrobi" uid="22110" lat="45.2962134" lon="9.8617909">
   <tag k="created_by" v="JOSM"/>
@@ -523,6 +523,14 @@
  <node id="5324599534" visible="true" version="1" changeset="55222894" timestamp="2018-01-06T21:53:51Z" user="Yiyi (itwikipedia)" uid="1404750" lat="45.3147654" lon="9.8637137"/>
  <node id="5324599535" visible="true" version="1" changeset="55222894" timestamp="2018-01-06T21:53:51Z" user="Yiyi (itwikipedia)" uid="1404750" lat="45.3145290" lon="9.8650400"/>
  <node id="5338512155" visible="true" version="1" changeset="55424193" timestamp="2018-01-14T08:21:01Z" user="spezzi64" uid="20229" lat="45.4124462" lon="9.7214287"/>
+ <node id="7880580714" visible="true" version="1" changeset="90473323" timestamp="2020-09-06T08:55:44Z" user="Francoerbi41" uid="4982687" lat="45.3161926" lon="9.8654551"/>
+ <node id="7880580715" visible="true" version="1" changeset="90473323" timestamp="2020-09-06T08:55:44Z" user="Francoerbi41" uid="4982687" lat="45.3159438" lon="9.8658622"/>
+ <node id="7880580716" visible="true" version="1" changeset="90473323" timestamp="2020-09-06T08:55:44Z" user="Francoerbi41" uid="4982687" lat="45.3158679" lon="9.8657666"/>
+ <node id="7880580717" visible="true" version="1" changeset="90473323" timestamp="2020-09-06T08:55:44Z" user="Francoerbi41" uid="4982687" lat="45.3161192" lon="9.8653614"/>
+ <node id="7880580718" visible="true" version="1" changeset="90473323" timestamp="2020-09-06T08:55:44Z" user="Francoerbi41" uid="4982687" lat="45.3158025" lon="9.8657166"/>
+ <node id="7880580719" visible="true" version="1" changeset="90473323" timestamp="2020-09-06T08:55:44Z" user="Francoerbi41" uid="4982687" lat="45.3157820" lon="9.8657984"/>
+ <node id="7880580720" visible="true" version="1" changeset="90473323" timestamp="2020-09-06T08:55:44Z" user="Francoerbi41" uid="4982687" lat="45.3156401" lon="9.8657347"/>
+ <node id="7880580721" visible="true" version="1" changeset="90473323" timestamp="2020-09-06T08:55:44Z" user="Francoerbi41" uid="4982687" lat="45.3156638" lon="9.8656463"/>
  <way id="24365923" visible="true" version="14" changeset="64755145" timestamp="2018-11-21T20:50:51Z" user="fedc" uid="602784">
   <nd ref="264353651"/>
   <nd ref="4438097004"/>
@@ -1133,6 +1141,22 @@
   <nd ref="5324599534"/>
   <nd ref="5324599535"/>
   <nd ref="5324598893"/>
+ </way>
+ <way id="844710592" visible="true" version="1" changeset="90473323" timestamp="2020-09-06T08:55:44Z" user="Francoerbi41" uid="4982687">
+  <nd ref="7880580714"/>
+  <nd ref="7880580715"/>
+  <nd ref="7880580716"/>
+  <nd ref="7880580717"/>
+  <nd ref="7880580714"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="844710593" visible="true" version="1" changeset="90473323" timestamp="2020-09-06T08:55:44Z" user="Francoerbi41" uid="4982687">
+  <nd ref="7880580718"/>
+  <nd ref="7880580719"/>
+  <nd ref="7880580720"/>
+  <nd ref="7880580721"/>
+  <nd ref="7880580718"/>
+  <tag k="building" v="yes"/>
  </way>
  <relation id="44603" visible="true" version="13" changeset="44251346" timestamp="2016-12-08T07:01:04Z" user="nyuriks" uid="339581">
   <member type="node" ref="62512095" role="admin_centre"/>

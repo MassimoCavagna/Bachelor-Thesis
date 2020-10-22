@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1292845 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2771633 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3444241" minlon="9.8657227" maxlat="45.3521452" maxlon="9.8767090"/>
  <node id="264358918" visible="true" version="4" changeset="42543146" timestamp="2016-09-30T14:01:13Z" user="fedc" uid="602784" lat="45.3435081" lon="9.8716060"/>
  <node id="264358921" visible="true" version="3" changeset="42543146" timestamp="2016-09-30T14:01:13Z" user="fedc" uid="602784" lat="45.3442397" lon="9.8712361"/>
@@ -2605,7 +2605,7 @@
   <tag k="name" v="Ferrovia Cremona-Iseo"/>
   <tag k="railway" v="razed"/>
  </way>
- <relation id="6769829" visible="true" version="28" changeset="87655531" timestamp="2020-07-07T12:32:32Z" user="LuSirto" uid="506470">
+ <relation id="6769829" visible="true" version="29" changeset="91244352" timestamp="2020-09-21T18:22:04Z" user="digt" uid="1628387">
   <member type="way" ref="49423061" role=""/>
   <member type="way" ref="49423051" role=""/>
   <member type="way" ref="54602435" role=""/>
@@ -2633,6 +2633,8 @@
   <member type="way" ref="192395349" role=""/>
   <member type="way" ref="192395348" role=""/>
   <member type="way" ref="91842950" role=""/>
+  <member type="way" ref="849894669" role=""/>
+  <member type="way" ref="849894668" role=""/>
   <member type="way" ref="162401301" role=""/>
   <member type="way" ref="27248158" role=""/>
   <member type="way" ref="27248155" role=""/>

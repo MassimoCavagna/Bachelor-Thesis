@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (896215 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="45.3598653" minlon="9.9206543" maxlat="45.3675844" maxlon="9.9316406"/>
+ <node id="567820470" visible="true" version="2" changeset="46797819" timestamp="2017-03-12T23:00:08Z" user="SiMaz96" uid="3141745" lat="45.3688962" lon="9.9309293"/>
+ <node id="1241195916" visible="true" version="1" changeset="7836215" timestamp="2011-04-11T19:07:10Z" user="ilrobi" uid="22110" lat="45.3639036" lon="9.9313994"/>
+ <node id="1776432269" visible="true" version="1" changeset="11800590" timestamp="2012-06-04T20:30:29Z" user="Gianluigi" uid="498903" lat="45.3577771" lon="9.9319125"/>
+ <node id="1776502921" visible="true" version="1" changeset="11801058" timestamp="2012-06-04T21:16:59Z" user="Gianluigi" uid="498903" lat="45.3668477" lon="9.9311321"/>
+ <node id="1776502922" visible="true" version="1" changeset="11801058" timestamp="2012-06-04T21:16:59Z" user="Gianluigi" uid="498903" lat="45.3668915" lon="9.9319003"/>
+ <node id="1776502928" visible="true" version="1" changeset="11801058" timestamp="2012-06-04T21:16:59Z" user="Gianluigi" uid="498903" lat="45.3675370" lon="9.9310695"/>
+ <node id="1776502929" visible="true" version="1" changeset="11801058" timestamp="2012-06-04T21:16:59Z" user="Gianluigi" uid="498903" lat="45.3675488" lon="9.9318587"/>
+ <node id="1778459266" visible="true" version="1" changeset="11820241" timestamp="2012-06-06T21:46:01Z" user="Gianluigi" uid="498903" lat="45.3564189" lon="9.9230093"/>
+ <node id="1778459270" visible="true" version="1" changeset="11820241" timestamp="2012-06-06T21:46:01Z" user="Gianluigi" uid="498903" lat="45.3590175" lon="9.9230198"/>
+ <node id="1778459273" visible="true" version="1" changeset="11820241" timestamp="2012-06-06T21:46:01Z" user="Gianluigi" uid="498903" lat="45.3610805" lon="9.9236979"/>
+ <node id="1778459275" visible="true" version="1" changeset="11820241" timestamp="2012-06-06T21:46:01Z" user="Gianluigi" uid="498903" lat="45.3610814" lon="9.9230169"/>
+ <node id="1778459277" visible="true" version="1" changeset="11820241" timestamp="2012-06-06T21:46:01Z" user="Gianluigi" uid="498903" lat="45.3615847" lon="9.9236861"/>
+ <node id="1778459279" visible="true" version="1" changeset="11820241" timestamp="2012-06-06T21:46:01Z" user="Gianluigi" uid="498903" lat="45.3615847" lon="9.9242272"/>
+ <node id="1778459281" visible="true" version="1" changeset="11820241" timestamp="2012-06-06T21:46:01Z" user="Gianluigi" uid="498903" lat="45.3618470" lon="9.9230086"/>
+ <node id="1778459283" visible="true" version="1" changeset="11820241" timestamp="2012-06-06T21:46:01Z" user="Gianluigi" uid="498903" lat="45.3618905" lon="9.9242272"/>
+ <way id="166171141" visible="true" version="1" changeset="11801058" timestamp="2012-06-04T21:17:07Z" user="Gianluigi" uid="498903">
+  <nd ref="1776502928"/>
+  <nd ref="1776502929"/>
+  <nd ref="1776502922"/>
+  <nd ref="1776502921"/>
+  <nd ref="1776502928"/>
+  <tag k="landuse" v="farmyard"/>
+ </way>
+ <way id="166401572" visible="true" version="1" changeset="11820241" timestamp="2012-06-06T21:46:37Z" user="Gianluigi" uid="498903">
+  <nd ref="1778459275"/>
+  <nd ref="1778459273"/>
+  <nd ref="1778459277"/>
+  <nd ref="1778459279"/>
+  <nd ref="1778459283"/>
+  <nd ref="1778459281"/>
+  <nd ref="1778459275"/>
+  <tag k="landuse" v="farmyard"/>
+ </way>
+ <way id="166401630" visible="true" version="1" changeset="11820241" timestamp="2012-06-06T21:46:45Z" user="Gianluigi" uid="498903">
+  <nd ref="1778459266"/>
+  <nd ref="1778459270"/>
+  <nd ref="1778459275"/>
+  <nd ref="1778459281"/>
+  <tag k="highway" v="unclassified"/>
+ </way>
+ <way id="480101499" visible="true" version="2" changeset="69387168" timestamp="2019-04-19T19:43:34Z" user="osm_fede" uid="5631066">
+  <nd ref="567820470"/>
+  <nd ref="1776502928"/>
+  <nd ref="1776502921"/>
+  <nd ref="1241195916"/>
+  <nd ref="1776432269"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Via Martinengo"/>
+  <tag k="ref" v="SP36"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+</osm>

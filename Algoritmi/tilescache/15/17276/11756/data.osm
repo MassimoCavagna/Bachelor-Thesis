@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1078251 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2868701 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2362175" minlon="9.7998047" maxlat="45.2439534" maxlon="9.8107910"/>
  <node id="62511394" visible="true" version="3" changeset="25092413" timestamp="2014-08-29T09:53:45Z" user="Hjart" uid="207581" lat="45.2423717" lon="9.8069612"/>
  <node id="971083105" visible="true" version="2" changeset="17232244" timestamp="2013-08-05T19:45:40Z" user="pdovera" uid="1545610" lat="45.2423377" lon="9.8000827"/>
@@ -2492,6 +2492,14 @@
  <node id="7682647752" visible="true" version="1" changeset="87529963" timestamp="2020-07-04T12:27:32Z" user="tdovera" uid="1694801" lat="45.2390620" lon="9.8073553"/>
  <node id="7682647753" visible="true" version="1" changeset="87529963" timestamp="2020-07-04T12:27:32Z" user="tdovera" uid="1694801" lat="45.2385709" lon="9.8073553"/>
  <node id="7682647754" visible="true" version="1" changeset="87529963" timestamp="2020-07-04T12:27:32Z" user="tdovera" uid="1694801" lat="45.2385709" lon="9.8070227"/>
+ <node id="7979842646" visible="true" version="1" changeset="92023570" timestamp="2020-10-06T06:41:06Z" user="tdovera" uid="1694801" lat="45.2437810" lon="9.8086135"/>
+ <node id="7979842647" visible="true" version="1" changeset="92023570" timestamp="2020-10-06T06:41:06Z" user="tdovera" uid="1694801" lat="45.2438075" lon="9.8086993"/>
+ <node id="7979842648" visible="true" version="1" changeset="92023570" timestamp="2020-10-06T06:41:06Z" user="tdovera" uid="1694801" lat="45.2437471" lon="9.8087476"/>
+ <node id="7979842649" visible="true" version="1" changeset="92023570" timestamp="2020-10-06T06:41:06Z" user="tdovera" uid="1694801" lat="45.2437131" lon="9.8086591"/>
+ <node id="7979844356" visible="true" version="1" changeset="92023537" timestamp="2020-10-06T06:40:37Z" user="tdovera" uid="1694801" lat="45.2436885" lon="9.8083989"/>
+ <node id="7979844357" visible="true" version="1" changeset="92023537" timestamp="2020-10-06T06:40:37Z" user="tdovera" uid="1694801" lat="45.2437093" lon="9.8084606"/>
+ <node id="7979844358" visible="true" version="1" changeset="92023537" timestamp="2020-10-06T06:40:37Z" user="tdovera" uid="1694801" lat="45.2436507" lon="9.8085035"/>
+ <node id="7979844359" visible="true" version="1" changeset="92023537" timestamp="2020-10-06T06:40:37Z" user="tdovera" uid="1694801" lat="45.2436300" lon="9.8084391"/>
  <way id="83422167" visible="true" version="11" changeset="69344870" timestamp="2019-04-18T13:27:08Z" user="kmarjbh" uid="9310279">
   <nd ref="971085530"/>
   <nd ref="971085488"/>
@@ -7442,6 +7450,30 @@
   <nd ref="7682647754"/>
   <nd ref="7682647751"/>
   <tag k="building" v="yes"/>
+ </way>
+ <way id="855750163" visible="true" version="1" changeset="92023537" timestamp="2020-10-06T06:40:37Z" user="tdovera" uid="1694801">
+  <nd ref="7979844356"/>
+  <nd ref="7979844357"/>
+  <nd ref="7979844358"/>
+  <nd ref="7979844359"/>
+  <nd ref="7979844356"/>
+  <tag k="generator:method" v="photovoltaic"/>
+  <tag k="generator:output:electricity" v="yes"/>
+  <tag k="generator:source" v="solar"/>
+  <tag k="generator:type" v="solar_photovoltaic_panel"/>
+  <tag k="power" v="generator"/>
+ </way>
+ <way id="855750287" visible="true" version="1" changeset="92023570" timestamp="2020-10-06T06:41:06Z" user="tdovera" uid="1694801">
+  <nd ref="7979842646"/>
+  <nd ref="7979842647"/>
+  <nd ref="7979842648"/>
+  <nd ref="7979842649"/>
+  <nd ref="7979842646"/>
+  <tag k="generator:method" v="photovoltaic"/>
+  <tag k="generator:output:electricity" v="yes"/>
+  <tag k="generator:source" v="solar"/>
+  <tag k="generator:type" v="solar_photovoltaic_panel"/>
+  <tag k="power" v="generator"/>
  </way>
  <relation id="44485" visible="true" version="10" changeset="44130724" timestamp="2016-12-03T07:01:38Z" user="nyuriks" uid="339581">
   <member type="node" ref="3048691475" role="admin_centre"/>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (19920 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991860 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4832435" minlon="9.6679688" maxlat="45.4909457" maxlon="9.6789551"/>
  <node id="261678330" visible="true" version="4" changeset="8983087" timestamp="2011-08-11T08:00:31Z" user="ilrobi" uid="22110" lat="45.4867192" lon="9.6767914"/>
  <node id="261678331" visible="true" version="5" changeset="14399876" timestamp="2012-12-25T11:14:21Z" user="Luca Vetturi" uid="307829" lat="45.4874653" lon="9.6751292"/>
  <node id="261678332" visible="true" version="6" changeset="60262483" timestamp="2018-06-28T23:33:06Z" user="Mannivu" uid="1950277" lat="45.4875833" lon="9.6682190"/>
  <node id="261678333" visible="true" version="6" changeset="60262483" timestamp="2018-06-28T23:33:06Z" user="Mannivu" uid="1950277" lat="45.4864185" lon="9.6601629"/>
  <node id="261678334" visible="true" version="8" changeset="60262483" timestamp="2018-06-28T23:33:06Z" user="Mannivu" uid="1950277" lat="45.4891787" lon="9.6539637"/>
- <node id="261678335" visible="true" version="10" changeset="60262483" timestamp="2018-06-28T23:33:06Z" user="Mannivu" uid="1950277" lat="45.4908784" lon="9.6511688"/>
+ <node id="261678335" visible="true" version="11" changeset="92429627" timestamp="2020-10-13T16:48:34Z" user="Mannivu" uid="1950277" lat="45.4909933" lon="9.6509059"/>
  <node id="274353969" visible="true" version="6" changeset="60262483" timestamp="2018-06-28T23:33:06Z" user="Mannivu" uid="1950277" lat="45.4865936" lon="9.6584528"/>
  <node id="304566194" visible="true" version="2" changeset="14399876" timestamp="2012-12-25T10:49:56Z" user="Luca Vetturi" uid="307829" lat="45.4875951" lon="9.6717218"/>
  <node id="304566195" visible="true" version="2" changeset="14399876" timestamp="2012-12-25T10:49:56Z" user="Luca Vetturi" uid="307829" lat="45.4888980" lon="9.6716502"/>
@@ -1212,6 +1212,7 @@
  <node id="7511451196" visible="true" version="1" changeset="85092978" timestamp="2020-05-12T14:47:50Z" user="Mannivu" uid="1950277" lat="45.4794037" lon="9.6763606"/>
  <node id="7824426632" visible="true" version="1" changeset="89597360" timestamp="2020-08-18T21:49:39Z" user="Sacajawea" uid="11656296" lat="45.4874464" lon="9.6748137"/>
  <node id="7824426633" visible="true" version="1" changeset="89597360" timestamp="2020-08-18T21:49:39Z" user="Sacajawea" uid="11656296" lat="45.4873354" lon="9.6755755"/>
+ <node id="8004095882" visible="true" version="1" changeset="92429627" timestamp="2020-10-13T16:48:34Z" user="Mannivu" uid="1950277" lat="45.4909782" lon="9.6509315"/>
  <way id="27981883" visible="true" version="5" changeset="11915264" timestamp="2012-06-16T14:05:28Z" user="Luca Vetturi" uid="307829">
   <nd ref="307118666"/>
   <nd ref="558630281"/>
@@ -1548,7 +1549,7 @@
   <tag k="name" v="Via Guglielmo Marconi"/>
   <tag k="oneway" v="no"/>
  </way>
- <way id="167616756" visible="true" version="13" changeset="73798383" timestamp="2019-08-27T13:24:36Z" user="Mannivu" uid="1950277">
+ <way id="167616756" visible="true" version="14" changeset="92429627" timestamp="2020-10-13T16:48:34Z" user="Mannivu" uid="1950277">
   <nd ref="1789967250"/>
   <nd ref="2082011710"/>
   <nd ref="261678332"/>
@@ -1573,6 +1574,7 @@
   <nd ref="261678334"/>
   <nd ref="5298516058"/>
   <nd ref="1946719592"/>
+  <nd ref="8004095882"/>
   <nd ref="261678335"/>
   <tag k="highway" v="primary"/>
   <tag k="lanes" v="2"/>
@@ -2908,7 +2910,7 @@
   <nd ref="2082017172"/>
   <tag k="barrier" v="fence"/>
  </way>
- <relation id="45021" visible="true" version="10" changeset="74828239" timestamp="2019-09-23T22:38:47Z" user="Mannivu" uid="1950277">
+ <relation id="45021" visible="true" version="11" changeset="92753959" timestamp="2020-10-20T08:51:03Z" user="Mannivu" uid="1950277">
   <member type="way" ref="27981288" role="outer"/>
   <member type="way" ref="27981607" role="outer"/>
   <member type="way" ref="27981883" role="outer"/>
@@ -2930,6 +2932,7 @@
   <tag k="source:population" v="http://www.comuni-italiani.it/016/053/statistiche/"/>
   <tag k="type" v="boundary"/>
   <tag k="wikidata" v="Q100145"/>
+  <tag k="wikimedia_commons" v="Category:Caravaggio_(Italy)"/>
   <tag k="wikipedia" v="it:Caravaggio (Italia)"/>
  </relation>
  <relation id="45150" visible="true" version="9" changeset="58550415" timestamp="2018-04-30T10:24:03Z" user="Mannivu" uid="1950277">
@@ -2948,7 +2951,7 @@
   <tag k="wikidata" v="Q101077"/>
   <tag k="wikipedia" v="it:Fornovo San Giovanni"/>
  </relation>
- <relation id="6782208" visible="true" version="44" changeset="87720126" timestamp="2020-07-08T16:21:46Z" user="Mannivu" uid="1950277">
+ <relation id="6782208" visible="true" version="46" changeset="91841154" timestamp="2020-10-01T18:20:37Z" user="Mannivu" uid="1950277">
   <member type="way" ref="285591085" role=""/>
   <member type="way" ref="256114733" role=""/>
   <member type="way" ref="172687416" role=""/>
@@ -3095,7 +3098,9 @@
   <member type="way" ref="168832964" role=""/>
   <member type="way" ref="168832962" role=""/>
   <member type="way" ref="168832963" role=""/>
-  <member type="way" ref="225033830" role=""/>
+  <member type="way" ref="225033831" role=""/>
+  <member type="way" ref="853996836" role=""/>
+  <member type="way" ref="853996837" role=""/>
   <member type="way" ref="609346404" role=""/>
   <member type="way" ref="447086127" role=""/>
   <member type="way" ref="447086130" role=""/>
@@ -3105,11 +3110,9 @@
   <member type="way" ref="206488777" role=""/>
   <member type="way" ref="206488778" role=""/>
   <member type="way" ref="314875560" role=""/>
+  <member type="way" ref="847236508" role=""/>
   <member type="way" ref="240595471" role=""/>
-  <member type="way" ref="240487465" role=""/>
   <member type="way" ref="710628304" role=""/>
-  <member type="way" ref="710628303" role=""/>
-  <member type="way" ref="710628305" role=""/>
   <member type="way" ref="710628302" role=""/>
   <member type="way" ref="457425264" role=""/>
   <member type="way" ref="180789951" role=""/>

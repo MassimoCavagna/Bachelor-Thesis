@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3907222 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3083194 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3212544" minlon="9.8657227" maxlat="45.3289787" maxlon="9.8767090"/>
  <node id="264353651" visible="true" version="2" changeset="440084" timestamp="2008-05-13T20:21:04Z" user="ilrobi" uid="22110" lat="45.2962134" lon="9.8617909">
   <tag k="created_by" v="JOSM"/>
@@ -2843,7 +2843,7 @@
   <tag k="layer" v="1"/>
   <tag k="waterway" v="ditch"/>
  </way>
- <relation id="2250847" visible="true" version="30" changeset="89478011" timestamp="2020-08-16T17:01:40Z" user="manfre_" uid="11647044">
+ <relation id="2250847" visible="true" version="32" changeset="92791116" timestamp="2020-10-20T21:11:24Z" user="fedc" uid="602784">
   <member type="way" ref="113678704" role=""/>
   <member type="way" ref="126701315" role=""/>
   <member type="way" ref="126701313" role=""/>
@@ -2915,6 +2915,7 @@
   <member type="way" ref="37012142" role=""/>
   <member type="way" ref="37012143" role=""/>
   <member type="way" ref="168704271" role=""/>
+  <member type="way" ref="857509825" role=""/>
   <member type="way" ref="732935571" role=""/>
   <member type="way" ref="168694165" role=""/>
   <member type="way" ref="168694169" role=""/>
@@ -2930,7 +2931,6 @@
   <member type="way" ref="168963193" role=""/>
   <member type="way" ref="168968056" role=""/>
   <member type="way" ref="618892725" role=""/>
-  <member type="way" ref="169025963" role=""/>
   <member type="way" ref="619115098" role=""/>
   <member type="way" ref="576978575" role=""/>
   <member type="way" ref="71753117" role=""/>
@@ -2944,7 +2944,6 @@
   <member type="way" ref="549605532" role="forward"/>
   <member type="way" ref="577680963" role="backward"/>
   <tag k="cycle_network" v="Sistema Turistico Po di Lombardia"/>
-  <tag k="fixme" v="status=proposed deleted - state=proposed is correct tag if this is a proposed route"/>
   <tag k="name" v="I Navigli Cremonesi - II Tappa"/>
   <tag k="network" v="rcn"/>
   <tag k="ref" v="CR02"/>

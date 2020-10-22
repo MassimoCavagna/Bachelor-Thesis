@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (861164 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1298880 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4755403" minlon="9.7229004" maxlat="45.4832435" maxlon="9.7338867"/>
  <node id="207316795" visible="true" version="5" changeset="8984533" timestamp="2011-08-11T11:18:24Z" user="ilrobi" uid="22110" lat="45.4818251" lon="9.7310036"/>
  <node id="207316797" visible="true" version="6" changeset="42754046" timestamp="2016-10-09T13:25:24Z" user="Micael Camozzi" uid="2557267" lat="45.4821510" lon="9.7286616"/>
@@ -955,8 +955,9 @@
  <node id="3623857143" visible="true" version="2" changeset="66340002" timestamp="2019-01-15T18:22:15Z" user="fedc" uid="602784" lat="45.4803347" lon="9.7401070"/>
  <node id="3623857144" visible="true" version="3" changeset="66340002" timestamp="2019-01-15T18:22:15Z" user="fedc" uid="602784" lat="45.4804867" lon="9.7415007"/>
  <node id="3623857145" visible="true" version="2" changeset="44280786" timestamp="2016-12-09T12:19:09Z" user="Elia Z" uid="2914055" lat="45.4804733" lon="9.7427040"/>
- <node id="3812339226" visible="true" version="4" changeset="86212606" timestamp="2020-06-04T23:18:14Z" user="gigi2037" uid="616481" lat="45.4827546" lon="9.7237906">
+ <node id="3812339226" visible="true" version="5" changeset="92644475" timestamp="2020-10-18T00:03:38Z" user="dega180" uid="454306" lat="45.4827546" lon="9.7237906">
   <tag k="bench" v="no"/>
+  <tag k="bus" v="yes"/>
   <tag k="covered" v="yes"/>
   <tag k="highway" v="bus_stop"/>
   <tag k="name" v="SAI"/>
@@ -980,8 +981,11 @@
   <tag k="addr:postcode" v="24040"/>
   <tag k="addr:street" v="Via Cascina Secchi"/>
  </node>
- <node id="4438969084" visible="true" version="1" changeset="42752626" timestamp="2016-10-09T12:08:16Z" user="Micael Camozzi" uid="2557267" lat="45.4815585" lon="9.7299875">
-  <tag k="name" v="Eurospin"/>
+ <node id="4438969084" visible="true" version="2" changeset="92644358" timestamp="2020-10-17T23:52:48Z" user="dega180" uid="454306" lat="45.4815585" lon="9.7299875">
+  <tag k="brand" v="EuroSpin"/>
+  <tag k="brand:wikidata" v="Q1374674"/>
+  <tag k="brand:wikipedia" v="it:Eurospin"/>
+  <tag k="name" v="EuroSpin"/>
   <tag k="shop" v="supermarket"/>
  </node>
  <node id="4438969085" visible="true" version="1" changeset="42752626" timestamp="2016-10-09T12:08:16Z" user="Micael Camozzi" uid="2557267" lat="45.4814827" lon="9.7306765">
@@ -1005,7 +1009,7 @@
  <node id="4438969495" visible="true" version="2" changeset="58764437" timestamp="2018-05-07T16:55:23Z" user="Mannivu" uid="1950277" lat="45.4812415" lon="9.7309154"/>
  <node id="4438969496" visible="true" version="2" changeset="58764437" timestamp="2018-05-07T16:55:23Z" user="Mannivu" uid="1950277" lat="45.4813296" lon="9.7309383"/>
  <node id="4438969497" visible="true" version="2" changeset="58764437" timestamp="2018-05-07T16:55:23Z" user="Mannivu" uid="1950277" lat="45.4812783" lon="9.7313388"/>
- <node id="4438969498" visible="true" version="2" changeset="44291834" timestamp="2016-12-09T20:42:15Z" user="Elia Z" uid="2914055" lat="45.4816079" lon="9.7266200">
+ <node id="4438969498" visible="true" version="3" changeset="92644475" timestamp="2020-10-18T00:03:38Z" user="dega180" uid="454306" lat="45.4816079" lon="9.7266240">
   <tag k="man_made" v="mast"/>
  </node>
  <node id="4438987567" visible="true" version="2" changeset="69591590" timestamp="2019-04-26T08:43:45Z" user="Micael Camozzi" uid="2557267" lat="45.4814430" lon="9.7311699">
@@ -1165,7 +1169,7 @@
  <node id="4439067563" visible="true" version="1" changeset="42754133" timestamp="2016-10-09T13:29:41Z" user="Micael Camozzi" uid="2557267" lat="45.4823783" lon="9.7298466"/>
  <node id="4439067564" visible="true" version="1" changeset="42754133" timestamp="2016-10-09T13:29:41Z" user="Micael Camozzi" uid="2557267" lat="45.4822410" lon="9.7297500"/>
  <node id="4439067565" visible="true" version="1" changeset="42754133" timestamp="2016-10-09T13:29:41Z" user="Micael Camozzi" uid="2557267" lat="45.4821150" lon="9.7296669"/>
- <node id="4439067566" visible="true" version="2" changeset="58095554" timestamp="2018-04-14T18:45:08Z" user="Mannivu" uid="1950277" lat="45.4820821" lon="9.7296467"/>
+ <node id="4439067566" visible="true" version="3" changeset="92644358" timestamp="2020-10-17T23:52:48Z" user="dega180" uid="454306" lat="45.4820821" lon="9.7296469"/>
  <node id="4439067571" visible="true" version="2" changeset="69777643" timestamp="2019-05-01T18:25:05Z" user="Micael Camozzi" uid="2557267" lat="45.4813871" lon="9.7294918"/>
  <node id="4439067572" visible="true" version="1" changeset="42754133" timestamp="2016-10-09T13:29:41Z" user="Micael Camozzi" uid="2557267" lat="45.4808936" lon="9.7293886"/>
  <node id="4439067573" visible="true" version="1" changeset="42754133" timestamp="2016-10-09T13:29:41Z" user="Micael Camozzi" uid="2557267" lat="45.4804930" lon="9.7292518"/>
@@ -1261,9 +1265,10 @@
   <tag k="power" v="terminal"/>
   <tag k="power_1" v="1,5 kw"/>
  </node>
- <node id="4584005602" visible="true" version="1" changeset="44825058" timestamp="2017-01-01T15:55:19Z" user="Micael Camozzi" uid="2557267" lat="45.4809517" lon="9.7308290">
+ <node id="4584005602" visible="true" version="2" changeset="90996049" timestamp="2020-09-16T15:40:54Z" user="Mannivu" uid="1950277" lat="45.4809517" lon="9.7308290">
   <tag k="man_made" v="mast"/>
-  <tag k="tower:construction" v="concrete"/>
+  <tag k="tower:construction" v="freestanding"/>
+  <tag k="tower:type" v="communication"/>
  </node>
  <node id="4584008432" visible="true" version="1" changeset="44825152" timestamp="2017-01-01T16:00:18Z" user="Micael Camozzi" uid="2557267" lat="45.4811093" lon="9.7318063"/>
  <node id="4584008433" visible="true" version="1" changeset="44825152" timestamp="2017-01-01T16:00:18Z" user="Micael Camozzi" uid="2557267" lat="45.4813660" lon="9.7321923"/>
@@ -1308,7 +1313,7 @@
  <node id="4584071217" visible="true" version="1" changeset="44826122" timestamp="2017-01-01T16:51:50Z" user="Micael Camozzi" uid="2557267" lat="45.4765861" lon="9.7307125"/>
  <node id="4584071218" visible="true" version="1" changeset="44826122" timestamp="2017-01-01T16:51:50Z" user="Micael Camozzi" uid="2557267" lat="45.4761895" lon="9.7306329"/>
  <node id="4584071219" visible="true" version="1" changeset="44826122" timestamp="2017-01-01T16:51:50Z" user="Micael Camozzi" uid="2557267" lat="45.4757620" lon="9.7304651"/>
- <node id="4584071220" visible="true" version="1" changeset="44826122" timestamp="2017-01-01T16:51:50Z" user="Micael Camozzi" uid="2557267" lat="45.4739036" lon="9.7300599"/>
+ <node id="4584071220" visible="true" version="2" changeset="92644358" timestamp="2020-10-17T23:52:48Z" user="dega180" uid="454306" lat="45.4739804" lon="9.7300774"/>
  <node id="4584071221" visible="true" version="1" changeset="44826122" timestamp="2017-01-01T16:51:50Z" user="Micael Camozzi" uid="2557267" lat="45.4762757" lon="9.7306502"/>
  <node id="4584071222" visible="true" version="1" changeset="44826122" timestamp="2017-01-01T16:51:50Z" user="Micael Camozzi" uid="2557267" lat="45.4771561" lon="9.7307125"/>
  <node id="4584071223" visible="true" version="1" changeset="44826122" timestamp="2017-01-01T16:51:50Z" user="Micael Camozzi" uid="2557267" lat="45.4775805" lon="9.7304871"/>
@@ -1548,6 +1553,24 @@
  <node id="7109242960" visible="true" version="1" changeset="79212441" timestamp="2020-01-05T13:17:28Z" user="Mannivu" uid="1950277" lat="45.4828340" lon="9.7242172"/>
  <node id="7109242961" visible="true" version="1" changeset="79212441" timestamp="2020-01-05T13:17:28Z" user="Mannivu" uid="1950277" lat="45.4825205" lon="9.7243207"/>
  <node id="7358231421" visible="true" version="1" changeset="82968410" timestamp="2020-04-02T09:22:21Z" user="Mannivu" uid="1950277" lat="45.4811147" lon="9.7341421"/>
+ <node id="8017643476" visible="true" version="1" changeset="92644358" timestamp="2020-10-17T23:52:48Z" user="dega180" uid="454306" lat="45.4738978" lon="9.7301277"/>
+ <node id="8017643477" visible="true" version="1" changeset="92644358" timestamp="2020-10-17T23:52:48Z" user="dega180" uid="454306" lat="45.4738397" lon="9.7302153"/>
+ <node id="8017643478" visible="true" version="1" changeset="92644358" timestamp="2020-10-17T23:52:48Z" user="dega180" uid="454306" lat="45.4737932" lon="9.7302722"/>
+ <node id="8017643479" visible="true" version="1" changeset="92644358" timestamp="2020-10-17T23:52:48Z" user="dega180" uid="454306" lat="45.4737151" lon="9.7307815"/>
+ <node id="8017643480" visible="true" version="1" changeset="92644358" timestamp="2020-10-17T23:52:48Z" user="dega180" uid="454306" lat="45.4737450" lon="9.7308502"/>
+ <node id="8017643481" visible="true" version="1" changeset="92644358" timestamp="2020-10-17T23:52:48Z" user="dega180" uid="454306" lat="45.4738081" lon="9.7308715"/>
+ <node id="8017643482" visible="true" version="1" changeset="92644358" timestamp="2020-10-17T23:52:48Z" user="dega180" uid="454306" lat="45.4741171" lon="9.7309117"/>
+ <node id="8017643483" visible="true" version="1" changeset="92644358" timestamp="2020-10-17T23:52:48Z" user="dega180" uid="454306" lat="45.4743065" lon="9.7309733"/>
+ <node id="8017643484" visible="true" version="1" changeset="92644358" timestamp="2020-10-17T23:52:48Z" user="dega180" uid="454306" lat="45.4763761" lon="9.7314222"/>
+ <node id="8017677497" visible="true" version="1" changeset="92644475" timestamp="2020-10-18T00:03:38Z" user="dega180" uid="454306" lat="45.4816079" lon="9.7266200"/>
+ <node id="8017677498" visible="true" version="1" changeset="92644475" timestamp="2020-10-18T00:03:38Z" user="dega180" uid="454306" lat="45.4831013" lon="9.7313608"/>
+ <node id="8017677499" visible="true" version="1" changeset="92644475" timestamp="2020-10-18T00:03:38Z" user="dega180" uid="454306" lat="45.4820247" lon="9.7311411"/>
+ <node id="8017677500" visible="true" version="1" changeset="92644475" timestamp="2020-10-18T00:03:38Z" user="dega180" uid="454306" lat="45.4819925" lon="9.7310490"/>
+ <node id="8017677501" visible="true" version="1" changeset="92644475" timestamp="2020-10-18T00:03:38Z" user="dega180" uid="454306" lat="45.4820438" lon="9.7306076"/>
+ <node id="8017677502" visible="true" version="1" changeset="92644475" timestamp="2020-10-18T00:03:38Z" user="dega180" uid="454306" lat="45.4826934" lon="9.7305376"/>
+ <node id="8017677503" visible="true" version="1" changeset="92644475" timestamp="2020-10-18T00:03:38Z" user="dega180" uid="454306" lat="45.4831116" lon="9.7306202"/>
+ <node id="8017677504" visible="true" version="1" changeset="92644475" timestamp="2020-10-18T00:03:38Z" user="dega180" uid="454306" lat="45.4841694" lon="9.7280519"/>
+ <node id="8017677505" visible="true" version="1" changeset="92644475" timestamp="2020-10-18T00:03:38Z" user="dega180" uid="454306" lat="45.4831202" lon="9.7280930"/>
  <way id="27981646" visible="true" version="13" changeset="71507721" timestamp="2019-06-22T11:38:55Z" user="Micael Camozzi" uid="2557267">
   <nd ref="307115207"/>
   <nd ref="4584070372"/>
@@ -1663,7 +1686,7 @@
   <nd ref="1394650011"/>
   <tag k="highway" v="service"/>
  </way>
- <way id="125610589" visible="true" version="7" changeset="67679913" timestamp="2019-03-01T10:12:55Z" user="g195" uid="668137">
+ <way id="125610589" visible="true" version="7" changeset="67679913" timestamp="2019-03-01T10:12:55Z" user="Ramying" uid="668137">
   <nd ref="1394759993"/>
   <nd ref="1394759985"/>
   <nd ref="1394759977"/>
@@ -1673,7 +1696,7 @@
   <tag k="old_ref" v="SS11"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="125610590" visible="true" version="7" changeset="67679913" timestamp="2019-03-01T10:12:55Z" user="g195" uid="668137">
+ <way id="125610590" visible="true" version="7" changeset="67679913" timestamp="2019-03-01T10:12:55Z" user="Ramying" uid="668137">
   <nd ref="3120791571"/>
   <nd ref="1394759990"/>
   <nd ref="1394759991"/>
@@ -1683,10 +1706,11 @@
   <tag k="old_ref" v="SS11"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="125610591" visible="true" version="2" changeset="11250162" timestamp="2012-04-10T10:03:55Z" user="gilbomorris" uid="185204">
+ <way id="125610591" visible="true" version="3" changeset="92644475" timestamp="2020-10-18T00:03:38Z" user="dega180" uid="454306">
   <nd ref="1394760067"/>
   <nd ref="1394760066"/>
   <nd ref="1394760065"/>
+  <nd ref="8017677504"/>
   <nd ref="1394760064"/>
   <nd ref="1709799665"/>
   <nd ref="1394760063"/>
@@ -1697,15 +1721,17 @@
   <nd ref="1394760042"/>
   <tag k="highway" v="residential"/>
  </way>
- <way id="125610595" visible="true" version="1" changeset="8984533" timestamp="2011-08-11T11:18:20Z" user="ilrobi" uid="22110">
+ <way id="125610595" visible="true" version="2" changeset="92644475" timestamp="2020-10-18T00:03:38Z" user="dega180" uid="454306">
   <nd ref="1394760059"/>
   <nd ref="1394760057"/>
   <nd ref="1394760056"/>
+  <nd ref="8017677505"/>
   <nd ref="1394760050"/>
   <nd ref="1394760044"/>
   <nd ref="1394760043"/>
   <nd ref="1394760042"/>
   <nd ref="1394760040"/>
+  <nd ref="8017677502"/>
   <nd ref="1394760039"/>
   <tag k="highway" v="residential"/>
  </way>
@@ -1867,7 +1893,7 @@
   <tag k="highway" v="residential"/>
   <tag k="name" v="Via Lorenzo Lotto"/>
  </way>
- <way id="322683831" visible="true" version="7" changeset="44826122" timestamp="2017-01-01T16:51:55Z" user="Micael Camozzi" uid="2557267">
+ <way id="322683831" visible="true" version="8" changeset="92644475" timestamp="2020-10-18T00:03:38Z" user="dega180" uid="454306">
   <nd ref="3273666692"/>
   <nd ref="3294602135"/>
   <nd ref="4439063679"/>
@@ -1879,7 +1905,7 @@
   <nd ref="3294602139"/>
   <nd ref="3354094083"/>
   <nd ref="3294602140"/>
-  <nd ref="4438969498"/>
+  <nd ref="8017677497"/>
   <nd ref="3294602141"/>
   <nd ref="3294602142"/>
   <nd ref="4448886169"/>
@@ -2407,11 +2433,11 @@
   <nd ref="3317475446"/>
   <tag k="building" v="house"/>
  </way>
- <way id="325073578" visible="true" version="3" changeset="44291834" timestamp="2016-12-09T20:42:19Z" user="Elia Z" uid="2914055">
+ <way id="325073578" visible="true" version="4" changeset="92644475" timestamp="2020-10-18T00:03:38Z" user="dega180" uid="454306">
   <nd ref="3317475452"/>
   <nd ref="3317475453"/>
   <nd ref="3294602140"/>
-  <nd ref="4438969498"/>
+  <nd ref="8017677497"/>
   <nd ref="3294602141"/>
   <nd ref="3294602142"/>
   <nd ref="2317959499"/>
@@ -3568,7 +3594,7 @@
   <nd ref="6445438068"/>
   <tag k="highway" v="track"/>
  </way>
- <way id="463095592" visible="true" version="3" changeset="58472246" timestamp="2018-04-27T11:01:41Z" user="Mannivu" uid="1950277">
+ <way id="463095592" visible="true" version="4" changeset="92644358" timestamp="2020-10-17T23:52:48Z" user="dega180" uid="454306">
   <nd ref="3312872623"/>
   <nd ref="3328926417"/>
   <nd ref="3312872621"/>
@@ -3584,6 +3610,7 @@
   <nd ref="4584071228"/>
   <nd ref="4584071229"/>
   <nd ref="4584071230"/>
+  <nd ref="8017643484"/>
   <nd ref="4584071231"/>
   <nd ref="4584071232"/>
   <nd ref="4584071221"/>
@@ -3887,10 +3914,11 @@
   <tag k="tunnel" v="yes"/>
   <tag k="waterway" v="ditch"/>
  </way>
- <way id="636536236" visible="true" version="2" changeset="68794851" timestamp="2019-04-02T13:51:46Z" user="Micael Camozzi" uid="2557267">
+ <way id="636536236" visible="true" version="3" changeset="92644358" timestamp="2020-10-17T23:52:48Z" user="dega180" uid="454306">
   <nd ref="3334923220"/>
   <nd ref="2317959500"/>
   <nd ref="6002498783"/>
+  <nd ref="4439067566"/>
   <nd ref="6002498784"/>
   <nd ref="6002499685"/>
   <nd ref="6002499686"/>
@@ -3994,7 +4022,7 @@
   <tag k="highway" v="cycleway"/>
   <tag k="layer" v="1"/>
  </way>
- <way id="687575231" visible="true" version="1" changeset="69843334" timestamp="2019-05-03T13:11:50Z" user="lorenzo23622" uid="476483">
+ <way id="687575231" visible="true" version="2" changeset="92644358" timestamp="2020-10-17T23:52:48Z" user="dega180" uid="454306">
   <nd ref="3623857116"/>
   <nd ref="6445438049"/>
   <nd ref="6445438082"/>
@@ -4017,8 +4045,9 @@
   <nd ref="4584071218"/>
   <nd ref="4584071219"/>
   <nd ref="4584071220"/>
-  <tag k="highway" v="unclassified"/>
+  <tag k="highway" v="service"/>
   <tag k="maxspeed" v="50"/>
+  <tag k="service" v="driveway"/>
  </way>
  <way id="687575232" visible="true" version="1" changeset="69843334" timestamp="2019-05-03T13:11:50Z" user="lorenzo23622" uid="476483">
   <nd ref="6445438063"/>
@@ -4186,6 +4215,38 @@
   <tag k="oneway" v="yes"/>
   <tag k="ref" v="SP11var"/>
   <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="860250905" visible="true" version="1" changeset="92644358" timestamp="2020-10-17T23:52:48Z" user="dega180" uid="454306">
+  <nd ref="4584071220"/>
+  <nd ref="8017643476"/>
+  <nd ref="8017643477"/>
+  <nd ref="8017643478"/>
+  <nd ref="8017643479"/>
+  <nd ref="8017643480"/>
+  <nd ref="8017643481"/>
+  <nd ref="8017643482"/>
+  <nd ref="8017643483"/>
+  <nd ref="8017643484"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
+ </way>
+ <way id="860251812" visible="true" version="1" changeset="92644475" timestamp="2020-10-18T00:03:38Z" user="dega180" uid="454306">
+  <nd ref="8017677498"/>
+  <nd ref="1394760039"/>
+  <nd ref="8017677499"/>
+  <nd ref="8017677500"/>
+  <nd ref="8017677501"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="860251813" visible="true" version="1" changeset="92644475" timestamp="2020-10-18T00:03:38Z" user="dega180" uid="454306">
+  <nd ref="8017677502"/>
+  <nd ref="8017677503"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="860251814" visible="true" version="1" changeset="92644475" timestamp="2020-10-18T00:03:38Z" user="dega180" uid="454306">
+  <nd ref="8017677504"/>
+  <nd ref="8017677505"/>
+  <tag k="highway" v="residential"/>
  </way>
  <relation id="43893" visible="true" version="69" changeset="65915268" timestamp="2018-12-31T15:21:32Z" user="fayor" uid="743479">
   <member type="way" ref="323021234" role="outer"/>
@@ -5030,7 +5091,7 @@
   <tag k="building" v="residential"/>
   <tag k="type" v="multipolygon"/>
  </relation>
- <relation id="6780651" visible="true" version="37" changeset="85139777" timestamp="2020-05-13T10:45:43Z" user="gigi2037" uid="616481">
+ <relation id="6780651" visible="true" version="38" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306">
   <member type="way" ref="107052224" role=""/>
   <member type="way" ref="107052180" role=""/>
   <member type="way" ref="38845337" role=""/>
@@ -5197,7 +5258,6 @@
   <member type="way" ref="458939193" role=""/>
   <member type="way" ref="458939185" role=""/>
   <member type="way" ref="458939190" role=""/>
-  <member type="way" ref="458939186" role=""/>
   <member type="way" ref="761476566" role=""/>
   <member type="way" ref="458939192" role=""/>
   <member type="way" ref="458939189" role=""/>
@@ -5322,7 +5382,7 @@
   <tag k="route" v="road"/>
   <tag k="type" v="route"/>
  </relation>
- <relation id="6782208" visible="true" version="44" changeset="87720126" timestamp="2020-07-08T16:21:46Z" user="Mannivu" uid="1950277">
+ <relation id="6782208" visible="true" version="46" changeset="91841154" timestamp="2020-10-01T18:20:37Z" user="Mannivu" uid="1950277">
   <member type="way" ref="285591085" role=""/>
   <member type="way" ref="256114733" role=""/>
   <member type="way" ref="172687416" role=""/>
@@ -5469,7 +5529,9 @@
   <member type="way" ref="168832964" role=""/>
   <member type="way" ref="168832962" role=""/>
   <member type="way" ref="168832963" role=""/>
-  <member type="way" ref="225033830" role=""/>
+  <member type="way" ref="225033831" role=""/>
+  <member type="way" ref="853996836" role=""/>
+  <member type="way" ref="853996837" role=""/>
   <member type="way" ref="609346404" role=""/>
   <member type="way" ref="447086127" role=""/>
   <member type="way" ref="447086130" role=""/>
@@ -5479,11 +5541,9 @@
   <member type="way" ref="206488777" role=""/>
   <member type="way" ref="206488778" role=""/>
   <member type="way" ref="314875560" role=""/>
+  <member type="way" ref="847236508" role=""/>
   <member type="way" ref="240595471" role=""/>
-  <member type="way" ref="240487465" role=""/>
   <member type="way" ref="710628304" role=""/>
-  <member type="way" ref="710628303" role=""/>
-  <member type="way" ref="710628305" role=""/>
   <member type="way" ref="710628302" role=""/>
   <member type="way" ref="457425264" role=""/>
   <member type="way" ref="180789951" role=""/>
