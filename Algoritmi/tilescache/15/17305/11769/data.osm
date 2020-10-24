@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (1298880 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="45.1355552" minlon="10.1184082" maxlat="45.1433047" maxlon="10.1293945"/>
+ <node id="335991704" visible="true" version="2" changeset="830645" timestamp="2009-01-24T17:46:02Z" user="Diego Guidotti" uid="1700" lat="45.1417585" lon="10.1175243"/>
+ <node id="495078976" visible="true" version="2" changeset="59560971" timestamp="2018-06-05T08:28:44Z" user="pigio66" uid="7507474" lat="45.1422316" lon="10.1187858"/>
+ <node id="495078989" visible="true" version="2" changeset="59560971" timestamp="2018-06-05T08:28:44Z" user="pigio66" uid="7507474" lat="45.1413847" lon="10.1187961"/>
+ <node id="495078992" visible="true" version="2" changeset="59560971" timestamp="2018-06-05T08:28:44Z" user="pigio66" uid="7507474" lat="45.1402378" lon="10.1185431"/>
+ <node id="495078997" visible="true" version="2" changeset="59560971" timestamp="2018-06-05T08:28:44Z" user="pigio66" uid="7507474" lat="45.1420115" lon="10.1202464"/>
+ <node id="495079000" visible="true" version="2" changeset="59560971" timestamp="2018-06-05T08:28:44Z" user="pigio66" uid="7507474" lat="45.1423726" lon="10.1204147"/>
+ <node id="495079005" visible="true" version="2" changeset="59560971" timestamp="2018-06-05T08:28:44Z" user="pigio66" uid="7507474" lat="45.1415596" lon="10.1185500"/>
+ <node id="495079013" visible="true" version="2" changeset="59560971" timestamp="2018-06-05T08:28:44Z" user="pigio66" uid="7507474" lat="45.1421777" lon="10.1212691"/>
+ <node id="495079017" visible="true" version="2" changeset="59560971" timestamp="2018-06-05T08:28:44Z" user="pigio66" uid="7507474" lat="45.1400424" lon="10.1206022"/>
+ <node id="1193624916" visible="true" version="2" changeset="59560971" timestamp="2018-06-05T08:28:44Z" user="pigio66" uid="7507474" lat="45.1360638" lon="10.1217497"/>
+ <node id="5665972820" visible="true" version="1" changeset="59560971" timestamp="2018-06-05T08:28:39Z" user="pigio66" uid="7507474" lat="45.1389320" lon="10.1340443"/>
+ <node id="5665973322" visible="true" version="1" changeset="59560971" timestamp="2018-06-05T08:28:39Z" user="pigio66" uid="7507474" lat="45.1401864" lon="10.1267558"/>
+ <node id="5665973323" visible="true" version="1" changeset="59560971" timestamp="2018-06-05T08:28:39Z" user="pigio66" uid="7507474" lat="45.1411835" lon="10.1209586"/>
+ <node id="5665973324" visible="true" version="1" changeset="59560971" timestamp="2018-06-05T08:28:39Z" user="pigio66" uid="7507474" lat="45.1412854" lon="10.1203399"/>
+ <node id="5665973325" visible="true" version="1" changeset="59560971" timestamp="2018-06-05T08:28:39Z" user="pigio66" uid="7507474" lat="45.1411404" lon="10.1201844"/>
+ <node id="5665973326" visible="true" version="1" changeset="59560971" timestamp="2018-06-05T08:28:39Z" user="pigio66" uid="7507474" lat="45.1413674" lon="10.1188486"/>
+ <node id="5665973327" visible="true" version="1" changeset="59560971" timestamp="2018-06-05T08:28:39Z" user="pigio66" uid="7507474" lat="45.1414885" lon="10.1187682"/>
+ <node id="5665973328" visible="true" version="1" changeset="59560971" timestamp="2018-06-05T08:28:39Z" user="pigio66" uid="7507474" lat="45.1415718" lon="10.1186823"/>
+ <node id="5665973329" visible="true" version="1" changeset="59560971" timestamp="2018-06-05T08:28:39Z" user="pigio66" uid="7507474" lat="45.1415912" lon="10.1185611"/>
+ <node id="5665973336" visible="true" version="1" changeset="59560971" timestamp="2018-06-05T08:28:39Z" user="pigio66" uid="7507474" lat="45.1336919" lon="10.1215886"/>
+ <node id="6695822265" visible="true" version="1" changeset="73171273" timestamp="2019-08-08T21:01:12Z" user="Benny4L" uid="647382" lat="45.1337499" lon="10.1215925"/>
+ <node id="7824111346" visible="true" version="1" changeset="89592822" timestamp="2020-08-18T19:24:58Z" user="fedc" uid="602784" lat="45.1412101" lon="10.1192983">
+  <tag k="name" v="Cà degli Alemanni"/>
+  <tag k="place" v="farm"/>
+  <tag k="wikidata" v="Q98458385"/>
+ </node>
+ <way id="40764529" visible="true" version="4" changeset="89592822" timestamp="2020-08-18T19:24:58Z" user="fedc" uid="602784">
+  <nd ref="495078992"/>
+  <nd ref="495078989"/>
+  <nd ref="495079005"/>
+  <nd ref="5665973329"/>
+  <nd ref="495078976"/>
+  <nd ref="495078997"/>
+  <nd ref="495079000"/>
+  <nd ref="495079013"/>
+  <nd ref="5665973323"/>
+  <nd ref="495079017"/>
+  <nd ref="495078992"/>
+  <tag k="it:lombardia:ctrn:cascina:CS_ID" v="2259"/>
+  <tag k="landuse" v="farmyard"/>
+ </way>
+ <way id="594101538" visible="true" version="1" changeset="59560971" timestamp="2018-06-05T08:28:42Z" user="pigio66" uid="7507474">
+  <nd ref="5665972820"/>
+  <nd ref="5665973322"/>
+  <nd ref="5665973323"/>
+  <nd ref="5665973324"/>
+  <nd ref="5665973325"/>
+  <nd ref="5665973326"/>
+  <nd ref="5665973327"/>
+  <nd ref="5665973328"/>
+  <nd ref="5665973329"/>
+  <nd ref="335991704"/>
+  <tag k="highway" v="track"/>
+ </way>
+ <way id="594101540" visible="true" version="2" changeset="73171273" timestamp="2019-08-08T21:01:12Z" user="Benny4L" uid="647382">
+  <nd ref="5665973336"/>
+  <nd ref="6695822265"/>
+  <nd ref="1193624916"/>
+  <tag k="highway" v="track"/>
+ </way>
+</osm>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1912842 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3578568 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3289787" minlon="9.8657227" maxlat="45.3367019" maxlon="9.8767090"/>
  <node id="264358828" visible="true" version="3" changeset="42542698" timestamp="2016-09-30T13:41:21Z" user="fedc" uid="602784" lat="45.3244084" lon="9.8776014"/>
  <node id="264358845" visible="true" version="3" changeset="42542698" timestamp="2016-09-30T13:41:21Z" user="fedc" uid="602784" lat="45.3248800" lon="9.8778409"/>
@@ -1679,16 +1679,17 @@
   <tag k="natural" v="water"/>
   <tag k="water" v="canal"/>
  </way>
- <relation id="2250491" visible="true" version="31" changeset="75318682" timestamp="2019-10-05T13:35:17Z" user="astraspera" uid="2653653">
+ <relation id="2250491" visible="true" version="32" changeset="90474198" timestamp="2020-09-06T09:31:17Z" user="Francoerbi41" uid="4982687">
   <member type="node" ref="971083416" role=""/>
   <member type="way" ref="168994659" role=""/>
   <member type="way" ref="106951340" role=""/>
   <member type="way" ref="731899382" role=""/>
+  <member type="way" ref="186923820" role=""/>
   <member type="way" ref="446870764" role=""/>
   <member type="way" ref="446870765" role=""/>
   <member type="way" ref="446866552" role=""/>
   <member type="way" ref="446866551" role=""/>
-  <member type="way" ref="186923820" role=""/>
+  <member type="way" ref="168997671" role=""/>
   <member type="way" ref="168996607" role=""/>
   <member type="way" ref="168996608" role=""/>
   <member type="way" ref="168994661" role=""/>
@@ -1706,18 +1707,18 @@
   <member type="way" ref="168994665" role=""/>
   <member type="way" ref="106951330" role=""/>
   <member type="way" ref="106951310" role=""/>
-  <member type="way" ref="168997659" role=""/>
-  <member type="way" ref="106312881" role=""/>
-  <member type="way" ref="168997657" role=""/>
-  <member type="way" ref="168997671" role=""/>
+  <member type="way" ref="169003979" role=""/>
+  <member type="way" ref="169003990" role=""/>
+  <member type="way" ref="169003989" role=""/>
+  <member type="way" ref="106306890" role=""/>
+  <member type="way" ref="26673735" role=""/>
   <member type="way" ref="169001945" role=""/>
   <member type="way" ref="169001946" role=""/>
   <member type="way" ref="169001940" role=""/>
-  <member type="way" ref="26673735" role=""/>
-  <member type="way" ref="106306890" role=""/>
-  <member type="way" ref="169003989" role=""/>
-  <member type="way" ref="169003990" role=""/>
-  <member type="way" ref="169003979" role=""/>
+  <member type="way" ref="168997659" role=""/>
+  <member type="way" ref="844716687" role=""/>
+  <member type="way" ref="106312881" role=""/>
+  <member type="way" ref="168997657" role=""/>
   <member type="way" ref="169003987" role=""/>
   <member type="way" ref="169003988" role=""/>
   <member type="way" ref="83421631" role=""/>
@@ -1758,7 +1759,7 @@
   <tag k="route" v="bicycle"/>
   <tag k="type" v="route"/>
  </relation>
- <relation id="6769829" visible="true" version="28" changeset="87655531" timestamp="2020-07-07T12:32:32Z" user="LuSirto" uid="506470">
+ <relation id="6769829" visible="true" version="29" changeset="91244352" timestamp="2020-09-21T18:22:04Z" user="digt" uid="1628387">
   <member type="way" ref="49423061" role=""/>
   <member type="way" ref="49423051" role=""/>
   <member type="way" ref="54602435" role=""/>
@@ -1786,6 +1787,8 @@
   <member type="way" ref="192395349" role=""/>
   <member type="way" ref="192395348" role=""/>
   <member type="way" ref="91842950" role=""/>
+  <member type="way" ref="849894669" role=""/>
+  <member type="way" ref="849894668" role=""/>
   <member type="way" ref="162401301" role=""/>
   <member type="way" ref="27248158" role=""/>
   <member type="way" ref="27248155" role=""/>

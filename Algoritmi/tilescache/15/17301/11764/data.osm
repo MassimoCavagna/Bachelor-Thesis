@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (753655 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="45.1742925" minlon="10.0744629" maxlat="45.1820368" maxlon="10.0854492"/>
+ <node id="838971867" visible="true" version="1" changeset="5356498" timestamp="2010-07-30T17:06:08Z" user="zaio73" uid="123815" lat="45.1848939" lon="10.0858122"/>
+ <node id="838971874" visible="true" version="1" changeset="5356498" timestamp="2010-07-30T17:06:08Z" user="zaio73" uid="123815" lat="45.1837373" lon="10.0854254"/>
+ <node id="838971883" visible="true" version="1" changeset="5356498" timestamp="2010-07-30T17:06:08Z" user="zaio73" uid="123815" lat="45.1747336" lon="10.0824018"/>
+ <node id="838971890" visible="true" version="2" changeset="55324319" timestamp="2018-01-10T14:49:57Z" user="S_Am" uid="7360355" lat="45.1707359" lon="10.0813069"/>
+ <node id="838971894" visible="true" version="1" changeset="5356498" timestamp="2010-07-30T17:06:09Z" user="zaio73" uid="123815" lat="45.1707543" lon="10.0812787"/>
+ <node id="838971897" visible="true" version="1" changeset="5356498" timestamp="2010-07-30T17:06:09Z" user="zaio73" uid="123815" lat="45.1818927" lon="10.0847820"/>
+ <node id="838971901" visible="true" version="1" changeset="5356498" timestamp="2010-07-30T17:06:09Z" user="zaio73" uid="123815" lat="45.1862365" lon="10.0862510"/>
+ <node id="838971908" visible="true" version="1" changeset="5356498" timestamp="2010-07-30T17:06:09Z" user="zaio73" uid="123815" lat="45.1711708" lon="10.0811411"/>
+ <node id="838971922" visible="true" version="1" changeset="5356498" timestamp="2010-07-30T17:06:10Z" user="zaio73" uid="123815" lat="45.1786571" lon="10.0836775"/>
+ <node id="838971925" visible="true" version="1" changeset="5356498" timestamp="2010-07-30T17:06:10Z" user="zaio73" uid="123815" lat="45.1859166" lon="10.0861803"/>
+ <node id="838971932" visible="true" version="1" changeset="5356498" timestamp="2010-07-30T17:06:10Z" user="zaio73" uid="123815" lat="45.1710406" lon="10.0811225"/>
+ <node id="838971945" visible="true" version="1" changeset="5356498" timestamp="2010-07-30T17:06:11Z" user="zaio73" uid="123815" lat="45.1769278" lon="10.0831196"/>
+ <node id="838971948" visible="true" version="1" changeset="5356498" timestamp="2010-07-30T17:06:11Z" user="zaio73" uid="123815" lat="45.1854294" lon="10.0860353"/>
+ <node id="838971954" visible="true" version="1" changeset="5356498" timestamp="2010-07-30T17:06:11Z" user="zaio73" uid="123815" lat="45.1708881" lon="10.0811523"/>
+ <node id="5849520750" visible="true" version="1" changeset="61895473" timestamp="2018-08-22T16:45:14Z" user="S_Am" uid="7360355" lat="45.1707490" lon="10.0812868"/>
+ <node id="6227506944" visible="true" version="1" changeset="66541228" timestamp="2019-01-22T15:23:52Z" user="S_Am" uid="7360355" lat="45.1744158" lon="10.0821921"/>
+ <node id="6227506945" visible="true" version="1" changeset="66541228" timestamp="2019-01-22T15:23:52Z" user="S_Am" uid="7360355" lat="45.1753461" lon="10.0825140"/>
+ <node id="6227506946" visible="true" version="1" changeset="66541228" timestamp="2019-01-22T15:23:52Z" user="S_Am" uid="7360355" lat="45.1799216" lon="10.0841930"/>
+ <node id="6227506947" visible="true" version="1" changeset="66541228" timestamp="2019-01-22T15:23:52Z" user="S_Am" uid="7360355" lat="45.1809123" lon="10.0845042"/>
+ <node id="6227506948" visible="true" version="1" changeset="66541228" timestamp="2019-01-22T15:23:52Z" user="S_Am" uid="7360355" lat="45.1819335" lon="10.0848797"/>
+ <way id="552153457" visible="true" version="3" changeset="70389920" timestamp="2019-05-18T15:29:20Z" user="IlBano" uid="1720269">
+  <nd ref="838971890"/>
+  <nd ref="5849520750"/>
+  <nd ref="838971894"/>
+  <nd ref="838971954"/>
+  <nd ref="838971932"/>
+  <nd ref="838971908"/>
+  <nd ref="838971883"/>
+  <nd ref="838971945"/>
+  <nd ref="838971922"/>
+  <nd ref="838971897"/>
+  <nd ref="838971874"/>
+  <nd ref="838971867"/>
+  <nd ref="838971948"/>
+  <nd ref="838971925"/>
+  <nd ref="838971901"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="name" v="Via Achille Grandi"/>
+ </way>
+ <way id="665342091" visible="true" version="1" changeset="66541228" timestamp="2019-01-22T15:23:53Z" user="S_Am" uid="7360355">
+  <nd ref="6227506944"/>
+  <nd ref="6227506945"/>
+  <tag k="natural" v="tree_row"/>
+ </way>
+ <way id="665342092" visible="true" version="1" changeset="66541228" timestamp="2019-01-22T15:23:53Z" user="S_Am" uid="7360355">
+  <nd ref="6227506946"/>
+  <nd ref="6227506947"/>
+  <nd ref="6227506948"/>
+  <tag k="natural" v="tree_row"/>
+ </way>
+</osm>

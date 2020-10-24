@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (861171 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1991871 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4601306" minlon="9.6459961" maxlat="45.4678360" maxlon="9.6569824"/>
  <node id="307111698" visible="true" version="2" changeset="3053742" timestamp="2009-11-07T07:53:26Z" user="Luigi62" uid="90148" lat="45.4539448" lon="9.6504205"/>
  <node id="307114673" visible="true" version="2" changeset="3053742" timestamp="2009-11-07T07:53:26Z" user="Luigi62" uid="90148" lat="45.4809082" lon="9.6188961"/>
@@ -1762,7 +1762,7 @@
   <nd ref="6127952876"/>
   <tag k="highway" v="track"/>
  </way>
- <relation id="45021" visible="true" version="10" changeset="74828239" timestamp="2019-09-23T22:38:47Z" user="Mannivu" uid="1950277">
+ <relation id="45021" visible="true" version="11" changeset="92753959" timestamp="2020-10-20T08:51:03Z" user="Mannivu" uid="1950277">
   <member type="way" ref="27981288" role="outer"/>
   <member type="way" ref="27981607" role="outer"/>
   <member type="way" ref="27981883" role="outer"/>
@@ -1784,6 +1784,7 @@
   <tag k="source:population" v="http://www.comuni-italiani.it/016/053/statistiche/"/>
   <tag k="type" v="boundary"/>
   <tag k="wikidata" v="Q100145"/>
+  <tag k="wikimedia_commons" v="Category:Caravaggio_(Italy)"/>
   <tag k="wikipedia" v="it:Caravaggio (Italia)"/>
  </relation>
  <relation id="45063" visible="true" version="7" changeset="44130724" timestamp="2016-12-03T07:02:07Z" user="nyuriks" uid="339581">

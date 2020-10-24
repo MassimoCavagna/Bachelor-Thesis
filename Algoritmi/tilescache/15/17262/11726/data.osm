@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (977789 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2771650 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4678360" minlon="9.6459961" maxlat="45.4755403" maxlon="9.6569824"/>
  <node id="287721153" visible="true" version="12" changeset="1098722" timestamp="2009-05-06T17:17:05Z" user="wiso" uid="30891" lat="45.4793239" lon="9.6487391"/>
  <node id="307111698" visible="true" version="2" changeset="3053742" timestamp="2009-11-07T07:53:26Z" user="Luigi62" uid="90148" lat="45.4539448" lon="9.6504205"/>
@@ -128,7 +128,6 @@
  <node id="558701204" visible="true" version="1" changeset="3053742" timestamp="2009-11-07T07:53:16Z" user="Luigi62" uid="90148" lat="45.4545127" lon="9.6502592"/>
  <node id="558701205" visible="true" version="1" changeset="3053742" timestamp="2009-11-07T07:53:16Z" user="Luigi62" uid="90148" lat="45.4543693" lon="9.6501552"/>
  <node id="1393594616" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:31Z" user="ilrobi" uid="22110" lat="45.4722091" lon="9.6447170"/>
- <node id="1393594617" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:31Z" user="ilrobi" uid="22110" lat="45.4729648" lon="9.6497154"/>
  <node id="1393594621" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:31Z" user="ilrobi" uid="22110" lat="45.4749539" lon="9.6484934"/>
  <node id="1393594623" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:31Z" user="ilrobi" uid="22110" lat="45.4751360" lon="9.6483668"/>
  <node id="1393594625" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:31Z" user="ilrobi" uid="22110" lat="45.4752669" lon="9.6483066"/>
@@ -187,7 +186,7 @@
  <node id="2971347964" visible="true" version="1" changeset="24252421" timestamp="2014-07-20T11:37:45Z" user="motopisolo" uid="2055277" lat="45.4707001" lon="9.6513412"/>
  <node id="2971347965" visible="true" version="1" changeset="24252421" timestamp="2014-07-20T11:37:45Z" user="motopisolo" uid="2055277" lat="45.4710873" lon="9.6510156"/>
  <node id="2971347966" visible="true" version="1" changeset="24252421" timestamp="2014-07-20T11:37:45Z" user="motopisolo" uid="2055277" lat="45.4718616" lon="9.6504635"/>
- <node id="2971347967" visible="true" version="1" changeset="24252421" timestamp="2014-07-20T11:37:45Z" user="motopisolo" uid="2055277" lat="45.4730602" lon="9.6496568"/>
+ <node id="2971347967" visible="true" version="2" changeset="92411684" timestamp="2020-10-13T11:03:58Z" user="Mannivu" uid="1950277" lat="45.4730687" lon="9.6496783"/>
  <node id="2971961060" visible="true" version="2" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4673650" lon="9.6496369"/>
  <node id="2971961061" visible="true" version="3" changeset="85332832" timestamp="2020-05-17T12:22:29Z" user="Mannivu" uid="1950277" lat="45.4669681" lon="9.6507016"/>
  <node id="2971961062" visible="true" version="2" changeset="85332832" timestamp="2020-05-17T12:22:29Z" user="Mannivu" uid="1950277" lat="45.4671503" lon="9.6518967"/>
@@ -699,6 +698,7 @@
  <node id="7528803174" visible="true" version="1" changeset="85332914" timestamp="2020-05-17T12:25:09Z" user="Mannivu" uid="1950277" lat="45.4670865" lon="9.6523808"/>
  <node id="7528803175" visible="true" version="1" changeset="85332914" timestamp="2020-05-17T12:25:09Z" user="Mannivu" uid="1950277" lat="45.4665651" lon="9.6525532"/>
  <node id="7528803176" visible="true" version="1" changeset="85332914" timestamp="2020-05-17T12:25:09Z" user="Mannivu" uid="1950277" lat="45.4655864" lon="9.6528746"/>
+ <node id="7980427737" visible="true" version="1" changeset="92033234" timestamp="2020-10-06T08:44:46Z" user="Mannivu" uid="1950277" lat="45.4760469" lon="9.6479277"/>
  <way id="27981628" visible="true" version="7" changeset="65337427" timestamp="2018-12-10T09:43:19Z" user="Mannivu" uid="1950277">
   <nd ref="307111698"/>
   <nd ref="558701205"/>
@@ -845,25 +845,7 @@
   <tag k="usage" v="branch"/>
   <tag k="voltage" v="3000"/>
  </way>
- <way id="125479754" visible="true" version="8" changeset="61127435" timestamp="2018-07-27T18:17:45Z" user="Mannivu" uid="1950277">
-  <nd ref="5790340039"/>
-  <nd ref="1393594652"/>
-  <nd ref="1393594634"/>
-  <nd ref="1393594633"/>
-  <nd ref="1393594632"/>
-  <nd ref="5111825939"/>
-  <nd ref="1393594631"/>
-  <nd ref="1393594629"/>
-  <nd ref="1393594628"/>
-  <nd ref="1393594625"/>
-  <nd ref="1393594623"/>
-  <nd ref="1393594621"/>
-  <nd ref="2971347967"/>
-  <nd ref="1393594617"/>
-  <tag k="highway" v="track"/>
-  <tag k="surface" v="dirt"/>
- </way>
- <way id="293529468" visible="true" version="1" changeset="24252421" timestamp="2014-07-20T11:37:45Z" user="motopisolo" uid="2055277">
+ <way id="293529468" visible="true" version="2" changeset="92411684" timestamp="2020-10-13T11:03:58Z" user="Mannivu" uid="1950277">
   <nd ref="2317748570"/>
   <nd ref="2971347952"/>
   <nd ref="2971347953"/>
@@ -881,7 +863,21 @@
   <nd ref="2971347965"/>
   <nd ref="2971347966"/>
   <nd ref="2971347967"/>
+  <nd ref="1393594621"/>
+  <nd ref="1393594623"/>
+  <nd ref="1393594625"/>
+  <nd ref="1393594628"/>
+  <nd ref="1393594629"/>
+  <nd ref="1393594631"/>
+  <nd ref="7980427737"/>
+  <nd ref="5111825939"/>
+  <nd ref="1393594632"/>
+  <nd ref="1393594633"/>
+  <nd ref="1393594634"/>
+  <nd ref="1393594652"/>
+  <nd ref="5790340039"/>
   <tag k="highway" v="track"/>
+  <tag k="surface" v="dirt"/>
  </way>
  <way id="293582852" visible="true" version="4" changeset="85332832" timestamp="2020-05-17T12:22:29Z" user="Mannivu" uid="1950277">
   <nd ref="2971961060"/>
@@ -1505,7 +1501,7 @@
   <nd ref="6127952876"/>
   <tag k="highway" v="track"/>
  </way>
- <relation id="45021" visible="true" version="10" changeset="74828239" timestamp="2019-09-23T22:38:47Z" user="Mannivu" uid="1950277">
+ <relation id="45021" visible="true" version="11" changeset="92753959" timestamp="2020-10-20T08:51:03Z" user="Mannivu" uid="1950277">
   <member type="way" ref="27981288" role="outer"/>
   <member type="way" ref="27981607" role="outer"/>
   <member type="way" ref="27981883" role="outer"/>
@@ -1527,6 +1523,7 @@
   <tag k="source:population" v="http://www.comuni-italiani.it/016/053/statistiche/"/>
   <tag k="type" v="boundary"/>
   <tag k="wikidata" v="Q100145"/>
+  <tag k="wikimedia_commons" v="Category:Caravaggio_(Italy)"/>
   <tag k="wikipedia" v="it:Caravaggio (Italia)"/>
  </relation>
  <relation id="45063" visible="true" version="7" changeset="44130724" timestamp="2016-12-03T07:02:07Z" user="nyuriks" uid="339581">

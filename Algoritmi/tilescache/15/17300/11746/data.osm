@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3438097 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (753655 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3135290" minlon="10.0634766" maxlat="45.3212544" maxlon="10.0744629"/>
  <node id="336472925" visible="true" version="2" changeset="11262141" timestamp="2012-04-11T08:59:18Z" user="dpe12" uid="207365" lat="45.3205413" lon="10.0723828"/>
  <node id="336472933" visible="true" version="2" changeset="11262141" timestamp="2012-04-11T08:59:17Z" user="dpe12" uid="207365" lat="45.3195361" lon="10.0722573"/>
@@ -273,7 +273,7 @@
   <tag k="landuse" v="cemetery"/>
   <tag k="name" v="Cimitero di Verolanuova"/>
  </way>
- <way id="158527919" visible="true" version="11" changeset="70632646" timestamp="2019-05-26T13:22:20Z" user="Piter00" uid="2168459">
+ <way id="158527919" visible="true" version="12" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="339102276"/>
   <nd ref="3528807662"/>
   <nd ref="1707108447"/>
@@ -287,7 +287,7 @@
   <nd ref="336472940"/>
   <nd ref="1711192639"/>
   <nd ref="1773052399"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="residential"/>
   <tag k="name" v="Via San Rocco"/>
   <tag k="oneway" v="no"/>
  </way>
@@ -693,22 +693,22 @@
   <tag k="waterway" v="stream"/>
   <tag k="width" v="1"/>
  </way>
- <way id="692585134" visible="true" version="1" changeset="70632646" timestamp="2019-05-26T13:22:19Z" user="Piter00" uid="2168459">
+ <way id="692585134" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="336472952"/>
   <nd ref="1768072116"/>
   <nd ref="336472955"/>
   <nd ref="336472957"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="unclassified"/>
   <tag k="name" v="Via San Rocco"/>
   <tag k="oneway" v="no"/>
  </way>
- <way id="692585135" visible="true" version="1" changeset="70632646" timestamp="2019-05-26T13:22:19Z" user="Piter00" uid="2168459">
+ <way id="692585135" visible="true" version="2" changeset="90795950" timestamp="2020-09-12T14:32:08Z" user="gianluca nigozza" uid="7645685">
   <nd ref="1773052399"/>
   <nd ref="336472944"/>
   <nd ref="336472949"/>
   <nd ref="336472952"/>
   <tag k="cycleway:right" v="lane"/>
-  <tag k="highway" v="tertiary"/>
+  <tag k="highway" v="unclassified"/>
   <tag k="name" v="Via San Rocco"/>
   <tag k="oneway" v="no"/>
  </way>

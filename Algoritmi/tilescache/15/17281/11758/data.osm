@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2167791 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3541484 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2207426" minlon="9.8547363" maxlat="45.2284806" maxlon="9.8657227"/>
  <node id="249617119" visible="true" version="14" changeset="6233567" timestamp="2010-10-30T21:32:12Z" user="ilrobi" uid="22110" lat="45.2332209" lon="9.8573296"/>
  <node id="249617121" visible="true" version="14" changeset="6032240" timestamp="2010-10-13T18:54:12Z" user="ilrobi" uid="22110" lat="45.2291402" lon="9.8627863"/>
@@ -120,7 +120,7 @@
  <node id="7395444771" visible="true" version="1" changeset="83432801" timestamp="2020-04-12T16:33:45Z" user="Yiyi (itwikipedia)" uid="1404750" lat="45.2243201" lon="9.8659769"/>
  <node id="7395444772" visible="true" version="1" changeset="83432801" timestamp="2020-04-12T16:33:45Z" user="Yiyi (itwikipedia)" uid="1404750" lat="45.2242540" lon="9.8657896"/>
  <node id="7395444773" visible="true" version="1" changeset="83432801" timestamp="2020-04-12T16:33:45Z" user="Yiyi (itwikipedia)" uid="1404750" lat="45.2244296" lon="9.8656645"/>
- <way id="83530685" visible="true" version="3" changeset="42764575" timestamp="2016-10-09T23:19:23Z" user="fedc" uid="602784">
+ <way id="83530685" visible="true" version="5" changeset="92269338" timestamp="2020-10-10T09:31:41Z" user="Alecs01" uid="1476146">
   <nd ref="946961026"/>
   <nd ref="1115915447"/>
   <nd ref="1115915400"/>
@@ -186,6 +186,7 @@
   <nd ref="972661208"/>
   <nd ref="972661490"/>
   <tag k="highway" v="unclassified"/>
+  <tag k="name" v="Via Galileo Galilei"/>
  </way>
  <way id="96267352" visible="true" version="2" changeset="42764575" timestamp="2016-10-09T23:19:25Z" user="fedc" uid="602784">
   <nd ref="1115915762"/>

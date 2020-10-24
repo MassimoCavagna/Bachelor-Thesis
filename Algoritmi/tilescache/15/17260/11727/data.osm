@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (2923455 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="45.4601306" minlon="9.6240234" maxlat="45.4678360" maxlon="9.6350098"/>
+ <node id="434375812" visible="true" version="3" changeset="8973597" timestamp="2011-08-10T07:11:03Z" user="ilrobi" uid="22110" lat="45.4686252" lon="9.6238507"/>
+ <node id="529115061" visible="true" version="2" changeset="66274917" timestamp="2019-01-13T14:16:29Z" user="Mannivu" uid="1950277" lat="45.4662459" lon="9.6262537"/>
+ <node id="529115062" visible="true" version="1" changeset="2820665" timestamp="2009-10-11T22:51:47Z" user="wiso" uid="30891" lat="45.4662724" lon="9.6262264"/>
+ <node id="529115063" visible="true" version="1" changeset="2820665" timestamp="2009-10-11T22:51:47Z" user="wiso" uid="30891" lat="45.4663808" lon="9.6261835"/>
+ <node id="529115064" visible="true" version="1" changeset="2820665" timestamp="2009-10-11T22:51:47Z" user="wiso" uid="30891" lat="45.4666878" lon="9.6261234"/>
+ <node id="529115065" visible="true" version="2" changeset="38160020" timestamp="2016-03-30T07:29:30Z" user="morsi" uid="139580" lat="45.4674420" lon="9.6260451"/>
+ <node id="529115066" visible="true" version="1" changeset="2820665" timestamp="2009-10-11T22:51:48Z" user="wiso" uid="30891" lat="45.4675124" lon="9.6260204"/>
+ <node id="529115067" visible="true" version="1" changeset="2820665" timestamp="2009-10-11T22:51:48Z" user="wiso" uid="30891" lat="45.4685839" lon="9.6256857"/>
+ <node id="529115068" visible="true" version="3" changeset="38160020" timestamp="2016-03-30T07:29:30Z" user="morsi" uid="139580" lat="45.4687930" lon="9.6254874"/>
+ <node id="529115070" visible="true" version="2" changeset="8973597" timestamp="2011-08-10T07:11:03Z" user="ilrobi" uid="22110" lat="45.4687884" lon="9.6252888"/>
+ <node id="529115075" visible="true" version="2" changeset="8973597" timestamp="2011-08-10T07:11:03Z" user="ilrobi" uid="22110" lat="45.4685173" lon="9.6232525"/>
+ <node id="568131123" visible="true" version="3" changeset="8975021" timestamp="2011-08-10T10:27:10Z" user="ilrobi" uid="22110" lat="45.4557004" lon="9.6347453"/>
+ <node id="568131131" visible="true" version="2" changeset="8974261" timestamp="2011-08-10T08:48:31Z" user="ilrobi" uid="22110" lat="45.4553672" lon="9.6350084"/>
+ <node id="568131135" visible="true" version="2" changeset="8975021" timestamp="2011-08-10T10:27:10Z" user="ilrobi" uid="22110" lat="45.4508994" lon="9.6392945"/>
+ <node id="568131141" visible="true" version="2" changeset="8974261" timestamp="2011-08-10T08:48:31Z" user="ilrobi" uid="22110" lat="45.4567524" lon="9.6339356"/>
+ <node id="1393384256" visible="true" version="1" changeset="8973597" timestamp="2011-08-10T07:10:41Z" user="ilrobi" uid="22110" lat="45.4659235" lon="9.6239223"/>
+ <node id="1393384260" visible="true" version="2" changeset="65822595" timestamp="2018-12-27T19:20:17Z" user="Antonio Frabetti" uid="9261563" lat="45.4659305" lon="9.6236414"/>
+ <node id="1393384262" visible="true" version="1" changeset="8973597" timestamp="2011-08-10T07:10:42Z" user="ilrobi" uid="22110" lat="45.4659573" lon="9.6242632"/>
+ <node id="1393384268" visible="true" version="1" changeset="8973597" timestamp="2011-08-10T07:10:42Z" user="ilrobi" uid="22110" lat="45.4660249" lon="9.6247901"/>
+ <node id="1393384359" visible="true" version="1" changeset="8973597" timestamp="2011-08-10T07:10:45Z" user="ilrobi" uid="22110" lat="45.4674663" lon="9.6228534"/>
+ <node id="1393384360" visible="true" version="1" changeset="8973597" timestamp="2011-08-10T07:10:45Z" user="ilrobi" uid="22110" lat="45.4675158" lon="9.6232435"/>
+ <node id="1393384364" visible="true" version="1" changeset="8973597" timestamp="2011-08-10T07:10:45Z" user="ilrobi" uid="22110" lat="45.4676209" lon="9.6239421"/>
+ <node id="1393384366" visible="true" version="1" changeset="8973597" timestamp="2011-08-10T07:10:45Z" user="ilrobi" uid="22110" lat="45.4676533" lon="9.6240258"/>
+ <node id="1393384371" visible="true" version="1" changeset="8973597" timestamp="2011-08-10T07:10:46Z" user="ilrobi" uid="22110" lat="45.4676935" lon="9.6240280"/>
+ <node id="1393384395" visible="true" version="1" changeset="8973597" timestamp="2011-08-10T07:10:46Z" user="ilrobi" uid="22110" lat="45.4685435" lon="9.6231298"/>
+ <node id="1393384398" visible="true" version="1" changeset="8973597" timestamp="2011-08-10T07:10:47Z" user="ilrobi" uid="22110" lat="45.4686051" lon="9.6237394"/>
+ <node id="1393384399" visible="true" version="1" changeset="8973597" timestamp="2011-08-10T07:10:47Z" user="ilrobi" uid="22110" lat="45.4687099" lon="9.6255829"/>
+ <node id="1393384400" visible="true" version="1" changeset="8973597" timestamp="2011-08-10T07:10:47Z" user="ilrobi" uid="22110" lat="45.4687182" lon="9.6246699"/>
+ <node id="1393384402" visible="true" version="1" changeset="8973597" timestamp="2011-08-10T07:10:47Z" user="ilrobi" uid="22110" lat="45.4687693" lon="9.6251203"/>
+ <node id="1393473966" visible="true" version="3" changeset="68350355" timestamp="2019-03-20T19:48:42Z" user="Mannivu" uid="1950277" lat="45.4724823" lon="9.6167997"/>
+ <node id="1393473972" visible="true" version="3" changeset="68350355" timestamp="2019-03-20T19:48:42Z" user="Mannivu" uid="1950277" lat="45.4727840" lon="9.6179296"/>
+ <node id="1393473974" visible="true" version="3" changeset="68350355" timestamp="2019-03-20T19:48:42Z" user="Mannivu" uid="1950277" lat="45.4729207" lon="9.6183698"/>
+ <node id="1393503554" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:22Z" user="ilrobi" uid="22110" lat="45.4582563" lon="9.6327980"/>
+ <node id="1393503557" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:22Z" user="ilrobi" uid="22110" lat="45.4584303" lon="9.6326542"/>
+ <node id="1393503560" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:22Z" user="ilrobi" uid="22110" lat="45.4585589" lon="9.6324888"/>
+ <node id="1393503562" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:22Z" user="ilrobi" uid="22110" lat="45.4587305" lon="9.6322766"/>
+ <node id="1393503564" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:22Z" user="ilrobi" uid="22110" lat="45.4588566" lon="9.6321292"/>
+ <node id="1393503570" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:22Z" user="ilrobi" uid="22110" lat="45.4589978" lon="9.6319889"/>
+ <node id="1393503572" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:22Z" user="ilrobi" uid="22110" lat="45.4596687" lon="9.6314963"/>
+ <node id="1393503574" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:23Z" user="ilrobi" uid="22110" lat="45.4602589" lon="9.6311691"/>
+ <node id="1393503576" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:23Z" user="ilrobi" uid="22110" lat="45.4607356" lon="9.6308778"/>
+ <node id="1393503582" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:23Z" user="ilrobi" uid="22110" lat="45.4614040" lon="9.6303708"/>
+ <node id="1393503587" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:23Z" user="ilrobi" uid="22110" lat="45.4621278" lon="9.6298314"/>
+ <node id="1393503594" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:23Z" user="ilrobi" uid="22110" lat="45.4628063" lon="9.6292992"/>
+ <node id="1393503597" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:24Z" user="ilrobi" uid="22110" lat="45.4631720" lon="9.6290403"/>
+ <node id="1393503599" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:24Z" user="ilrobi" uid="22110" lat="45.4635704" lon="9.6287454"/>
+ <node id="1393503603" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:24Z" user="ilrobi" uid="22110" lat="45.4641530" lon="9.6282636"/>
+ <node id="1393503604" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:24Z" user="ilrobi" uid="22110" lat="45.4643509" lon="9.6281011"/>
+ <node id="1393503608" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:24Z" user="ilrobi" uid="22110" lat="45.4644027" lon="9.6280586"/>
+ <node id="1393503612" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:24Z" user="ilrobi" uid="22110" lat="45.4646322" lon="9.6292273"/>
+ <node id="1393503617" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:24Z" user="ilrobi" uid="22110" lat="45.4648541" lon="9.6276379"/>
+ <node id="1393503618" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:24Z" user="ilrobi" uid="22110" lat="45.4649323" lon="9.6304283"/>
+ <node id="1393503621" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:24Z" user="ilrobi" uid="22110" lat="45.4651063" lon="9.6311799"/>
+ <node id="1393503623" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:24Z" user="ilrobi" uid="22110" lat="45.4651896" lon="9.6318487"/>
+ <node id="1393503633" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:25Z" user="ilrobi" uid="22110" lat="45.4653131" lon="9.6329455"/>
+ <node id="1393503635" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:25Z" user="ilrobi" uid="22110" lat="45.4654367" lon="9.6339164"/>
+ <node id="1393503636" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:25Z" user="ilrobi" uid="22110" lat="45.4655401" lon="9.6269727"/>
+ <node id="1393503638" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:25Z" user="ilrobi" uid="22110" lat="45.4655527" lon="9.6344270"/>
+ <node id="1393503639" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:25Z" user="ilrobi" uid="22110" lat="45.4656486" lon="9.6348297"/>
+ <node id="1393503641" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:25Z" user="ilrobi" uid="22110" lat="45.4657520" lon="9.6350383"/>
+ <node id="1393503642" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:25Z" user="ilrobi" uid="22110" lat="45.4658377" lon="9.6354302"/>
+ <node id="1393503649" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:25Z" user="ilrobi" uid="22110" lat="45.4658528" lon="9.6370232"/>
+ <node id="1393503650" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:25Z" user="ilrobi" uid="22110" lat="45.4658680" lon="9.6357251"/>
+ <node id="1393503652" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:25Z" user="ilrobi" uid="22110" lat="45.4659285" lon="9.6368614"/>
+ <node id="1393503654" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:25Z" user="ilrobi" uid="22110" lat="45.4659436" lon="9.6363759"/>
+ <node id="1393503655" visible="true" version="1" changeset="8974261" timestamp="2011-08-10T08:48:25Z" user="ilrobi" uid="22110" lat="45.4659688" lon="9.6366384"/>
+ <node id="1393589906" visible="true" version="1" changeset="8975021" timestamp="2011-08-10T10:27:04Z" user="ilrobi" uid="22110" lat="45.4622836" lon="9.6282893"/>
+ <node id="1393589907" visible="true" version="1" changeset="8975021" timestamp="2011-08-10T10:27:04Z" user="ilrobi" uid="22110" lat="45.4623108" lon="9.6285246"/>
+ <node id="1393589908" visible="true" version="1" changeset="8975021" timestamp="2011-08-10T10:27:04Z" user="ilrobi" uid="22110" lat="45.4623704" lon="9.6286313"/>
+ <node id="1393589909" visible="true" version="1" changeset="8975021" timestamp="2011-08-10T10:27:04Z" user="ilrobi" uid="22110" lat="45.4624758" lon="9.6286580"/>
+ <node id="1393589910" visible="true" version="1" changeset="8975021" timestamp="2011-08-10T10:27:04Z" user="ilrobi" uid="22110" lat="45.4625915" lon="9.6286531"/>
+ <node id="1393589911" visible="true" version="1" changeset="8975021" timestamp="2011-08-10T10:27:04Z" user="ilrobi" uid="22110" lat="45.4627854" lon="9.6286313"/>
+ <node id="1393589912" visible="true" version="1" changeset="8975021" timestamp="2011-08-10T10:27:04Z" user="ilrobi" uid="22110" lat="45.4629062" lon="9.6286458"/>
+ <node id="1393589914" visible="true" version="1" changeset="8975021" timestamp="2011-08-10T10:27:04Z" user="ilrobi" uid="22110" lat="45.4629742" lon="9.6287283"/>
+ <node id="1393589915" visible="true" version="1" changeset="8975021" timestamp="2011-08-10T10:27:04Z" user="ilrobi" uid="22110" lat="45.4630456" lon="9.6288956"/>
+ <node id="1393589916" visible="true" version="1" changeset="8975021" timestamp="2011-08-10T10:27:04Z" user="ilrobi" uid="22110" lat="45.4631148" lon="9.6290808"/>
+ <node id="1393594567" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:29Z" user="ilrobi" uid="22110" lat="45.4626511" lon="9.6443568"/>
+ <node id="1393594568" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:29Z" user="ilrobi" uid="22110" lat="45.4627163" lon="9.6390787"/>
+ <node id="1393594569" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:29Z" user="ilrobi" uid="22110" lat="45.4627353" lon="9.6392413"/>
+ <node id="1393594570" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:29Z" user="ilrobi" uid="22110" lat="45.4627652" lon="9.6389741"/>
+ <node id="1393594571" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:29Z" user="ilrobi" uid="22110" lat="45.4628141" lon="9.6441710"/>
+ <node id="1393594572" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:29Z" user="ilrobi" uid="22110" lat="45.4628358" lon="9.6389238"/>
+ <node id="1393594573" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:29Z" user="ilrobi" uid="22110" lat="45.4628494" lon="9.6396092"/>
+ <node id="1393594574" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:29Z" user="ilrobi" uid="22110" lat="45.4629146" lon="9.6398532"/>
+ <node id="1393594575" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:29Z" user="ilrobi" uid="22110" lat="45.4630395" lon="9.6403334"/>
+ <node id="1393594576" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:29Z" user="ilrobi" uid="22110" lat="45.4631047" lon="9.6406896"/>
+ <node id="1393594577" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:29Z" user="ilrobi" uid="22110" lat="45.4631264" lon="9.6415803"/>
+ <node id="1393594578" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:29Z" user="ilrobi" uid="22110" lat="45.4631346" lon="9.6414022"/>
+ <node id="1393594579" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:29Z" user="ilrobi" uid="22110" lat="45.4631563" lon="9.6410459"/>
+ <node id="1393594580" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:30Z" user="ilrobi" uid="22110" lat="45.4631590" lon="9.6412240"/>
+ <node id="1393594581" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:30Z" user="ilrobi" uid="22110" lat="45.4631590" lon="9.6417236"/>
+ <node id="1393594582" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:30Z" user="ilrobi" uid="22110" lat="45.4632867" lon="9.6386721"/>
+ <node id="1393594584" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:30Z" user="ilrobi" uid="22110" lat="45.4634388" lon="9.6434042"/>
+ <node id="1393594586" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:30Z" user="ilrobi" uid="22110" lat="45.4636099" lon="9.6431874"/>
+ <node id="1393594587" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:30Z" user="ilrobi" uid="22110" lat="45.4636153" lon="9.6429124"/>
+ <node id="1393594588" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:30Z" user="ilrobi" uid="22110" lat="45.4636506" lon="9.6430208"/>
+ <node id="1393594589" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:30Z" user="ilrobi" uid="22110" lat="45.4636615" lon="9.6431099"/>
+ <node id="1393594591" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:30Z" user="ilrobi" uid="22110" lat="45.4637092" lon="9.6269925"/>
+ <node id="1393594592" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:30Z" user="ilrobi" uid="22110" lat="45.4637945" lon="9.6383700"/>
+ <node id="1393594594" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:30Z" user="ilrobi" uid="22110" lat="45.4639960" lon="9.6269119"/>
+ <node id="1393594595" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:30Z" user="ilrobi" uid="22110" lat="45.4640390" lon="9.6381996"/>
+ <node id="1393594596" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:30Z" user="ilrobi" uid="22110" lat="45.4640547" lon="9.6269243"/>
+ <node id="1393594597" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:30Z" user="ilrobi" uid="22110" lat="45.4641068" lon="9.6269925"/>
+ <node id="1393594599" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:30Z" user="ilrobi" uid="22110" lat="45.4641416" lon="9.6271009"/>
+ <node id="1393594600" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:30Z" user="ilrobi" uid="22110" lat="45.4642328" lon="9.6274943"/>
+ <node id="1393594601" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:30Z" user="ilrobi" uid="22110" lat="45.4642915" lon="9.6278227"/>
+ <node id="1393594602" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:30Z" user="ilrobi" uid="22110" lat="45.4643133" lon="9.6380409"/>
+ <node id="1393594603" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:30Z" user="ilrobi" uid="22110" lat="45.4643154" lon="9.6279838"/>
+ <node id="1393594604" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:30Z" user="ilrobi" uid="22110" lat="45.4646392" lon="9.6379014"/>
+ <node id="1393594606" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:31Z" user="ilrobi" uid="22110" lat="45.4647614" lon="9.6378279"/>
+ <node id="1393594608" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:31Z" user="ilrobi" uid="22110" lat="45.4654431" lon="9.6373128"/>
+ <node id="1393594610" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:31Z" user="ilrobi" uid="22110" lat="45.4656115" lon="9.6372160"/>
+ <node id="1393594612" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:31Z" user="ilrobi" uid="22110" lat="45.4657555" lon="9.6371270"/>
+ <node id="2696206325" visible="true" version="1" changeset="20843212" timestamp="2014-03-01T11:24:06Z" user="Mannivu" uid="1950277" lat="45.4669140" lon="9.6160067"/>
+ <node id="2696206328" visible="true" version="1" changeset="20843212" timestamp="2014-03-01T11:24:06Z" user="Mannivu" uid="1950277" lat="45.4655709" lon="9.6163715"/>
+ <node id="2696206332" visible="true" version="1" changeset="20843212" timestamp="2014-03-01T11:24:06Z" user="Mannivu" uid="1950277" lat="45.4659245" lon="9.6192146"/>
+ <node id="2696206334" visible="true" version="1" changeset="20843212" timestamp="2014-03-01T11:24:06Z" user="Mannivu" uid="1950277" lat="45.4677492" lon="9.6185280"/>
+ <node id="2696206336" visible="true" version="1" changeset="20843212" timestamp="2014-03-01T11:24:06Z" user="Mannivu" uid="1950277" lat="45.4674934" lon="9.6169616"/>
+ <node id="2696206338" visible="true" version="1" changeset="20843212" timestamp="2014-03-01T11:24:06Z" user="Mannivu" uid="1950277" lat="45.4670500" lon="9.6170939"/>
+ <node id="4086079507" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4649212" lon="9.6126925"/>
+ <node id="4086079509" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4650491" lon="9.6131780"/>
+ <node id="4086079512" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4652203" lon="9.6135883"/>
+ <node id="4086079514" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4654366" lon="9.6125396"/>
+ <node id="4086079516" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4655796" lon="9.6134891"/>
+ <node id="4086079519" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4659606" lon="9.6237553"/>
+ <node id="4086079520" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4659756" lon="9.6196193"/>
+ <node id="4086079521" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4659813" lon="9.6240128"/>
+ <node id="4086079522" visible="true" version="2" changeset="68350355" timestamp="2019-03-20T19:49:28Z" user="Mannivu" uid="1950277" lat="45.4659783" lon="9.6219348"/>
+ <node id="4086079523" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4661374" lon="9.6210463"/>
+ <node id="4086079524" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4669716" lon="9.6146773"/>
+ <node id="4086079525" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4670375" lon="9.6236842"/>
+ <node id="4086079526" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4672444" lon="9.6152862"/>
+ <node id="4086079527" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4673610" lon="9.6157770"/>
+ <node id="4086079528" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4674927" lon="9.6235474"/>
+ <node id="4086079529" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4676131" lon="9.6240999"/>
+ <node id="4086079530" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4678379" lon="9.6259547"/>
+ <node id="4086079531" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4680175" lon="9.6157019"/>
+ <node id="4086079532" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4680626" lon="9.6155383"/>
+ <node id="4086079533" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4681981" lon="9.6154417"/>
+ <node id="4086079534" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4684360" lon="9.6261693"/>
+ <node id="4086079535" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4684586" lon="9.6265582"/>
+ <node id="4086079536" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4685282" lon="9.6257696"/>
+ <node id="4086079537" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4685527" lon="9.6261398"/>
+ <node id="4086079541" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4688687" lon="9.6255658"/>
+ <node id="4086079542" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4688903" lon="9.6161311"/>
+ <node id="4086079544" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4690093" lon="9.6264629"/>
+ <node id="4086079545" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4691678" lon="9.6267996"/>
+ <node id="4086079546" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4691730" lon="9.6270691"/>
+ <node id="4086079547" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4691922" lon="9.6180126"/>
+ <node id="4086079548" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4692204" lon="9.6184552"/>
+ <node id="4086079550" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4692881" lon="9.6166018"/>
+ <node id="4086079551" visible="true" version="2" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4694419" lon="9.6287509"/>
+ <node id="4086079554" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:22Z" user="morsi" uid="139580" lat="45.4694029" lon="9.6179778"/>
+ <node id="4086079556" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4694631" lon="9.6254585"/>
+ <node id="4086079567" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4701247" lon="9.6265434"/>
+ <node id="4086079570" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4702286" lon="9.6252144"/>
+ <node id="4086079571" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4703110" lon="9.6274527"/>
+ <node id="4086079572" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4707516" lon="9.6250454"/>
+ <node id="4086079573" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4708512" lon="9.6176371"/>
+ <node id="4086079574" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4708663" lon="9.6181333"/>
+ <node id="4086079581" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4717710" lon="9.6262819"/>
+ <node id="4086079582" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4717992" lon="9.6258608"/>
+ <node id="4086079583" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4718425" lon="9.6256918"/>
+ <node id="4086079584" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4718481" lon="9.6267647"/>
+ <node id="4086079585" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4719177" lon="9.6262256"/>
+ <node id="4086079588" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4720682" lon="9.6256731"/>
+ <node id="4086079589" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4721472" lon="9.6166796"/>
+ <node id="4086079590" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4721830" lon="9.6262953"/>
+ <node id="4086079591" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4721867" lon="9.6246189"/>
+ <node id="4086079592" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4722130" lon="9.6173823"/>
+ <node id="4086079593" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4722243" lon="9.6264133"/>
+ <node id="4086079594" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4722488" lon="9.6266708"/>
+ <node id="4086079595" visible="true" version="2" changeset="68350355" timestamp="2019-03-20T19:48:42Z" user="Mannivu" uid="1950277" lat="45.4722488" lon="9.6194959"/>
+ <node id="4086079596" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4723776" lon="9.6202671"/>
+ <node id="4086079597" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4724444" lon="9.6262283"/>
+ <node id="4086079598" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4724510" lon="9.6166112"/>
+ <node id="4086079599" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4724613" lon="9.6263409"/>
+ <node id="4086079601" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4725394" lon="9.6216591"/>
+ <node id="4086079602" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4725667" lon="9.6265126"/>
+ <node id="4086079603" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4726974" lon="9.6220883"/>
+ <node id="4086079604" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4726983" lon="9.6265421"/>
+ <node id="4086079608" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4727369" lon="9.6224209"/>
+ <node id="4086079611" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4728817" lon="9.6215411"/>
+ <node id="4086079613" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4730453" lon="9.6214875"/>
+ <node id="4086079614" visible="true" version="3" changeset="68350355" timestamp="2019-03-20T19:48:42Z" user="Mannivu" uid="1950277" lat="45.4730750" lon="9.6188667"/>
+ <node id="4086079615" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4730942" lon="9.6218978"/>
+ <node id="4086079616" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4731206" lon="9.6222868"/>
+ <node id="4086079617" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:23Z" user="morsi" uid="139580" lat="45.4731921" lon="9.6224745"/>
+ <node id="4086079620" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4733406" lon="9.6224370"/>
+ <node id="4086079623" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4734648" lon="9.6230405"/>
+ <node id="4086079624" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4734704" lon="9.6231638"/>
+ <node id="4086079625" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4736369" lon="9.6262390"/>
+ <node id="4086079626" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4738372" lon="9.6235447"/>
+ <node id="4086079633" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4745312" lon="9.6220615"/>
+ <node id="4086079636" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4747955" lon="9.6260325"/>
+ <node id="4086079641" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4750635" lon="9.6226918"/>
+ <node id="4086079642" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4751698" lon="9.6251795"/>
+ <node id="4086079643" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4754782" lon="9.6236855"/>
+ <node id="4086079644" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4755055" lon="9.6235769"/>
+ <node id="4086079645" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4755177" lon="9.6254209"/>
+ <node id="4086079646" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4755337" lon="9.6233301"/>
+ <node id="4086079647" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4756183" lon="9.6234964"/>
+ <node id="4086079650" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4757058" lon="9.6250132"/>
+ <node id="4086079651" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4757096" lon="9.6252117"/>
+ <node id="5111825713" visible="true" version="1" changeset="52128231" timestamp="2017-09-17T21:57:34Z" user="fedc" uid="602784" lat="45.4493609" lon="9.6409329"/>
+ <node id="5806919807" visible="true" version="1" changeset="61328630" timestamp="2018-08-03T13:02:53Z" user="Mannivu" uid="1950277" lat="45.4750406" lon="9.6226647"/>
+ <node id="6166795894" visible="true" version="1" changeset="65822595" timestamp="2018-12-27T19:20:16Z" user="Antonio Frabetti" uid="9261563" lat="45.4660133" lon="9.6247000"/>
+ <node id="6166795895" visible="true" version="1" changeset="65822595" timestamp="2018-12-27T19:20:16Z" user="Antonio Frabetti" uid="9261563" lat="45.4653750" lon="9.6249060"/>
+ <node id="6166795896" visible="true" version="1" changeset="65822595" timestamp="2018-12-27T19:20:16Z" user="Antonio Frabetti" uid="9261563" lat="45.4653486" lon="9.6251420"/>
+ <node id="6166795897" visible="true" version="1" changeset="65822595" timestamp="2018-12-27T19:20:16Z" user="Antonio Frabetti" uid="9261563" lat="45.4661644" lon="9.6257141"/>
+ <node id="6166795898" visible="true" version="1" changeset="65822595" timestamp="2018-12-27T19:20:16Z" user="Antonio Frabetti" uid="9261563" lat="45.4654874" lon="9.6258881"/>
+ <node id="6350806273" visible="true" version="1" changeset="68350355" timestamp="2019-03-20T19:48:42Z" user="Mannivu" uid="1950277" lat="45.4726301" lon="9.6174067"/>
+ <node id="7497948186" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4651013" lon="9.6314954"/>
+ <node id="7497948187" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4649165" lon="9.6315765"/>
+ <node id="7497948188" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4644161" lon="9.6318233"/>
+ <node id="7497948189" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4635621" lon="9.6321130"/>
+ <node id="7497948190" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4635019" lon="9.6322524"/>
+ <node id="7497948191" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4635508" lon="9.6325046"/>
+ <node id="7497948192" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4637389" lon="9.6339422"/>
+ <node id="7497948193" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4637314" lon="9.6342641"/>
+ <node id="7497948194" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4632197" lon="9.6345109"/>
+ <node id="7497948195" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4620684" lon="9.6349668"/>
+ <node id="7497948196" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4619367" lon="9.6350044"/>
+ <node id="7497948197" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4619555" lon="9.6347898"/>
+ <node id="7497948198" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4620872" lon="9.6342426"/>
+ <node id="7497948199" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4621624" lon="9.6337920"/>
+ <node id="7497948200" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4620947" lon="9.6333629"/>
+ <node id="7497948201" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4620929" lon="9.6330119"/>
+ <node id="7497948202" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4622302" lon="9.6326762"/>
+ <node id="7497948203" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4625086" lon="9.6321022"/>
+ <node id="7497948204" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4629939" lon="9.6314692"/>
+ <node id="7497948205" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4633551" lon="9.6312386"/>
+ <node id="7497948206" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4636900" lon="9.6309221"/>
+ <node id="7497948207" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4640135" lon="9.6307075"/>
+ <node id="7497948208" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4644349" lon="9.6305358"/>
+ <node id="7497948209" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4647848" lon="9.6303749"/>
+ <node id="7497948210" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4648789" lon="9.6304178"/>
+ <node id="7497948211" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4650557" lon="9.6312493"/>
+ <node id="7497948212" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4637803" lon="9.6287388"/>
+ <node id="7497948213" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4633213" lon="9.6290767"/>
+ <node id="7497948214" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4629112" lon="9.6293825"/>
+ <node id="7497948215" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4625086" lon="9.6296990"/>
+ <node id="7497948216" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4627381" lon="9.6304339"/>
+ <node id="7497948217" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4630428" lon="9.6312976"/>
+ <node id="7497948218" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4633890" lon="9.6310401"/>
+ <node id="7497948219" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4636486" lon="9.6308201"/>
+ <node id="7497948220" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4641941" lon="9.6304983"/>
+ <node id="7497948221" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4646795" lon="9.6303052"/>
+ <node id="7497948222" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4648112" lon="9.6301871"/>
+ <node id="7497948223" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4645252" lon="9.6290499"/>
+ <node id="7497948224" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4642167" lon="9.6292323"/>
+ <node id="7497948225" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4639722" lon="9.6285671"/>
+ <node id="7497948403" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4676046" lon="9.6340388"/>
+ <node id="7497948404" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4672585" lon="9.6341139"/>
+ <node id="7497948405" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4670384" lon="9.6341488"/>
+ <node id="7497948406" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4667600" lon="9.6342078"/>
+ <node id="7497948407" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4668127" lon="9.6344894"/>
+ <node id="7497948408" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4668729" lon="9.6348676"/>
+ <node id="7497948409" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4669970" lon="9.6354416"/>
+ <node id="7497948410" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4670666" lon="9.6357313"/>
+ <node id="7497948411" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4672265" lon="9.6357071"/>
+ <node id="7497948412" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4674974" lon="9.6356347"/>
+ <node id="7497948413" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4679300" lon="9.6355087"/>
+ <node id="7497948414" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4678736" lon="9.6340764"/>
+ <node id="7497948415" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4678059" lon="9.6340120"/>
+ <node id="7497948416" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4680692" lon="9.6329847"/>
+ <node id="7497948417" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4680805" lon="9.6332154"/>
+ <node id="7497948418" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4680410" lon="9.6333253"/>
+ <node id="7497948419" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4679771" lon="9.6335480"/>
+ <node id="7497948420" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4678962" lon="9.6338698"/>
+ <node id="7497948421" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4677513" lon="9.6339288"/>
+ <node id="7497948422" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4675444" lon="9.6339717"/>
+ <node id="7497948423" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4670967" lon="9.6340737"/>
+ <node id="7497948424" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4667224" lon="9.6341300"/>
+ <node id="7497948425" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4666697" lon="9.6342829"/>
+ <node id="7497948426" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4667901" lon="9.6348837"/>
+ <node id="7497948427" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4669970" lon="9.6357796"/>
+ <node id="7497948428" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4667036" lon="9.6358305"/>
+ <node id="7497948429" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4661787" lon="9.6359539"/>
+ <node id="7497948430" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4659530" lon="9.6360236"/>
+ <node id="7497948431" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4659455" lon="9.6359566"/>
+ <node id="7497948432" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4658985" lon="9.6354550"/>
+ <node id="7497948433" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4658552" lon="9.6352270"/>
+ <node id="7497948434" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4657630" lon="9.6349025"/>
+ <node id="7497948435" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4656539" lon="9.6345082"/>
+ <node id="7497948436" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4655486" lon="9.6340281"/>
+ <node id="7497948437" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4658891" lon="9.6340442"/>
+ <node id="7497948438" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4661957" lon="9.6340790"/>
+ <node id="7497948439" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4666622" lon="9.6340334"/>
+ <node id="7497948440" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4666923" lon="9.6339369"/>
+ <node id="7497948441" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4668240" lon="9.6336794"/>
+ <node id="7497948442" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4669293" lon="9.6334004"/>
+ <node id="7497948443" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4669368" lon="9.6332073"/>
+ <node id="7497948444" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4669782" lon="9.6331429"/>
+ <node id="7497948445" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4680391" lon="9.6329445"/>
+ <node id="7497948500" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4669594" lon="9.6308899"/>
+ <node id="7497948501" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4669669" lon="9.6312815"/>
+ <node id="7497948502" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4669745" lon="9.6319306"/>
+ <node id="7497948503" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4669632" lon="9.6323490"/>
+ <node id="7497948504" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4669857" lon="9.6330249"/>
+ <node id="7497948505" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4668936" lon="9.6330410"/>
+ <node id="7497948506" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4668578" lon="9.6331268"/>
+ <node id="7497948507" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4668578" lon="9.6333629"/>
+ <node id="7497948508" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4668014" lon="9.6335721"/>
+ <node id="7497948509" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4666735" lon="9.6338296"/>
+ <node id="7497948510" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4665230" lon="9.6339691"/>
+ <node id="7497948511" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4661280" lon="9.6339905"/>
+ <node id="7497948512" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4657179" lon="9.6339637"/>
+ <node id="7497948513" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4655185" lon="9.6339261"/>
+ <node id="7497948514" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4653040" lon="9.6321398"/>
+ <node id="7497948515" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4651780" lon="9.6312600"/>
+ <node id="7497948516" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4651347" lon="9.6309543"/>
+ <node id="7497948517" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4652325" lon="9.6308604"/>
+ <node id="7497948518" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4669331" lon="9.6305144"/>
+ <node id="7497948519" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4669554" lon="9.6307066"/>
+ <node id="7497948520" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4644218" lon="9.6281782"/>
+ <node id="7497948521" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4648450" lon="9.6298546"/>
+ <node id="7497948522" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4648902" lon="9.6299833"/>
+ <node id="7497948523" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4649729" lon="9.6301335"/>
+ <node id="7497948524" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4650858" lon="9.6305788"/>
+ <node id="7497948525" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4651648" lon="9.6307316"/>
+ <node id="7497948526" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4659436" lon="9.6305734"/>
+ <node id="7497948527" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4659286" lon="9.6303052"/>
+ <node id="7497948528" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4658608" lon="9.6297258"/>
+ <node id="7497948529" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4657593" lon="9.6288782"/>
+ <node id="7497948530" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4656690" lon="9.6281326"/>
+ <node id="7497948531" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4657292" lon="9.6280950"/>
+ <node id="7497948532" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4658006" lon="9.6286797"/>
+ <node id="7497948533" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4658533" lon="9.6289909"/>
+ <node id="7497948534" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4659060" lon="9.6293986"/>
+ <node id="7497948535" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4660076" lon="9.6305734"/>
+ <node id="7497948536" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4669180" lon="9.6304285"/>
+ <node id="7497948537" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4668879" lon="9.6300101"/>
+ <node id="7497948538" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4668315" lon="9.6293181"/>
+ <node id="7497948539" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4667562" lon="9.6288568"/>
+ <node id="7497948540" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4666772" lon="9.6281916"/>
+ <node id="7497948541" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4666246" lon="9.6278483"/>
+ <node id="7497948542" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4665945" lon="9.6277142"/>
+ <node id="7497948543" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4657931" lon="9.6280307"/>
+ <node id="7497948544" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4655862" lon="9.6270651"/>
+ <node id="7497948545" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4676159" lon="9.6287629"/>
+ <node id="7497948546" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4675877" lon="9.6286207"/>
+ <node id="7497948547" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4675482" lon="9.6284223"/>
+ <node id="7497948548" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4675162" lon="9.6282104"/>
+ <node id="7497948549" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4674917" lon="9.6280280"/>
+ <node id="7497948550" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4674598" lon="9.6277544"/>
+ <node id="7497948551" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4673958" lon="9.6274513"/>
+ <node id="7497948552" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4666961" lon="9.6277463"/>
+ <node id="7497948553" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4666923" lon="9.6278429"/>
+ <node id="7497948554" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4667619" lon="9.6282881"/>
+ <node id="7497948555" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4668033" lon="9.6286422"/>
+ <node id="7497948556" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4668653" lon="9.6290284"/>
+ <node id="7497948557" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4669143" lon="9.6290499"/>
+ <node id="7497948558" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4669857" lon="9.6290472"/>
+ <node id="7497948559" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4670930" lon="9.6290150"/>
+ <node id="7497948560" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4671889" lon="9.6289855"/>
+ <node id="7497948561" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4673375" lon="9.6289480"/>
+ <node id="7497948562" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4674748" lon="9.6288890"/>
+ <node id="7497948563" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4675877" lon="9.6288756"/>
+ <node id="7497948564" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4695289" lon="9.6293423"/>
+ <node id="7497948565" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4688517" lon="9.6295112"/>
+ <node id="7497948566" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4679564" lon="9.6297500"/>
+ <node id="7497948567" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4678040" lon="9.6297285"/>
+ <node id="7497948568" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4677513" lon="9.6295997"/>
+ <node id="7497948569" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4676836" lon="9.6291223"/>
+ <node id="7497948570" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4676742" lon="9.6289587"/>
+ <node id="7497948571" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4676799" lon="9.6288890"/>
+ <node id="7497948572" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4676893" lon="9.6287012"/>
+ <node id="7497948573" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4676610" lon="9.6286127"/>
+ <node id="7497948574" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4676065" lon="9.6283203"/>
+ <node id="7497948575" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4675632" lon="9.6280092"/>
+ <node id="7497948576" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4675237" lon="9.6278241"/>
+ <node id="7497948577" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4674729" lon="9.6275935"/>
+ <node id="7497948578" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4674109" lon="9.6272743"/>
+ <node id="7497948579" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4674071" lon="9.6270704"/>
+ <node id="7497948580" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4674297" lon="9.6269309"/>
+ <node id="7497948581" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4698487" lon="9.6319306"/>
+ <node id="7497948582" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4698901" lon="9.6316731"/>
+ <node id="7497948583" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4698035" lon="9.6311957"/>
+ <node id="7497948584" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4696493" lon="9.6303213"/>
+ <node id="7497948585" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4695271" lon="9.6294874"/>
+ <node id="7497948586" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4695026" lon="9.6294308"/>
+ <node id="7497948587" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4679789" lon="9.6298358"/>
+ <node id="7497948588" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4677476" lon="9.6298358"/>
+ <node id="7497948589" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4676893" lon="9.6296480"/>
+ <node id="7497948590" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4676046" lon="9.6289775"/>
+ <node id="7497948591" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4674805" lon="9.6289560"/>
+ <node id="7497948592" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4669556" lon="9.6291035"/>
+ <node id="7497948593" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4668785" lon="9.6291438"/>
+ <node id="7497948594" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4669218" lon="9.6297392"/>
+ <node id="7497948595" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4669839" lon="9.6303454"/>
+ <node id="7497948596" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4670000" lon="9.6306855"/>
+ <node id="7497948597" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4670158" lon="9.6308121"/>
+ <node id="7497948598" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4670290" lon="9.6314880"/>
+ <node id="7497948599" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4670215" lon="9.6323222"/>
+ <node id="7497948600" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4670290" lon="9.6327996"/>
+ <node id="7497948601" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4670422" lon="9.6330088"/>
+ <node id="7497948602" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4677382" lon="9.6328533"/>
+ <node id="7497948603" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4685470" lon="9.6327245"/>
+ <node id="7497948604" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4692994" lon="9.6326387"/>
+ <node id="7497948605" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4696643" lon="9.6325046"/>
+ <node id="7497948606" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4699089" lon="9.6322793"/>
+ <node id="7497948940" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4721381" lon="9.6266967"/>
+ <node id="7497949033" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4735688" lon="9.6262610"/>
+ <node id="7497949034" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4718068" lon="9.6258311"/>
+ <node id="7497949047" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4695306" lon="9.6287179"/>
+ <node id="7497949048" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4697823" lon="9.6279793"/>
+ <node id="7497949049" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4696908" lon="9.6280098"/>
+ <node id="7497949050" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4697701" lon="9.6279045"/>
+ <node id="7497949051" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4703565" lon="9.6277142"/>
+ <node id="7497949052" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4697772" lon="9.6286261"/>
+ <way id="125461274" visible="true" version="4" changeset="61138944" timestamp="2018-07-28T10:09:01Z" user="Mannivu" uid="1950277">
+  <nd ref="1393503604"/>
+  <nd ref="1393503612"/>
+  <nd ref="1393503618"/>
+  <nd ref="1393503621"/>
+  <nd ref="1393503623"/>
+  <nd ref="1393503633"/>
+  <nd ref="1393503635"/>
+  <nd ref="1393503638"/>
+  <nd ref="1393503639"/>
+  <nd ref="1393503641"/>
+  <nd ref="1393503642"/>
+  <nd ref="1393503650"/>
+  <nd ref="1393503654"/>
+  <nd ref="1393503655"/>
+  <nd ref="1393503652"/>
+  <nd ref="1393503649"/>
+  <nd ref="1393594612"/>
+  <nd ref="1393594610"/>
+  <nd ref="1393594608"/>
+  <nd ref="1393594606"/>
+  <nd ref="1393594604"/>
+  <nd ref="1393594602"/>
+  <nd ref="1393594595"/>
+  <nd ref="1393594592"/>
+  <nd ref="1393594582"/>
+  <nd ref="1393594572"/>
+  <nd ref="1393594570"/>
+  <nd ref="1393594568"/>
+  <nd ref="1393594569"/>
+  <nd ref="1393594573"/>
+  <nd ref="1393594574"/>
+  <nd ref="1393594575"/>
+  <nd ref="1393594576"/>
+  <nd ref="1393594579"/>
+  <nd ref="1393594580"/>
+  <nd ref="1393594578"/>
+  <nd ref="1393594577"/>
+  <nd ref="1393594581"/>
+  <nd ref="1393594587"/>
+  <nd ref="1393594588"/>
+  <nd ref="1393594589"/>
+  <nd ref="1393594586"/>
+  <nd ref="1393594584"/>
+  <nd ref="1393594571"/>
+  <nd ref="1393594567"/>
+  <tag k="highway" v="track"/>
+  <tag k="surface" v="dirt"/>
+ </way>
+ <way id="125461279" visible="true" version="8" changeset="80145644" timestamp="2020-01-27T13:27:24Z" user="Mannivu" uid="1950277">
+  <nd ref="529115061"/>
+  <nd ref="529115062"/>
+  <nd ref="529115063"/>
+  <nd ref="529115064"/>
+  <nd ref="529115065"/>
+  <nd ref="529115066"/>
+  <nd ref="529115067"/>
+  <nd ref="1393384399"/>
+  <nd ref="529115068"/>
+  <nd ref="529115070"/>
+  <nd ref="1393384402"/>
+  <nd ref="1393384400"/>
+  <nd ref="434375812"/>
+  <nd ref="1393384398"/>
+  <nd ref="529115075"/>
+  <nd ref="1393384395"/>
+  <tag k="hgv" v="no"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Via Alberto Colombi"/>
+  <tag k="oneway" v="no"/>
+  <tag k="ref" v="SP137"/>
+  <tag k="short_name" v="Via Colombi"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="125479073" visible="true" version="1" changeset="8975021" timestamp="2011-08-10T10:27:04Z" user="ilrobi" uid="22110">
+  <nd ref="1393589916"/>
+  <nd ref="1393589915"/>
+  <nd ref="1393589914"/>
+  <nd ref="1393589912"/>
+  <nd ref="1393589911"/>
+  <nd ref="1393589910"/>
+  <nd ref="1393589909"/>
+  <nd ref="1393589908"/>
+  <nd ref="1393589907"/>
+  <nd ref="1393589906"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="125479757" visible="true" version="1" changeset="8975071" timestamp="2011-08-10T10:32:34Z" user="ilrobi" uid="22110">
+  <nd ref="1393594591"/>
+  <nd ref="1393594594"/>
+  <nd ref="1393594596"/>
+  <nd ref="1393594597"/>
+  <nd ref="1393594599"/>
+  <nd ref="1393594600"/>
+  <nd ref="1393594601"/>
+  <nd ref="1393594603"/>
+  <nd ref="1393503604"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="406551543" visible="true" version="5" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277">
+  <nd ref="2696206332"/>
+  <nd ref="2696206334"/>
+  <nd ref="2696206336"/>
+  <nd ref="2696206338"/>
+  <nd ref="2696206325"/>
+  <nd ref="2696206328"/>
+  <nd ref="4086079512"/>
+  <nd ref="4086079509"/>
+  <nd ref="4086079507"/>
+  <nd ref="4086079514"/>
+  <nd ref="4086079516"/>
+  <nd ref="4086079524"/>
+  <nd ref="4086079526"/>
+  <nd ref="4086079527"/>
+  <nd ref="4086079531"/>
+  <nd ref="4086079532"/>
+  <nd ref="4086079533"/>
+  <nd ref="4086079542"/>
+  <nd ref="4086079550"/>
+  <nd ref="4086079554"/>
+  <nd ref="4086079547"/>
+  <nd ref="4086079548"/>
+  <nd ref="4086079574"/>
+  <nd ref="4086079573"/>
+  <nd ref="4086079592"/>
+  <nd ref="4086079589"/>
+  <nd ref="4086079598"/>
+  <nd ref="1393473966"/>
+  <nd ref="6350806273"/>
+  <nd ref="1393473972"/>
+  <nd ref="1393473974"/>
+  <nd ref="4086079614"/>
+  <nd ref="4086079595"/>
+  <nd ref="4086079596"/>
+  <nd ref="4086079601"/>
+  <nd ref="4086079611"/>
+  <nd ref="4086079613"/>
+  <nd ref="4086079615"/>
+  <nd ref="4086079603"/>
+  <nd ref="4086079608"/>
+  <nd ref="4086079616"/>
+  <nd ref="4086079617"/>
+  <nd ref="4086079620"/>
+  <nd ref="4086079623"/>
+  <nd ref="4086079624"/>
+  <nd ref="4086079626"/>
+  <nd ref="4086079633"/>
+  <nd ref="5806919807"/>
+  <nd ref="4086079641"/>
+  <nd ref="4086079646"/>
+  <nd ref="4086079647"/>
+  <nd ref="4086079644"/>
+  <nd ref="4086079643"/>
+  <nd ref="4086079650"/>
+  <nd ref="4086079651"/>
+  <nd ref="4086079645"/>
+  <nd ref="4086079642"/>
+  <nd ref="4086079636"/>
+  <nd ref="4086079625"/>
+  <nd ref="7497949033"/>
+  <nd ref="4086079604"/>
+  <nd ref="4086079602"/>
+  <nd ref="4086079599"/>
+  <nd ref="4086079593"/>
+  <nd ref="4086079594"/>
+  <nd ref="7497948940"/>
+  <nd ref="4086079584"/>
+  <nd ref="4086079581"/>
+  <nd ref="4086079585"/>
+  <nd ref="4086079582"/>
+  <nd ref="7497949034"/>
+  <nd ref="4086079583"/>
+  <nd ref="4086079588"/>
+  <nd ref="4086079590"/>
+  <nd ref="4086079597"/>
+  <nd ref="4086079591"/>
+  <nd ref="4086079572"/>
+  <nd ref="4086079570"/>
+  <nd ref="4086079556"/>
+  <nd ref="4086079541"/>
+  <nd ref="4086079545"/>
+  <nd ref="4086079567"/>
+  <nd ref="4086079571"/>
+  <nd ref="7497949051"/>
+  <nd ref="7497949050"/>
+  <nd ref="7497949048"/>
+  <nd ref="7497949049"/>
+  <nd ref="7497949052"/>
+  <nd ref="7497949047"/>
+  <nd ref="4086079551"/>
+  <nd ref="4086079546"/>
+  <nd ref="4086079544"/>
+  <nd ref="4086079535"/>
+  <nd ref="4086079534"/>
+  <nd ref="4086079537"/>
+  <nd ref="4086079536"/>
+  <nd ref="4086079530"/>
+  <nd ref="4086079529"/>
+  <nd ref="4086079528"/>
+  <nd ref="4086079525"/>
+  <nd ref="4086079521"/>
+  <nd ref="4086079519"/>
+  <nd ref="4086079522"/>
+  <nd ref="4086079523"/>
+  <nd ref="4086079520"/>
+  <nd ref="2696206332"/>
+  <tag k="landuse" v="residential"/>
+ </way>
+ <way id="525465264" visible="true" version="5" changeset="68187231" timestamp="2019-03-15T19:32:04Z" user="fedc" uid="602784">
+  <nd ref="5111825713"/>
+  <nd ref="568131135"/>
+  <nd ref="568131131"/>
+  <nd ref="568131123"/>
+  <nd ref="568131141"/>
+  <nd ref="1393503554"/>
+  <nd ref="1393503557"/>
+  <nd ref="1393503560"/>
+  <nd ref="1393503562"/>
+  <nd ref="1393503564"/>
+  <nd ref="1393503570"/>
+  <nd ref="1393503572"/>
+  <nd ref="1393503574"/>
+  <nd ref="1393503576"/>
+  <nd ref="1393503582"/>
+  <nd ref="1393503587"/>
+  <nd ref="1393503594"/>
+  <nd ref="1393589916"/>
+  <nd ref="1393503597"/>
+  <nd ref="1393503599"/>
+  <nd ref="1393503603"/>
+  <nd ref="1393503604"/>
+  <nd ref="1393503608"/>
+  <nd ref="1393503617"/>
+  <nd ref="1393503636"/>
+  <nd ref="529115061"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="SP 37 , Via Albero Colombi"/>
+  <tag k="ref" v="SP37"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="585699200" visible="true" version="2" changeset="88997357" timestamp="2020-08-05T19:04:15Z" user="RenaultGT" uid="4536943">
+  <nd ref="1393384359"/>
+  <nd ref="1393384360"/>
+  <nd ref="1393384364"/>
+  <nd ref="1393384366"/>
+  <nd ref="1393384371"/>
+  <nd ref="1393384398"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Via Giuseppe Mazzini"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="short_name" v="Via Mazzini"/>
+ </way>
+ <way id="658556194" visible="true" version="1" changeset="65822595" timestamp="2018-12-27T19:20:16Z" user="Antonio Frabetti" uid="9261563">
+  <nd ref="6166795894"/>
+  <nd ref="6166795895"/>
+  <nd ref="6166795896"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="Via Fornaci"/>
+  <tag k="service" v="driveway"/>
+ </way>
+ <way id="658556195" visible="true" version="2" changeset="66274917" timestamp="2019-01-13T14:16:30Z" user="Mannivu" uid="1950277">
+  <nd ref="1393384260"/>
+  <nd ref="1393384256"/>
+  <nd ref="1393384262"/>
+  <nd ref="6166795894"/>
+  <nd ref="1393384268"/>
+  <nd ref="6166795897"/>
+  <nd ref="529115061"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="living_street"/>
+  <tag k="horse" v="yes"/>
+  <tag k="lanes" v="2"/>
+  <tag k="maxspeed" v="50"/>
+  <tag k="name" v="Via Fornaci"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="658556196" visible="true" version="1" changeset="65822595" timestamp="2018-12-27T19:20:17Z" user="Antonio Frabetti" uid="9261563">
+  <nd ref="6166795897"/>
+  <nd ref="6166795898"/>
+  <tag k="highway" v="service"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Via Fornaci"/>
+  <tag k="service" v="driveway"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="801625116" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277">
+  <nd ref="7497948186"/>
+  <nd ref="7497948211"/>
+  <nd ref="7497948210"/>
+  <nd ref="7497948209"/>
+  <nd ref="7497948208"/>
+  <nd ref="7497948207"/>
+  <nd ref="7497948206"/>
+  <nd ref="7497948205"/>
+  <nd ref="7497948204"/>
+  <nd ref="7497948203"/>
+  <nd ref="7497948202"/>
+  <nd ref="7497948201"/>
+  <nd ref="7497948200"/>
+  <nd ref="7497948199"/>
+  <nd ref="7497948198"/>
+  <nd ref="7497948197"/>
+  <nd ref="7497948196"/>
+  <nd ref="7497948195"/>
+  <nd ref="7497948194"/>
+  <nd ref="7497948193"/>
+  <nd ref="7497948192"/>
+  <nd ref="7497948191"/>
+  <nd ref="7497948190"/>
+  <nd ref="7497948189"/>
+  <nd ref="7497948188"/>
+  <nd ref="7497948187"/>
+  <nd ref="7497948186"/>
+  <tag k="landuse" v="farmland"/>
+ </way>
+ <way id="801625117" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277">
+  <nd ref="7497948225"/>
+  <nd ref="7497948224"/>
+  <nd ref="7497948223"/>
+  <nd ref="7497948222"/>
+  <nd ref="7497948221"/>
+  <nd ref="7497948220"/>
+  <nd ref="7497948219"/>
+  <nd ref="7497948218"/>
+  <nd ref="7497948217"/>
+  <nd ref="7497948216"/>
+  <nd ref="7497948215"/>
+  <nd ref="7497948214"/>
+  <nd ref="7497948213"/>
+  <nd ref="7497948212"/>
+  <nd ref="7497948225"/>
+  <tag k="landuse" v="farmland"/>
+ </way>
+ <way id="801625120" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277">
+  <nd ref="7497948415"/>
+  <nd ref="7497948414"/>
+  <nd ref="7497948413"/>
+  <nd ref="7497948412"/>
+  <nd ref="7497948411"/>
+  <nd ref="7497948410"/>
+  <nd ref="7497948409"/>
+  <nd ref="7497948408"/>
+  <nd ref="7497948407"/>
+  <nd ref="7497948406"/>
+  <nd ref="7497948405"/>
+  <nd ref="7497948404"/>
+  <nd ref="7497948403"/>
+  <nd ref="7497948415"/>
+  <tag k="landuse" v="farmland"/>
+ </way>
+ <way id="801625121" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277">
+  <nd ref="7497948445"/>
+  <nd ref="7497948444"/>
+  <nd ref="7497948443"/>
+  <nd ref="7497948442"/>
+  <nd ref="7497948441"/>
+  <nd ref="7497948440"/>
+  <nd ref="7497948439"/>
+  <nd ref="7497948438"/>
+  <nd ref="7497948437"/>
+  <nd ref="7497948436"/>
+  <nd ref="7497948435"/>
+  <nd ref="7497948434"/>
+  <nd ref="7497948433"/>
+  <nd ref="7497948432"/>
+  <nd ref="7497948431"/>
+  <nd ref="7497948430"/>
+  <nd ref="7497948429"/>
+  <nd ref="7497948428"/>
+  <nd ref="7497948427"/>
+  <nd ref="7497948426"/>
+  <nd ref="7497948425"/>
+  <nd ref="7497948424"/>
+  <nd ref="7497948423"/>
+  <nd ref="7497948422"/>
+  <nd ref="7497948421"/>
+  <nd ref="7497948420"/>
+  <nd ref="7497948419"/>
+  <nd ref="7497948418"/>
+  <nd ref="7497948417"/>
+  <nd ref="7497948416"/>
+  <nd ref="7497948445"/>
+  <tag k="landuse" v="farmland"/>
+ </way>
+ <way id="801625127" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277">
+  <nd ref="7497948519"/>
+  <nd ref="7497948518"/>
+  <nd ref="7497948517"/>
+  <nd ref="7497948516"/>
+  <nd ref="7497948515"/>
+  <nd ref="7497948514"/>
+  <nd ref="7497948513"/>
+  <nd ref="7497948512"/>
+  <nd ref="7497948511"/>
+  <nd ref="7497948510"/>
+  <nd ref="7497948509"/>
+  <nd ref="7497948508"/>
+  <nd ref="7497948507"/>
+  <nd ref="7497948506"/>
+  <nd ref="7497948505"/>
+  <nd ref="7497948504"/>
+  <nd ref="7497948503"/>
+  <nd ref="7497948502"/>
+  <nd ref="7497948501"/>
+  <nd ref="7497948500"/>
+  <nd ref="7497948519"/>
+  <tag k="landuse" v="farmland"/>
+ </way>
+ <way id="801625128" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277">
+  <nd ref="7497948544"/>
+  <nd ref="7497948543"/>
+  <nd ref="7497948542"/>
+  <nd ref="7497948541"/>
+  <nd ref="7497948540"/>
+  <nd ref="7497948539"/>
+  <nd ref="7497948538"/>
+  <nd ref="7497948537"/>
+  <nd ref="7497948536"/>
+  <nd ref="7497948535"/>
+  <nd ref="7497948534"/>
+  <nd ref="7497948533"/>
+  <nd ref="7497948532"/>
+  <nd ref="7497948531"/>
+  <nd ref="7497948530"/>
+  <nd ref="7497948529"/>
+  <nd ref="7497948528"/>
+  <nd ref="7497948527"/>
+  <nd ref="7497948526"/>
+  <nd ref="7497948525"/>
+  <nd ref="7497948524"/>
+  <nd ref="7497948523"/>
+  <nd ref="7497948522"/>
+  <nd ref="7497948521"/>
+  <nd ref="7497948520"/>
+  <nd ref="7497948544"/>
+  <tag k="landuse" v="farmland"/>
+ </way>
+ <way id="801625129" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277">
+  <nd ref="7497948563"/>
+  <nd ref="7497948562"/>
+  <nd ref="7497948561"/>
+  <nd ref="7497948560"/>
+  <nd ref="7497948559"/>
+  <nd ref="7497948558"/>
+  <nd ref="7497948557"/>
+  <nd ref="7497948556"/>
+  <nd ref="7497948555"/>
+  <nd ref="7497948554"/>
+  <nd ref="7497948553"/>
+  <nd ref="7497948552"/>
+  <nd ref="7497948551"/>
+  <nd ref="7497948550"/>
+  <nd ref="7497948549"/>
+  <nd ref="7497948548"/>
+  <nd ref="7497948547"/>
+  <nd ref="7497948546"/>
+  <nd ref="7497948545"/>
+  <nd ref="7497948563"/>
+  <tag k="landuse" v="farmland"/>
+ </way>
+ <way id="801625130" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277">
+  <nd ref="4086079535"/>
+  <nd ref="7497948580"/>
+  <nd ref="7497948579"/>
+  <nd ref="7497948578"/>
+  <nd ref="7497948577"/>
+  <nd ref="7497948576"/>
+  <nd ref="7497948575"/>
+  <nd ref="7497948574"/>
+  <nd ref="7497948573"/>
+  <nd ref="7497948572"/>
+  <nd ref="7497948571"/>
+  <nd ref="7497948570"/>
+  <nd ref="7497948569"/>
+  <nd ref="7497948568"/>
+  <nd ref="7497948567"/>
+  <nd ref="7497948566"/>
+  <nd ref="7497948565"/>
+  <nd ref="7497948564"/>
+  <nd ref="4086079551"/>
+  <nd ref="4086079546"/>
+  <nd ref="4086079544"/>
+  <nd ref="4086079535"/>
+  <tag k="landuse" v="farmland"/>
+ </way>
+ <way id="801625131" visible="true" version="1" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277">
+  <nd ref="7497948606"/>
+  <nd ref="7497948605"/>
+  <nd ref="7497948604"/>
+  <nd ref="7497948603"/>
+  <nd ref="7497948602"/>
+  <nd ref="7497948601"/>
+  <nd ref="7497948600"/>
+  <nd ref="7497948599"/>
+  <nd ref="7497948598"/>
+  <nd ref="7497948597"/>
+  <nd ref="7497948596"/>
+  <nd ref="7497948595"/>
+  <nd ref="7497948594"/>
+  <nd ref="7497948593"/>
+  <nd ref="7497948592"/>
+  <nd ref="7497948591"/>
+  <nd ref="7497948590"/>
+  <nd ref="7497948589"/>
+  <nd ref="7497948588"/>
+  <nd ref="7497948587"/>
+  <nd ref="7497948586"/>
+  <nd ref="7497948585"/>
+  <nd ref="7497948584"/>
+  <nd ref="7497948583"/>
+  <nd ref="7497948582"/>
+  <nd ref="7497948581"/>
+  <nd ref="7497948606"/>
+  <tag k="landuse" v="farmland"/>
+ </way>
+ <relation id="10189082" visible="true" version="1" changeset="76062580" timestamp="2019-10-22T17:43:05Z" user="Constable" uid="527535">
+  <member type="way" ref="525465266" role="from"/>
+  <member type="node" ref="5111825713" role="via"/>
+  <member type="way" ref="525465264" role="to"/>
+  <tag k="restriction" v="only_straight_on"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+</osm>

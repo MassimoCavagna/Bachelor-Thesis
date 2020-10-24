@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1508649 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3083194 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3598653" minlon="9.8547363" maxlat="45.3675844" maxlon="9.8657227"/>
  <node id="264359001" visible="true" version="2" changeset="51413088" timestamp="2017-08-24T17:11:46Z" user="fedc" uid="602784" lat="45.3601692" lon="9.8629636"/>
  <node id="264359004" visible="true" version="3" changeset="80977628" timestamp="2020-02-13T22:18:55Z" user="fedc" uid="602784" lat="45.3703181" lon="9.8588690">
@@ -383,6 +383,8 @@
  <node id="7209503811" visible="true" version="1" changeset="80977628" timestamp="2020-02-13T22:18:55Z" user="fedc" uid="602784" lat="45.3719517" lon="9.8597511"/>
  <node id="7209503812" visible="true" version="1" changeset="80977628" timestamp="2020-02-13T22:18:55Z" user="fedc" uid="602784" lat="45.3714726" lon="9.8598264"/>
  <node id="7209522234" visible="true" version="1" changeset="80978021" timestamp="2020-02-13T22:39:00Z" user="fedc" uid="602784" lat="45.3705787" lon="9.8588009"/>
+ <node id="7994876926" visible="true" version="1" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306" lat="45.3662891" lon="9.8604222"/>
+ <node id="7994876927" visible="true" version="1" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306" lat="45.3663181" lon="9.8605705"/>
  <way id="109919178" visible="true" version="3" changeset="11972802" timestamp="2012-06-21T20:36:52Z" user="Gianluigi" uid="498903">
   <nd ref="1257114601"/>
   <nd ref="1797588740"/>
@@ -769,7 +771,7 @@
   <tag k="name" v="Ferrovia Cremona-Iseo"/>
   <tag k="railway" v="razed"/>
  </way>
- <way id="772258047" visible="true" version="2" changeset="80977853" timestamp="2020-02-13T22:30:23Z" user="fedc" uid="602784">
+ <way id="772258047" visible="true" version="3" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306">
   <nd ref="7209500769"/>
   <nd ref="7209500768"/>
   <nd ref="7209503809"/>
@@ -804,7 +806,19 @@
   <nd ref="7209503781"/>
   <nd ref="7209503780"/>
   <nd ref="7209503778"/>
+  <nd ref="7994876927"/>
+  <tag k="waterway" v="ditch"/>
+ </way>
+ <way id="857509849" visible="true" version="1" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306">
+  <nd ref="7994876926"/>
   <nd ref="7209503779"/>
+  <tag k="waterway" v="ditch"/>
+ </way>
+ <way id="857509850" visible="true" version="1" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306">
+  <nd ref="7994876927"/>
+  <nd ref="7994876926"/>
+  <tag k="layer" v="-1"/>
+  <tag k="tunnel" v="culvert"/>
   <tag k="waterway" v="ditch"/>
  </way>
  <relation id="44701" visible="true" version="10" changeset="44130518" timestamp="2016-12-03T06:43:18Z" user="nyuriks" uid="339581">
@@ -844,7 +858,7 @@
   <tag k="wikidata" v="Q42936"/>
   <tag k="wikipedia" v="it:Soncino"/>
  </relation>
- <relation id="6769829" visible="true" version="28" changeset="87655531" timestamp="2020-07-07T12:32:32Z" user="LuSirto" uid="506470">
+ <relation id="6769829" visible="true" version="29" changeset="91244352" timestamp="2020-09-21T18:22:04Z" user="digt" uid="1628387">
   <member type="way" ref="49423061" role=""/>
   <member type="way" ref="49423051" role=""/>
   <member type="way" ref="54602435" role=""/>
@@ -872,6 +886,8 @@
   <member type="way" ref="192395349" role=""/>
   <member type="way" ref="192395348" role=""/>
   <member type="way" ref="91842950" role=""/>
+  <member type="way" ref="849894669" role=""/>
+  <member type="way" ref="849894668" role=""/>
   <member type="way" ref="162401301" role=""/>
   <member type="way" ref="27248158" role=""/>
   <member type="way" ref="27248155" role=""/>

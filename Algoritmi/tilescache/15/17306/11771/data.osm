@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (2320387 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="45.1200528" minlon="10.1293945" maxlat="45.1278045" maxlon="10.1403809"/>
+ <node id="1192517630" visible="true" version="1" changeset="7492955" timestamp="2011-03-08T11:11:07Z" user="ilrobi" uid="22110" lat="45.1247180" lon="10.1438489"/>
+ <node id="1192517688" visible="true" version="1" changeset="7492955" timestamp="2011-03-08T11:11:09Z" user="ilrobi" uid="22110" lat="45.1229740" lon="10.1428712"/>
+ <node id="1193624791" visible="true" version="1" changeset="7500041" timestamp="2011-03-09T00:07:19Z" user="roscolosco" uid="205175" lat="45.1237561" lon="10.1391498"/>
+ <node id="1193624829" visible="true" version="1" changeset="7500041" timestamp="2011-03-09T00:07:20Z" user="roscolosco" uid="205175" lat="45.1257586" lon="10.1396668"/>
+ <node id="1193624931" visible="true" version="1" changeset="7500041" timestamp="2011-03-09T00:07:24Z" user="roscolosco" uid="205175" lat="45.1270530" lon="10.1294717"/>
+ <node id="1193624992" visible="true" version="1" changeset="7500041" timestamp="2011-03-09T00:07:26Z" user="roscolosco" uid="205175" lat="45.1275075" lon="10.1224492"/>
+ <node id="1193625006" visible="true" version="1" changeset="7500041" timestamp="2011-03-09T00:07:27Z" user="roscolosco" uid="205175" lat="45.1259679" lon="10.1292504"/>
+ <way id="103364044" visible="true" version="1" changeset="7500041" timestamp="2011-03-09T00:07:31Z" user="roscolosco" uid="205175">
+  <nd ref="1192517688"/>
+  <nd ref="1193624791"/>
+  <nd ref="1193624829"/>
+  <nd ref="1192517630"/>
+  <tag k="highway" v="unclassified"/>
+ </way>
+ <way id="103364069" visible="true" version="1" changeset="7500041" timestamp="2011-03-09T00:07:34Z" user="roscolosco" uid="205175">
+  <nd ref="1193624992"/>
+  <nd ref="1193624931"/>
+  <nd ref="1193625006"/>
+  <tag k="highway" v="track"/>
+ </way>
+</osm>
