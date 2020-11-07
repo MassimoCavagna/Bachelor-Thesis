@@ -1,30 +1,3 @@
-Analisi esplorativa
-
-Il prossimo esperimento è il seguente: usiamo i dati storici in modo
-meno aggregato, per stimare in modo più raffinato il tempo medio di
-attesa di un libro.
-
-L'idea è calcolarsi, sulla base dei dati storici, dei coefficienti
-
-e(g, i, j)
-
-che rappresentano la frequenza con cui *durante il giorno g* viene
-richiesto nella biblioteca j un libro che arriverà tramite prestito
-interbibliotecario dalla biblioteca i. Questi e(g, i, j) possono essere
-calcolati dai dati storici aggregando rispetto alla data, ma non
-rispetto al giorno della settimana.
-
-Con questi posso ricalcolare i coefficienti f(i,g,j,h) del modello OSS,
-definendoli come
-
-f(i,g,j,h) = somma{su tutti i giorni m tra il giorno q della precedente
-visita alla biblioteca i e il giorno g} dist(m,h) * e(m,i,j)
-
-dove dist(m,h) è il numero di giorni tra m e h. Esempio dist(lunedì,
-mercoledì) = 2, dist(sabato, martedì) = 3 ....
-
-
-###########
-l'indice "e" è ricavabile dal file "frequences.csv" in cui per ogni giorno ci sono le coppie di biblioteca_partenza, biblioteca_destinazione
-
-Da chiedere: fino a domenica la week ?
+Ricomputazione:
+Greedy: ls, 2opt, MVLS
+Check su optimized e FOSS
