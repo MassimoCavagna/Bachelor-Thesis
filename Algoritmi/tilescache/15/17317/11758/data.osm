@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991887 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (807746 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2207426" minlon="10.2502441" maxlat="45.2284806" maxlon="10.2612305"/>
  <node id="62511687" visible="true" version="1" changeset="85182" timestamp="2007-10-10T06:22:04Z" user="Niccolo" uid="864" lat="45.2207750" lon="10.2520750">
   <tag k="created_by" v="JOSM"/>
@@ -801,6 +801,10 @@
  <node id="7062894254" visible="true" version="1" changeset="78519927" timestamp="2019-12-17T10:04:24Z" user="MaGiu" uid="10549927" lat="45.2231886" lon="10.2505660"/>
  <node id="7062894255" visible="true" version="1" changeset="78519927" timestamp="2019-12-17T10:04:24Z" user="MaGiu" uid="10549927" lat="45.2237120" lon="10.2536076"/>
  <node id="7062894256" visible="true" version="1" changeset="78519927" timestamp="2019-12-17T10:04:24Z" user="MaGiu" uid="10549927" lat="45.2235561" lon="10.2542018"/>
+ <node id="8034981336" visible="true" version="1" changeset="92873464" timestamp="2020-10-22T07:09:08Z" user="Simone Gadenz" uid="34091" lat="45.2257544" lon="10.2534134"/>
+ <node id="8034981337" visible="true" version="1" changeset="92873464" timestamp="2020-10-22T07:09:08Z" user="Simone Gadenz" uid="34091" lat="45.2258582" lon="10.2523362"/>
+ <node id="8034981338" visible="true" version="1" changeset="92873464" timestamp="2020-10-22T07:09:08Z" user="Simone Gadenz" uid="34091" lat="45.2252639" lon="10.2533189"/>
+ <node id="8034981339" visible="true" version="1" changeset="92873464" timestamp="2020-10-22T07:09:08Z" user="Simone Gadenz" uid="34091" lat="45.2253132" lon="10.2529087"/>
  <way id="75659281" visible="true" version="15" changeset="55114514" timestamp="2018-01-02T23:10:54Z" user="ilcamminare" uid="582732">
   <nd ref="470625936"/>
   <nd ref="470625938"/>
@@ -1089,12 +1093,12 @@
   <tag k="name" v="Via Mazzini"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="138179611" visible="true" version="1" changeset="9927545" timestamp="2011-11-23T22:55:45Z" user="Gianluigi" uid="498903">
+ <way id="138179611" visible="true" version="2" changeset="92873464" timestamp="2020-10-22T07:09:08Z" user="Simone Gadenz" uid="34091">
   <nd ref="1514667014"/>
   <nd ref="1514667012"/>
   <nd ref="1514667049"/>
-  <nd ref="1514667052"/>
   <tag k="highway" v="residential"/>
+  <tag k="name" v="Via P. Parpaglioni"/>
  </way>
  <way id="138179616" visible="true" version="1" changeset="9927545" timestamp="2011-11-23T22:55:45Z" user="Gianluigi" uid="498903">
   <nd ref="1514667041"/>
@@ -1104,24 +1108,21 @@
   <nd ref="1514667082"/>
   <tag k="highway" v="residential"/>
  </way>
- <way id="138179617" visible="true" version="2" changeset="9949336" timestamp="2011-11-25T22:14:09Z" user="Gianluigi" uid="498903">
+ <way id="138179617" visible="true" version="3" changeset="92873464" timestamp="2020-10-22T07:09:08Z" user="Simone Gadenz" uid="34091">
   <nd ref="1514667049"/>
   <nd ref="1514667043"/>
-  <nd ref="1514667037"/>
-  <nd ref="1514667015"/>
-  <nd ref="1514667045"/>
-  <nd ref="1517016988"/>
-  <nd ref="1517016990"/>
-  <nd ref="1514667074"/>
   <tag k="highway" v="residential"/>
+  <tag k="name" v="Via Tullio Bellomi"/>
  </way>
- <way id="138179618" visible="true" version="3" changeset="78497397" timestamp="2019-12-17T01:36:17Z" user="MaGiu" uid="10549927">
+ <way id="138179618" visible="true" version="4" changeset="92873464" timestamp="2020-10-22T07:09:08Z" user="Simone Gadenz" uid="34091">
   <nd ref="470625918"/>
   <nd ref="1514667101"/>
   <nd ref="1514667071"/>
   <nd ref="1514667052"/>
+  <nd ref="8034981336"/>
   <nd ref="1514667014"/>
   <tag k="highway" v="residential"/>
+  <tag k="name" v="Via Pieve"/>
  </way>
  <way id="138179619" visible="true" version="3" changeset="78497397" timestamp="2019-12-17T01:36:17Z" user="MaGiu" uid="10549927">
   <nd ref="1514666925"/>
@@ -1476,7 +1477,7 @@
   <nd ref="1521995797"/>
   <tag k="landuse" v="residential"/>
  </way>
- <way id="169009449" visible="true" version="6" changeset="78519927" timestamp="2019-12-17T10:04:24Z" user="MaGiu" uid="10549927">
+ <way id="169009449" visible="true" version="7" changeset="92916527" timestamp="2020-10-22T19:45:06Z" user="aacomm" uid="8511019">
   <nd ref="1514666732"/>
   <nd ref="411850640"/>
   <nd ref="411850641"/>
@@ -1496,6 +1497,7 @@
   <nd ref="411850650"/>
   <nd ref="7062894254"/>
   <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Via Giuseppe Garibaldi"/>
  </way>
  <way id="170803600" visible="true" version="5" changeset="78497397" timestamp="2019-12-17T01:36:17Z" user="MaGiu" uid="10549927">
   <nd ref="2810030817"/>
@@ -2127,11 +2129,13 @@
   <nd ref="1514666891"/>
   <tag k="highway" v="cycleway"/>
  </way>
- <way id="756109706" visible="true" version="1" changeset="78497397" timestamp="2019-12-17T01:36:17Z" user="MaGiu" uid="10549927">
+ <way id="756109706" visible="true" version="2" changeset="92873464" timestamp="2020-10-22T07:09:08Z" user="Simone Gadenz" uid="34091">
   <nd ref="1514666952"/>
   <nd ref="1514667002"/>
+  <nd ref="8034981338"/>
   <nd ref="1514667014"/>
   <tag k="highway" v="residential"/>
+  <tag k="name" v="Via Pieve"/>
   <tag k="oneway" v="yes"/>
  </way>
  <way id="756109707" visible="true" version="1" changeset="78497397" timestamp="2019-12-17T01:36:17Z" user="MaGiu" uid="10549927">
@@ -2229,6 +2233,34 @@
   <nd ref="7062893556"/>
   <nd ref="7062893558"/>
   <tag k="highway" v="pedestrian"/>
+ </way>
+ <way id="862439090" visible="true" version="1" changeset="92873464" timestamp="2020-10-22T07:09:08Z" user="Simone Gadenz" uid="34091">
+  <nd ref="8034981336"/>
+  <nd ref="8034981337"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Via Pieve"/>
+ </way>
+ <way id="862439091" visible="true" version="1" changeset="92873464" timestamp="2020-10-22T07:09:08Z" user="Simone Gadenz" uid="34091">
+  <nd ref="1514667049"/>
+  <nd ref="1514667052"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Via Tullio Bellomi"/>
+ </way>
+ <way id="862439092" visible="true" version="1" changeset="92873464" timestamp="2020-10-22T07:09:08Z" user="Simone Gadenz" uid="34091">
+  <nd ref="1514667043"/>
+  <nd ref="1514667037"/>
+  <nd ref="1514667015"/>
+  <nd ref="1514667045"/>
+  <nd ref="1517016988"/>
+  <nd ref="1517016990"/>
+  <nd ref="1514667074"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="862439093" visible="true" version="1" changeset="92873464" timestamp="2020-10-22T07:09:08Z" user="Simone Gadenz" uid="34091">
+  <nd ref="8034981338"/>
+  <nd ref="8034981339"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="Via Pieve"/>
  </way>
  <relation id="44458" visible="true" version="12" changeset="44130724" timestamp="2016-12-03T07:01:36Z" user="nyuriks" uid="339581">
   <member type="way" ref="51519708" role="outer"/>

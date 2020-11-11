@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991871 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3708088 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3984500" minlon="9.9206543" maxlat="45.4061637" maxlon="9.9316406"/>
  <node id="62507819" visible="true" version="1" changeset="85182" timestamp="2007-10-10T06:19:12Z" user="Niccolo" uid="864" lat="45.4039760" lon="9.9215640">
   <tag k="created_by" v="JOSM"/>
@@ -372,11 +372,12 @@
  <node id="2212051713" visible="true" version="2" changeset="51421609" timestamp="2017-08-25T00:26:30Z" user="fedc" uid="602784" lat="45.4063474" lon="9.9241812"/>
  <node id="2250297460" visible="true" version="2" changeset="51421818" timestamp="2017-08-25T01:01:02Z" user="fedc" uid="602784" lat="45.4054277" lon="9.9192236"/>
  <node id="2467832848" visible="true" version="2" changeset="55073708" timestamp="2018-01-01T11:40:45Z" user="adirricor" uid="245439" lat="45.4022699" lon="9.9333375"/>
- <node id="3126439309" visible="true" version="2" changeset="35037251" timestamp="2015-11-02T15:53:15Z" user="gilbomorris" uid="185204" lat="45.4028847" lon="9.9287499">
+ <node id="3126439309" visible="true" version="3" changeset="92312088" timestamp="2020-10-11T19:41:57Z" user="dega180" uid="454306" lat="45.4028847" lon="9.9287499">
   <tag k="addr:housenumber" v="55"/>
   <tag k="amenity" v="doctors"/>
   <tag k="contact:email" v="cps.orzinuovi@aochiari.it"/>
   <tag k="contact:fax" v="+39 030 9944381"/>
+  <tag k="healthcare" v="doctor"/>
   <tag k="name" v="Centro Psico Sociale"/>
   <tag k="phone" v="+39 030 9944381"/>
  </node>
@@ -640,10 +641,13 @@
   <tag k="name" v="Briola Carburanti"/>
   <tag k="operator" v="Eni S.p.A."/>
  </node>
- <node id="4427382062" visible="true" version="2" changeset="55073708" timestamp="2018-01-01T11:40:52Z" user="adirricor" uid="245439" lat="45.4011947" lon="9.9239676">
+ <node id="4427382062" visible="true" version="3" changeset="92312088" timestamp="2020-10-11T19:41:57Z" user="dega180" uid="454306" lat="45.4011947" lon="9.9239676">
   <tag k="amenity" v="bank"/>
   <tag k="atm" v="yes"/>
-  <tag k="name" v="Unicredit"/>
+  <tag k="brand" v="UniCredit Bank"/>
+  <tag k="brand:wikidata" v="Q45568"/>
+  <tag k="brand:wikipedia" v="en:UniCredit"/>
+  <tag k="name" v="UniCredit Bank"/>
  </node>
  <node id="4427387931" visible="true" version="2" changeset="42576377" timestamp="2016-10-02T08:04:24Z" user="Nikorzi" uid="1157889" lat="45.4033378" lon="9.9240748">
   <tag k="amenity" v="restaurant"/>
@@ -722,10 +726,13 @@
   <tag k="shop" v="bakery"/>
  </node>
  <node id="4608166097" visible="true" version="1" changeset="45165110" timestamp="2017-01-14T17:14:51Z" user="Nikorzi" uid="1157889" lat="45.4001582" lon="9.9273678"/>
- <node id="4609332261" visible="true" version="1" changeset="45186032" timestamp="2017-01-15T09:16:19Z" user="Nikorzi" uid="1157889" lat="45.4016709" lon="9.9244248">
+ <node id="4609332261" visible="true" version="2" changeset="92312088" timestamp="2020-10-11T19:41:57Z" user="dega180" uid="454306" lat="45.4016709" lon="9.9244248">
   <tag k="amenity" v="bank"/>
   <tag k="atm" v="yes"/>
-  <tag k="name" v="Intesa San Paolo"/>
+  <tag k="brand" v="Intesa Sanpaolo"/>
+  <tag k="brand:wikidata" v="Q1343118"/>
+  <tag k="brand:wikipedia" v="it:Intesa Sanpaolo"/>
+  <tag k="name" v="Intesa Sanpaolo"/>
  </node>
  <node id="4609332646" visible="true" version="2" changeset="89154024" timestamp="2020-08-09T13:24:18Z" user="Nikorzi" uid="1157889" lat="45.4019963" lon="9.9245168">
   <tag k="addr:city" v="Orzinuovi"/>
@@ -739,13 +746,16 @@
   <tag k="phone" v="+39030941200"/>
   <tag k="website" v="http://www.farmaciatinti.it/"/>
  </node>
- <node id="4609336262" visible="true" version="3" changeset="89154095" timestamp="2020-08-09T13:27:10Z" user="Nikorzi" uid="1157889" lat="45.4026690" lon="9.9244021">
+ <node id="4609336262" visible="true" version="4" changeset="92312088" timestamp="2020-10-11T19:41:57Z" user="dega180" uid="454306" lat="45.4026690" lon="9.9244021">
   <tag k="addr:city" v="Orzinuovi"/>
   <tag k="addr:housenumber" v="18"/>
   <tag k="addr:postcode" v="25034"/>
   <tag k="addr:street" v="Piazza Vittorio Emanuele II"/>
   <tag k="amenity" v="bank"/>
   <tag k="atm" v="yes"/>
+  <tag k="brand" v="UBI Banca"/>
+  <tag k="brand:wikidata" v="Q1476162"/>
+  <tag k="brand:wikipedia" v="en:UBI Banca"/>
   <tag k="name" v="UBI Banca"/>
  </node>
  <node id="4609341357" visible="true" version="1" changeset="45186129" timestamp="2017-01-15T09:26:27Z" user="Nikorzi" uid="1157889" lat="45.3999533" lon="9.9232487">
@@ -1552,9 +1562,16 @@
  <node id="5314603200" visible="true" version="1" changeset="55073708" timestamp="2018-01-01T11:39:36Z" user="adirricor" uid="245439" lat="45.4038051" lon="9.9246642"/>
  <node id="5314603201" visible="true" version="2" changeset="71065557" timestamp="2019-06-09T08:19:27Z" user="Nikorzi" uid="1157889" lat="45.4038913" lon="9.9240180"/>
  <node id="5314603202" visible="true" version="1" changeset="55073708" timestamp="2018-01-01T11:39:36Z" user="adirricor" uid="245439" lat="45.4036628" lon="9.9239531"/>
- <node id="5314603203" visible="true" version="1" changeset="55073708" timestamp="2018-01-01T11:39:36Z" user="adirricor" uid="245439" lat="45.4037637" lon="9.9248882">
+ <node id="5314603203" visible="true" version="2" changeset="92312088" timestamp="2020-10-11T19:41:57Z" user="dega180" uid="454306" lat="45.4037637" lon="9.9248882">
   <tag k="amenity" v="bank"/>
+  <tag k="brand" v="Banca Popolare di Sondrio"/>
+  <tag k="brand:en" v="Popular Bank of Sandrio"/>
+  <tag k="brand:it" v="Banca Popolare di Sondrio"/>
+  <tag k="brand:wikidata" v="Q686176"/>
+  <tag k="brand:wikipedia" v="en:Banca Popolare di Sondrio"/>
   <tag k="name" v="Banca Popolare di Sondrio"/>
+  <tag k="name:en" v="Popular Bank of Sandrio"/>
+  <tag k="name:it" v="Banca Popolare di Sondrio"/>
  </node>
  <node id="5314603204" visible="true" version="1" changeset="55073708" timestamp="2018-01-01T11:39:36Z" user="adirricor" uid="245439" lat="45.4057335" lon="9.9214107"/>
  <node id="5314603205" visible="true" version="1" changeset="55073708" timestamp="2018-01-01T11:39:36Z" user="adirricor" uid="245439" lat="45.4057344" lon="9.9215059">
@@ -6040,10 +6057,11 @@
   <tag k="restriction" v="no_left_turn"/>
   <tag k="type" v="restriction"/>
  </relation>
- <relation id="4106659" visible="true" version="1" changeset="26032089" timestamp="2014-10-12T18:26:24Z" user="Baliano" uid="382012">
+ <relation id="4106659" visible="true" version="2" changeset="92312088" timestamp="2020-10-11T19:41:57Z" user="dega180" uid="454306">
   <member type="way" ref="307480583" role="outer"/>
   <member type="way" ref="307480584" role="outer"/>
   <tag k="amenity" v="hospital"/>
+  <tag k="healthcare" v="hospital"/>
   <tag k="name" v="Ospedale Tribandi Pavoni"/>
   <tag k="operator" v="Azienda Ospedaliera Mellino Mellini"/>
   <tag k="phone" v="+39 030 99441"/>

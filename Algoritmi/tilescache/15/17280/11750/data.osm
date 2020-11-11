@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991862 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3708080 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2826171" minlon="9.8437500" maxlat="45.2903466" maxlon="9.8547363"/>
  <node id="264350176" visible="true" version="2" changeset="43275523" timestamp="2016-10-30T01:21:11Z" user="fedc" uid="602784" lat="45.2892406" lon="9.8411217"/>
  <node id="264350178" visible="true" version="3" changeset="43275523" timestamp="2016-10-30T01:21:11Z" user="fedc" uid="602784" lat="45.2888101" lon="9.8429212"/>
@@ -2943,7 +2943,7 @@
   <tag k="social_facility:for" v="senior"/>
   <tag k="website" v="https://www.casadiriposozucchifalcina.it/"/>
  </way>
- <relation id="183626" visible="true" version="56" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
+ <relation id="183626" visible="true" version="57" changeset="92894016" timestamp="2020-10-22T11:47:39Z" user="Mannivu" uid="1950277">
   <member type="way" ref="38289883" role=""/>
   <member type="way" ref="38289882" role=""/>
   <member type="way" ref="596450377" role=""/>
@@ -2995,6 +2995,7 @@
   <tag k="route" v="railway"/>
   <tag k="type" v="route"/>
   <tag k="wikidata" v="Q803335"/>
+  <tag k="wikimedia_commons" v="Category:Treviglio–Cremona railway"/>
   <tag k="wikipedia" v="it:Ferrovia Treviglio-Cremona"/>
  </relation>
  <relation id="2250491" visible="true" version="32" changeset="90474198" timestamp="2020-09-06T09:31:17Z" user="Francoerbi41" uid="4982687">

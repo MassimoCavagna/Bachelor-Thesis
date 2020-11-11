@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991886 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3708107 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3675844" minlon="9.6899414" maxlat="45.3753024" maxlon="9.7009277"/>
  <node id="252417479" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:47:34Z" user="wiso" uid="30891" lat="45.3643607" lon="9.6971482"/>
  <node id="252417480" visible="true" version="9" changeset="3196159" timestamp="2009-11-23T14:47:31Z" user="wiso" uid="30891" lat="45.3654993" lon="9.6976630"/>
@@ -79,15 +79,15 @@
  <node id="252523954" visible="true" version="9" changeset="22106644" timestamp="2014-05-03T14:59:17Z" user="motopisolo" uid="2055277" lat="45.4131169" lon="9.7108803"/>
  <node id="252523955" visible="true" version="9" changeset="22106644" timestamp="2014-05-03T14:59:17Z" user="motopisolo" uid="2055277" lat="45.4132104" lon="9.7090036"/>
  <node id="252523956" visible="true" version="9" changeset="22106644" timestamp="2014-05-03T14:59:17Z" user="motopisolo" uid="2055277" lat="45.4133455" lon="9.7082965"/>
- <node id="252523957" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:46:38Z" user="wiso" uid="30891" lat="45.4141647" lon="9.7077108"/>
- <node id="252523958" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:46:37Z" user="wiso" uid="30891" lat="45.4148275" lon="9.7081399"/>
- <node id="252523959" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:46:37Z" user="wiso" uid="30891" lat="45.4151287" lon="9.7094274"/>
- <node id="252523960" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:46:36Z" user="wiso" uid="30891" lat="45.4151890" lon="9.7104574"/>
- <node id="252523961" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:46:35Z" user="wiso" uid="30891" lat="45.4155505" lon="9.7114015"/>
- <node id="252523962" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:46:35Z" user="wiso" uid="30891" lat="45.4161530" lon="9.7120881"/>
+ <node id="252523957" visible="true" version="9" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4141055" lon="9.7078420"/>
+ <node id="252523958" visible="true" version="9" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4146960" lon="9.7081087"/>
+ <node id="252523959" visible="true" version="9" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4152580" lon="9.7095273"/>
+ <node id="252523960" visible="true" version="9" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4153994" lon="9.7104886"/>
+ <node id="252523961" visible="true" version="9" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4156075" lon="9.7113203"/>
+ <node id="252523962" visible="true" version="9" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4161946" lon="9.7119913"/>
  <node id="252523963" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:46:34Z" user="wiso" uid="30891" lat="45.4168760" lon="9.7121740"/>
- <node id="252523964" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:46:33Z" user="wiso" uid="30891" lat="45.4185026" lon="9.7120023"/>
- <node id="252523965" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:46:33Z" user="wiso" uid="30891" lat="45.4198280" lon="9.7121740"/>
+ <node id="252523964" visible="true" version="9" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4184798" lon="9.7122549"/>
+ <node id="252523965" visible="true" version="9" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4197495" lon="9.7122931"/>
  <node id="252523966" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:46:32Z" user="wiso" uid="30891" lat="45.4206112" lon="9.7126031"/>
  <node id="252523967" visible="true" version="10" changeset="69465293" timestamp="2019-04-22T19:15:32Z" user="aacomm" uid="8511019" lat="45.4211636" lon="9.7131647">
   <tag k="name" v="Palata Malcontenta"/>
@@ -627,12 +627,11 @@
  <node id="451084961" visible="true" version="1" changeset="1980000" timestamp="2009-07-29T22:27:01Z" user="wiso" uid="30891" lat="45.3744380" lon="9.6975874"/>
  <node id="451084968" visible="true" version="3" changeset="21650699" timestamp="2014-04-12T19:24:16Z" user="Alecs01" uid="1476146" lat="45.3686956" lon="9.6960483"/>
  <node id="451084977" visible="true" version="2" changeset="4652438" timestamp="2010-05-09T18:43:31Z" user="wiso" uid="30891" lat="45.3689643" lon="9.6961207"/>
- <node id="451084979" visible="true" version="2" changeset="17928752" timestamp="2013-09-19T19:32:56Z" user="wiso" uid="30891" lat="45.3664208" lon="9.6954401"/>
  <node id="451084982" visible="true" version="5" changeset="17928752" timestamp="2013-09-19T19:32:56Z" user="wiso" uid="30891" lat="45.3665680" lon="9.6954767">
   <tag k="railway" v="level_crossing"/>
  </node>
  <node id="451084984" visible="true" version="3" changeset="42996984" timestamp="2016-10-18T22:32:21Z" user="fedc" uid="602784" lat="45.3684826" lon="9.6959868"/>
- <node id="451084987" visible="true" version="3" changeset="17928752" timestamp="2013-09-19T19:32:56Z" user="wiso" uid="30891" lat="45.3663372" lon="9.6954217">
+ <node id="451084987" visible="true" version="4" changeset="92791116" timestamp="2020-10-20T21:11:24Z" user="fedc" uid="602784" lat="45.3663530" lon="9.6954217">
   <tag k="highway" v="traffic_signals"/>
  </node>
  <node id="451085008" visible="true" version="3" changeset="13827000" timestamp="2012-11-10T22:50:42Z" user="andreamar" uid="348243" lat="45.3689547" lon="9.6936015"/>
@@ -7724,6 +7723,9 @@
  <node id="7994876948" visible="true" version="1" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306" lat="45.3713301" lon="9.6966585"/>
  <node id="7994876949" visible="true" version="1" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306" lat="45.3713205" lon="9.6967501"/>
  <node id="7994876950" visible="true" version="1" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306" lat="45.3713689" lon="9.6967640"/>
+ <node id="8017531441" visible="true" version="1" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4137025" lon="9.7079193"/>
+ <node id="8017531442" visible="true" version="1" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4150965" lon="9.7086025"/>
+ <node id="8017531443" visible="true" version="1" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4158474" lon="9.7117073"/>
  <way id="23461506" visible="true" version="10" changeset="17774966" timestamp="2013-09-10T22:05:46Z" user="bt1950" uid="330776">
   <nd ref="467705577"/>
   <nd ref="2453516309"/>
@@ -7912,12 +7914,11 @@
   <tag k="name" v="Viale Santa Maria della Croce"/>
   <tag k="source" v="ctr lombardia"/>
  </way>
- <way id="38255515" visible="true" version="7" changeset="42996984" timestamp="2016-10-18T22:32:30Z" user="fedc" uid="602784">
+ <way id="38255515" visible="true" version="8" changeset="92791116" timestamp="2020-10-20T21:11:24Z" user="fedc" uid="602784">
   <nd ref="451084984"/>
   <nd ref="742517709"/>
   <nd ref="742517747"/>
   <nd ref="451084982"/>
-  <nd ref="451084979"/>
   <nd ref="451084987"/>
   <tag k="highway" v="tertiary"/>
   <tag k="name" v="Viale Santa Maria della Croce"/>
@@ -9033,7 +9034,7 @@
   <tag k="tracktype" v="grade1"/>
   <tag k="width" v="1"/>
  </way>
- <way id="156963362" visible="true" version="49" changeset="79311932" timestamp="2020-01-07T21:39:06Z" user="morsi" uid="139580">
+ <way id="156963362" visible="true" version="50" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306">
   <nd ref="287322965"/>
   <nd ref="2000886957"/>
   <nd ref="836519062"/>
@@ -9502,11 +9503,14 @@
   <nd ref="252523964"/>
   <nd ref="252523963"/>
   <nd ref="252523962"/>
+  <nd ref="8017531443"/>
   <nd ref="252523961"/>
   <nd ref="252523960"/>
   <nd ref="252523959"/>
+  <nd ref="8017531442"/>
   <nd ref="252523958"/>
   <nd ref="252523957"/>
+  <nd ref="8017531441"/>
   <nd ref="252523956"/>
   <nd ref="2833776971"/>
   <nd ref="252523955"/>
@@ -9880,7 +9884,7 @@
   <tag k="segregated" v="no"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="169025962" visible="true" version="3" changeset="21650699" timestamp="2014-04-12T19:24:15Z" user="Alecs01" uid="1476146">
+ <way id="169025962" visible="true" version="4" changeset="92355726" timestamp="2020-10-12T12:39:53Z" user="Mannivu" uid="1950277">
   <nd ref="265728248"/>
   <nd ref="451104659"/>
   <nd ref="742517699"/>
@@ -9888,7 +9892,6 @@
   <nd ref="2007265130"/>
   <nd ref="451085037"/>
   <nd ref="2786201833"/>
-  <tag k="bicycle" v="yes"/>
   <tag k="cycleway" v="track"/>
   <tag k="foot" v="yes"/>
   <tag k="highway" v="cycleway"/>
@@ -14674,7 +14677,7 @@
   <nd ref="563688152"/>
   <nd ref="2422360556"/>
  </way>
- <way id="302381722" visible="true" version="3" changeset="75279575" timestamp="2019-10-04T11:51:40Z" user="astraspera" uid="2653653">
+ <way id="302381722" visible="true" version="4" changeset="92369927" timestamp="2020-10-12T18:16:23Z" user="Mannivu" uid="1950277">
   <nd ref="3066394226"/>
   <nd ref="3066394225"/>
   <nd ref="3066394224"/>
@@ -14778,6 +14781,8 @@
   <nd ref="441389091"/>
   <nd ref="302425687"/>
   <nd ref="3066394226"/>
+  <tag k="fixme" v="questo landuse dovrebbe essere diviso nei singoli landuse=farmland, perché un landuse di questo tipo non può passare sopra strade e canali"/>
+  <tag k="landuse" v="farmland"/>
  </way>
  <way id="343692904" visible="true" version="1" changeset="30903239" timestamp="2015-05-08T12:56:51Z" user="ilrobi" uid="22110">
   <nd ref="3504917845"/>
@@ -17012,7 +17017,7 @@
   <tag k="tunnel" v="culvert"/>
   <tag k="waterway" v="ditch"/>
  </way>
- <relation id="183626" visible="true" version="56" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
+ <relation id="183626" visible="true" version="57" changeset="92894016" timestamp="2020-10-22T11:47:39Z" user="Mannivu" uid="1950277">
   <member type="way" ref="38289883" role=""/>
   <member type="way" ref="38289882" role=""/>
   <member type="way" ref="596450377" role=""/>
@@ -17064,6 +17069,7 @@
   <tag k="route" v="railway"/>
   <tag k="type" v="route"/>
   <tag k="wikidata" v="Q803335"/>
+  <tag k="wikimedia_commons" v="Category:Treviglio–Cremona railway"/>
   <tag k="wikipedia" v="it:Ferrovia Treviglio-Cremona"/>
  </relation>
  <relation id="546902" visible="true" version="11" changeset="80266499" timestamp="2020-01-29T15:42:47Z" user="Mannivu" uid="1950277">
@@ -17175,7 +17181,7 @@
   <tag k="wikidata" v="Q1284902"/>
   <tag k="wikipedia" v="it:Serio"/>
  </relation>
- <relation id="2250847" visible="true" version="31" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306">
+ <relation id="2250847" visible="true" version="32" changeset="92791116" timestamp="2020-10-20T21:11:24Z" user="fedc" uid="602784">
   <member type="way" ref="113678704" role=""/>
   <member type="way" ref="126701315" role=""/>
   <member type="way" ref="126701313" role=""/>
@@ -17263,7 +17269,6 @@
   <member type="way" ref="168963193" role=""/>
   <member type="way" ref="168968056" role=""/>
   <member type="way" ref="618892725" role=""/>
-  <member type="way" ref="169025963" role=""/>
   <member type="way" ref="619115098" role=""/>
   <member type="way" ref="576978575" role=""/>
   <member type="way" ref="71753117" role=""/>
@@ -17283,7 +17288,7 @@
   <tag k="route" v="bicycle"/>
   <tag k="type" v="route"/>
  </relation>
- <relation id="2251042" visible="true" version="23" changeset="92274363" timestamp="2020-10-10T12:33:07Z" user="dega180" uid="454306">
+ <relation id="2251042" visible="true" version="24" changeset="92791116" timestamp="2020-10-20T21:11:24Z" user="fedc" uid="602784">
   <member type="way" ref="168964523" role=""/>
   <member type="way" ref="655352348" role=""/>
   <member type="way" ref="41222525" role=""/>
@@ -17300,7 +17305,6 @@
   <member type="way" ref="104431623" role=""/>
   <member type="way" ref="273804962" role=""/>
   <member type="way" ref="169025962" role=""/>
-  <member type="way" ref="169025963" role=""/>
   <member type="way" ref="258436349" role=""/>
   <member type="way" ref="258436348" role=""/>
   <member type="way" ref="398886428" role=""/>
@@ -17562,12 +17566,6 @@
   <tag k="wikidata" v="Q2936117"/>
   <tag k="wikipedia" v="it:Canale Vacchelli"/>
  </relation>
- <relation id="4021356" visible="true" version="2" changeset="85032463" timestamp="2020-05-11T15:10:52Z" user="Mannivu" uid="1950277">
-  <member type="way" ref="302381722" role="outer"/>
-  <tag k="fixme" v="questo multipoligono dovrebbe essere diviso nei singoli landuse=farmland, perché un landuse di questo tipo non può passare sopra strade e canali"/>
-  <tag k="landuse" v="farmland"/>
-  <tag k="type" v="multipolygon"/>
- </relation>
  <relation id="4021357" visible="true" version="1" changeset="25303805" timestamp="2014-09-08T09:51:49Z" user="morsi" uid="139580">
   <member type="way" ref="302381720" role="outer"/>
   <tag k="landuse" v="industrial"/>
@@ -17672,7 +17670,7 @@
   <tag k="route" v="bicycle"/>
   <tag k="type" v="route"/>
  </relation>
- <relation id="9510184" visible="true" version="3" changeset="72140534" timestamp="2019-07-11T15:01:18Z" user="LuSirto" uid="506470">
+ <relation id="9510184" visible="true" version="5" changeset="92791116" timestamp="2020-10-20T21:11:24Z" user="fedc" uid="602784">
   <member type="way" ref="279127710" role=""/>
   <member type="way" ref="279127709" role=""/>
   <member type="way" ref="703413965" role=""/>
@@ -17701,7 +17699,6 @@
   <member type="way" ref="685304465" role=""/>
   <member type="way" ref="273804962" role=""/>
   <member type="way" ref="169025962" role=""/>
-  <member type="way" ref="190105163" role=""/>
   <member type="way" ref="140768076" role=""/>
   <member type="way" ref="140768072" role=""/>
   <member type="way" ref="609623015" role=""/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991867 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3708093 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3521452" minlon="9.6789551" maxlat="45.3598653" maxlon="9.6899414"/>
  <node id="227002770" visible="true" version="6" changeset="61983827" timestamp="2018-08-25T13:11:29Z" user="Cascafico" uid="361003" lat="45.3534669" lon="9.6872134">
   <tag k="amenity" v="fuel"/>
@@ -23640,7 +23640,7 @@
   <tag k="name" v="ITIS - Liceo Tecnologico Galileo Galilei"/>
   <tag k="type" v="multipolygon"/>
  </relation>
- <relation id="240206" visible="true" version="165" changeset="74193056" timestamp="2019-09-06T20:52:47Z" user="fedc" uid="602784">
+ <relation id="240206" visible="true" version="166" changeset="92791116" timestamp="2020-10-20T21:11:24Z" user="fedc" uid="602784">
   <member type="node" ref="252720193" role="stop"/>
   <member type="node" ref="571821405" role="stop"/>
   <member type="way" ref="585187098" role=""/>
@@ -23674,18 +23674,16 @@
   <member type="way" ref="28570237" role="forward"/>
   <member type="way" ref="43469604" role="forward"/>
   <member type="way" ref="23338950" role="forward"/>
-  <member type="way" ref="169025963" role="forward"/>
-  <member type="way" ref="190105163" role="forward"/>
   <member type="way" ref="43469688" role="forward"/>
   <member type="way" ref="653532321" role="forward"/>
   <member type="way" ref="653532322" role=""/>
   <member type="way" ref="38255516" role=""/>
+  <member type="way" ref="38255517" role=""/>
+  <member type="way" ref="448566206" role=""/>
   <member type="way" ref="208858436" role=""/>
   <member type="way" ref="448566208" role=""/>
-  <member type="way" ref="448566206" role=""/>
   <member type="way" ref="448566207" role=""/>
   <member type="way" ref="233922347" role=""/>
-  <member type="way" ref="38255517" role=""/>
   <member type="way" ref="23393075" role=""/>
   <member type="way" ref="30179759" role=""/>
   <member type="way" ref="208858438" role=""/>
@@ -23897,7 +23895,7 @@
   <tag k="wikidata" v="Q3697065"/>
   <tag k="wikipedia" v="it:Cresmiero"/>
  </relation>
- <relation id="6780651" visible="true" version="37" changeset="85139777" timestamp="2020-05-13T10:45:43Z" user="gigi2037" uid="616481">
+ <relation id="6780651" visible="true" version="39" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784">
   <member type="way" ref="107052224" role=""/>
   <member type="way" ref="107052180" role=""/>
   <member type="way" ref="38845337" role=""/>
@@ -24064,7 +24062,6 @@
   <member type="way" ref="458939193" role=""/>
   <member type="way" ref="458939185" role=""/>
   <member type="way" ref="458939190" role=""/>
-  <member type="way" ref="458939186" role=""/>
   <member type="way" ref="761476566" role=""/>
   <member type="way" ref="458939192" role=""/>
   <member type="way" ref="458939189" role=""/>
@@ -24171,8 +24168,12 @@
   <member type="way" ref="186811024" role=""/>
   <member type="way" ref="186811033" role=""/>
   <member type="way" ref="186811034" role=""/>
+  <member type="way" ref="863578150" role=""/>
+  <member type="way" ref="863578149" role=""/>
   <member type="way" ref="169083488" role=""/>
-  <member type="way" ref="305154341" role=""/>
+  <member type="way" ref="863578147" role=""/>
+  <member type="way" ref="863578148" role=""/>
+  <member type="way" ref="863578146" role=""/>
   <member type="way" ref="358634904" role=""/>
   <member type="way" ref="187778205" role=""/>
   <member type="way" ref="567549252" role=""/>

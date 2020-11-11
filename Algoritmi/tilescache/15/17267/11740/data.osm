@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991867 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3708083 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3598653" minlon="9.7009277" maxlat="45.3675844" maxlon="9.7119141"/>
  <node id="252517860" visible="true" version="4" changeset="82108575" timestamp="2020-03-12T11:00:30Z" user="billyboe" uid="10889914" lat="45.3794344" lon="9.7430394"/>
  <node id="252523311" visible="true" version="10" changeset="15292427" timestamp="2013-03-08T17:09:44Z" user="wiso" uid="30891" lat="45.3665911" lon="9.7068138"/>
@@ -17419,7 +17419,7 @@
   <tag k="tunnel" v="culvert"/>
   <tag k="waterway" v="ditch"/>
  </way>
- <relation id="183626" visible="true" version="56" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
+ <relation id="183626" visible="true" version="57" changeset="92894016" timestamp="2020-10-22T11:47:39Z" user="Mannivu" uid="1950277">
   <member type="way" ref="38289883" role=""/>
   <member type="way" ref="38289882" role=""/>
   <member type="way" ref="596450377" role=""/>
@@ -17471,6 +17471,7 @@
   <tag k="route" v="railway"/>
   <tag k="type" v="route"/>
   <tag k="wikidata" v="Q803335"/>
+  <tag k="wikimedia_commons" v="Category:Treviglio–Cremona railway"/>
   <tag k="wikipedia" v="it:Ferrovia Treviglio-Cremona"/>
  </relation>
  <relation id="270114" visible="true" version="6" changeset="47242403" timestamp="2017-03-28T20:53:08Z" user="Heinz_V" uid="91490">
@@ -17482,7 +17483,7 @@
   <tag k="landuse" v="farmland"/>
   <tag k="type" v="multipolygon"/>
  </relation>
- <relation id="2250847" visible="true" version="31" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306">
+ <relation id="2250847" visible="true" version="32" changeset="92791116" timestamp="2020-10-20T21:11:24Z" user="fedc" uid="602784">
   <member type="way" ref="113678704" role=""/>
   <member type="way" ref="126701315" role=""/>
   <member type="way" ref="126701313" role=""/>
@@ -17570,7 +17571,6 @@
   <member type="way" ref="168963193" role=""/>
   <member type="way" ref="168968056" role=""/>
   <member type="way" ref="618892725" role=""/>
-  <member type="way" ref="169025963" role=""/>
   <member type="way" ref="619115098" role=""/>
   <member type="way" ref="576978575" role=""/>
   <member type="way" ref="71753117" role=""/>

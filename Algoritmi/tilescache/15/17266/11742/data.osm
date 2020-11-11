@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2523336 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3708092 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3444241" minlon="9.6899414" maxlat="45.3521452" maxlon="9.7009277"/>
  <node id="252417479" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:47:34Z" user="wiso" uid="30891" lat="45.3643607" lon="9.6971482"/>
  <node id="252417480" visible="true" version="9" changeset="3196159" timestamp="2009-11-23T14:47:31Z" user="wiso" uid="30891" lat="45.3654993" lon="9.6976630"/>
@@ -84,15 +84,15 @@
  <node id="252523954" visible="true" version="9" changeset="22106644" timestamp="2014-05-03T14:59:17Z" user="motopisolo" uid="2055277" lat="45.4131169" lon="9.7108803"/>
  <node id="252523955" visible="true" version="9" changeset="22106644" timestamp="2014-05-03T14:59:17Z" user="motopisolo" uid="2055277" lat="45.4132104" lon="9.7090036"/>
  <node id="252523956" visible="true" version="9" changeset="22106644" timestamp="2014-05-03T14:59:17Z" user="motopisolo" uid="2055277" lat="45.4133455" lon="9.7082965"/>
- <node id="252523957" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:46:38Z" user="wiso" uid="30891" lat="45.4141647" lon="9.7077108"/>
- <node id="252523958" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:46:37Z" user="wiso" uid="30891" lat="45.4148275" lon="9.7081399"/>
- <node id="252523959" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:46:37Z" user="wiso" uid="30891" lat="45.4151287" lon="9.7094274"/>
- <node id="252523960" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:46:36Z" user="wiso" uid="30891" lat="45.4151890" lon="9.7104574"/>
- <node id="252523961" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:46:35Z" user="wiso" uid="30891" lat="45.4155505" lon="9.7114015"/>
- <node id="252523962" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:46:35Z" user="wiso" uid="30891" lat="45.4161530" lon="9.7120881"/>
+ <node id="252523957" visible="true" version="9" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4141055" lon="9.7078420"/>
+ <node id="252523958" visible="true" version="9" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4146960" lon="9.7081087"/>
+ <node id="252523959" visible="true" version="9" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4152580" lon="9.7095273"/>
+ <node id="252523960" visible="true" version="9" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4153994" lon="9.7104886"/>
+ <node id="252523961" visible="true" version="9" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4156075" lon="9.7113203"/>
+ <node id="252523962" visible="true" version="9" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4161946" lon="9.7119913"/>
  <node id="252523963" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:46:34Z" user="wiso" uid="30891" lat="45.4168760" lon="9.7121740"/>
- <node id="252523964" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:46:33Z" user="wiso" uid="30891" lat="45.4185026" lon="9.7120023"/>
- <node id="252523965" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:46:33Z" user="wiso" uid="30891" lat="45.4198280" lon="9.7121740"/>
+ <node id="252523964" visible="true" version="9" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4184798" lon="9.7122549"/>
+ <node id="252523965" visible="true" version="9" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4197495" lon="9.7122931"/>
  <node id="252523966" visible="true" version="8" changeset="3196159" timestamp="2009-11-23T14:46:32Z" user="wiso" uid="30891" lat="45.4206112" lon="9.7126031"/>
  <node id="252523967" visible="true" version="10" changeset="69465293" timestamp="2019-04-22T19:15:32Z" user="aacomm" uid="8511019" lat="45.4211636" lon="9.7131647">
   <tag k="name" v="Palata Malcontenta"/>
@@ -4384,6 +4384,9 @@
  <node id="7112863573" visible="true" version="1" changeset="79262189" timestamp="2020-01-06T19:17:54Z" user="morsi" uid="139580" lat="45.5882998" lon="9.7425744"/>
  <node id="7115443009" visible="true" version="1" changeset="79311932" timestamp="2020-01-07T21:39:06Z" user="morsi" uid="139580" lat="45.6120430" lon="9.7427192"/>
  <node id="7115443080" visible="true" version="1" changeset="79311932" timestamp="2020-01-07T21:39:06Z" user="morsi" uid="139580" lat="45.5877423" lon="9.7421828"/>
+ <node id="8017531441" visible="true" version="1" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4137025" lon="9.7079193"/>
+ <node id="8017531442" visible="true" version="1" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4150965" lon="9.7086025"/>
+ <node id="8017531443" visible="true" version="1" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306" lat="45.4158474" lon="9.7117073"/>
  <way id="28302663" visible="true" version="9" changeset="74276450" timestamp="2019-09-09T18:01:04Z" user="fedc" uid="602784">
   <nd ref="310800392"/>
   <nd ref="613150063"/>
@@ -5820,7 +5823,7 @@
   <tag k="source" v="Regione Lombardia - La banca dati territoriali CTR10000 è prodotta da Regione Lombardia - Infrastruttura per l'Informazione Territoriale"/>
   <tag k="waterway" v="stream"/>
  </way>
- <way id="156963362" visible="true" version="49" changeset="79311932" timestamp="2020-01-07T21:39:06Z" user="morsi" uid="139580">
+ <way id="156963362" visible="true" version="50" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306">
   <nd ref="287322965"/>
   <nd ref="2000886957"/>
   <nd ref="836519062"/>
@@ -6289,11 +6292,14 @@
   <nd ref="252523964"/>
   <nd ref="252523963"/>
   <nd ref="252523962"/>
+  <nd ref="8017531443"/>
   <nd ref="252523961"/>
   <nd ref="252523960"/>
   <nd ref="252523959"/>
+  <nd ref="8017531442"/>
   <nd ref="252523958"/>
   <nd ref="252523957"/>
+  <nd ref="8017531441"/>
   <nd ref="252523956"/>
   <nd ref="2833776971"/>
   <nd ref="252523955"/>
@@ -8752,7 +8758,7 @@
   <tag k="wikidata" v="Q3697065"/>
   <tag k="wikipedia" v="it:Cresmiero"/>
  </relation>
- <relation id="6780651" visible="true" version="37" changeset="85139777" timestamp="2020-05-13T10:45:43Z" user="gigi2037" uid="616481">
+ <relation id="6780651" visible="true" version="39" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784">
   <member type="way" ref="107052224" role=""/>
   <member type="way" ref="107052180" role=""/>
   <member type="way" ref="38845337" role=""/>
@@ -8919,7 +8925,6 @@
   <member type="way" ref="458939193" role=""/>
   <member type="way" ref="458939185" role=""/>
   <member type="way" ref="458939190" role=""/>
-  <member type="way" ref="458939186" role=""/>
   <member type="way" ref="761476566" role=""/>
   <member type="way" ref="458939192" role=""/>
   <member type="way" ref="458939189" role=""/>
@@ -9026,8 +9031,12 @@
   <member type="way" ref="186811024" role=""/>
   <member type="way" ref="186811033" role=""/>
   <member type="way" ref="186811034" role=""/>
+  <member type="way" ref="863578150" role=""/>
+  <member type="way" ref="863578149" role=""/>
   <member type="way" ref="169083488" role=""/>
-  <member type="way" ref="305154341" role=""/>
+  <member type="way" ref="863578147" role=""/>
+  <member type="way" ref="863578148" role=""/>
+  <member type="way" ref="863578146" role=""/>
   <member type="way" ref="358634904" role=""/>
   <member type="way" ref="187778205" role=""/>
   <member type="way" ref="567549252" role=""/>

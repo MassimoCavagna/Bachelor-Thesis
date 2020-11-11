@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2923323 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3708082 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3598653" minlon="9.7119141" maxlat="45.3675844" maxlon="9.7229004"/>
  <node id="253512786" visible="true" version="20" changeset="794510" timestamp="2009-03-11T22:01:35Z" user="wiso" uid="30891" lat="45.3675141" lon="9.7194967"/>
  <node id="253512788" visible="true" version="19" changeset="30913546" timestamp="2015-05-08T16:20:35Z" user="fedc" uid="602784" lat="45.3595817" lon="9.7139770"/>
@@ -1938,7 +1938,7 @@
   <tag k="wikidata" v="Q63109"/>
   <tag k="wikipedia" v="en:Adda (river)"/>
  </relation>
- <relation id="2250847" visible="true" version="31" changeset="92274126" timestamp="2020-10-10T12:24:22Z" user="dega180" uid="454306">
+ <relation id="2250847" visible="true" version="32" changeset="92791116" timestamp="2020-10-20T21:11:24Z" user="fedc" uid="602784">
   <member type="way" ref="113678704" role=""/>
   <member type="way" ref="126701315" role=""/>
   <member type="way" ref="126701313" role=""/>
@@ -2026,7 +2026,6 @@
   <member type="way" ref="168963193" role=""/>
   <member type="way" ref="168968056" role=""/>
   <member type="way" ref="618892725" role=""/>
-  <member type="way" ref="169025963" role=""/>
   <member type="way" ref="619115098" role=""/>
   <member type="way" ref="576978575" role=""/>
   <member type="way" ref="71753117" role=""/>
@@ -2090,7 +2089,7 @@
   <tag k="wikidata" v="Q2936117"/>
   <tag k="wikipedia" v="it:Canale Vacchelli"/>
  </relation>
- <relation id="6780651" visible="true" version="37" changeset="85139777" timestamp="2020-05-13T10:45:43Z" user="gigi2037" uid="616481">
+ <relation id="6780651" visible="true" version="39" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784">
   <member type="way" ref="107052224" role=""/>
   <member type="way" ref="107052180" role=""/>
   <member type="way" ref="38845337" role=""/>
@@ -2257,7 +2256,6 @@
   <member type="way" ref="458939193" role=""/>
   <member type="way" ref="458939185" role=""/>
   <member type="way" ref="458939190" role=""/>
-  <member type="way" ref="458939186" role=""/>
   <member type="way" ref="761476566" role=""/>
   <member type="way" ref="458939192" role=""/>
   <member type="way" ref="458939189" role=""/>
@@ -2364,8 +2362,12 @@
   <member type="way" ref="186811024" role=""/>
   <member type="way" ref="186811033" role=""/>
   <member type="way" ref="186811034" role=""/>
+  <member type="way" ref="863578150" role=""/>
+  <member type="way" ref="863578149" role=""/>
   <member type="way" ref="169083488" role=""/>
-  <member type="way" ref="305154341" role=""/>
+  <member type="way" ref="863578147" role=""/>
+  <member type="way" ref="863578148" role=""/>
+  <member type="way" ref="863578146" role=""/>
   <member type="way" ref="358634904" role=""/>
   <member type="way" ref="187778205" role=""/>
   <member type="way" ref="567549252" role=""/>

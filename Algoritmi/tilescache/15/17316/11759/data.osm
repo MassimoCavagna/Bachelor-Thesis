@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991887 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3708101 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2130036" minlon="10.2392578" maxlat="45.2207426" maxlon="10.2502441"/>
  <node id="275186779" visible="true" version="7" changeset="10579114" timestamp="2012-02-03T20:55:53Z" user="Gianluigi" uid="498903" lat="45.1411137" lon="10.4215145"/>
  <node id="288034979" visible="true" version="4" changeset="28236692" timestamp="2015-01-18T18:08:56Z" user="Fredie" uid="2073275" lat="45.0465187" lon="10.6628115"/>
@@ -5652,6 +5652,12 @@
  <node id="7840959609" visible="true" version="1" changeset="89874354" timestamp="2020-08-24T19:08:54Z" user="fedc" uid="602784" lat="45.2195372" lon="10.2492853"/>
  <node id="7840959610" visible="true" version="1" changeset="89874354" timestamp="2020-08-24T19:08:54Z" user="fedc" uid="602784" lat="45.2195063" lon="10.2491314"/>
  <node id="7840959611" visible="true" version="1" changeset="89874354" timestamp="2020-08-24T19:08:54Z" user="fedc" uid="602784" lat="45.2195467" lon="10.2491151"/>
+ <node id="8014260471" visible="true" version="1" changeset="92599724" timestamp="2020-10-16T18:48:21Z" user="dega180" uid="454306" lat="45.1095868" lon="10.5611677"/>
+ <node id="8038102990" visible="true" version="1" changeset="92916380" timestamp="2020-10-22T19:40:57Z" user="aacomm" uid="8511019" lat="45.2204492" lon="10.2495669">
+  <tag k="amenity" v="cafe"/>
+  <tag k="name" v="Bar Castello"/>
+  <tag k="outdoor_seating" v="yes"/>
+ </node>
  <way id="30444961" visible="true" version="18" changeset="61828130" timestamp="2018-08-20T15:57:37Z" user="S_Am" uid="7360355">
   <nd ref="377046658"/>
   <nd ref="377046672"/>
@@ -5690,12 +5696,13 @@
   <tag k="name" v="Strada Provinciale 83"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="35106533" visible="true" version="7" changeset="12167323" timestamp="2012-07-09T21:27:11Z" user="Gianluigi" uid="498903">
+ <way id="35106533" visible="true" version="8" changeset="92916527" timestamp="2020-10-22T19:45:06Z" user="aacomm" uid="8511019">
   <nd ref="377046872"/>
   <nd ref="411850638"/>
   <nd ref="411850639"/>
   <nd ref="1514666732"/>
   <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Via Giuseppe Garibaldi"/>
  </way>
  <way id="39273071" visible="true" version="10" changeset="25971310" timestamp="2014-10-09T22:01:59Z" user="dvdzero" uid="351361">
   <nd ref="470625825"/>
@@ -5728,7 +5735,7 @@
   <tag k="highway" v="tertiary"/>
   <tag k="name" v="Strada Provinciale 83"/>
  </way>
- <way id="82534683" visible="true" version="75" changeset="77975702" timestamp="2019-12-05T07:26:21Z" user="pigio66" uid="7507474">
+ <way id="82534683" visible="true" version="76" changeset="92599724" timestamp="2020-10-16T18:48:21Z" user="dega180" uid="454306">
   <nd ref="309639748"/>
   <nd ref="309639830"/>
   <nd ref="2965934516"/>
@@ -6872,6 +6879,7 @@
   <nd ref="1819502322"/>
   <nd ref="1819502315"/>
   <nd ref="1819502310"/>
+  <nd ref="8014260471"/>
   <nd ref="1819502309"/>
   <nd ref="1819502308"/>
   <nd ref="1819502307"/>
@@ -9097,7 +9105,7 @@
   <nd ref="1521995797"/>
   <tag k="landuse" v="residential"/>
  </way>
- <way id="169009449" visible="true" version="6" changeset="78519927" timestamp="2019-12-17T10:04:24Z" user="MaGiu" uid="10549927">
+ <way id="169009449" visible="true" version="7" changeset="92916527" timestamp="2020-10-22T19:45:06Z" user="aacomm" uid="8511019">
   <nd ref="1514666732"/>
   <nd ref="411850640"/>
   <nd ref="411850641"/>
@@ -9117,6 +9125,7 @@
   <nd ref="411850650"/>
   <nd ref="7062894254"/>
   <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Via Giuseppe Garibaldi"/>
  </way>
  <way id="169009464" visible="true" version="4" changeset="78497997" timestamp="2019-12-17T01:55:46Z" user="MaGiu" uid="10549927">
   <nd ref="377046872"/>
@@ -11463,7 +11472,7 @@
   <tag k="wikidata" v="Q42684"/>
   <tag k="wikipedia" v="it:Gabbioneta-Binanuova"/>
  </relation>
- <relation id="1050434" visible="true" version="22" changeset="87872012" timestamp="2020-07-12T09:19:00Z" user="demon_box" uid="350864">
+ <relation id="1050434" visible="true" version="23" changeset="92668108" timestamp="2020-10-18T20:03:04Z" user="MitjaJez" uid="1553347">
   <member type="way" ref="159826978" role="main_stream"/>
   <member type="way" ref="186353633" role="main_stream"/>
   <member type="way" ref="105715697" role="main_stream"/>
@@ -11472,6 +11481,7 @@
   <member type="way" ref="186379023" role="main_stream"/>
   <member type="way" ref="95169590" role="main_stream"/>
   <member type="way" ref="186353634" role="main_stream"/>
+  <member type="way" ref="860448086" role="main_stream"/>
   <member type="way" ref="729356065" role="main_stream"/>
   <member type="way" ref="729356064" role="main_stream"/>
   <member type="way" ref="82534683" role="main_stream"/>
@@ -11636,10 +11646,18 @@
   <tag k="restriction" v="only_straight_on"/>
   <tag k="type" v="restriction"/>
  </relation>
- <relation id="5542011" visible="true" version="3" changeset="78519927" timestamp="2019-12-17T10:04:24Z" user="MaGiu" uid="10549927">
+ <relation id="5542011" visible="true" version="4" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306">
   <member type="way" ref="751838380" role=""/>
   <member type="way" ref="751838379" role=""/>
   <member type="way" ref="198216243" role=""/>
+  <member type="way" ref="863980144" role=""/>
+  <member type="way" ref="863980143" role=""/>
+  <member type="way" ref="863980142" role=""/>
+  <member type="way" ref="863980141" role=""/>
+  <member type="way" ref="863980140" role=""/>
+  <member type="way" ref="863980139" role=""/>
+  <member type="way" ref="863980138" role=""/>
+  <member type="way" ref="863980137" role=""/>
   <member type="way" ref="756199821" role=""/>
   <member type="way" ref="756199822" role=""/>
   <member type="way" ref="756199825" role=""/>
