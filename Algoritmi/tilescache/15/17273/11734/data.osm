@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991877 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1966885 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4061637" minlon="9.7668457" maxlat="45.4138765" maxlon="9.7778320"/>
  <node id="311186267" visible="true" version="4" changeset="5363489" timestamp="2010-07-31T15:32:03Z" user="Moliva" uid="107039" lat="45.3963449" lon="9.7789693"/>
  <node id="311186270" visible="true" version="4" changeset="5363489" timestamp="2010-07-31T15:31:56Z" user="Moliva" uid="107039" lat="45.3963975" lon="9.7788998"/>
@@ -381,6 +381,18 @@
  <node id="3175879879" visible="true" version="1" changeset="26654927" timestamp="2014-11-09T01:01:27Z" user="Pyknite" uid="193512" lat="45.4114260" lon="9.7899070"/>
  <node id="3175879880" visible="true" version="1" changeset="26654927" timestamp="2014-11-09T01:01:27Z" user="Pyknite" uid="193512" lat="45.4118079" lon="9.7886886"/>
  <node id="3175879881" visible="true" version="1" changeset="26654927" timestamp="2014-11-09T01:01:27Z" user="Pyknite" uid="193512" lat="45.4120033" lon="9.7903719"/>
+ <node id="8017637864" visible="true" version="1" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306" lat="45.4140214" lon="9.7705688"/>
+ <node id="8017637865" visible="true" version="1" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306" lat="45.4140342" lon="9.7704139"/>
+ <node id="8017637866" visible="true" version="1" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306" lat="45.4138274" lon="9.7703623"/>
+ <node id="8017637867" visible="true" version="1" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306" lat="45.4138082" lon="9.7705475"/>
+ <node id="8017637879" visible="true" version="1" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306" lat="45.4137897" lon="9.7669037"/>
+ <node id="8017637880" visible="true" version="1" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306" lat="45.4137583" lon="9.7667146"/>
+ <node id="8017637881" visible="true" version="1" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306" lat="45.4128602" lon="9.7670929"/>
+ <node id="8017637882" visible="true" version="1" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306" lat="45.4129061" lon="9.7672820"/>
+ <node id="8017637883" visible="true" version="1" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306" lat="45.4138428" lon="9.7671238"/>
+ <node id="8017637884" visible="true" version="1" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306" lat="45.4138862" lon="9.7673336"/>
+ <node id="8017637885" visible="true" version="1" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306" lat="45.4130051" lon="9.7677050"/>
+ <node id="8017637886" visible="true" version="1" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306" lat="45.4129592" lon="9.7675193"/>
  <way id="40767883" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T18:54:57Z" user="Guido Piazzi" uid="38067">
   <nd ref="495064990"/>
   <nd ref="495064957"/>
@@ -806,6 +818,30 @@
   <tag k="name:left" v="Romanengo"/>
   <tag k="name:right" v="Casaletto di Sopra"/>
   <tag k="source" v="Based on ISTAT data - 2001 Italian Census"/>
+ </way>
+ <way id="860246832" visible="true" version="1" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306">
+  <nd ref="8017637864"/>
+  <nd ref="8017637865"/>
+  <nd ref="8017637866"/>
+  <nd ref="8017637867"/>
+  <nd ref="8017637864"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="860246836" visible="true" version="1" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306">
+  <nd ref="8017637879"/>
+  <nd ref="8017637880"/>
+  <nd ref="8017637881"/>
+  <nd ref="8017637882"/>
+  <nd ref="8017637879"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="860246837" visible="true" version="1" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306">
+  <nd ref="8017637883"/>
+  <nd ref="8017637884"/>
+  <nd ref="8017637885"/>
+  <nd ref="8017637886"/>
+  <nd ref="8017637883"/>
+  <tag k="building" v="yes"/>
  </way>
  <relation id="44816" visible="true" version="13" changeset="75429376" timestamp="2019-10-08T20:01:32Z" user="Garmin-User" uid="177389">
   <member type="way" ref="53483814" role="outer"/>

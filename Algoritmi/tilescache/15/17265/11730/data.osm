@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991860 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1245093 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4370083" minlon="9.6789551" maxlat="45.4447168" maxlon="9.6899414"/>
  <node id="307110150" visible="true" version="3" changeset="27579895" timestamp="2014-12-19T22:45:37Z" user="Pyknite" uid="193512" lat="45.4371501" lon="9.6619211"/>
  <node id="307110621" visible="true" version="2" changeset="3052471" timestamp="2009-11-06T22:55:23Z" user="Luigi62" uid="90148" lat="45.4412377" lon="9.6822458"/>
@@ -257,8 +257,8 @@
  <node id="4928571698" visible="true" version="1" changeset="49716839" timestamp="2017-06-21T10:41:17Z" user="LuSirto" uid="506470" lat="45.4603479" lon="9.6927171"/>
  <node id="4928571699" visible="true" version="1" changeset="49716839" timestamp="2017-06-21T10:41:17Z" user="LuSirto" uid="506470" lat="45.4605783" lon="9.6926782"/>
  <node id="4928571700" visible="true" version="1" changeset="49716839" timestamp="2017-06-21T10:41:17Z" user="LuSirto" uid="506470" lat="45.4609179" lon="9.6925226"/>
- <node id="4928571701" visible="true" version="1" changeset="49716839" timestamp="2017-06-21T10:41:17Z" user="LuSirto" uid="506470" lat="45.4613060" lon="9.6924621"/>
- <node id="4928571702" visible="true" version="1" changeset="49716839" timestamp="2017-06-21T10:41:17Z" user="LuSirto" uid="506470" lat="45.4617032" lon="9.6923108"/>
+ <node id="4928571701" visible="true" version="2" changeset="92644225" timestamp="2020-10-17T23:36:28Z" user="dega180" uid="454306" lat="45.4613115" lon="9.6924126"/>
+ <node id="4928571702" visible="true" version="2" changeset="92644225" timestamp="2020-10-17T23:36:28Z" user="dega180" uid="454306" lat="45.4616993" lon="9.6922917"/>
  <node id="4928571703" visible="true" version="1" changeset="49716839" timestamp="2017-06-21T10:41:17Z" user="LuSirto" uid="506470" lat="45.4623005" lon="9.6920860"/>
  <node id="4928571704" visible="true" version="1" changeset="49716839" timestamp="2017-06-21T10:41:17Z" user="LuSirto" uid="506470" lat="45.4623824" lon="9.6920903"/>
  <node id="4928571705" visible="true" version="1" changeset="49716839" timestamp="2017-06-21T10:41:17Z" user="LuSirto" uid="506470" lat="45.4629706" lon="9.6921638"/>
@@ -715,7 +715,7 @@
   <tag k="wikidata" v="Q16163"/>
   <tag k="wikipedia" v="it:Provincia di Cremona"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -788,7 +788,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>
@@ -1370,7 +1371,7 @@
   <tag k="wikidata" v="Q16137"/>
   <tag k="wikipedia" v="it:Provincia di Bergamo"/>
  </relation>
- <relation id="45021" visible="true" version="10" changeset="74828239" timestamp="2019-09-23T22:38:47Z" user="Mannivu" uid="1950277">
+ <relation id="45021" visible="true" version="11" changeset="92753959" timestamp="2020-10-20T08:51:03Z" user="Mannivu" uid="1950277">
   <member type="way" ref="27981288" role="outer"/>
   <member type="way" ref="27981607" role="outer"/>
   <member type="way" ref="27981883" role="outer"/>
@@ -1392,6 +1393,7 @@
   <tag k="source:population" v="http://www.comuni-italiani.it/016/053/statistiche/"/>
   <tag k="type" v="boundary"/>
   <tag k="wikidata" v="Q100145"/>
+  <tag k="wikimedia_commons" v="Category:Caravaggio_(Italy)"/>
   <tag k="wikipedia" v="it:Caravaggio (Italia)"/>
  </relation>
  <relation id="45069" visible="true" version="9" changeset="58550415" timestamp="2018-04-30T10:24:03Z" user="Mannivu" uid="1950277">

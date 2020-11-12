@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2876344 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3904999 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4138765" minlon="9.7778320" maxlat="45.4215881" maxlon="9.7888184"/>
  <node id="62511303" visible="true" version="1" changeset="85182" timestamp="2007-10-10T06:21:44Z" user="Niccolo" uid="864" lat="45.4191750" lon="9.7825610">
   <tag k="created_by" v="JOSM"/>
@@ -197,7 +197,7 @@
  <node id="2323729095" visible="true" version="1" changeset="16330909" timestamp="2013-05-28T21:53:46Z" user="gigi2037" uid="616481" lat="45.4210464" lon="9.7794092"/>
  <node id="2323729096" visible="true" version="1" changeset="16330909" timestamp="2013-05-28T21:53:46Z" user="gigi2037" uid="616481" lat="45.4212166" lon="9.7794517"/>
  <node id="2864970269" visible="true" version="1" changeset="22394442" timestamp="2014-05-17T18:58:27Z" user="motopisolo" uid="2055277" lat="45.4163763" lon="9.7638191"/>
- <node id="2864970273" visible="true" version="1" changeset="22394442" timestamp="2014-05-17T18:58:27Z" user="motopisolo" uid="2055277" lat="45.4174706" lon="9.7584238"/>
+ <node id="2864970273" visible="true" version="2" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306" lat="45.4174761" lon="9.7582525"/>
  <node id="2923729631" visible="true" version="1" changeset="23029703" timestamp="2014-06-19T17:51:40Z" user="motopisolo" uid="2055277" lat="45.4159323" lon="9.7470936"/>
  <node id="2923731831" visible="true" version="1" changeset="23029744" timestamp="2014-06-19T17:53:28Z" user="motopisolo" uid="2055277" lat="45.4164944" lon="9.7512336"/>
  <node id="3100129181" visible="true" version="1" changeset="25722161" timestamp="2014-09-28T10:19:06Z" user="motopisolo" uid="2055277" lat="45.4146601" lon="9.7747574"/>
@@ -210,6 +210,7 @@
  <node id="3519739848" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:46Z" user="adirricor" uid="245439" lat="45.4233875" lon="9.7837660"/>
  <node id="3519739891" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:47Z" user="adirricor" uid="245439" lat="45.4244512" lon="9.7834839"/>
  <node id="3519740400" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:47Z" user="adirricor" uid="245439" lat="45.4202994" lon="9.7804650"/>
+ <node id="3519740406" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:47Z" user="adirricor" uid="245439" lat="45.4265352" lon="9.7762497"/>
  <node id="3519740490" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:49Z" user="adirricor" uid="245439" lat="45.4194804" lon="9.7841130"/>
  <node id="3519740929" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:50Z" user="adirricor" uid="245439" lat="45.4204247" lon="9.7794543">
   <tag k="highway" v="crossing"/>
@@ -255,6 +256,30 @@
  <node id="7394339149" visible="true" version="1" changeset="83422321" timestamp="2020-04-12T10:07:06Z" user="Yiyi (itwikipedia)" uid="1404750" lat="45.4145294" lon="9.7887580"/>
  <node id="7394380107" visible="true" version="1" changeset="83422332" timestamp="2020-04-12T10:07:27Z" user="Yiyi (itwikipedia)" uid="1404750" lat="45.4153803" lon="9.7892409"/>
  <node id="7394387376" visible="true" version="1" changeset="83422285" timestamp="2020-04-12T10:06:11Z" user="Yiyi (itwikipedia)" uid="1404750" lat="45.4152641" lon="9.7900195"/>
+ <node id="8017530232" visible="true" version="2" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306" lat="45.4174610" lon="9.7581400"/>
+ <node id="8017530234" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4264015" lon="9.7762432"/>
+ <node id="8017530235" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4256704" lon="9.7764337"/>
+ <node id="8017530236" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4255381" lon="9.7765759"/>
+ <node id="8017530237" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4250444" lon="9.7767220"/>
+ <node id="8017530238" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4248987" lon="9.7766451"/>
+ <node id="8017530239" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4245560" lon="9.7767336"/>
+ <node id="8017530240" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4243806" lon="9.7767451"/>
+ <node id="8017530241" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4240460" lon="9.7768297"/>
+ <node id="8017530242" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4231070" lon="9.7771488"/>
+ <node id="8017530243" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4223407" lon="9.7774602"/>
+ <node id="8017530244" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4222921" lon="9.7775140"/>
+ <node id="8017530245" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4222813" lon="9.7776063"/>
+ <node id="8017530246" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4224351" lon="9.7786212"/>
+ <node id="8017530247" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4223784" lon="9.7787327"/>
+ <node id="8017530248" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4222975" lon="9.7788096"/>
+ <node id="8017530249" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4214448" lon="9.7791518"/>
+ <node id="8017530250" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4213800" lon="9.7792479"/>
+ <node id="8017530251" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4213287" lon="9.7794468"/>
+ <node id="8017530289" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4147845" lon="9.7713545"/>
+ <node id="8017530290" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4202827" lon="9.7759006"/>
+ <node id="8017530305" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4146928" lon="9.7739016"/>
+ <node id="8017637868" visible="true" version="1" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306" lat="45.4153199" lon="9.7679640"/>
+ <node id="8017637906" visible="true" version="1" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306" lat="45.4173064" lon="9.7602288"/>
  <way id="37011308" visible="true" version="5" changeset="91439120" timestamp="2020-09-24T13:34:06Z" user="aacomm" uid="8511019">
   <nd ref="311186979"/>
   <nd ref="2323729071"/>
@@ -283,19 +308,24 @@
   <tag k="name" v="Via Romanengo"/>
   <tag k="ref" v="SP20"/>
  </way>
- <way id="47334354" visible="true" version="10" changeset="25722161" timestamp="2014-09-28T10:19:07Z" user="motopisolo" uid="2055277">
+ <way id="47334354" visible="true" version="12" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306">
   <nd ref="252522702"/>
   <nd ref="2211600316"/>
   <nd ref="2923729631"/>
   <nd ref="2923731831"/>
+  <nd ref="8017530232"/>
   <nd ref="2864970273"/>
   <nd ref="602823772"/>
   <nd ref="143555995"/>
   <nd ref="602823773"/>
+  <nd ref="8017637906"/>
   <nd ref="2864970269"/>
+  <nd ref="8017637868"/>
   <nd ref="143555996"/>
   <nd ref="1251246574"/>
+  <nd ref="8017530289"/>
   <nd ref="143555998"/>
+  <nd ref="8017530305"/>
   <nd ref="3100129181"/>
   <nd ref="311186837"/>
   <nd ref="1251246578"/>
@@ -428,7 +458,7 @@
   <tag k="leisure" v="pitch"/>
   <tag k="sport" v="soccer"/>
  </way>
- <way id="134151917" visible="true" version="3" changeset="31178295" timestamp="2015-05-15T14:38:28Z" user="adirricor" uid="245439">
+ <way id="134151917" visible="true" version="4" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306">
   <nd ref="1475294377"/>
   <nd ref="1475294363"/>
   <nd ref="1475294359"/>
@@ -439,6 +469,7 @@
   <nd ref="1475294351"/>
   <nd ref="3519742944"/>
   <nd ref="1475294349"/>
+  <nd ref="8017530251"/>
   <nd ref="2323729096"/>
   <nd ref="3519742134"/>
   <nd ref="2323729095"/>
@@ -490,13 +521,14 @@
   <tag k="highway" v="unclassified"/>
   <tag k="name" v="Via Papa Giovanni ventitreesimo"/>
  </way>
- <way id="609459926" visible="true" version="1" changeset="60899045" timestamp="2018-07-20T09:23:15Z" user="datamove" uid="4930752">
+ <way id="609459926" visible="true" version="2" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306">
   <nd ref="1319167102"/>
   <nd ref="1319167018"/>
   <nd ref="1319167160"/>
   <nd ref="1319167085"/>
   <nd ref="1319167184"/>
   <nd ref="1319167096"/>
+  <nd ref="8017530290"/>
   <nd ref="1319167012"/>
   <nd ref="1319167108"/>
   <tag k="highway" v="unclassified"/>
@@ -593,6 +625,29 @@
   <nd ref="7394339138"/>
   <tag k="landuse" v="cemetery"/>
   <tag k="name" v="Cimitero di Casaletto di Sopra"/>
+ </way>
+ <way id="860243229" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306">
+  <nd ref="3519740406"/>
+  <nd ref="8017530234"/>
+  <nd ref="8017530235"/>
+  <nd ref="8017530236"/>
+  <nd ref="8017530237"/>
+  <nd ref="8017530238"/>
+  <nd ref="8017530239"/>
+  <nd ref="8017530240"/>
+  <nd ref="8017530241"/>
+  <nd ref="8017530242"/>
+  <nd ref="8017530243"/>
+  <nd ref="8017530244"/>
+  <nd ref="8017530245"/>
+  <nd ref="8017530246"/>
+  <nd ref="8017530247"/>
+  <nd ref="8017530248"/>
+  <nd ref="8017530249"/>
+  <nd ref="8017530250"/>
+  <nd ref="8017530251"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
  </way>
  <relation id="44939" visible="true" version="12" changeset="44130367" timestamp="2016-12-03T06:31:32Z" user="nyuriks" uid="339581">
   <member type="way" ref="27981207" role="outer"/>

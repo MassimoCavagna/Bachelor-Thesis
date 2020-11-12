@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991860 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3905003 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1820368" minlon="9.9096680" maxlat="45.1897801" maxlon="9.9206543"/>
  <node id="495224956" visible="true" version="2" changeset="34860425" timestamp="2015-10-25T14:32:38Z" user="Fredie" uid="2073275" lat="45.1829949" lon="9.9221892"/>
  <node id="495224989" visible="true" version="2" changeset="34860425" timestamp="2015-10-25T14:32:38Z" user="Fredie" uid="2073275" lat="45.1845044" lon="9.9226911"/>
@@ -121,6 +121,12 @@
  <node id="7824341607" visible="true" version="1" changeset="89596104" timestamp="2020-08-18T20:59:21Z" user="fedc" uid="602784" lat="45.1894771" lon="9.9066476"/>
  <node id="7824341608" visible="true" version="1" changeset="89596104" timestamp="2020-08-18T20:59:21Z" user="fedc" uid="602784" lat="45.1895830" lon="9.9065779"/>
  <node id="7824341609" visible="true" version="1" changeset="89596104" timestamp="2020-08-18T20:59:21Z" user="fedc" uid="602784" lat="45.1899006" lon="9.9064116"/>
+ <node id="7998020483" visible="true" version="1" changeset="92313340" timestamp="2020-10-11T20:33:50Z" user="dega180" uid="454306" lat="45.1838436" lon="9.9135710"/>
+ <node id="7998020484" visible="true" version="1" changeset="92313340" timestamp="2020-10-11T20:33:50Z" user="dega180" uid="454306" lat="45.1837198" lon="9.9138977"/>
+ <node id="7998038285" visible="true" version="1" changeset="92313340" timestamp="2020-10-11T20:33:50Z" user="dega180" uid="454306" lat="45.1835704" lon="9.9147202"/>
+ <node id="7998038286" visible="true" version="1" changeset="92313340" timestamp="2020-10-11T20:33:50Z" user="dega180" uid="454306" lat="45.1835996" lon="9.9148815"/>
+ <node id="7998038287" visible="true" version="1" changeset="92313340" timestamp="2020-10-11T20:33:50Z" user="dega180" uid="454306" lat="45.1836873" lon="9.9149275"/>
+ <node id="7998038288" visible="true" version="1" changeset="92313340" timestamp="2020-10-11T20:33:50Z" user="dega180" uid="454306" lat="45.1849670" lon="9.9153330"/>
  <way id="40765200" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T18:31:21Z" user="Guido Piazzi" uid="38067">
   <nd ref="495224956"/>
   <nd ref="495225354"/>
@@ -217,9 +223,10 @@
   <nd ref="3802145278"/>
   <tag k="landuse" v="farmyard"/>
  </way>
- <way id="376832494" visible="true" version="1" changeset="34860425" timestamp="2015-10-25T14:32:19Z" user="Fredie" uid="2073275">
+ <way id="376832494" visible="true" version="2" changeset="92313340" timestamp="2020-10-11T20:33:50Z" user="dega180" uid="454306">
   <nd ref="3802145274"/>
   <nd ref="3802145046"/>
+  <nd ref="7998038288"/>
   <nd ref="3802145042"/>
   <nd ref="3802145041"/>
   <nd ref="3802145272"/>
@@ -227,7 +234,7 @@
   <tag k="landuse" v="industrial"/>
   <tag k="name" v="biogas"/>
  </way>
- <way id="490596109" visible="true" version="2" changeset="89596104" timestamp="2020-08-18T20:59:21Z" user="fedc" uid="602784">
+ <way id="490596109" visible="true" version="3" changeset="92313340" timestamp="2020-10-11T20:33:50Z" user="dega180" uid="454306">
   <nd ref="1086937786"/>
   <nd ref="1086940081"/>
   <nd ref="1086938725"/>
@@ -236,6 +243,7 @@
   <nd ref="1086940199"/>
   <nd ref="7824284878"/>
   <nd ref="1086937198"/>
+  <nd ref="7998020483"/>
   <nd ref="1086939731"/>
   <nd ref="1086940046"/>
   <nd ref="1086938555"/>
@@ -261,7 +269,7 @@
   <nd ref="1648378620"/>
   <tag k="highway" v="unclassified"/>
  </way>
- <way id="838361622" visible="true" version="1" changeset="89596104" timestamp="2020-08-18T20:59:21Z" user="fedc" uid="602784">
+ <way id="838361622" visible="true" version="2" changeset="92313340" timestamp="2020-10-11T20:33:50Z" user="dega180" uid="454306">
   <nd ref="7824341609"/>
   <nd ref="7824341608"/>
   <nd ref="7824341607"/>
@@ -300,6 +308,17 @@
   <nd ref="7824284876"/>
   <nd ref="7824284877"/>
   <nd ref="7824284878"/>
-  <tag k="highway" v="unclassified"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
+ </way>
+ <way id="857901069" visible="true" version="1" changeset="92313340" timestamp="2020-10-11T20:33:50Z" user="dega180" uid="454306">
+  <nd ref="7998020483"/>
+  <nd ref="7998020484"/>
+  <nd ref="7998038285"/>
+  <nd ref="7998038286"/>
+  <nd ref="7998038287"/>
+  <nd ref="7998038288"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
  </way>
 </osm>

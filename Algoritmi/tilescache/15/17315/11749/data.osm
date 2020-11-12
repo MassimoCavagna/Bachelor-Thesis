@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991876 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3905009 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2903466" minlon="10.2282715" maxlat="45.2980751" maxlon="10.2392578"/>
  <node id="392448262" visible="true" version="2" changeset="9161785" timestamp="2011-08-29T20:29:50Z" user="Gianluigi" uid="498903" lat="45.2966561" lon="10.2378048"/>
  <node id="392448266" visible="true" version="3" changeset="33441655" timestamp="2015-08-19T14:52:40Z" user="Moliva" uid="107039" lat="45.2974142" lon="10.2242607"/>
@@ -1232,10 +1232,18 @@
   <tag k="wikidata" v="Q111366"/>
   <tag k="wikipedia" v="it:Pavone del Mella"/>
  </relation>
- <relation id="5542011" visible="true" version="3" changeset="78519927" timestamp="2019-12-17T10:04:24Z" user="MaGiu" uid="10549927">
+ <relation id="5542011" visible="true" version="4" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306">
   <member type="way" ref="751838380" role=""/>
   <member type="way" ref="751838379" role=""/>
   <member type="way" ref="198216243" role=""/>
+  <member type="way" ref="863980144" role=""/>
+  <member type="way" ref="863980143" role=""/>
+  <member type="way" ref="863980142" role=""/>
+  <member type="way" ref="863980141" role=""/>
+  <member type="way" ref="863980140" role=""/>
+  <member type="way" ref="863980139" role=""/>
+  <member type="way" ref="863980138" role=""/>
+  <member type="way" ref="863980137" role=""/>
   <member type="way" ref="756199821" role=""/>
   <member type="way" ref="756199822" role=""/>
   <member type="way" ref="756199825" role=""/>
@@ -1251,13 +1259,19 @@
   <tag k="type" v="waterway"/>
   <tag k="waterway" v="ditch"/>
  </relation>
- <relation id="5542013" visible="true" version="1" changeset="34307216" timestamp="2015-09-28T15:59:44Z" user="Moliva" uid="107039">
+ <relation id="5542013" visible="true" version="2" changeset="93065406" timestamp="2020-10-26T14:08:29Z" user="ddanyll" uid="334691">
   <member type="way" ref="366486717" role=""/>
   <member type="way" ref="366486712" role=""/>
   <member type="way" ref="366486715" role=""/>
   <member type="way" ref="198216239" role=""/>
   <member type="way" ref="366486716" role=""/>
   <member type="way" ref="366486720" role=""/>
+  <member type="way" ref="863802754" role=""/>
+  <member type="way" ref="863802755" role=""/>
+  <member type="way" ref="863802761" role=""/>
+  <member type="way" ref="863802760" role=""/>
+  <member type="way" ref="863802757" role=""/>
+  <member type="way" ref="863802756" role=""/>
   <member type="way" ref="366486713" role=""/>
   <member type="way" ref="366486718" role=""/>
   <member type="way" ref="366486714" role=""/>

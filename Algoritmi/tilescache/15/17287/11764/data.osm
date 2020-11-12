@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2923455 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3904988 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1742925" minlon="9.9206543" maxlat="45.1820368" maxlon="9.9316406"/>
  <node id="972988949" visible="true" version="1" changeset="6248477" timestamp="2010-10-31T22:26:29Z" user="ilrobi" uid="22110" lat="45.1676138" lon="9.9461772"/>
  <node id="1086937255" visible="true" version="1" changeset="6887788" timestamp="2011-01-06T22:14:57Z" user="albertux" uid="118185" lat="45.1736488" lon="9.9252665"/>
@@ -209,6 +209,7 @@
  <node id="7407887571" visible="true" version="1" changeset="83612277" timestamp="2020-04-15T20:57:43Z" user="mcheck" uid="478872" lat="45.1757730" lon="9.9112934"/>
  <node id="7407887572" visible="true" version="1" changeset="83612277" timestamp="2020-04-15T20:57:43Z" user="mcheck" uid="478872" lat="45.1757636" lon="9.9114329"/>
  <node id="7407887573" visible="true" version="1" changeset="83612277" timestamp="2020-04-15T20:57:43Z" user="mcheck" uid="478872" lat="45.1763932" lon="9.9116233"/>
+ <node id="7998038390" visible="true" version="1" changeset="92313340" timestamp="2020-10-11T20:33:50Z" user="dega180" uid="454306" lat="45.1697157" lon="9.9406722"/>
  <way id="195718174" visible="true" version="2" changeset="34860425" timestamp="2015-10-25T14:32:28Z" user="Fredie" uid="2073275">
   <nd ref="1086938620"/>
   <nd ref="2061367522"/>
@@ -417,7 +418,7 @@
   <tag k="name" v="Via Guglielmo Marconi"/>
   <tag k="ref" v="SP56"/>
  </way>
- <way id="490596113" visible="true" version="1" changeset="48292761" timestamp="2017-04-30T21:07:51Z" user="fedc" uid="602784">
+ <way id="490596113" visible="true" version="2" changeset="92313340" timestamp="2020-10-11T20:33:50Z" user="dega180" uid="454306">
   <nd ref="2061367763"/>
   <nd ref="1086939449"/>
   <nd ref="1086937769"/>
@@ -437,6 +438,7 @@
   <nd ref="1086937436"/>
   <nd ref="1086939902"/>
   <nd ref="1086939993"/>
+  <nd ref="7998038390"/>
   <nd ref="1086938412"/>
   <nd ref="1086939292"/>
   <nd ref="1086937690"/>

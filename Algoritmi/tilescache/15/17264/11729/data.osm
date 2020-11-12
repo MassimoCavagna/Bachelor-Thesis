@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991874 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3904991 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4447168" minlon="9.6679688" maxlat="45.4524242" maxlon="9.6789551"/>
  <node id="307110621" visible="true" version="2" changeset="3052471" timestamp="2009-11-06T22:55:23Z" user="Luigi62" uid="90148" lat="45.4412377" lon="9.6822458"/>
  <node id="307114130" visible="true" version="2" changeset="3052471" timestamp="2009-11-06T22:55:24Z" user="Luigi62" uid="90148" lat="45.4771591" lon="9.6723722"/>
@@ -137,16 +137,7 @@
  <node id="2528934696" visible="true" version="1" changeset="18850368" timestamp="2013-11-12T08:18:40Z" user="mircozorzo" uid="224342" lat="45.4538088" lon="9.6750888"/>
  <node id="2528934697" visible="true" version="1" changeset="18850368" timestamp="2013-11-12T08:18:40Z" user="mircozorzo" uid="224342" lat="45.4557979" lon="9.6764465"/>
  <node id="2528934698" visible="true" version="1" changeset="18850368" timestamp="2013-11-12T08:18:40Z" user="mircozorzo" uid="224342" lat="45.4577058" lon="9.6778595"/>
- <node id="2528934699" visible="true" version="1" changeset="18850368" timestamp="2013-11-12T08:18:40Z" user="mircozorzo" uid="224342" lat="45.4617358" lon="9.6809336"/>
- <node id="2528934700" visible="true" version="1" changeset="18850368" timestamp="2013-11-12T08:18:40Z" user="mircozorzo" uid="224342" lat="45.4657258" lon="9.6839436"/>
- <node id="2528934701" visible="true" version="2" changeset="70201875" timestamp="2019-05-13T18:03:43Z" user="Mannivu" uid="1950277" lat="45.4697276" lon="9.6869860"/>
- <node id="6470540696" visible="true" version="1" changeset="70201875" timestamp="2019-05-13T17:12:01Z" user="Mannivu" uid="1950277" lat="45.4604120" lon="9.6799237"/>
- <node id="6470556594" visible="true" version="1" changeset="70201875" timestamp="2019-05-13T17:09:16Z" user="Mannivu" uid="1950277" lat="45.4637665" lon="9.6824655"/>
- <node id="6470560009" visible="true" version="1" changeset="70201875" timestamp="2019-05-13T17:11:12Z" user="Mannivu" uid="1950277" lat="45.4632037" lon="9.6820409"/>
- <node id="6470678646" visible="true" version="1" changeset="70201875" timestamp="2019-05-13T17:54:35Z" user="Mannivu" uid="1950277" lat="45.4612150" lon="9.6805363"/>
- <node id="6470678647" visible="true" version="1" changeset="70201875" timestamp="2019-05-13T17:54:35Z" user="Mannivu" uid="1950277" lat="45.4587949" lon="9.6787888"/>
  <node id="6470678655" visible="true" version="1" changeset="70201875" timestamp="2019-05-13T17:54:36Z" user="Mannivu" uid="1950277" lat="45.4575669" lon="9.6777566"/>
- <node id="6470700551" visible="true" version="1" changeset="70201875" timestamp="2019-05-13T18:03:43Z" user="Mannivu" uid="1950277" lat="45.4696611" lon="9.6869493"/>
  <way id="27981607" visible="true" version="3" changeset="3052471" timestamp="2009-11-06T22:55:26Z" user="Luigi62" uid="90148">
   <nd ref="307114130"/>
   <nd ref="558630223"/>
@@ -229,22 +220,7 @@
   <nd ref="2317748333"/>
   <tag k="highway" v="unclassified"/>
  </way>
- <way id="222831403" visible="true" version="2" changeset="18850368" timestamp="2013-11-12T08:18:41Z" user="mircozorzo" uid="224342">
-  <nd ref="1196894611"/>
-  <nd ref="2317748391"/>
-  <nd ref="2317748413"/>
-  <nd ref="2317748425"/>
-  <nd ref="2317748431"/>
-  <nd ref="2317748432"/>
-  <nd ref="2317748433"/>
-  <nd ref="2317748434"/>
-  <nd ref="2317748435"/>
-  <nd ref="2317748437"/>
-  <nd ref="2317748438"/>
-  <nd ref="2317748439"/>
-  <nd ref="2317748440"/>
-  <nd ref="2317748441"/>
-  <nd ref="2317748442"/>
+ <way id="222831403" visible="true" version="3" changeset="93686666" timestamp="2020-11-06T22:07:06Z" user="Murtinho" uid="12129627">
   <nd ref="2317748443"/>
   <nd ref="2317748444"/>
   <nd ref="2317748445"/>
@@ -289,16 +265,28 @@
   <nd ref="1394658349"/>
   <tag k="highway" v="unclassified"/>
  </way>
- <way id="245760125" visible="true" version="8" changeset="70201875" timestamp="2019-05-13T18:03:43Z" user="Mannivu" uid="1950277">
-  <nd ref="2528934701"/>
-  <nd ref="6470700551"/>
-  <nd ref="2528934700"/>
-  <nd ref="6470556594"/>
-  <nd ref="6470560009"/>
-  <nd ref="2528934699"/>
-  <nd ref="6470678646"/>
-  <nd ref="6470540696"/>
-  <nd ref="6470678647"/>
+ <way id="867868224" visible="true" version="1" changeset="93686666" timestamp="2020-11-06T22:07:06Z" user="Murtinho" uid="12129627">
+  <nd ref="1196894611"/>
+  <nd ref="2317748391"/>
+  <nd ref="2317748413"/>
+  <nd ref="2317748425"/>
+  <nd ref="2317748431"/>
+  <nd ref="2317748432"/>
+  <nd ref="2317748433"/>
+  <nd ref="2317748434"/>
+  <nd ref="2317748435"/>
+  <nd ref="2317748437"/>
+  <nd ref="2317748438"/>
+  <nd ref="2317748439"/>
+  <nd ref="2317748440"/>
+  <nd ref="2317748441"/>
+  <nd ref="2317748442"/>
+  <nd ref="2317748443"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="smoothness" v="bad"/>
+  <tag k="surface" v="pebblestone"/>
+ </way>
+ <way id="867868225" visible="true" version="1" changeset="93686666" timestamp="2020-11-06T22:07:06Z" user="Murtinho" uid="12129627">
   <nd ref="2528934698"/>
   <nd ref="6470678655"/>
   <nd ref="2528934697"/>
@@ -310,9 +298,10 @@
   <nd ref="2528934691"/>
   <tag k="highway" v="unclassified"/>
   <tag k="name" v="Strada consorziale delle Volte"/>
-  <tag k="surface" v="asphalt"/>
+  <tag k="smoothness" v="bad"/>
+  <tag k="surface" v="mud"/>
  </way>
- <relation id="45021" visible="true" version="10" changeset="74828239" timestamp="2019-09-23T22:38:47Z" user="Mannivu" uid="1950277">
+ <relation id="45021" visible="true" version="11" changeset="92753959" timestamp="2020-10-20T08:51:03Z" user="Mannivu" uid="1950277">
   <member type="way" ref="27981288" role="outer"/>
   <member type="way" ref="27981607" role="outer"/>
   <member type="way" ref="27981883" role="outer"/>
@@ -334,6 +323,7 @@
   <tag k="source:population" v="http://www.comuni-italiani.it/016/053/statistiche/"/>
   <tag k="type" v="boundary"/>
   <tag k="wikidata" v="Q100145"/>
+  <tag k="wikimedia_commons" v="Category:Caravaggio_(Italy)"/>
   <tag k="wikipedia" v="it:Caravaggio (Italia)"/>
  </relation>
  <relation id="45069" visible="true" version="9" changeset="58550415" timestamp="2018-04-30T10:24:03Z" user="Mannivu" uid="1950277">

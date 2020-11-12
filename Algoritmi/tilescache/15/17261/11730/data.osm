@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991863 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3904993 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4370083" minlon="9.6350098" maxlat="45.4447168" maxlon="9.6459961"/>
  <node id="62511340" visible="true" version="2" changeset="87985633" timestamp="2020-07-14T15:24:40Z" user="LuSirto" uid="506470" lat="45.4440750" lon="9.6432580">
   <tag k="gfoss_id" v="2581"/>
@@ -1899,7 +1899,7 @@
   <tag k="wikidata" v="Q42812"/>
   <tag k="wikipedia" v="it:Capralba"/>
  </relation>
- <relation id="183626" visible="true" version="56" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
+ <relation id="183626" visible="true" version="57" changeset="92894016" timestamp="2020-10-22T11:47:39Z" user="Mannivu" uid="1950277">
   <member type="way" ref="38289883" role=""/>
   <member type="way" ref="38289882" role=""/>
   <member type="way" ref="596450377" role=""/>
@@ -1951,6 +1951,7 @@
   <tag k="route" v="railway"/>
   <tag k="type" v="route"/>
   <tag k="wikidata" v="Q803335"/>
+  <tag k="wikimedia_commons" v="Category:Treviglio–Cremona railway"/>
   <tag k="wikipedia" v="it:Ferrovia Treviglio-Cremona"/>
  </relation>
  <relation id="8400077" visible="true" version="10" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">

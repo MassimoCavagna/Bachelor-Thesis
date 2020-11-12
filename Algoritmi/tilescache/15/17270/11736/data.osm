@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991861 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3905002 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3907352" minlon="9.7338867" maxlat="45.3984500" maxlon="9.7448730"/>
  <node id="252522642" visible="true" version="4" changeset="43019927" timestamp="2016-10-19T21:09:24Z" user="fedc" uid="602784" lat="45.3989625" lon="9.7326135"/>
  <node id="252522643" visible="true" version="4" changeset="43019927" timestamp="2016-10-19T21:09:24Z" user="fedc" uid="602784" lat="45.3986491" lon="9.7330781"/>
@@ -715,7 +715,7 @@
   <nd ref="978457211"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="302381722" visible="true" version="3" changeset="75279575" timestamp="2019-10-04T11:51:40Z" user="astraspera" uid="2653653">
+ <way id="302381722" visible="true" version="4" changeset="92369927" timestamp="2020-10-12T18:16:23Z" user="Mannivu" uid="1950277">
   <nd ref="3066394226"/>
   <nd ref="3066394225"/>
   <nd ref="3066394224"/>
@@ -819,6 +819,8 @@
   <nd ref="441389091"/>
   <nd ref="302425687"/>
   <nd ref="3066394226"/>
+  <tag k="fixme" v="questo landuse dovrebbe essere diviso nei singoli landuse=farmland, perché un landuse di questo tipo non può passare sopra strade e canali"/>
+  <tag k="landuse" v="farmland"/>
  </way>
  <way id="448566198" visible="true" version="1" changeset="43019927" timestamp="2016-10-19T21:09:23Z" user="fedc" uid="602784">
   <nd ref="359199806"/>
@@ -1032,12 +1034,6 @@
   <tag k="type" v="boundary"/>
   <tag k="wikidata" v="Q42216"/>
   <tag k="wikipedia" v="it:Ricengo"/>
- </relation>
- <relation id="4021356" visible="true" version="2" changeset="85032463" timestamp="2020-05-11T15:10:52Z" user="Mannivu" uid="1950277">
-  <member type="way" ref="302381722" role="outer"/>
-  <tag k="fixme" v="questo multipoligono dovrebbe essere diviso nei singoli landuse=farmland, perché un landuse di questo tipo non può passare sopra strade e canali"/>
-  <tag k="landuse" v="farmland"/>
-  <tag k="type" v="multipolygon"/>
  </relation>
  <relation id="6967113" visible="true" version="3" changeset="58163812" timestamp="2018-04-17T10:41:41Z" user="Nehaj" uid="5230141">
   <member type="way" ref="473874245" role=""/>

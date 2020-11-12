@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991889 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3904986 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3289787" minlon="9.7668457" maxlat="45.3367019" maxlon="9.7778320"/>
  <node id="62511244" visible="true" version="2" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653" lat="45.3363613" lon="9.7776099">
   <tag k="gfoss_id" v="2609"/>
@@ -634,6 +634,33 @@
  <node id="7975842495" visible="true" version="1" changeset="91963808" timestamp="2020-10-05T07:05:40Z" user="wanethernet" uid="11930992" lat="45.3353355" lon="9.7760449"/>
  <node id="7994567762" visible="true" version="1" changeset="92269672" timestamp="2020-10-10T09:43:49Z" user="Alecs01" uid="1476146" lat="45.3364191" lon="9.7775504"/>
  <node id="7994567763" visible="true" version="1" changeset="92269672" timestamp="2020-10-10T09:43:49Z" user="Alecs01" uid="1476146" lat="45.3363556" lon="9.7776929"/>
+ <node id="7995703689" visible="true" version="1" changeset="92284719" timestamp="2020-10-10T19:13:27Z" user="wanethernet" uid="11930992" lat="45.3337278" lon="9.7771875"/>
+ <node id="7995703690" visible="true" version="1" changeset="92284719" timestamp="2020-10-10T19:13:27Z" user="wanethernet" uid="11930992" lat="45.3337334" lon="9.7774504"/>
+ <node id="7995703691" visible="true" version="1" changeset="92284719" timestamp="2020-10-10T19:13:27Z" user="wanethernet" uid="11930992" lat="45.3336203" lon="9.7774611"/>
+ <node id="7995703692" visible="true" version="1" changeset="92284719" timestamp="2020-10-10T19:13:27Z" user="wanethernet" uid="11930992" lat="45.3336146" lon="9.7771956"/>
+ <node id="7995703704" visible="true" version="1" changeset="92284799" timestamp="2020-10-10T19:17:10Z" user="wanethernet" uid="11930992" lat="45.3336674" lon="9.7776408"/>
+ <node id="7995703705" visible="true" version="1" changeset="92284799" timestamp="2020-10-10T19:17:10Z" user="wanethernet" uid="11930992" lat="45.3336637" lon="9.7778661"/>
+ <node id="7995703706" visible="true" version="1" changeset="92284799" timestamp="2020-10-10T19:17:10Z" user="wanethernet" uid="11930992" lat="45.3331395" lon="9.7778661"/>
+ <node id="7995703707" visible="true" version="1" changeset="92284799" timestamp="2020-10-10T19:17:10Z" user="wanethernet" uid="11930992" lat="45.3331414" lon="9.7776381"/>
+ <node id="7995713136" visible="true" version="1" changeset="92284762" timestamp="2020-10-10T19:15:43Z" user="wanethernet" uid="11930992" lat="45.3340351" lon="9.7772841"/>
+ <node id="7995713137" visible="true" version="1" changeset="92284762" timestamp="2020-10-10T19:15:43Z" user="wanethernet" uid="11930992" lat="45.3340332" lon="9.7774584"/>
+ <node id="7995713138" visible="true" version="1" changeset="92284762" timestamp="2020-10-10T19:15:43Z" user="wanethernet" uid="11930992" lat="45.3338824" lon="9.7774611"/>
+ <node id="7995713139" visible="true" version="1" changeset="92284762" timestamp="2020-10-10T19:15:43Z" user="wanethernet" uid="11930992" lat="45.3338881" lon="9.7772841"/>
+ <node id="8085501703" visible="true" version="1" changeset="93616471" timestamp="2020-11-05T17:28:55Z" user="wanethernet" uid="11930992" lat="45.3349524" lon="9.7774194">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="8085561068" visible="true" version="1" changeset="93616461" timestamp="2020-11-05T17:28:40Z" user="wanethernet" uid="11930992" lat="45.3350203" lon="9.7774945">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="8085592247" visible="true" version="1" changeset="93616480" timestamp="2020-11-05T17:29:10Z" user="wanethernet" uid="11930992" lat="45.3349072" lon="9.7776071">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="8085602044" visible="true" version="1" changeset="93616449" timestamp="2020-11-05T17:28:24Z" user="wanethernet" uid="11930992" lat="45.3350392" lon="9.7772155">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="8085604871" visible="true" version="1" changeset="93616503" timestamp="2020-11-05T17:29:43Z" user="wanethernet" uid="11930992" lat="45.3334855" lon="9.7772155">
+  <tag k="natural" v="tree"/>
+ </node>
  <way id="26209999" visible="true" version="34" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
   <nd ref="287001241"/>
   <nd ref="287001202"/>
@@ -1525,6 +1552,30 @@
   <nd ref="7994567763"/>
   <nd ref="7994567762"/>
   <tag k="highway" v="footway"/>
+ </way>
+ <way id="857612637" visible="true" version="1" changeset="92284719" timestamp="2020-10-10T19:13:27Z" user="wanethernet" uid="11930992">
+  <nd ref="7995703689"/>
+  <nd ref="7995703690"/>
+  <nd ref="7995703691"/>
+  <nd ref="7995703692"/>
+  <nd ref="7995703689"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="857612796" visible="true" version="1" changeset="92284762" timestamp="2020-10-10T19:15:43Z" user="wanethernet" uid="11930992">
+  <nd ref="7995713136"/>
+  <nd ref="7995713137"/>
+  <nd ref="7995713138"/>
+  <nd ref="7995713139"/>
+  <nd ref="7995713136"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="857612900" visible="true" version="1" changeset="92284799" timestamp="2020-10-10T19:17:10Z" user="wanethernet" uid="11930992">
+  <nd ref="7995703704"/>
+  <nd ref="7995703705"/>
+  <nd ref="7995703706"/>
+  <nd ref="7995703707"/>
+  <nd ref="7995703704"/>
+  <tag k="building" v="yes"/>
  </way>
  <relation id="44758" visible="true" version="11" changeset="44130518" timestamp="2016-12-03T06:43:20Z" user="nyuriks" uid="339581">
   <member type="way" ref="53483809" role="outer"/>

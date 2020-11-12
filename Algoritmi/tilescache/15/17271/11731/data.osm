@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3083194 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3904999 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4292987" minlon="9.7448730" maxlat="45.4370083" maxlon="9.7558594"/>
  <node id="746306319" visible="true" version="1" changeset="4781924" timestamp="2010-05-23T10:43:30Z" user="wiso" uid="30891" lat="45.4312480" lon="9.7440329"/>
  <node id="6435420508" visible="true" version="1" changeset="69684756" timestamp="2019-04-29T07:48:24Z" user="abbuddha" uid="9259451" lat="45.4352292" lon="9.7438214"/>
@@ -26,12 +26,13 @@
  <node id="7114555215" visible="true" version="1" changeset="79296478" timestamp="2020-01-07T13:52:39Z" user="LuSirto" uid="506470" lat="45.4316511" lon="9.7559956"/>
  <node id="7114555216" visible="true" version="1" changeset="79296478" timestamp="2020-01-07T13:52:39Z" user="LuSirto" uid="506470" lat="45.4319190" lon="9.7580120"/>
  <node id="7114555217" visible="true" version="1" changeset="79296478" timestamp="2020-01-07T13:52:39Z" user="LuSirto" uid="506470" lat="45.4334577" lon="9.7575911"/>
- <way id="686581983" visible="true" version="1" changeset="69684756" timestamp="2019-04-29T07:48:24Z" user="abbuddha" uid="9259451">
+ <way id="686581983" visible="true" version="2" changeset="92643833" timestamp="2020-10-17T23:00:52Z" user="dega180" uid="454306">
   <nd ref="6435420508"/>
   <nd ref="6435420509"/>
   <nd ref="6435420510"/>
   <nd ref="6435420511"/>
   <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
  </way>
  <way id="761476555" visible="true" version="1" changeset="79296478" timestamp="2020-01-07T13:52:39Z" user="LuSirto" uid="506470">
   <nd ref="746306319"/>

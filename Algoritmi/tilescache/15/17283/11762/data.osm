@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2876344 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1650234 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1897801" minlon="9.8767090" maxlat="45.1975223" maxlon="9.8876953"/>
  <node id="307052122" visible="true" version="3" changeset="35009173" timestamp="2015-11-01T11:09:13Z" user="Fredie" uid="2073275" lat="45.1668798" lon="9.8728405"/>
  <node id="307076376" visible="true" version="2" changeset="28250635" timestamp="2015-01-19T11:46:47Z" user="Pyknite" uid="193512" lat="45.2067025" lon="9.8950090"/>
- <node id="495213421" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:01:15Z" user="Guido Piazzi" uid="38067" lat="45.1899938" lon="9.8799671"/>
+ <node id="495213421" visible="true" version="2" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.1900782" lon="9.8801468"/>
  <node id="495213432" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:01:16Z" user="Guido Piazzi" uid="38067" lat="45.1908014" lon="9.8793172"/>
- <node id="495213466" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:01:17Z" user="Guido Piazzi" uid="38067" lat="45.1904042" lon="9.8793574"/>
+ <node id="495213466" visible="true" version="2" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.1905449" lon="9.8793940"/>
  <node id="495213481" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:01:17Z" user="Guido Piazzi" uid="38067" lat="45.1911058" lon="9.8797180"/>
  <node id="495213494" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:01:18Z" user="Guido Piazzi" uid="38067" lat="45.1910142" lon="9.8793890"/>
  <node id="495213564" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:01:20Z" user="Guido Piazzi" uid="38067" lat="45.1891728" lon="9.8811980"/>
  <node id="495213588" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:01:21Z" user="Guido Piazzi" uid="38067" lat="45.1900390" lon="9.8809007"/>
- <node id="495213596" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:01:21Z" user="Guido Piazzi" uid="38067" lat="45.1902006" lon="9.8796881"/>
- <node id="495213610" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:01:22Z" user="Guido Piazzi" uid="38067" lat="45.1891383" lon="9.8805964"/>
- <node id="495213629" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:01:22Z" user="Guido Piazzi" uid="38067" lat="45.1896663" lon="9.8802079"/>
+ <node id="495213596" visible="true" version="2" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.1903343" lon="9.8798112"/>
+ <node id="495213610" visible="true" version="2" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.1891735" lon="9.8809324"/>
+ <node id="495213629" visible="true" version="2" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.1897038" lon="9.8804508"/>
  <node id="495213697" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:01:25Z" user="Guido Piazzi" uid="38067" lat="45.1900139" lon="9.8811972"/>
  <node id="495213712" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:01:25Z" user="Guido Piazzi" uid="38067" lat="45.1911024" lon="9.8804155"/>
  <node id="495213724" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:01:25Z" user="Guido Piazzi" uid="38067" lat="45.1911152" lon="9.8808620"/>
@@ -156,8 +156,24 @@
  <node id="4436884579" visible="true" version="1" changeset="42721435" timestamp="2016-10-07T20:46:33Z" user="fedc" uid="602784" lat="45.1910571" lon="9.8780789"/>
  <node id="4436884580" visible="true" version="1" changeset="42721435" timestamp="2016-10-07T20:46:33Z" user="fedc" uid="602784" lat="45.1912236" lon="9.8778547"/>
  <node id="4436884581" visible="true" version="1" changeset="42721435" timestamp="2016-10-07T20:46:33Z" user="fedc" uid="602784" lat="45.1913142" lon="9.8777600"/>
- <way id="40765743" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T18:38:07Z" user="Guido Piazzi" uid="38067">
+ <node id="7997972024" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.1894492" lon="9.8806134"/>
+ <node id="7997972025" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.1892961" lon="9.8807779"/>
+ <node id="7997972026" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.1898450" lon="9.8804335"/>
+ <node id="7997972027" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.1896258" lon="9.8806069"/>
+ <node id="7997972028" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.1895692" lon="9.8805515"/>
+ <node id="7997972029" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.1897153" lon="9.8804621"/>
+ <node id="7997972030" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.1899584" lon="9.8802637"/>
+ <node id="7997972031" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.1899685" lon="9.8811538"/>
+ <node id="7997972032" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.1898652" lon="9.8811467"/>
+ <node id="7997972033" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.1897594" lon="9.8811216"/>
+ <node id="7997972034" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.1893878" lon="9.8811413"/>
+ <node id="7997972035" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.1893802" lon="9.8810090"/>
+ <node id="7997972036" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.1897506" lon="9.8810019"/>
+ <node id="7997972037" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.1898614" lon="9.8810376"/>
+ <way id="40765743" visible="true" version="2" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306">
   <nd ref="495213610"/>
+  <nd ref="7997972025"/>
+  <nd ref="7997972024"/>
   <nd ref="495213629"/>
   <nd ref="495213421"/>
   <nd ref="495213596"/>
@@ -329,6 +345,22 @@
   <tag k="name:left" v="Grumello Cremonese ed Uniti"/>
   <tag k="name:right" v="Acquanegra Cremonese"/>
   <tag k="source" v="Based on confini amministrativi 2013 by Regione Lombardia"/>
+ </way>
+ <way id="857896999" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306">
+  <nd ref="7997972026"/>
+  <nd ref="7997972027"/>
+  <nd ref="7997972028"/>
+  <nd ref="7997972029"/>
+  <nd ref="7997972030"/>
+  <nd ref="7997972031"/>
+  <nd ref="7997972032"/>
+  <nd ref="7997972033"/>
+  <nd ref="7997972034"/>
+  <nd ref="7997972035"/>
+  <nd ref="7997972036"/>
+  <nd ref="7997972037"/>
+  <nd ref="7997972026"/>
+  <tag k="building" v="yes"/>
  </way>
  <relation id="44332" visible="true" version="8" changeset="44130367" timestamp="2016-12-03T06:30:46Z" user="nyuriks" uid="339581">
   <member type="node" ref="946942749" role="admin_centre"/>

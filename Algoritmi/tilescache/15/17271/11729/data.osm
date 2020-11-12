@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991870 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3904989 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4447168" minlon="9.7448730" maxlat="45.4524242" maxlon="9.7558594"/>
  <node id="1486830082" visible="true" version="2" changeset="46482171" timestamp="2017-03-01T00:49:46Z" user="SiMaz96" uid="3141745" lat="45.4483769" lon="9.7381379"/>
  <node id="1486830107" visible="true" version="2" changeset="46482171" timestamp="2017-03-01T00:49:46Z" user="SiMaz96" uid="3141745" lat="45.4487052" lon="9.7412364"/>
@@ -176,6 +176,11 @@
  <node id="4710913842" visible="true" version="1" changeset="46482171" timestamp="2017-03-01T00:49:44Z" user="SiMaz96" uid="3141745" lat="45.4482674" lon="9.7369324"/>
  <node id="5772492556" visible="true" version="1" changeset="60894857" timestamp="2018-07-20T07:45:39Z" user="datamove" uid="4930752" lat="45.4446480" lon="9.7438768"/>
  <node id="5772492557" visible="true" version="1" changeset="60894857" timestamp="2018-07-20T07:45:39Z" user="datamove" uid="4930752" lat="45.4447439" lon="9.7449725"/>
+ <node id="8017538816" visible="true" version="1" changeset="92643926" timestamp="2020-10-17T23:09:19Z" user="dega180" uid="454306" lat="45.4511893" lon="9.7482223"/>
+ <node id="8017538817" visible="true" version="1" changeset="92643926" timestamp="2020-10-17T23:09:19Z" user="dega180" uid="454306" lat="45.4511674" lon="9.7484364"/>
+ <node id="8017538818" visible="true" version="1" changeset="92643926" timestamp="2020-10-17T23:09:19Z" user="dega180" uid="454306" lat="45.4506757" lon="9.7483118"/>
+ <node id="8017538819" visible="true" version="1" changeset="92643926" timestamp="2020-10-17T23:09:19Z" user="dega180" uid="454306" lat="45.4507249" lon="9.7480782"/>
+ <node id="8017631176" visible="true" version="1" changeset="92644225" timestamp="2020-10-17T23:36:28Z" user="dega180" uid="454306" lat="45.4488292" lon="9.7322664"/>
  <way id="219695100" visible="true" version="2" changeset="60895803" timestamp="2018-07-20T08:08:28Z" user="datamove" uid="4930752">
   <nd ref="2288339747"/>
   <nd ref="2288339744"/>
@@ -304,8 +309,9 @@
   <nd ref="2323400228"/>
   <tag k="highway" v="unclassified"/>
  </way>
- <way id="353049613" visible="true" version="2" changeset="46482171" timestamp="2017-03-01T00:49:49Z" user="SiMaz96" uid="3141745">
+ <way id="353049613" visible="true" version="3" changeset="92644225" timestamp="2020-10-17T23:36:28Z" user="dega180" uid="454306">
   <nd ref="3588304228"/>
+  <nd ref="8017631176"/>
   <nd ref="2318210671"/>
   <nd ref="2318210666"/>
   <nd ref="2318210665"/>
@@ -417,5 +423,13 @@
   <nd ref="5772492557"/>
   <tag k="highway" v="unclassified"/>
   <tag k="name" v="Via Rosaglio"/>
+ </way>
+ <way id="860244207" visible="true" version="1" changeset="92643926" timestamp="2020-10-17T23:09:19Z" user="dega180" uid="454306">
+  <nd ref="8017538816"/>
+  <nd ref="8017538817"/>
+  <nd ref="8017538818"/>
+  <nd ref="8017538819"/>
+  <nd ref="8017538816"/>
+  <tag k="building" v="yes"/>
  </way>
 </osm>

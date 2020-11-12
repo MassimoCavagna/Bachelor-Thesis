@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991861 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (303652 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4138765" minlon="9.7888184" maxlat="45.4215881" maxlon="9.7998047"/>
  <node id="143555995" visible="true" version="19" changeset="22394483" timestamp="2014-05-17T19:01:22Z" user="motopisolo" uid="2055277" lat="45.4174643" lon="9.7591922"/>
  <node id="143555996" visible="true" version="19" changeset="7907246" timestamp="2011-04-19T14:49:13Z" user="ilrobi" uid="22110" lat="45.4149112" lon="9.7695677"/>
@@ -180,7 +180,7 @@
  <node id="2212031148" visible="true" version="1" changeset="15437075" timestamp="2013-03-20T21:46:26Z" user="Pyknite" uid="193512" lat="45.4143584" lon="9.7953413"/>
  <node id="2212031149" visible="true" version="1" changeset="15437075" timestamp="2013-03-20T21:46:26Z" user="Pyknite" uid="193512" lat="45.4143885" lon="9.7943435"/>
  <node id="2864970269" visible="true" version="1" changeset="22394442" timestamp="2014-05-17T18:58:27Z" user="motopisolo" uid="2055277" lat="45.4163763" lon="9.7638191"/>
- <node id="2864970273" visible="true" version="1" changeset="22394442" timestamp="2014-05-17T18:58:27Z" user="motopisolo" uid="2055277" lat="45.4174706" lon="9.7584238"/>
+ <node id="2864970273" visible="true" version="2" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306" lat="45.4174761" lon="9.7582525"/>
  <node id="2923729631" visible="true" version="1" changeset="23029703" timestamp="2014-06-19T17:51:40Z" user="motopisolo" uid="2055277" lat="45.4159323" lon="9.7470936"/>
  <node id="2923731831" visible="true" version="1" changeset="23029744" timestamp="2014-06-19T17:53:28Z" user="motopisolo" uid="2055277" lat="45.4164944" lon="9.7512336"/>
  <node id="3010619889" visible="true" version="1" changeset="24682132" timestamp="2014-08-11T16:14:47Z" user="motopisolo" uid="2055277" lat="45.4145964" lon="9.7996663"/>
@@ -251,19 +251,29 @@
  <node id="7394387376" visible="true" version="1" changeset="83422285" timestamp="2020-04-12T10:06:11Z" user="Yiyi (itwikipedia)" uid="1404750" lat="45.4152641" lon="9.7900195"/>
  <node id="7394387377" visible="true" version="1" changeset="83422285" timestamp="2020-04-12T10:06:11Z" user="Yiyi (itwikipedia)" uid="1404750" lat="45.4151339" lon="9.7899265"/>
  <node id="7394387378" visible="true" version="1" changeset="83422285" timestamp="2020-04-12T10:06:11Z" user="Yiyi (itwikipedia)" uid="1404750" lat="45.4150293" lon="9.7902305"/>
- <way id="47334354" visible="true" version="10" changeset="25722161" timestamp="2014-09-28T10:19:07Z" user="motopisolo" uid="2055277">
+ <node id="8017530232" visible="true" version="2" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306" lat="45.4174610" lon="9.7581400"/>
+ <node id="8017530289" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4147845" lon="9.7713545"/>
+ <node id="8017530305" visible="true" version="1" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306" lat="45.4146928" lon="9.7739016"/>
+ <node id="8017637868" visible="true" version="1" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306" lat="45.4153199" lon="9.7679640"/>
+ <node id="8017637906" visible="true" version="1" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306" lat="45.4173064" lon="9.7602288"/>
+ <way id="47334354" visible="true" version="12" changeset="92644097" timestamp="2020-10-17T23:23:20Z" user="dega180" uid="454306">
   <nd ref="252522702"/>
   <nd ref="2211600316"/>
   <nd ref="2923729631"/>
   <nd ref="2923731831"/>
+  <nd ref="8017530232"/>
   <nd ref="2864970273"/>
   <nd ref="602823772"/>
   <nd ref="143555995"/>
   <nd ref="602823773"/>
+  <nd ref="8017637906"/>
   <nd ref="2864970269"/>
+  <nd ref="8017637868"/>
   <nd ref="143555996"/>
   <nd ref="1251246574"/>
+  <nd ref="8017530289"/>
   <nd ref="143555998"/>
+  <nd ref="8017530305"/>
   <nd ref="3100129181"/>
   <nd ref="311186837"/>
   <nd ref="1251246578"/>
