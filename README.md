@@ -5,16 +5,18 @@ To work
 > pip install WazeRouteCalculator
 > pip install pandas_ods_reader
 > pip install geopy.geocoders
-> pip install functools
-> pip install ipywidgets
-> pip install pyroutelib3
 > pip install ipynb
-> pip install selenium
+> pip install pandas
+> pip install numpy
+> pip install math
+> pip install datetime
+> pip install functools
+> pip install csv
+> pip install tqdm
 > pip install folium
-> pip install kneed
-> pip install imgkit
+> pip install matplotlib
+> pip install ast
 > jupyter nbextension enable --py widgetsnbextension
 > jupyter labextension install @jupyter-widgets/jupyterlab-manager
 ```
 If not working try with pip3 instead of pip
-Geolocation computes times and distances (9 hours)
