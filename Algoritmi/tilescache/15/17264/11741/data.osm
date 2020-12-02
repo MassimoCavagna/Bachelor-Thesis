@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3542641 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3440695 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3521452" minlon="9.6679688" maxlat="45.3598653" maxlon="9.6789551"/>
  <node id="252712994" visible="true" version="18" changeset="15292427" timestamp="2013-03-08T17:09:45Z" user="wiso" uid="30891" lat="45.3601154" lon="9.6652507"/>
  <node id="252712995" visible="true" version="14" changeset="15292427" timestamp="2013-03-08T17:09:45Z" user="wiso" uid="30891" lat="45.3599790" lon="9.6675624"/>
@@ -2722,7 +2722,10 @@
   <tag k="atm" v="yes"/>
   <tag k="name" v="Intesa San Paolo"/>
  </node>
- <node id="2410869569" visible="true" version="2" changeset="22450143" timestamp="2014-05-20T16:52:13Z" user="mcheckimport" uid="893327" lat="45.3551321" lon="9.6784756">
+ <node id="2410869569" visible="true" version="3" changeset="94995483" timestamp="2020-11-29T18:30:50Z" user="dega180" uid="454306" lat="45.3551321" lon="9.6784756">
+  <tag k="brand" v="Penny"/>
+  <tag k="brand:wikidata" v="Q284688"/>
+  <tag k="brand:wikipedia" v="en:Penny (supermarket)"/>
   <tag k="name" v="Penny"/>
   <tag k="shop" v="supermarket"/>
  </node>
@@ -3667,8 +3670,12 @@
  <node id="2429936443" visible="true" version="1" changeset="17481981" timestamp="2013-08-24T10:32:11Z" user="bt1950" uid="330776" lat="45.3577508" lon="9.6779875"/>
  <node id="2429936444" visible="true" version="1" changeset="17481981" timestamp="2013-08-24T10:32:11Z" user="bt1950" uid="330776" lat="45.3577531" lon="9.6785518"/>
  <node id="2429936464" visible="true" version="1" changeset="17481981" timestamp="2013-08-24T10:32:12Z" user="bt1950" uid="330776" lat="45.3579951" lon="9.6794253"/>
- <node id="2430136212" visible="true" version="1" changeset="17485224" timestamp="2013-08-24T14:42:04Z" user="bt1950" uid="330776" lat="45.3555463" lon="9.6789489">
+ <node id="2430136212" visible="true" version="2" changeset="94995483" timestamp="2020-11-29T18:30:50Z" user="dega180" uid="454306" lat="45.3555463" lon="9.6789489">
+  <tag k="brand" v="Manpower"/>
+  <tag k="brand:wikidata" v="Q1472539"/>
+  <tag k="brand:wikipedia" v="en:ManpowerGroup"/>
   <tag k="name" v="Manpower"/>
+  <tag k="office" v="employment_agency"/>
  </node>
  <node id="2430136280" visible="true" version="1" changeset="17485224" timestamp="2013-08-24T14:42:06Z" user="bt1950" uid="330776" lat="45.3557067" lon="9.6793896"/>
  <node id="2430773602" visible="true" version="1" changeset="17494738" timestamp="2013-08-25T08:26:02Z" user="bt1950" uid="330776" lat="45.3551727" lon="9.6791173"/>
@@ -4874,13 +4881,6 @@
  <node id="5054122635" visible="true" version="1" changeset="51380122" timestamp="2017-08-23T16:04:17Z" user="fedc" uid="602784" lat="45.3263461" lon="9.5168413"/>
  <node id="5054122636" visible="true" version="1" changeset="51380122" timestamp="2017-08-23T16:04:17Z" user="fedc" uid="602784" lat="45.3262535" lon="9.5164597"/>
  <node id="5054122644" visible="true" version="1" changeset="51380122" timestamp="2017-08-23T16:04:17Z" user="fedc" uid="602784" lat="45.3261243" lon="9.5160362"/>
- <node id="5269936943" visible="true" version="1" changeset="54431003" timestamp="2017-12-07T13:00:18Z" user="luca scandelli" uid="1786966" lat="45.3586540" lon="9.6797698"/>
- <node id="5269936944" visible="true" version="1" changeset="54431003" timestamp="2017-12-07T13:00:18Z" user="luca scandelli" uid="1786966" lat="45.3585495" lon="9.6795808"/>
- <node id="5269936945" visible="true" version="1" changeset="54431003" timestamp="2017-12-07T13:00:18Z" user="luca scandelli" uid="1786966" lat="45.3584553" lon="9.6789486"/>
- <node id="5269936946" visible="true" version="1" changeset="54431003" timestamp="2017-12-07T13:00:19Z" user="luca scandelli" uid="1786966" lat="45.3583296" lon="9.6789974"/>
- <node id="5269936947" visible="true" version="1" changeset="54431003" timestamp="2017-12-07T13:00:19Z" user="luca scandelli" uid="1786966" lat="45.3584410" lon="9.6796154"/>
- <node id="5269936948" visible="true" version="1" changeset="54431003" timestamp="2017-12-07T13:00:19Z" user="luca scandelli" uid="1786966" lat="45.3585805" lon="9.6798593"/>
- <node id="5269952377" visible="true" version="1" changeset="54431218" timestamp="2017-12-07T13:07:14Z" user="luca scandelli" uid="1786966" lat="45.3586018" lon="9.6796753"/>
  <node id="5585057837" visible="true" version="1" changeset="58512185" timestamp="2018-04-28T20:00:19Z" user="fedc" uid="602784" lat="45.3302615" lon="9.5277050"/>
  <node id="5585057838" visible="true" version="1" changeset="58512185" timestamp="2018-04-28T20:00:19Z" user="fedc" uid="602784" lat="45.3303067" lon="9.5278176"/>
  <node id="5585057839" visible="true" version="1" changeset="58512185" timestamp="2018-04-28T20:00:19Z" user="fedc" uid="602784" lat="45.3303935" lon="9.5279812"/>
@@ -5057,6 +5057,11 @@
  <node id="7220657447" visible="true" version="1" changeset="81125684" timestamp="2020-02-17T16:16:16Z" user="LuSirto" uid="506470" lat="45.3532086" lon="9.6791634"/>
  <node id="7220657448" visible="true" version="1" changeset="81125684" timestamp="2020-02-17T16:16:16Z" user="LuSirto" uid="506470" lat="45.3532658" lon="9.6792151"/>
  <node id="7220657449" visible="true" version="1" changeset="81125684" timestamp="2020-02-17T16:16:16Z" user="LuSirto" uid="506470" lat="45.3536254" lon="9.6791763"/>
+ <node id="8176927840" visible="true" version="1" changeset="94995483" timestamp="2020-11-29T18:30:50Z" user="dega180" uid="454306" lat="45.3584150" lon="9.6793265"/>
+ <node id="8176927843" visible="true" version="1" changeset="94995483" timestamp="2020-11-29T18:30:50Z" user="dega180" uid="454306" lat="45.3582978" lon="9.6785107"/>
+ <node id="8176927844" visible="true" version="1" changeset="94995483" timestamp="2020-11-29T18:30:50Z" user="dega180" uid="454306" lat="45.3582985" lon="9.6783479">
+  <tag k="highway" v="turning_loop"/>
+ </node>
  <way id="23321332" visible="true" version="40" changeset="42996984" timestamp="2016-10-18T22:32:26Z" user="fedc" uid="602784">
   <nd ref="261679660"/>
   <nd ref="343758657"/>
@@ -11207,18 +11212,6 @@
   <tag k="oneway" v="yes"/>
   <tag k="service" v="driveway"/>
  </way>
- <way id="545250382" visible="true" version="2" changeset="54431218" timestamp="2017-12-07T13:07:14Z" user="luca scandelli" uid="1786966">
-  <nd ref="5269936943"/>
-  <nd ref="5269952377"/>
-  <nd ref="5269936944"/>
-  <nd ref="5269936945"/>
-  <nd ref="5269936946"/>
-  <nd ref="5269936947"/>
-  <nd ref="5269936948"/>
-  <tag k="highway" v="residential"/>
-  <tag k="maxspeed" v="30"/>
-  <tag k="oneway" v="yes"/>
- </way>
  <way id="584247963" visible="true" version="5" changeset="74282438" timestamp="2019-09-09T21:54:12Z" user="fedc" uid="602784">
   <nd ref="5054122644"/>
   <nd ref="5054122636"/>
@@ -11510,6 +11503,12 @@
   <nd ref="272859449"/>
   <tag k="highway" v="service"/>
   <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="878962870" visible="true" version="1" changeset="94995483" timestamp="2020-11-29T18:30:50Z" user="dega180" uid="454306">
+  <nd ref="8176927840"/>
+  <nd ref="8176927843"/>
+  <nd ref="8176927844"/>
+  <tag k="highway" v="service"/>
  </way>
  <relation id="48094" visible="true" version="51" changeset="17389610" timestamp="2013-08-17T22:14:31Z" user="wiso" uid="30891">
   <member type="node" ref="482790446" role="stop:54"/>

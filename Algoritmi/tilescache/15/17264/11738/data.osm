@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (145848 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3035684 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3753024" minlon="9.6679688" maxlat="45.3830193" maxlon="9.6789551"/>
  <node id="254071675" visible="true" version="4" changeset="17690356" timestamp="2013-09-05T16:24:46Z" user="bt1950" uid="330776" lat="45.3767488" lon="9.6776084"/>
  <node id="254071719" visible="true" version="3" changeset="4652438" timestamp="2010-05-09T18:43:23Z" user="wiso" uid="30891" lat="45.3783000" lon="9.6764030"/>
@@ -62,14 +62,11 @@
   <tag k="railway" v="level_crossing"/>
  </node>
  <node id="451753238" visible="true" version="2" changeset="52127847" timestamp="2017-09-17T21:25:54Z" user="fedc" uid="602784" lat="45.4062002" lon="9.6323370"/>
- <node id="451794732" visible="true" version="8" changeset="59738734" timestamp="2018-06-11T11:47:01Z" user="Mannivu" uid="1950277" lat="45.4086692" lon="9.6317539">
+ <node id="451794732" visible="true" version="9" changeset="93333293" timestamp="2020-10-31T11:12:42Z" user="Alecs01" uid="1476146" lat="45.4086692" lon="9.6317539">
   <tag k="name" v="Casaletto Vaprio"/>
   <tag k="operator" v="RFI"/>
   <tag k="public_transport" v="stop_position"/>
-  <tag k="railway" v="station"/>
   <tag k="train" v="yes"/>
-  <tag k="wikidata" v="Q3969259"/>
-  <tag k="wikipedia" v="it:Stazione di Casaletto Vaprio"/>
  </node>
  <node id="451849081" visible="true" version="1" changeset="1985994" timestamp="2009-07-30T16:20:29Z" user="wiso" uid="30891" lat="45.3922640" lon="9.6683828"/>
  <node id="451849082" visible="true" version="1" changeset="1985994" timestamp="2009-07-30T16:20:30Z" user="wiso" uid="30891" lat="45.3901314" lon="9.6676185"/>
@@ -263,7 +260,7 @@
  <node id="569200789" visible="true" version="1" changeset="3196052" timestamp="2009-11-23T14:28:11Z" user="wiso" uid="30891" lat="45.3689514" lon="9.7100687"/>
  <node id="569200792" visible="true" version="1" changeset="3196052" timestamp="2009-11-23T14:28:11Z" user="wiso" uid="30891" lat="45.3690391" lon="9.7097100"/>
  <node id="569200795" visible="true" version="2" changeset="13388974" timestamp="2012-10-06T18:36:47Z" user="sabas88" uid="454589" lat="45.3689113" lon="9.7109600"/>
- <node id="569200831" visible="true" version="2" changeset="19259471" timestamp="2013-12-03T20:04:36Z" user="wiso" uid="30891" lat="45.3738390" lon="9.6733629"/>
+ <node id="569200831" visible="true" version="3" changeset="94995650" timestamp="2020-11-29T18:36:50Z" user="dega180" uid="454306" lat="45.3738678" lon="9.6734148"/>
  <node id="569200833" visible="true" version="1" changeset="3196052" timestamp="2009-11-23T14:28:12Z" user="wiso" uid="30891" lat="45.3776597" lon="9.6683494"/>
  <node id="569200834" visible="true" version="2" changeset="19259471" timestamp="2013-12-03T20:04:36Z" user="wiso" uid="30891" lat="45.3772189" lon="9.6693095"/>
  <node id="569200836" visible="true" version="2" changeset="19259471" timestamp="2013-12-03T20:04:36Z" user="wiso" uid="30891" lat="45.3768367" lon="9.6697938"/>
@@ -2839,14 +2836,14 @@
   <tag k="motorcar" v="yes"/>
  </node>
  <node id="2563447002" visible="true" version="1" changeset="19259471" timestamp="2013-12-03T20:04:31Z" user="wiso" uid="30891" lat="45.3735646" lon="9.6741375"/>
- <node id="2563447003" visible="true" version="1" changeset="19259471" timestamp="2013-12-03T20:04:31Z" user="wiso" uid="30891" lat="45.3739537" lon="9.6732269"/>
- <node id="2563447004" visible="true" version="1" changeset="19259471" timestamp="2013-12-03T20:04:31Z" user="wiso" uid="30891" lat="45.3740248" lon="9.6730740"/>
+ <node id="2563447003" visible="true" version="2" changeset="94995650" timestamp="2020-11-29T18:36:50Z" user="dega180" uid="454306" lat="45.3739863" lon="9.6732780"/>
+ <node id="2563447004" visible="true" version="2" changeset="94995650" timestamp="2020-11-29T18:36:50Z" user="dega180" uid="454306" lat="45.3740656" lon="9.6731584"/>
  <node id="2563447005" visible="true" version="1" changeset="19259471" timestamp="2013-12-03T20:04:31Z" user="wiso" uid="30891" lat="45.3740878" lon="9.6735297">
   <tag k="barrier" v="lift_gate"/>
   <tag k="bicycle" v="yes"/>
   <tag k="foot" v="yes"/>
  </node>
- <node id="2563447006" visible="true" version="1" changeset="19259471" timestamp="2013-12-03T20:04:31Z" user="wiso" uid="30891" lat="45.3741265" lon="9.6730009"/>
+ <node id="2563447006" visible="true" version="2" changeset="94995650" timestamp="2020-11-29T18:36:50Z" user="dega180" uid="454306" lat="45.3741787" lon="9.6729994"/>
  <node id="2563447007" visible="true" version="1" changeset="19259471" timestamp="2013-12-03T20:04:31Z" user="wiso" uid="30891" lat="45.3746614" lon="9.6727533"/>
  <node id="2563447008" visible="true" version="1" changeset="19259471" timestamp="2013-12-03T20:04:31Z" user="wiso" uid="30891" lat="45.3752008" lon="9.6720458"/>
  <node id="2563447009" visible="true" version="1" changeset="19259471" timestamp="2013-12-03T20:04:31Z" user="wiso" uid="30891" lat="45.3754673" lon="9.6711979"/>
@@ -3138,10 +3135,6 @@
  <node id="4672085813" visible="true" version="1" changeset="45887266" timestamp="2017-02-07T14:30:49Z" user="LuSirto" uid="506470" lat="45.4065367" lon="9.4959376"/>
  <node id="4672085814" visible="true" version="1" changeset="45887266" timestamp="2017-02-07T14:30:49Z" user="LuSirto" uid="506470" lat="45.4157403" lon="9.4698864"/>
  <node id="4672085815" visible="true" version="1" changeset="45887266" timestamp="2017-02-07T14:30:49Z" user="LuSirto" uid="506470" lat="45.4155984" lon="9.4700944"/>
- <node id="4693533087" visible="true" version="1" changeset="46215766" timestamp="2017-02-19T13:29:43Z" user="luca scandelli" uid="1786966" lat="45.3712976" lon="9.6838668"/>
- <node id="4698034045" visible="true" version="1" changeset="46286732" timestamp="2017-02-21T20:51:50Z" user="luca scandelli" uid="1786966" lat="45.3714153" lon="9.6831372"/>
- <node id="4698034046" visible="true" version="1" changeset="46286732" timestamp="2017-02-21T20:51:50Z" user="luca scandelli" uid="1786966" lat="45.3713497" lon="9.6822219"/>
- <node id="4698034047" visible="true" version="1" changeset="46286732" timestamp="2017-02-21T20:51:50Z" user="luca scandelli" uid="1786966" lat="45.3714172" lon="9.6819206"/>
  <node id="4698034048" visible="true" version="1" changeset="46286732" timestamp="2017-02-21T20:51:50Z" user="luca scandelli" uid="1786966" lat="45.3716094" lon="9.6810301"/>
  <node id="4698034049" visible="true" version="1" changeset="46286732" timestamp="2017-02-21T20:51:51Z" user="luca scandelli" uid="1786966" lat="45.3717639" lon="9.6808531"/>
  <node id="4698034050" visible="true" version="1" changeset="46286732" timestamp="2017-02-21T20:51:51Z" user="luca scandelli" uid="1786966" lat="45.3718393" lon="9.6806761"/>
@@ -3187,8 +3180,6 @@
  <node id="4698034090" visible="true" version="1" changeset="46286732" timestamp="2017-02-21T20:51:51Z" user="luca scandelli" uid="1786966" lat="45.3859118" lon="9.6706992"/>
  <node id="4698034091" visible="true" version="1" changeset="46286732" timestamp="2017-02-21T20:51:51Z" user="luca scandelli" uid="1786966" lat="45.3865057" lon="9.6711221"/>
  <node id="4698034092" visible="true" version="1" changeset="46286732" timestamp="2017-02-21T20:51:51Z" user="luca scandelli" uid="1786966" lat="45.3878850" lon="9.6713497"/>
- <node id="4698034095" visible="true" version="1" changeset="46286732" timestamp="2017-02-21T20:51:51Z" user="luca scandelli" uid="1786966" lat="45.3713539" lon="9.6835178"/>
- <node id="4706999009" visible="true" version="1" changeset="46421831" timestamp="2017-02-26T17:57:29Z" user="luca scandelli" uid="1786966" lat="45.3713445" lon="9.6835764"/>
  <node id="5111771611" visible="true" version="1" changeset="52127573" timestamp="2017-09-17T21:05:47Z" user="fedc" uid="602784" lat="45.3700982" lon="9.6802678"/>
  <node id="5111771703" visible="true" version="1" changeset="52127573" timestamp="2017-09-17T21:05:48Z" user="fedc" uid="602784" lat="45.3788162" lon="9.6790207"/>
  <node id="5111771704" visible="true" version="1" changeset="52127573" timestamp="2017-09-17T21:05:48Z" user="fedc" uid="602784" lat="45.3786725" lon="9.6787783"/>
@@ -3280,6 +3271,24 @@
  </node>
  <node id="6851248661" visible="true" version="1" changeset="75279575" timestamp="2019-10-04T11:51:40Z" user="astraspera" uid="2653653" lat="45.3619081" lon="9.7406901"/>
  <node id="7500865098" visible="true" version="1" changeset="84937502" timestamp="2020-05-09T13:11:05Z" user="astraspera" uid="2653653" lat="45.3830332" lon="9.5978579"/>
+ <node id="8176938217" visible="true" version="1" changeset="94995650" timestamp="2020-11-29T18:36:50Z" user="dega180" uid="454306" lat="45.3715804" lon="9.6811012"/>
+ <node id="8177059022" visible="true" version="1" changeset="94997432" timestamp="2020-11-29T19:25:59Z" user="dega180" uid="454306" lat="45.3739791" lon="9.6727476"/>
+ <node id="8177059023" visible="true" version="1" changeset="94997432" timestamp="2020-11-29T19:25:59Z" user="dega180" uid="454306" lat="45.3760089" lon="9.6700606"/>
+ <node id="8177059024" visible="true" version="1" changeset="94997432" timestamp="2020-11-29T19:25:59Z" user="dega180" uid="454306" lat="45.3730668" lon="9.6700189"/>
+ <node id="8177059025" visible="true" version="1" changeset="94997432" timestamp="2020-11-29T19:25:59Z" user="dega180" uid="454306" lat="45.3734267" lon="9.6727833"/>
+ <node id="8177059026" visible="true" version="1" changeset="94997432" timestamp="2020-11-29T19:25:59Z" user="dega180" uid="454306" lat="45.3739373" lon="9.6727118"/>
+ <node id="8177059027" visible="true" version="1" changeset="94997432" timestamp="2020-11-29T19:25:59Z" user="dega180" uid="454306" lat="45.3773774" lon="9.6680588"/>
+ <node id="8177059028" visible="true" version="1" changeset="94997432" timestamp="2020-11-29T19:25:59Z" user="dega180" uid="454306" lat="45.3774402" lon="9.6681839"/>
+ <node id="8177059029" visible="true" version="1" changeset="94997432" timestamp="2020-11-29T19:25:59Z" user="dega180" uid="454306" lat="45.3761219" lon="9.6698461"/>
+ <node id="8177059030" visible="true" version="1" changeset="94997432" timestamp="2020-11-29T19:25:59Z" user="dega180" uid="454306" lat="45.3759043" lon="9.6699653"/>
+ <node id="8177059031" visible="true" version="1" changeset="94997432" timestamp="2020-11-29T19:25:59Z" user="dega180" uid="454306" lat="45.3730626" lon="9.6698938"/>
+ <node id="8177059032" visible="true" version="1" changeset="94997432" timestamp="2020-11-29T19:25:59Z" user="dega180" uid="454306" lat="45.3729621" lon="9.6691670"/>
+ <node id="8177059033" visible="true" version="1" changeset="94997432" timestamp="2020-11-29T19:25:59Z" user="dega180" uid="454306" lat="45.3736318" lon="9.6686486"/>
+ <node id="8177059034" visible="true" version="1" changeset="94997432" timestamp="2020-11-29T19:25:59Z" user="dega180" uid="454306" lat="45.3735774" lon="9.6683031"/>
+ <node id="8177059035" visible="true" version="1" changeset="94997432" timestamp="2020-11-29T19:25:59Z" user="dega180" uid="454306" lat="45.3736318" lon="9.6682495"/>
+ <node id="8177059036" visible="true" version="1" changeset="94997432" timestamp="2020-11-29T19:25:59Z" user="dega180" uid="454306" lat="45.3749961" lon="9.6677967"/>
+ <node id="8177059037" visible="true" version="1" changeset="94997432" timestamp="2020-11-29T19:25:59Z" user="dega180" uid="454306" lat="45.3759964" lon="9.6679337"/>
+ <node id="8177059038" visible="true" version="1" changeset="94997432" timestamp="2020-11-29T19:25:59Z" user="dega180" uid="454306" lat="45.3767790" lon="9.6679158"/>
  <way id="23461576" visible="true" version="9" changeset="61894462" timestamp="2018-08-22T16:09:50Z" user="S_Am" uid="7360355">
   <nd ref="254071721"/>
   <nd ref="2447309235"/>
@@ -7712,13 +7721,8 @@
   <tag k="source" v="Regione Lombardia - La banca dati territoriali CTR10000 è prodotta da Regione Lombardia - Infrastruttura per l'Informazione Territoriale"/>
   <tag k="waterway" v="canal"/>
  </way>
- <way id="476157029" visible="true" version="2" changeset="46421831" timestamp="2017-02-26T17:57:29Z" user="luca scandelli" uid="1786966">
-  <nd ref="4693533087"/>
-  <nd ref="4706999009"/>
-  <nd ref="4698034095"/>
-  <nd ref="4698034045"/>
-  <nd ref="4698034046"/>
-  <nd ref="4698034047"/>
+ <way id="476157029" visible="true" version="4" changeset="94995650" timestamp="2020-11-29T18:36:50Z" user="dega180" uid="454306">
+  <nd ref="8176938217"/>
   <nd ref="4698034048"/>
   <nd ref="4698034049"/>
   <nd ref="4698034050"/>
@@ -7941,7 +7945,32 @@
   <tag k="usage" v="branch"/>
   <tag k="voltage" v="3000"/>
  </way>
- <relation id="183626" visible="true" version="56" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
+ <way id="878974399" visible="true" version="1" changeset="94997432" timestamp="2020-11-29T19:25:59Z" user="dega180" uid="454306">
+  <nd ref="8177059022"/>
+  <nd ref="8177059023"/>
+  <nd ref="8177059024"/>
+  <nd ref="8177059025"/>
+  <nd ref="8177059026"/>
+  <nd ref="8177059022"/>
+  <tag k="landuse" v="farmland"/>
+ </way>
+ <way id="878974400" visible="true" version="1" changeset="94997432" timestamp="2020-11-29T19:25:59Z" user="dega180" uid="454306">
+  <nd ref="8177059027"/>
+  <nd ref="8177059028"/>
+  <nd ref="8177059029"/>
+  <nd ref="8177059030"/>
+  <nd ref="8177059031"/>
+  <nd ref="8177059032"/>
+  <nd ref="8177059033"/>
+  <nd ref="8177059034"/>
+  <nd ref="8177059035"/>
+  <nd ref="8177059036"/>
+  <nd ref="8177059037"/>
+  <nd ref="8177059038"/>
+  <nd ref="8177059027"/>
+  <tag k="landuse" v="farmland"/>
+ </way>
+ <relation id="183626" visible="true" version="57" changeset="92894016" timestamp="2020-10-22T11:47:39Z" user="Mannivu" uid="1950277">
   <member type="way" ref="38289883" role=""/>
   <member type="way" ref="38289882" role=""/>
   <member type="way" ref="596450377" role=""/>
@@ -7993,6 +8022,7 @@
   <tag k="route" v="railway"/>
   <tag k="type" v="route"/>
   <tag k="wikidata" v="Q803335"/>
+  <tag k="wikimedia_commons" v="Category:Treviglio–Cremona railway"/>
   <tag k="wikipedia" v="it:Ferrovia Treviglio-Cremona"/>
  </relation>
  <relation id="1163143" visible="true" version="39" changeset="84937502" timestamp="2020-05-09T13:11:05Z" user="astraspera" uid="2653653">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (325138 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3439779 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1742925" minlon="9.6569824" maxlat="45.1820368" maxlon="9.6679688"/>
  <node id="252586017" visible="true" version="10" changeset="36363480" timestamp="2016-01-04T16:32:35Z" user="Fredie" uid="2073275" lat="45.1835629" lon="9.6515660"/>
  <node id="281824850" visible="true" version="7" changeset="51076088" timestamp="2017-08-13T09:17:16Z" user="Elia Z" uid="2914055" lat="45.1759851" lon="9.6564358"/>
@@ -1205,8 +1205,8 @@
  </node>
  <node id="2627357996" visible="true" version="1" changeset="20070282" timestamp="2014-01-18T17:40:16Z" user="Delladv" uid="1889764" lat="45.1836721" lon="9.6507857"/>
  <node id="2627358000" visible="true" version="1" changeset="20070282" timestamp="2014-01-18T17:40:16Z" user="Delladv" uid="1889764" lat="45.1837307" lon="9.6504654"/>
- <node id="2627369934" visible="true" version="1" changeset="20070456" timestamp="2014-01-18T17:48:32Z" user="Delladv" uid="1889764" lat="45.1821799" lon="9.6566363"/>
- <node id="2627369936" visible="true" version="1" changeset="20070456" timestamp="2014-01-18T17:48:32Z" user="Delladv" uid="1889764" lat="45.1820963" lon="9.6566284"/>
+ <node id="2627369934" visible="true" version="2" changeset="92972420" timestamp="2020-10-23T21:33:46Z" user="fedc" uid="602784" lat="45.1821867" lon="9.6566363"/>
+ <node id="2627369936" visible="true" version="2" changeset="92972420" timestamp="2020-10-23T21:33:46Z" user="fedc" uid="602784" lat="45.1821335" lon="9.6566284"/>
  <node id="2627369938" visible="true" version="1" changeset="20070456" timestamp="2014-01-18T17:48:32Z" user="Delladv" uid="1889764" lat="45.1817366" lon="9.6566506"/>
  <node id="2627369945" visible="true" version="1" changeset="20070456" timestamp="2014-01-18T17:48:32Z" user="Delladv" uid="1889764" lat="45.1813491" lon="9.6565498"/>
  <node id="2627369949" visible="true" version="1" changeset="20070456" timestamp="2014-01-18T17:48:32Z" user="Delladv" uid="1889764" lat="45.1811511" lon="9.6567346"/>
@@ -1598,7 +1598,7 @@
  <node id="3049655855" visible="true" version="1" changeset="25107844" timestamp="2014-08-29T22:42:19Z" user="wiso" uid="30891" lat="45.1800965" lon="9.6584025"/>
  <node id="3049655857" visible="true" version="1" changeset="25107844" timestamp="2014-08-29T22:42:19Z" user="wiso" uid="30891" lat="45.1801397" lon="9.6583269"/>
  <node id="3049655858" visible="true" version="1" changeset="25107844" timestamp="2014-08-29T22:42:19Z" user="wiso" uid="30891" lat="45.1801445" lon="9.6583186"/>
- <node id="3054897456" visible="true" version="1" changeset="25176135" timestamp="2014-09-02T08:05:24Z" user="walley" uid="5013" lat="45.1965520" lon="9.6435602"/>
+ <node id="3054897456" visible="true" version="2" changeset="92972420" timestamp="2020-10-23T21:33:46Z" user="fedc" uid="602784" lat="45.1965405" lon="9.6435534"/>
  <node id="3121280428" visible="true" version="1" changeset="25970185" timestamp="2014-10-09T21:01:59Z" user="wiso_dbtopo_lodi" uid="2317501" lat="45.1743238" lon="9.6590054">
   <tag k="natural" v="tree"/>
   <tag k="source" v="geoportale Provincia di Lodi, License IODL-2.0 (http://sdi.provincia.lodi.it/)"/>
@@ -2293,6 +2293,7 @@
  <node id="7252218098" visible="true" version="1" changeset="81613377" timestamp="2020-02-29T06:49:46Z" user="pippo67" uid="1861652" lat="45.1747578" lon="9.6576613"/>
  <node id="7368687804" visible="true" version="1" changeset="83094644" timestamp="2020-04-05T10:49:05Z" user="mcheck" uid="478872" lat="45.1722253" lon="9.6534437"/>
  <node id="7368687806" visible="true" version="1" changeset="83094644" timestamp="2020-04-05T10:49:05Z" user="mcheck" uid="478872" lat="45.1716226" lon="9.6538523"/>
+ <node id="8040836745" visible="true" version="1" changeset="92970545" timestamp="2020-10-23T20:33:00Z" user="fedc" uid="602784" lat="45.1860244" lon="9.6476403"/>
  <way id="38034558" visible="true" version="10" changeset="73770340" timestamp="2019-08-26T21:17:08Z" user="fedc" uid="602784">
   <nd ref="281824850"/>
   <nd ref="853258159"/>
@@ -3723,7 +3724,7 @@
   <tag k="sd_fer_sed" v="A raso"/>
   <tag k="source" v="geoportale Provincia di Lodi, License IODL-2.0 (http://sdi.provincia.lodi.it/)"/>
  </way>
- <way id="300572843" visible="true" version="4" changeset="67489314" timestamp="2019-02-23T09:35:39Z" user="astraspera" uid="2653653">
+ <way id="300572843" visible="true" version="5" changeset="92970545" timestamp="2020-10-23T20:33:00Z" user="fedc" uid="602784">
   <nd ref="3046469895"/>
   <nd ref="3046469892"/>
   <nd ref="3046469893"/>
@@ -3802,6 +3803,7 @@
   <nd ref="3046469736"/>
   <nd ref="3046469734"/>
   <nd ref="3046469732"/>
+  <nd ref="8040836745"/>
   <nd ref="3046469727"/>
   <nd ref="3046469721"/>
   <nd ref="3046469722"/>
@@ -5519,7 +5521,7 @@
   <tag k="wikidata" v="Q15427590"/>
   <tag k="wikipedia" v="en:Pavia–Mantua railway"/>
  </relation>
- <relation id="7481564" visible="true" version="16" changeset="89583185" timestamp="2020-08-18T15:15:54Z" user="fedc" uid="602784">
+ <relation id="7481564" visible="true" version="19" changeset="93982250" timestamp="2020-11-12T09:28:19Z" user="PaoloRE1981" uid="821025">
   <member type="way" ref="326805437" role=""/>
   <member type="way" ref="326802920" role=""/>
   <member type="way" ref="326802923" role=""/>
@@ -5586,14 +5588,18 @@
   <member type="way" ref="265863757" role=""/>
   <member type="way" ref="265863756" role=""/>
   <member type="way" ref="199800266" role=""/>
+  <member type="way" ref="870707648" role=""/>
+  <member type="way" ref="870707647" role=""/>
   <member type="way" ref="199800265" role=""/>
   <member type="way" ref="199800267" role=""/>
   <member type="way" ref="199800264" role=""/>
   <member type="way" ref="222042807" role=""/>
   <member type="way" ref="222042800" role=""/>
-  <member type="way" ref="70259702" role=""/>
-  <member type="way" ref="70259692" role=""/>
   <member type="way" ref="339151065" role=""/>
+  <member type="way" ref="70259692" role=""/>
+  <member type="way" ref="870710203" role=""/>
+  <member type="way" ref="70259702" role=""/>
+  <member type="way" ref="870710204" role=""/>
   <member type="way" ref="339151064" role=""/>
   <member type="way" ref="48202027" role=""/>
   <member type="way" ref="48202026" role=""/>
@@ -5709,14 +5715,18 @@
   <member type="way" ref="377805301" role=""/>
   <member type="way" ref="377805289" role=""/>
   <member type="way" ref="377805283" role=""/>
+  <member type="way" ref="870707650" role=""/>
+  <member type="way" ref="870707649" role=""/>
   <member type="way" ref="377805292" role=""/>
   <member type="way" ref="377805305" role=""/>
   <member type="way" ref="377805296" role=""/>
   <member type="way" ref="377805282" role=""/>
   <member type="way" ref="377805285" role=""/>
-  <member type="way" ref="377805306" role=""/>
-  <member type="way" ref="377805287" role=""/>
   <member type="way" ref="164015842" role=""/>
+  <member type="way" ref="377805287" role=""/>
+  <member type="way" ref="870710201" role=""/>
+  <member type="way" ref="870710202" role=""/>
+  <member type="way" ref="377805306" role=""/>
   <member type="way" ref="377805311" role=""/>
   <member type="way" ref="377805295" role=""/>
   <member type="way" ref="377805303" role=""/>
@@ -5823,6 +5833,7 @@
   <member type="way" ref="60651125" role=""/>
   <member type="way" ref="411756295" role=""/>
   <member type="way" ref="411756292" role=""/>
+  <member type="way" ref="867529076" role=""/>
   <member type="way" ref="462437759" role=""/>
   <member type="way" ref="462437760" role=""/>
   <member type="way" ref="60651124" role=""/>
@@ -5908,6 +5919,7 @@
   <member type="way" ref="326937226" role=""/>
   <member type="way" ref="462437758" role=""/>
   <member type="way" ref="462437757" role=""/>
+  <member type="way" ref="867529077" role=""/>
   <member type="way" ref="326932115" role=""/>
   <member type="way" ref="411756293" role=""/>
   <member type="way" ref="411756294" role=""/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (834617 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441780 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2594220" minlon="9.9975586" maxlat="45.2671548" maxlon="10.0085449"/>
  <node id="495197690" visible="true" version="2" changeset="11674634" timestamp="2012-05-22T19:05:25Z" user="Gianluigi" uid="498903" lat="45.2604844" lon="10.0078053"/>
  <node id="495197692" visible="true" version="2" changeset="11674634" timestamp="2012-05-22T19:05:25Z" user="Gianluigi" uid="498903" lat="45.2602764" lon="10.0093735"/>
@@ -11,14 +11,7 @@
  <node id="495197739" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T14:38:37Z" user="Guido Piazzi" uid="38067" lat="45.2615199" lon="10.0078791"/>
  <node id="495209411" visible="true" version="2" changeset="11674634" timestamp="2012-05-22T19:05:26Z" user="Gianluigi" uid="498903" lat="45.2600767" lon="10.0076448"/>
  <node id="495209428" visible="true" version="2" changeset="11674634" timestamp="2012-05-22T19:05:26Z" user="Gianluigi" uid="498903" lat="45.2602890" lon="10.0063407"/>
- <node id="1225407609" visible="true" version="2" changeset="11674634" timestamp="2012-05-22T19:05:24Z" user="Gianluigi" uid="498903" lat="45.2539386" lon="9.9977157"/>
- <node id="1762412521" visible="true" version="1" changeset="11674634" timestamp="2012-05-22T19:04:48Z" user="Gianluigi" uid="498903" lat="45.2540759" lon="9.9977465"/>
- <node id="1762412525" visible="true" version="1" changeset="11674634" timestamp="2012-05-22T19:04:49Z" user="Gianluigi" uid="498903" lat="45.2556044" lon="9.9982632"/>
- <node id="1762412529" visible="true" version="1" changeset="11674634" timestamp="2012-05-22T19:04:49Z" user="Gianluigi" uid="498903" lat="45.2556892" lon="9.9982961"/>
- <node id="1762412542" visible="true" version="1" changeset="11674634" timestamp="2012-05-22T19:04:49Z" user="Gianluigi" uid="498903" lat="45.2565176" lon="9.9986178"/>
- <node id="1762412545" visible="true" version="1" changeset="11674634" timestamp="2012-05-22T19:04:49Z" user="Gianluigi" uid="498903" lat="45.2571507" lon="9.9989378"/>
- <node id="1762412554" visible="true" version="1" changeset="11674634" timestamp="2012-05-22T19:04:50Z" user="Gianluigi" uid="498903" lat="45.2579815" lon="9.9992399"/>
- <node id="1762412571" visible="true" version="1" changeset="11674634" timestamp="2012-05-22T19:04:50Z" user="Gianluigi" uid="498903" lat="45.2587759" lon="9.9995289"/>
+ <node id="1762412571" visible="true" version="2" changeset="94500742" timestamp="2020-11-20T12:23:56Z" user="dega180" uid="454306" lat="45.2587162" lon="9.9995158"/>
  <node id="1762412572" visible="true" version="1" changeset="11674634" timestamp="2012-05-22T19:04:50Z" user="Gianluigi" uid="498903" lat="45.2591182" lon="9.9995671"/>
  <node id="1762412574" visible="true" version="1" changeset="11674634" timestamp="2012-05-22T19:04:50Z" user="Gianluigi" uid="498903" lat="45.2598792" lon="9.9998352"/>
  <node id="1762412580" visible="true" version="1" changeset="11674634" timestamp="2012-05-22T19:04:51Z" user="Gianluigi" uid="498903" lat="45.2603517" lon="10.0000029"/>
@@ -37,14 +30,7 @@
   <tag k="it:lombardia:ctrn:cascina:CS_ID" v="1461"/>
   <tag k="landuse" v="farmyard"/>
  </way>
- <way id="164629988" visible="true" version="1" changeset="11674634" timestamp="2012-05-22T19:05:13Z" user="Gianluigi" uid="498903">
-  <nd ref="1225407609"/>
-  <nd ref="1762412521"/>
-  <nd ref="1762412525"/>
-  <nd ref="1762412529"/>
-  <nd ref="1762412542"/>
-  <nd ref="1762412545"/>
-  <nd ref="1762412554"/>
+ <way id="875128107" visible="true" version="1" changeset="94500742" timestamp="2020-11-20T12:23:56Z" user="dega180" uid="454306">
   <nd ref="1762412571"/>
   <nd ref="1762412572"/>
   <nd ref="1762412574"/>

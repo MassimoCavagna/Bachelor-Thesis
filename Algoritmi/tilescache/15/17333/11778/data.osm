@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2868701 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1924304 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.0657615" minlon="10.4260254" maxlat="45.0735206" maxlon="10.4370117"/>
  <node id="62512772" visible="true" version="4" changeset="88825827" timestamp="2020-08-01T21:55:26Z" user="jambamkin" uid="53626" lat="45.0703092" lon="10.4321040">
   <tag k="gfoss_id" v="2731"/>
@@ -1074,6 +1074,9 @@
  <node id="7776370728" visible="true" version="1" changeset="88825827" timestamp="2020-08-01T21:55:26Z" user="jambamkin" uid="53626" lat="45.0698628" lon="10.4322484"/>
  <node id="7776370729" visible="true" version="1" changeset="88825827" timestamp="2020-08-01T21:55:26Z" user="jambamkin" uid="53626" lat="45.0707067" lon="10.4324243"/>
  <node id="8033504097" visible="true" version="1" changeset="92854157" timestamp="2020-10-21T20:53:57Z" user="MinerMax555" uid="8829660" lat="45.0494548" lon="10.5312122"/>
+ <node id="8043235287" visible="true" version="1" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306" lat="45.0587088" lon="10.5072512"/>
+ <node id="8043235294" visible="true" version="1" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306" lat="45.0535181" lon="10.5183361"/>
+ <node id="8043235295" visible="true" version="1" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306" lat="45.0539882" lon="10.5227882"/>
  <way id="30428991" visible="true" version="10" changeset="85251803" timestamp="2020-05-15T09:47:41Z" user="oib3005" uid="3647308">
   <nd ref="335802755"/>
   <nd ref="7521997865"/>
@@ -1581,7 +1584,7 @@
   <tag k="highway" v="secondary"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="531414890" visible="true" version="2" changeset="92854157" timestamp="2020-10-21T20:53:57Z" user="MinerMax555" uid="8829660">
+ <way id="531414890" visible="true" version="3" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306">
   <nd ref="5158634747"/>
   <nd ref="796819157"/>
   <nd ref="796819370"/>
@@ -1765,6 +1768,7 @@
   <nd ref="900741157"/>
   <nd ref="900741120"/>
   <nd ref="900741110"/>
+  <nd ref="8043235287"/>
   <nd ref="900741064"/>
   <nd ref="900741050"/>
   <nd ref="900741148"/>
@@ -1781,6 +1785,7 @@
   <nd ref="900741171"/>
   <nd ref="900741132"/>
   <nd ref="900741122"/>
+  <nd ref="8043235294"/>
   <nd ref="900741083"/>
   <nd ref="900741066"/>
   <nd ref="900741163"/>
@@ -1789,6 +1794,7 @@
   <nd ref="900741114"/>
   <nd ref="900741070"/>
   <nd ref="900741053"/>
+  <nd ref="8043235295"/>
   <nd ref="900741151"/>
   <nd ref="900741141"/>
   <nd ref="900741154"/>
@@ -3185,16 +3191,20 @@
   <tag k="type" v="route"/>
   <tag k="website" v="http://www.ilcamminare.it/"/>
  </relation>
- <relation id="7944114" visible="true" version="11" changeset="89138507" timestamp="2020-08-08T20:46:07Z" user="ilcamminare" uid="582732">
+ <relation id="7944114" visible="true" version="15" changeset="95071684" timestamp="2020-11-30T22:44:42Z" user="ilcamminare" uid="582732">
   <member type="relation" ref="7395978" role=""/>
   <member type="relation" ref="7509559" role=""/>
   <member type="relation" ref="7509677" role=""/>
+  <member type="relation" ref="7908409" role=""/>
   <member type="relation" ref="11485077" role=""/>
   <member type="relation" ref="7511106" role=""/>
   <member type="relation" ref="7512833" role=""/>
   <member type="relation" ref="7515706" role=""/>
+  <member type="relation" ref="11961433" role=""/>
   <member type="relation" ref="7520011" role=""/>
+  <member type="relation" ref="11964540" role=""/>
   <member type="relation" ref="7522484" role=""/>
+  <member type="relation" ref="11964908" role=""/>
   <member type="relation" ref="7527433" role=""/>
   <member type="relation" ref="7820031" role=""/>
   <member type="relation" ref="7821406" role=""/>
@@ -3217,7 +3227,7 @@
   <tag k="network" v="nwn"/>
   <tag k="osmc:symbol" v="blue:blue:red_stripe:CSG:white"/>
   <tag k="pilgrimage" v="yes"/>
-  <tag k="ref" v="CSG_26_Total"/>
+  <tag k="ref" v="CSG_27_Total"/>
   <tag k="route" v="hiking"/>
   <tag k="state" v="proposed"/>
   <tag k="type" v="route"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2523336 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2936417 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.0114186" minlon="10.4370117" maxlat="45.0191851" maxlon="10.4479980"/>
  <node id="791074447" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:05Z" user="Andrea Marchini" uid="191899" lat="45.0135231" lon="10.4383977"/>
  <node id="791074448" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:05Z" user="Andrea Marchini" uid="191899" lat="45.0139934" lon="10.4385801"/>
@@ -42,11 +42,6 @@
  <node id="791074521" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:07Z" user="Andrea Marchini" uid="191899" lat="45.0291984" lon="10.4446955"/>
  <node id="791074522" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:07Z" user="Andrea Marchini" uid="191899" lat="45.0299415" lon="10.4444917"/>
  <node id="791074523" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:07Z" user="Andrea Marchini" uid="191899" lat="45.0302827" lon="10.4444702"/>
- <node id="791074524" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:07Z" user="Andrea Marchini" uid="191899" lat="45.0313973" lon="10.4446097"/>
- <node id="791074525" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:07Z" user="Andrea Marchini" uid="191899" lat="45.0331791" lon="10.4448994"/>
- <node id="791074526" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:07Z" user="Andrea Marchini" uid="191899" lat="45.0346425" lon="10.4454787"/>
- <node id="791074527" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:07Z" user="Andrea Marchini" uid="191899" lat="45.0363180" lon="10.4457577"/>
- <node id="791074529" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:07Z" user="Andrea Marchini" uid="191899" lat="45.0368791" lon="10.4458650"/>
  <node id="791074774" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:15Z" user="Andrea Marchini" uid="191899" lat="45.0054525" lon="10.4384728"/>
  <node id="791074777" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:15Z" user="Andrea Marchini" uid="191899" lat="45.0067572" lon="10.4388161"/>
  <node id="791074778" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:15Z" user="Andrea Marchini" uid="191899" lat="45.0076827" lon="10.4390200"/>
@@ -80,7 +75,6 @@
  <node id="791074838" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:16Z" user="Andrea Marchini" uid="191899" lat="45.0126661" lon="10.4383333"/>
  <node id="791074840" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:16Z" user="Andrea Marchini" uid="191899" lat="45.0128633" lon="10.4383226"/>
  <node id="791074848" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:17Z" user="Andrea Marchini" uid="191899" lat="45.0131970" lon="10.4383333"/>
- <node id="827777085" visible="true" version="1" changeset="5280546" timestamp="2010-07-21T17:07:32Z" user="Andrea Marchini" uid="191899" lat="45.0303609" lon="10.4444800"/>
  <node id="827794187" visible="true" version="1" changeset="5280641" timestamp="2010-07-21T17:18:45Z" user="Andrea Marchini" uid="191899" lat="45.0051875" lon="10.4384173"/>
  <node id="1180505045" visible="true" version="1" changeset="7428336" timestamp="2011-03-01T11:09:53Z" user="ilrobi" uid="22110" lat="45.0095136" lon="10.4459128"/>
  <node id="1313284257" visible="true" version="2" changeset="15470016" timestamp="2013-03-23T18:49:53Z" user="Basstoelpel" uid="72235" lat="44.9155484" lon="10.3909044">
@@ -531,6 +525,7 @@
  <node id="3592201639" visible="true" version="1" changeset="31944141" timestamp="2015-06-13T14:04:54Z" user="Fredie" uid="2073275" lat="45.0207486" lon="10.4450463"/>
  <node id="3592201664" visible="true" version="1" changeset="31944141" timestamp="2015-06-13T14:04:55Z" user="Fredie" uid="2073275" lat="45.0209589" lon="10.4450038"/>
  <node id="3592201701" visible="true" version="1" changeset="31944141" timestamp="2015-06-13T14:04:55Z" user="Fredie" uid="2073275" lat="45.0215847" lon="10.4429704"/>
+ <node id="8043212098" visible="true" version="1" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306" lat="45.0303563" lon="10.4444497"/>
  <way id="64201070" visible="true" version="5" changeset="68804718" timestamp="2019-04-02T17:35:29Z" user="singhyyd" uid="9196101">
   <nd ref="791074447"/>
   <nd ref="791074448"/>
@@ -930,7 +925,7 @@
   <tag k="voltage" v="220000"/>
   <tag k="wires" v="single"/>
  </way>
- <way id="681203625" visible="true" version="1" changeset="68804718" timestamp="2019-04-02T17:35:28Z" user="singhyyd" uid="9196101">
+ <way id="681203625" visible="true" version="2" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306">
   <nd ref="791074453"/>
   <nd ref="791074456"/>
   <nd ref="791074458"/>
@@ -969,12 +964,7 @@
   <nd ref="791074521"/>
   <nd ref="791074522"/>
   <nd ref="791074523"/>
-  <nd ref="827777085"/>
-  <nd ref="791074524"/>
-  <nd ref="791074525"/>
-  <nd ref="791074526"/>
-  <nd ref="791074527"/>
-  <nd ref="791074529"/>
+  <nd ref="8043212098"/>
   <tag k="bicycle" v="yes"/>
   <tag k="foot" v="yes"/>
   <tag k="highway" v="track"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1829361 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441747 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="44.9881130" minlon="10.4040527" maxlat="44.9958826" maxlon="10.4150391"/>
  <node id="204021845" visible="true" version="7" changeset="31038849" timestamp="2015-05-12T08:45:44Z" user="Fredie" uid="2073275" lat="44.9195348" lon="10.5062298"/>
  <node id="219454726" visible="true" version="4" changeset="22443114" timestamp="2014-05-20T11:06:48Z" user="cincell" uid="1338876" lat="44.9279252" lon="10.4988581"/>
@@ -1914,8 +1914,8 @@
   <tag k="inscription" v="Pista costruita per i fan dei trick"/>
   <tag k="name" v="Pista per skateboard"/>
  </node>
- <node id="5549645832" visible="true" version="3" changeset="62008270" timestamp="2018-08-26T14:33:06Z" user="amarelli" uid="5927109" lat="44.9947215" lon="10.4124394">
-  <tag k="amenity" v="drinking_water sparkling or plain"/>
+ <node id="5549645832" visible="true" version="4" changeset="94133645" timestamp="2020-11-15T07:53:46Z" user="vt100" uid="15110" lat="44.9947215" lon="10.4124394">
+  <tag k="amenity" v="drinking_water"/>
   <tag k="amenity_1" v="acqua naturale e frizzante"/>
   <tag k="name" v="Fonte Baslenga"/>
   <tag k="source" v="building"/>
@@ -4934,7 +4934,7 @@
   <tag k="sport" v="running"/>
   <tag k="type" v="multipolygon"/>
  </relation>
- <relation id="9584949" visible="true" version="58" changeset="92182800" timestamp="2020-10-08T15:08:19Z" user="vrmap" uid="852319">
+ <relation id="9584949" visible="true" version="59" changeset="94020178" timestamp="2020-11-12T21:44:31Z" user="vbertola" uid="4347030">
   <member type="way" ref="252268321" role=""/>
   <member type="way" ref="252268299" role=""/>
   <member type="way" ref="228539544" role=""/>
@@ -4972,12 +4972,13 @@
   <member type="way" ref="24161151" role=""/>
   <member type="way" ref="65427644" role=""/>
   <member type="way" ref="24161122" role=""/>
+  <member type="way" ref="870955974" role=""/>
+  <member type="way" ref="737575818" role=""/>
+  <member type="way" ref="737575821" role=""/>
+  <member type="way" ref="737575819" role=""/>
   <member type="way" ref="189643067" role=""/>
   <member type="way" ref="22956291" role=""/>
   <member type="way" ref="737575820" role=""/>
-  <member type="way" ref="737575821" role=""/>
-  <member type="way" ref="737575819" role=""/>
-  <member type="way" ref="737575818" role=""/>
   <member type="way" ref="189643068" role=""/>
   <member type="way" ref="22956287" role=""/>
   <member type="way" ref="23184183" role=""/>
@@ -5821,9 +5822,10 @@
   <tag k="website" v="http://www.eurovelo8.com/countries/italy"/>
   <tag k="wikipedia" v="en:EV8 The Mediterranean Route"/>
  </relation>
- <relation id="9585839" visible="true" version="26" changeset="89886831" timestamp="2020-08-25T04:23:25Z" user="gzin" uid="35673">
+ <relation id="9585839" visible="true" version="27" changeset="94506437" timestamp="2020-11-20T14:30:02Z" user="patata_28" uid="11166885">
   <member type="way" ref="11701029" role=""/>
   <member type="way" ref="835705627" role=""/>
+  <member type="way" ref="875174822" role=""/>
   <member type="relation" ref="9583387" role="part"/>
   <member type="relation" ref="9629396" role="part"/>
   <member type="relation" ref="3977556" role="part"/>

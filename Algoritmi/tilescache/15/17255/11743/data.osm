@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3541484 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2408566 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3367019" minlon="9.5690918" maxlat="45.3444241" maxlon="9.5800781"/>
  <node id="253952967" visible="true" version="3" changeset="3598861" timestamp="2010-01-11T20:26:37Z" user="wiso" uid="30891" lat="45.3301568" lon="9.5267312"/>
  <node id="253952968" visible="true" version="2" changeset="356867" timestamp="2008-10-15T17:53:20Z" user="wiso" uid="30891" lat="45.3300383" lon="9.5260415"/>
@@ -5471,7 +5471,7 @@
   <tag k="building" v="yes"/>
   <tag k="height" v="3.521"/>
  </way>
- <relation id="73377" visible="true" version="144" changeset="81791389" timestamp="2020-03-04T20:18:19Z" user="mcheck" uid="478872">
+ <relation id="73377" visible="true" version="145" changeset="93023150" timestamp="2020-10-25T17:21:46Z" user="fedc" uid="602784">
   <member type="node" ref="535172259" role="stop"/>
   <member type="node" ref="529658688" role="forward_stop"/>
   <member type="way" ref="30147844" role="forward"/>
@@ -5554,9 +5554,6 @@
   <member type="way" ref="23803702" role=""/>
   <member type="way" ref="23803702" role=""/>
   <member type="way" ref="23803738" role=""/>
-  <member type="way" ref="41240042" role=""/>
-  <member type="way" ref="722567670" role=""/>
-  <member type="way" ref="722567671" role=""/>
   <member type="way" ref="722567669" role=""/>
   <member type="way" ref="188192429" role=""/>
   <member type="way" ref="167393850" role=""/>

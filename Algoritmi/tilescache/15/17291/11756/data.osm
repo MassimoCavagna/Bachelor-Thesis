@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3679741 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3440695 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2362175" minlon="9.9645996" maxlat="45.2439534" maxlon="9.9755859"/>
  <node id="307076487" visible="true" version="3" changeset="28592954" timestamp="2015-02-03T16:26:15Z" user="Pyknite" uid="193512" lat="45.2098771" lon="9.9516226"/>
  <node id="307081858" visible="true" version="2" changeset="28592954" timestamp="2015-02-03T16:26:15Z" user="Pyknite" uid="193512" lat="45.2313782" lon="10.0041792"/>
@@ -838,6 +838,7 @@
  <node id="5489491193" visible="true" version="1" changeset="57328209" timestamp="2018-03-19T19:39:42Z" user="Elia Z" uid="2914055" lat="45.2382274" lon="9.9694123"/>
  <node id="5734812261" visible="true" version="1" changeset="60356713" timestamp="2018-07-02T19:11:10Z" user="Cebderby" uid="705850" lat="45.2382146" lon="9.9692701"/>
  <node id="7997972042" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.2346951" lon="9.9713110"/>
+ <node id="8172809945" visible="true" version="1" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2236033" lon="9.9820085"/>
  <way id="30492389" visible="true" version="9" changeset="57328209" timestamp="2018-03-19T19:39:42Z" user="Elia Z" uid="2914055">
   <nd ref="336502010"/>
   <nd ref="5489491191"/>
@@ -1225,11 +1226,12 @@
   <nd ref="4544831218"/>
   <tag k="landuse" v="grass"/>
  </way>
- <way id="110980893" visible="true" version="9" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306">
+ <way id="110980893" visible="true" version="10" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973">
   <nd ref="336503966"/>
   <nd ref="336503895"/>
   <nd ref="336503883"/>
   <nd ref="336503319"/>
+  <nd ref="8172809945"/>
   <nd ref="336503331"/>
   <nd ref="1225390602"/>
   <nd ref="4544831225"/>
@@ -1253,7 +1255,6 @@
   <nd ref="336502010"/>
   <tag k="highway" v="primary"/>
   <tag k="lanes" v="2"/>
-  <tag k="layer" v="0"/>
   <tag k="name" v="Via Bergamo"/>
   <tag k="old_ref" v="SS498"/>
   <tag k="ref" v="SPexSS498"/>
@@ -1720,17 +1721,17 @@
   <tag k="wikidata" v="Q42818"/>
   <tag k="wikipedia" v="it:Casalbuttano ed Uniti"/>
  </relation>
- <relation id="2250847" visible="true" version="32" changeset="92791116" timestamp="2020-10-20T21:11:24Z" user="fedc" uid="602784">
+ <relation id="2250847" visible="true" version="34" changeset="94975453" timestamp="2020-11-29T08:40:06Z" user="AlessioZappa" uid="12186632">
   <member type="way" ref="113678704" role=""/>
   <member type="way" ref="126701315" role=""/>
   <member type="way" ref="126701313" role=""/>
   <member type="way" ref="557365070" role="backward"/>
   <member type="way" ref="557365069" role=""/>
   <member type="way" ref="126701303" role=""/>
-  <member type="way" ref="576978580" role=""/>
-  <member type="way" ref="576978578" role="forward"/>
-  <member type="way" ref="619115096" role="forward"/>
-  <member type="way" ref="619115097" role="backward"/>
+  <member type="way" ref="200665209" role=""/>
+  <member type="way" ref="72217879" role=""/>
+  <member type="way" ref="625057210" role=""/>
+  <member type="way" ref="576978575" role=""/>
   <member type="way" ref="168716011" role=""/>
   <member type="way" ref="168716012" role=""/>
   <member type="way" ref="560510016" role=""/>
@@ -1800,7 +1801,6 @@
   <member type="way" ref="184472631" role="forward"/>
   <member type="way" ref="184472629" role="forward"/>
   <member type="way" ref="184472633" role="forward"/>
-  <member type="way" ref="557365071" role="forward"/>
   <member type="way" ref="27541538" role=""/>
   <member type="way" ref="27541534" role=""/>
   <member type="way" ref="197898591" role=""/>
@@ -1808,15 +1808,13 @@
   <member type="way" ref="168963193" role=""/>
   <member type="way" ref="168968056" role=""/>
   <member type="way" ref="618892725" role=""/>
-  <member type="way" ref="619115098" role=""/>
-  <member type="way" ref="576978575" role=""/>
-  <member type="way" ref="71753117" role=""/>
-  <member type="way" ref="126706431" role=""/>
-  <member type="way" ref="352376795" role=""/>
-  <member type="way" ref="126705915" role=""/>
-  <member type="way" ref="126705912" role=""/>
-  <member type="way" ref="837612967" role=""/>
   <member type="way" ref="126705918" role=""/>
+  <member type="way" ref="837612967" role=""/>
+  <member type="way" ref="126705912" role=""/>
+  <member type="way" ref="126705915" role=""/>
+  <member type="way" ref="352376795" role=""/>
+  <member type="way" ref="126706431" role=""/>
+  <member type="way" ref="71753117" role=""/>
   <member type="way" ref="249617403" role=""/>
   <member type="way" ref="549605532" role="forward"/>
   <member type="way" ref="577680963" role="backward"/>

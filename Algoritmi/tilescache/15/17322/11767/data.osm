@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3094907 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3440587 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1510533" minlon="10.3051758" maxlat="45.1588007" maxlon="10.3161621"/>
  <node id="307050749" visible="true" version="5" changeset="65914774" timestamp="2018-12-31T15:03:39Z" user="fayor" uid="743479" lat="45.1551607" lon="10.3334198"/>
  <node id="307051638" visible="true" version="4" changeset="65914774" timestamp="2018-12-31T15:03:39Z" user="fayor" uid="743479" lat="45.1626464" lon="10.2850371"/>
@@ -304,7 +304,7 @@
  <node id="6174933980" visible="true" version="1" changeset="65914774" timestamp="2018-12-31T15:03:31Z" user="fayor" uid="743479" lat="45.1612765" lon="10.2983844"/>
  <node id="6174933981" visible="true" version="1" changeset="65914774" timestamp="2018-12-31T15:03:31Z" user="fayor" uid="743479" lat="45.1612973" lon="10.2983040"/>
  <node id="6174933982" visible="true" version="1" changeset="65914774" timestamp="2018-12-31T15:03:31Z" user="fayor" uid="743479" lat="45.1614183" lon="10.2980035"/>
- <way id="110451124" visible="true" version="7" changeset="59345195" timestamp="2018-05-28T16:33:37Z" user="pigio66" uid="7507474">
+ <way id="110451124" visible="true" version="8" changeset="94791544" timestamp="2020-11-25T17:48:42Z" user="Ze0zohk1" uid="4565074">
   <nd ref="1261311503"/>
   <nd ref="1261311785"/>
   <nd ref="1261311725"/>
@@ -392,7 +392,7 @@
   <nd ref="1261311503"/>
   <tag k="highway" v="raceway"/>
   <tag k="sport" v="motocross"/>
-  <tag k="surface" v="dirt/sand"/>
+  <tag k="surface" v="dirt;sand"/>
  </way>
  <way id="170090286" visible="true" version="4" changeset="75674384" timestamp="2019-10-14T15:09:08Z" user="Benny4L" uid="647382">
   <nd ref="1812423831"/>

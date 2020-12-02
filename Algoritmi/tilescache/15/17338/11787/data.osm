@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3679741 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441825 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="44.9958826" minlon="10.4809570" maxlat="45.0036512" maxlon="10.4919434"/>
  <node id="62513274" visible="true" version="7" changeset="47411410" timestamp="2017-04-03T13:02:20Z" user="LvdT" uid="1834719" lat="44.9984358" lon="10.4885871">
   <tag k="gfoss_id" v="2735"/>
@@ -16007,7 +16007,7 @@
   <tag k="wikidata" v="Q43014"/>
   <tag k="wikipedia" v="it:Sabbioneta"/>
  </relation>
- <relation id="2163392" visible="true" version="314" changeset="92369540" timestamp="2020-10-12T18:06:39Z" user="frasty" uid="549825">
+ <relation id="2163392" visible="true" version="315" changeset="94135371" timestamp="2020-11-15T08:53:17Z" user="tytoalba" uid="676877">
   <member type="way" ref="161676540" role=""/>
   <member type="way" ref="590489115" role=""/>
   <member type="way" ref="379903241" role=""/>
@@ -16276,6 +16276,7 @@
   <member type="way" ref="200574743" role=""/>
   <member type="way" ref="115753025" role=""/>
   <member type="way" ref="23915462" role=""/>
+  <member type="way" ref="871818113" role=""/>
   <member type="way" ref="293954575" role=""/>
   <member type="way" ref="646081937" role=""/>
   <member type="way" ref="91888930" role=""/>
@@ -17216,16 +17217,20 @@
   <tag k="type" v="route"/>
   <tag k="website" v="http://www.ilcamminare.it/"/>
  </relation>
- <relation id="7944114" visible="true" version="11" changeset="89138507" timestamp="2020-08-08T20:46:07Z" user="ilcamminare" uid="582732">
+ <relation id="7944114" visible="true" version="15" changeset="95071684" timestamp="2020-11-30T22:44:42Z" user="ilcamminare" uid="582732">
   <member type="relation" ref="7395978" role=""/>
   <member type="relation" ref="7509559" role=""/>
   <member type="relation" ref="7509677" role=""/>
+  <member type="relation" ref="7908409" role=""/>
   <member type="relation" ref="11485077" role=""/>
   <member type="relation" ref="7511106" role=""/>
   <member type="relation" ref="7512833" role=""/>
   <member type="relation" ref="7515706" role=""/>
+  <member type="relation" ref="11961433" role=""/>
   <member type="relation" ref="7520011" role=""/>
+  <member type="relation" ref="11964540" role=""/>
   <member type="relation" ref="7522484" role=""/>
+  <member type="relation" ref="11964908" role=""/>
   <member type="relation" ref="7527433" role=""/>
   <member type="relation" ref="7820031" role=""/>
   <member type="relation" ref="7821406" role=""/>
@@ -17248,7 +17253,7 @@
   <tag k="network" v="nwn"/>
   <tag k="osmc:symbol" v="blue:blue:red_stripe:CSG:white"/>
   <tag k="pilgrimage" v="yes"/>
-  <tag k="ref" v="CSG_26_Total"/>
+  <tag k="ref" v="CSG_27_Total"/>
   <tag k="route" v="hiking"/>
   <tag k="state" v="proposed"/>
   <tag k="type" v="route"/>

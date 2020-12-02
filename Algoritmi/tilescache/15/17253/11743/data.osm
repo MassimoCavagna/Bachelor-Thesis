@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3930455 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2936320 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3367019" minlon="9.5471191" maxlat="45.3444241" maxlon="9.5581055"/>
  <node id="252520105" visible="true" version="75" changeset="43273731" timestamp="2016-10-29T21:42:49Z" user="fedc" uid="602784" lat="45.3414897" lon="9.5569998"/>
  <node id="252525240" visible="true" version="72" changeset="1807428" timestamp="2009-07-12T15:01:35Z" user="wiso" uid="30891" lat="45.3342811" lon="9.5424302"/>
@@ -4575,7 +4575,7 @@
   <tag k="wikidata" v="Q42167"/>
   <tag k="wikipedia" v="it:Dovera"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -4648,7 +4648,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>
@@ -5059,7 +5060,7 @@
   <tag k="wikidata" v="Q1210"/>
   <tag k="wikipedia" v="it:Lombardia"/>
  </relation>
- <relation id="73377" visible="true" version="144" changeset="81791389" timestamp="2020-03-04T20:18:19Z" user="mcheck" uid="478872">
+ <relation id="73377" visible="true" version="145" changeset="93023150" timestamp="2020-10-25T17:21:46Z" user="fedc" uid="602784">
   <member type="node" ref="535172259" role="stop"/>
   <member type="node" ref="529658688" role="forward_stop"/>
   <member type="way" ref="30147844" role="forward"/>
@@ -5142,9 +5143,6 @@
   <member type="way" ref="23803702" role=""/>
   <member type="way" ref="23803702" role=""/>
   <member type="way" ref="23803738" role=""/>
-  <member type="way" ref="41240042" role=""/>
-  <member type="way" ref="722567670" role=""/>
-  <member type="way" ref="722567671" role=""/>
   <member type="way" ref="722567669" role=""/>
   <member type="way" ref="188192429" role=""/>
   <member type="way" ref="167393850" role=""/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991886 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3439588 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1588007" minlon="9.9755859" maxlat="45.1665472" maxlon="9.9865723"/>
  <node id="249617123" visible="true" version="4" changeset="5460052" timestamp="2010-08-11T07:29:01Z" user="Mold0101" uid="82704" lat="45.1608305" lon="9.9852228"/>
  <node id="262417699" visible="true" version="8" changeset="5460052" timestamp="2010-08-11T07:29:00Z" user="Mold0101" uid="82704" lat="45.1533515" lon="9.9958496"/>
@@ -51,7 +51,7 @@
  <node id="854329828" visible="true" version="1" changeset="5460052" timestamp="2010-08-11T07:28:37Z" user="Mold0101" uid="82704" lat="45.1555361" lon="9.9925967"/>
  <node id="854329830" visible="true" version="1" changeset="5460052" timestamp="2010-08-11T07:28:37Z" user="Mold0101" uid="82704" lat="45.1575303" lon="9.9832641"/>
  <node id="854329849" visible="true" version="1" changeset="5460052" timestamp="2010-08-11T07:28:38Z" user="Mold0101" uid="82704" lat="45.1576455" lon="9.9831370"/>
- <node id="854329859" visible="true" version="1" changeset="5460052" timestamp="2010-08-11T07:28:39Z" user="Mold0101" uid="82704" lat="45.1551217" lon="9.9821592"/>
+ <node id="854329859" visible="true" version="2" changeset="94571761" timestamp="2020-11-22T08:39:02Z" user="AlessioZappa" uid="12186632" lat="45.1551539" lon="9.9821807"/>
  <node id="854329863" visible="true" version="1" changeset="5460052" timestamp="2010-08-11T07:28:39Z" user="Mold0101" uid="82704" lat="45.1605642" lon="9.9857898"/>
  <node id="854329888" visible="true" version="1" changeset="5460052" timestamp="2010-08-11T07:28:40Z" user="Mold0101" uid="82704" lat="45.1608212" lon="9.9854066"/>
  <node id="854329893" visible="true" version="1" changeset="5460052" timestamp="2010-08-11T07:28:41Z" user="Mold0101" uid="82704" lat="45.1579145" lon="9.9829644"/>
@@ -2350,7 +2350,7 @@
   <nd ref="6812646285"/>
   <tag k="building" v="yes"/>
  </way>
- <relation id="67534" visible="true" version="193" changeset="74193056" timestamp="2019-09-06T20:52:47Z" user="fedc" uid="602784">
+ <relation id="67534" visible="true" version="194" changeset="94991437" timestamp="2020-11-29T16:59:52Z" user="dega180" uid="454306">
   <member type="way" ref="585187099" role=""/>
   <member type="way" ref="542472413" role=""/>
   <member type="way" ref="542472412" role=""/>
@@ -2378,10 +2378,10 @@
   <member type="way" ref="478858129" role=""/>
   <member type="way" ref="478858128" role=""/>
   <member type="way" ref="478858127" role=""/>
-  <member type="way" ref="133268719" role=""/>
   <member type="way" ref="656862949" role=""/>
-  <member type="way" ref="656862953" role=""/>
-  <member type="way" ref="656862954" role=""/>
+  <member type="way" ref="133268719" role=""/>
+  <member type="way" ref="878939333" role=""/>
+  <member type="way" ref="878939332" role=""/>
   <member type="way" ref="656862955" role=""/>
   <member type="way" ref="656862956" role=""/>
   <member type="way" ref="656862957" role=""/>
@@ -2393,6 +2393,8 @@
   <member type="way" ref="493666030" role=""/>
   <member type="way" ref="656862960" role=""/>
   <member type="way" ref="133268666" role=""/>
+  <member type="way" ref="656862953" role=""/>
+  <member type="way" ref="656862954" role=""/>
   <member type="way" ref="656862961" role=""/>
   <member type="way" ref="505304855" role=""/>
   <member type="way" ref="656862948" role=""/>

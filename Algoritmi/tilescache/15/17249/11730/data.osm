@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991886 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2473883 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4370083" minlon="9.5031738" maxlat="45.4447168" maxlon="9.5141602"/>
  <node id="309697408" visible="true" version="5" changeset="43537422" timestamp="2016-11-10T15:10:42Z" user="FabioMTB" uid="4617656" lat="45.4662881" lon="9.5020573"/>
  <node id="309697410" visible="true" version="4" changeset="43099465" timestamp="2016-10-23T12:42:49Z" user="FabioMTB" uid="4617656" lat="45.4654847" lon="9.5017112"/>
@@ -1787,7 +1787,7 @@
   <tag k="access" v="private"/>
   <tag k="highway" v="track"/>
  </way>
- <way id="514854421" visible="true" version="1" changeset="51038851" timestamp="2017-08-11T16:12:15Z" user="FabioMTB" uid="4617656">
+ <way id="514854421" visible="true" version="2" changeset="93685812" timestamp="2020-11-06T21:34:05Z" user="dega180" uid="454306">
   <nd ref="5029079396"/>
   <nd ref="5029079395"/>
   <nd ref="5029079394"/>
@@ -1796,9 +1796,10 @@
   <nd ref="5029079391"/>
   <nd ref="5029079390"/>
   <nd ref="5029079396"/>
-  <tag k="landuse" v="reservoir"/>
+  <tag k="natural" v="water"/>
+  <tag k="water" v="reservoir"/>
  </way>
- <way id="514854422" visible="true" version="1" changeset="51038851" timestamp="2017-08-11T16:12:15Z" user="FabioMTB" uid="4617656">
+ <way id="514854422" visible="true" version="2" changeset="93685812" timestamp="2020-11-06T21:34:05Z" user="dega180" uid="454306">
   <nd ref="5029079405"/>
   <nd ref="5029079404"/>
   <nd ref="5029079403"/>
@@ -1809,9 +1810,10 @@
   <nd ref="5029079398"/>
   <nd ref="5029079397"/>
   <nd ref="5029079405"/>
-  <tag k="landuse" v="reservoir"/>
+  <tag k="natural" v="water"/>
+  <tag k="water" v="reservoir"/>
  </way>
- <way id="514854423" visible="true" version="1" changeset="51038851" timestamp="2017-08-11T16:12:15Z" user="FabioMTB" uid="4617656">
+ <way id="514854423" visible="true" version="2" changeset="93685812" timestamp="2020-11-06T21:34:05Z" user="dega180" uid="454306">
   <nd ref="5029079414"/>
   <nd ref="5029079413"/>
   <nd ref="5029079412"/>
@@ -1822,7 +1824,8 @@
   <nd ref="5029079407"/>
   <nd ref="5029079406"/>
   <nd ref="5029079414"/>
-  <tag k="landuse" v="reservoir"/>
+  <tag k="natural" v="water"/>
+  <tag k="water" v="reservoir"/>
  </way>
  <way id="514854424" visible="true" version="2" changeset="70825620" timestamp="2019-06-01T00:19:12Z" user="edathy" uid="9598606">
   <nd ref="5029080122"/>
@@ -1859,7 +1862,7 @@
   <tag k="landuse" v="farmyard"/>
   <tag k="name" v="Cascina San Fermo"/>
  </way>
- <way id="514854430" visible="true" version="2" changeset="89540532" timestamp="2020-08-17T22:45:37Z" user="Firenado" uid="11666609">
+ <way id="514854430" visible="true" version="3" changeset="93685812" timestamp="2020-11-06T21:34:05Z" user="dega180" uid="454306">
   <nd ref="5029080182"/>
   <nd ref="5029080170"/>
   <nd ref="5029080169"/>
@@ -1878,6 +1881,7 @@
   <nd ref="5029080175"/>
   <nd ref="5029080182"/>
   <tag k="plant:method" v="photovoltaic"/>
+  <tag k="plant:output:electricity" v="yes"/>
   <tag k="plant:source" v="solar"/>
   <tag k="power" v="plant"/>
  </way>

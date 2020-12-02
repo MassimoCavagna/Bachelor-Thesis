@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3679741 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441825 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2516883" minlon="9.9975586" maxlat="45.2594220" maxlon="10.0085449"/>
  <node id="307085172" visible="true" version="4" changeset="28592954" timestamp="2015-02-03T16:26:15Z" user="Pyknite" uid="193512" lat="45.2469524" lon="9.9978494"/>
  <node id="307089778" visible="true" version="5" changeset="28592954" timestamp="2015-02-03T16:26:15Z" user="Pyknite" uid="193512" lat="45.2759132" lon="9.9723474"/>
@@ -231,7 +231,7 @@
  <node id="1762412547" visible="true" version="1" changeset="11674634" timestamp="2012-05-22T19:04:49Z" user="Gianluigi" uid="498903" lat="45.2573441" lon="9.9977856"/>
  <node id="1762412554" visible="true" version="1" changeset="11674634" timestamp="2012-05-22T19:04:50Z" user="Gianluigi" uid="498903" lat="45.2579815" lon="9.9992399"/>
  <node id="1762412557" visible="true" version="1" changeset="11674634" timestamp="2012-05-22T19:04:50Z" user="Gianluigi" uid="498903" lat="45.2581537" lon="9.9980451"/>
- <node id="1762412571" visible="true" version="1" changeset="11674634" timestamp="2012-05-22T19:04:50Z" user="Gianluigi" uid="498903" lat="45.2587759" lon="9.9995289"/>
+ <node id="1762412571" visible="true" version="2" changeset="94500742" timestamp="2020-11-20T12:23:56Z" user="dega180" uid="454306" lat="45.2587162" lon="9.9995158"/>
  <node id="1762412572" visible="true" version="1" changeset="11674634" timestamp="2012-05-22T19:04:50Z" user="Gianluigi" uid="498903" lat="45.2591182" lon="9.9995671"/>
  <node id="1762412574" visible="true" version="1" changeset="11674634" timestamp="2012-05-22T19:04:50Z" user="Gianluigi" uid="498903" lat="45.2598792" lon="9.9998352"/>
  <node id="1762412580" visible="true" version="1" changeset="11674634" timestamp="2012-05-22T19:04:51Z" user="Gianluigi" uid="498903" lat="45.2603517" lon="10.0000029"/>
@@ -397,6 +397,7 @@
  <node id="7265058659" visible="true" version="1" changeset="81796286" timestamp="2020-03-05T00:42:06Z" user="mcheck" uid="478872" lat="45.2573927" lon="10.0088421"/>
  <node id="7265058660" visible="true" version="1" changeset="81796286" timestamp="2020-03-05T00:42:06Z" user="mcheck" uid="478872" lat="45.2561709" lon="10.0088047"/>
  <node id="7265058661" visible="true" version="1" changeset="81796286" timestamp="2020-03-05T00:42:06Z" user="mcheck" uid="478872" lat="45.2536426" lon="10.0001442"/>
+ <node id="8145976438" visible="true" version="1" changeset="94500742" timestamp="2020-11-20T12:23:56Z" user="dega180" uid="454306" lat="45.2586082" lon="9.9994769"/>
  <way id="40762911" visible="true" version="4" changeset="81796286" timestamp="2020-03-05T00:42:06Z" user="mcheck" uid="478872">
   <nd ref="495239533"/>
   <nd ref="495239504"/>
@@ -610,7 +611,7 @@
   <nd ref="1762412557"/>
   <tag k="landuse" v="farmyard"/>
  </way>
- <way id="164629988" visible="true" version="1" changeset="11674634" timestamp="2012-05-22T19:05:13Z" user="Gianluigi" uid="498903">
+ <way id="164629988" visible="true" version="2" changeset="94500742" timestamp="2020-11-20T12:23:56Z" user="dega180" uid="454306">
   <nd ref="1225407609"/>
   <nd ref="1762412521"/>
   <nd ref="1762412525"/>
@@ -618,10 +619,7 @@
   <nd ref="1762412542"/>
   <nd ref="1762412545"/>
   <nd ref="1762412554"/>
-  <nd ref="1762412571"/>
-  <nd ref="1762412572"/>
-  <nd ref="1762412574"/>
-  <nd ref="1762412580"/>
+  <nd ref="8145976438"/>
   <tag k="highway" v="unclassified"/>
  </way>
  <way id="326239799" visible="true" version="1" changeset="28592954" timestamp="2015-02-03T16:26:13Z" user="Pyknite" uid="193512">
@@ -831,6 +829,20 @@
   <tag k="highway" v="unclassified"/>
   <tag k="name" v="Strada Campagnola"/>
   <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="875128107" visible="true" version="1" changeset="94500742" timestamp="2020-11-20T12:23:56Z" user="dega180" uid="454306">
+  <nd ref="1762412571"/>
+  <nd ref="1762412572"/>
+  <nd ref="1762412574"/>
+  <nd ref="1762412580"/>
+  <tag k="highway" v="unclassified"/>
+ </way>
+ <way id="875128108" visible="true" version="1" changeset="94500742" timestamp="2020-11-20T12:23:56Z" user="dega180" uid="454306">
+  <nd ref="8145976438"/>
+  <nd ref="1762412571"/>
+  <tag k="bridge" v="yes"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="layer" v="1"/>
  </way>
  <relation id="44525" visible="true" version="10" changeset="44130367" timestamp="2016-12-03T06:31:00Z" user="nyuriks" uid="339581">
   <member type="node" ref="62510530" role="admin_centre"/>

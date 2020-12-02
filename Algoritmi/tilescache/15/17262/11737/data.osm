@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1877508 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3439759 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3830193" minlon="9.6459961" maxlat="45.3907352" maxlon="9.6569824"/>
  <node id="451106712" visible="true" version="2" changeset="4652438" timestamp="2010-05-09T18:43:31Z" user="wiso" uid="30891" lat="45.3737434" lon="9.6731599">
   <tag k="railway" v="level_crossing"/>
@@ -43,14 +43,11 @@
   <tag k="railway" v="level_crossing"/>
  </node>
  <node id="451753238" visible="true" version="2" changeset="52127847" timestamp="2017-09-17T21:25:54Z" user="fedc" uid="602784" lat="45.4062002" lon="9.6323370"/>
- <node id="451794732" visible="true" version="8" changeset="59738734" timestamp="2018-06-11T11:47:01Z" user="Mannivu" uid="1950277" lat="45.4086692" lon="9.6317539">
+ <node id="451794732" visible="true" version="9" changeset="93333293" timestamp="2020-10-31T11:12:42Z" user="Alecs01" uid="1476146" lat="45.4086692" lon="9.6317539">
   <tag k="name" v="Casaletto Vaprio"/>
   <tag k="operator" v="RFI"/>
   <tag k="public_transport" v="stop_position"/>
-  <tag k="railway" v="station"/>
   <tag k="train" v="yes"/>
-  <tag k="wikidata" v="Q3969259"/>
-  <tag k="wikipedia" v="it:Stazione di Casaletto Vaprio"/>
  </node>
  <node id="529105680" visible="true" version="4" changeset="46560464" timestamp="2017-03-03T22:16:52Z" user="FabioMTB" uid="4617656" lat="45.3939733" lon="9.6397666"/>
  <node id="643925686" visible="true" version="1" changeset="3905070" timestamp="2010-02-17T22:06:34Z" user="wiso" uid="30891" lat="45.3890400" lon="9.6440955"/>
@@ -465,7 +462,7 @@
   <tag k="highway" v="track"/>
   <tag k="tracktype" v="grade3"/>
  </way>
- <relation id="183626" visible="true" version="56" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
+ <relation id="183626" visible="true" version="57" changeset="92894016" timestamp="2020-10-22T11:47:39Z" user="Mannivu" uid="1950277">
   <member type="way" ref="38289883" role=""/>
   <member type="way" ref="38289882" role=""/>
   <member type="way" ref="596450377" role=""/>
@@ -517,6 +514,7 @@
   <tag k="route" v="railway"/>
   <tag k="type" v="route"/>
   <tag k="wikidata" v="Q803335"/>
+  <tag k="wikimedia_commons" v="Category:Treviglio–Cremona railway"/>
   <tag k="wikipedia" v="it:Ferrovia Treviglio-Cremona"/>
  </relation>
  <relation id="8400077" visible="true" version="10" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">

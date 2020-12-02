@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (145848 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441951 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2903466" minlon="9.6569824" maxlat="45.2980751" maxlon="9.6679688"/>
  <node id="252584846" visible="true" version="5" changeset="3276762" timestamp="2009-12-02T23:59:55Z" user="wiso" uid="30891" lat="45.2974782" lon="9.6678774"/>
  <node id="773945908" visible="true" version="1" changeset="5003656" timestamp="2010-06-16T19:49:23Z" user="wiso" uid="30891" lat="45.2969689" lon="9.6630645"/>
@@ -316,7 +316,9 @@
  <node id="4827759777" visible="true" version="1" changeset="48292012" timestamp="2017-04-30T20:28:36Z" user="fedc" uid="602784" lat="45.2875832" lon="9.6676849"/>
  <node id="4827759778" visible="true" version="1" changeset="48292012" timestamp="2017-04-30T20:28:36Z" user="fedc" uid="602784" lat="45.2870519" lon="9.6677689"/>
  <node id="4827773559" visible="true" version="1" changeset="48292189" timestamp="2017-04-30T20:37:00Z" user="fedc" uid="602784" lat="45.2904117" lon="9.6606126"/>
- <node id="4827773560" visible="true" version="1" changeset="48292189" timestamp="2017-04-30T20:37:00Z" user="fedc" uid="602784" lat="45.2899509" lon="9.6597320"/>
+ <node id="4827773560" visible="true" version="2" changeset="93783478" timestamp="2020-11-09T08:52:39Z" user="atomix2" uid="10500513" lat="45.2899509" lon="9.6597320">
+  <tag k="barrier" v="gate"/>
+ </node>
  <node id="4827773561" visible="true" version="1" changeset="48292189" timestamp="2017-04-30T20:37:00Z" user="fedc" uid="602784" lat="45.2898997" lon="9.6595574"/>
  <node id="4827773562" visible="true" version="1" changeset="48292189" timestamp="2017-04-30T20:37:00Z" user="fedc" uid="602784" lat="45.2898843" lon="9.6593682"/>
  <node id="4827773563" visible="true" version="2" changeset="57787317" timestamp="2018-04-03T23:16:27Z" user="fedc" uid="602784" lat="45.2895912" lon="9.6564341"/>

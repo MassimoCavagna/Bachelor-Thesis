@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3541484 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441780 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2130036" minlon="10.2832031" maxlat="45.2207426" maxlon="10.2941895"/>
  <node id="307075186" visible="true" version="2" changeset="28216814" timestamp="2015-01-17T19:24:51Z" user="Pyknite" uid="193512" lat="45.1943806" lon="10.2897454"/>
  <node id="377047568" visible="true" version="1" changeset="558751" timestamp="2009-04-15T22:20:53Z" user="lucadelu" uid="13591" lat="45.2162956" lon="10.2775986"/>
@@ -17,6 +17,7 @@
  <node id="377047723" visible="true" version="1" changeset="558751" timestamp="2009-04-15T22:21:02Z" user="lucadelu" uid="13591" lat="45.2126066" lon="10.2978188"/>
  <node id="377047733" visible="true" version="2" changeset="10479601" timestamp="2012-01-23T21:42:15Z" user="Gianluigi" uid="498903" lat="45.2123074" lon="10.3002000"/>
  <node id="658763302" visible="true" version="2" changeset="28521493" timestamp="2015-01-31T11:45:05Z" user="Pyknite" uid="193512" lat="45.2254545" lon="10.2956225"/>
+ <node id="1517016872" visible="true" version="1" changeset="9949336" timestamp="2011-11-25T22:13:38Z" user="Gianluigi" uid="498903" lat="45.2210572" lon="10.2784001"/>
  <node id="1520277964" visible="true" version="2" changeset="12167323" timestamp="2012-07-09T21:27:28Z" user="Gianluigi" uid="498903" lat="45.2140144" lon="10.2881469"/>
  <node id="1520278023" visible="true" version="1" changeset="9972297" timestamp="2011-11-27T21:30:26Z" user="Gianluigi" uid="498903" lat="45.2154835" lon="10.2876927"/>
  <node id="1520278055" visible="true" version="1" changeset="9972297" timestamp="2011-11-27T21:30:27Z" user="Gianluigi" uid="498903" lat="45.2156673" lon="10.2867481"/>
@@ -170,6 +171,14 @@
  <node id="3644963937" visible="true" version="1" changeset="32550655" timestamp="2015-07-10T18:47:23Z" user="Moliva" uid="107039" lat="45.2203618" lon="10.2952930"/>
  <node id="3644963938" visible="true" version="1" changeset="32550655" timestamp="2015-07-10T18:47:23Z" user="Moliva" uid="107039" lat="45.2204682" lon="10.2939404"/>
  <node id="5322900182" visible="true" version="1" changeset="55200150" timestamp="2018-01-05T23:04:58Z" user="ilcamminare" uid="582732" lat="45.1967502" lon="10.2851751"/>
+ <node id="8048636068" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2210863" lon="10.2785276"/>
+ <node id="8048636069" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2207693" lon="10.2797025"/>
+ <node id="8048636070" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2206675" lon="10.2800223"/>
+ <node id="8048636071" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2206158" lon="10.2802332"/>
+ <node id="8048636072" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2203872" lon="10.2814412"/>
+ <node id="8048636073" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2185969" lon="10.2898599"/>
+ <node id="8048636074" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2186002" lon="10.2899759"/>
+ <node id="8048636075" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2192109" lon="10.2902934"/>
  <way id="138646180" visible="true" version="3" changeset="32549747" timestamp="2015-07-10T17:51:48Z" user="Moliva" uid="107039">
   <nd ref="1520278055"/>
   <nd ref="377047636"/>
@@ -373,6 +382,18 @@
   <tag k="highway" v="tertiary"/>
   <tag k="name" v="Via Giuseppe Garibaldi"/>
   <tag k="oneway" v="no"/>
+ </way>
+ <way id="863980127" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306">
+  <nd ref="1517016872"/>
+  <nd ref="8048636068"/>
+  <nd ref="8048636069"/>
+  <nd ref="8048636070"/>
+  <nd ref="8048636071"/>
+  <nd ref="8048636072"/>
+  <nd ref="8048636073"/>
+  <nd ref="8048636074"/>
+  <nd ref="8048636075"/>
+  <tag k="highway" v="track"/>
  </way>
  <relation id="44429" visible="true" version="12" changeset="44251346" timestamp="2016-12-08T07:00:43Z" user="nyuriks" uid="339581">
   <member type="way" ref="51353515" role="outer"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3094907 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1923394 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2130036" minlon="9.9865723" maxlat="45.2207426" maxlon="9.9975586"/>
  <node id="336503286" visible="true" version="15" changeset="44246851" timestamp="2016-12-07T23:10:29Z" user="Marco_T" uid="1227619" lat="45.2166931" lon="9.9862640"/>
  <node id="336503291" visible="true" version="16" changeset="44246851" timestamp="2016-12-07T23:10:29Z" user="Marco_T" uid="1227619" lat="45.2168468" lon="9.9861956"/>
@@ -37,6 +37,13 @@
  <node id="4543912416" visible="true" version="1" changeset="44246851" timestamp="2016-12-07T23:10:28Z" user="Marco_T" uid="1227619" lat="45.2088765" lon="9.9967084"/>
  <node id="4544831226" visible="true" version="1" changeset="44257275" timestamp="2016-12-08T12:44:05Z" user="Elia Z" uid="2914055" lat="45.2173328" lon="9.9859816"/>
  <node id="4688673192" visible="true" version="1" changeset="46135130" timestamp="2017-02-16T12:02:21Z" user="Senbee" uid="312126" lat="45.2040839" lon="9.9918160"/>
+ <node id="8172809929" visible="true" version="1" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2142847" lon="9.9890453"/>
+ <node id="8172809930" visible="true" version="1" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2141070" lon="9.9890131"/>
+ <node id="8172809931" visible="true" version="1" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2139634" lon="9.9898875"/>
+ <node id="8172809932" visible="true" version="1" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2134646" lon="9.9900752"/>
+ <node id="8172809933" visible="true" version="1" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2133172" lon="9.9900645"/>
+ <node id="8172809934" visible="true" version="1" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2133248" lon="9.9881816"/>
+ <node id="8172809935" visible="true" version="1" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2144849" lon="9.9877632"/>
  <way id="30707437" visible="true" version="2" changeset="44246851" timestamp="2016-12-07T23:10:29Z" user="Marco_T" uid="1227619">
   <nd ref="339600644"/>
   <nd ref="4543911967"/>
@@ -95,6 +102,20 @@
   <tag k="old_ref" v="SS498"/>
   <tag k="ref" v="SPexSS498"/>
   <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="878502422" visible="true" version="1" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973">
+  <nd ref="8172809935"/>
+  <nd ref="8172809934"/>
+  <nd ref="8172809933"/>
+  <nd ref="8172809932"/>
+  <nd ref="8172809931"/>
+  <nd ref="8172809930"/>
+  <nd ref="8172809929"/>
+  <nd ref="8172809935"/>
+  <tag k="generator:method" v="photovoltaic"/>
+  <tag k="generator:source" v="solar"/>
+  <tag k="generator:type" v="solar_photovoltaic_panel"/>
+  <tag k="power" v="generator"/>
  </way>
  <relation id="6769829" visible="true" version="29" changeset="91244352" timestamp="2020-09-21T18:22:04Z" user="digt" uid="1628387">
   <member type="way" ref="49423061" role=""/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991863 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1318762 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1588007" minlon="9.9975586" maxlat="45.1665472" maxlon="10.0085449"/>
  <node id="339604820" visible="true" version="12" changeset="57855363" timestamp="2018-04-06T06:35:19Z" user="pigio66" uid="7507474" lat="45.1589000" lon="10.0117224"/>
  <node id="339607379" visible="true" version="4" changeset="30043372" timestamp="2015-04-07T16:13:22Z" user="Sal73x" uid="1293386" lat="45.1664309" lon="10.0077758"/>
@@ -398,6 +398,7 @@
  <node id="6241824030" visible="true" version="1" changeset="66708086" timestamp="2019-01-28T14:31:20Z" user="Forna" uid="3486636" lat="45.1659235" lon="10.0084605"/>
  <node id="7319934079" visible="true" version="1" changeset="82490358" timestamp="2020-03-22T17:57:08Z" user="GiovanniC83" uid="9622178" lat="45.1600358" lon="10.0016840"/>
  <node id="7319934080" visible="true" version="1" changeset="82490358" timestamp="2020-03-22T17:57:08Z" user="GiovanniC83" uid="9622178" lat="45.1600403" lon="10.0016108"/>
+ <node id="8134050227" visible="true" version="1" changeset="94341642" timestamp="2020-11-18T08:30:48Z" user="AlessioZappa" uid="12186632" lat="45.1589185" lon="10.0115789"/>
  <way id="30708079" visible="true" version="5" changeset="30043372" timestamp="2015-04-07T16:13:23Z" user="Sal73x" uid="1293386">
   <nd ref="339607379"/>
   <nd ref="339607380"/>
@@ -945,10 +946,11 @@
   <nd ref="6241824030"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="783698938" visible="true" version="1" changeset="82490358" timestamp="2020-03-22T17:57:08Z" user="GiovanniC83" uid="9622178">
+ <way id="783698938" visible="true" version="2" changeset="94341642" timestamp="2020-11-18T08:30:48Z" user="AlessioZappa" uid="12186632">
   <nd ref="7319934079"/>
   <nd ref="339609978"/>
   <nd ref="339610032"/>
+  <nd ref="8134050227"/>
   <nd ref="339604820"/>
   <tag k="highway" v="tertiary"/>
   <tag k="name" v="Via Erno"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2320393 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1924304 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="44.9725707" minlon="10.4150391" maxlat="44.9803424" maxlon="10.4260254"/>
  <node id="204021845" visible="true" version="7" changeset="31038849" timestamp="2015-05-12T08:45:44Z" user="Fredie" uid="2073275" lat="44.9195348" lon="10.5062298"/>
  <node id="219454726" visible="true" version="4" changeset="22443114" timestamp="2014-05-20T11:06:48Z" user="cincell" uid="1338876" lat="44.9279252" lon="10.4988581"/>
@@ -5708,7 +5708,7 @@
   <tag k="name" v="Strada Provinciale 343 Asolana"/>
   <tag k="ref" v="SPCRexSS343"/>
  </way>
- <relation id="42611" visible="true" version="255" changeset="92311473" timestamp="2020-10-11T19:17:00Z" user="MitjaJez" uid="1553347">
+ <relation id="42611" visible="true" version="258" changeset="93553927" timestamp="2020-11-04T16:39:05Z" user="Garmin-User" uid="177389">
   <member type="node" ref="667350399" role="admin_centre"/>
   <member type="node" ref="1781917318" role="label"/>
   <member type="way" ref="481208126" role="outer"/>
@@ -5875,11 +5875,14 @@
   <member type="way" ref="783879478" role="outer"/>
   <member type="way" ref="783879481" role="outer"/>
   <member type="way" ref="783897858" role="outer"/>
+  <member type="way" ref="866778403" role="outer"/>
   <member type="way" ref="443598856" role="outer"/>
+  <member type="way" ref="865402694" role="outer"/>
   <member type="way" ref="27974900" role="outer"/>
   <member type="way" ref="27974814" role="outer"/>
   <member type="way" ref="27974783" role="outer"/>
   <member type="way" ref="27974767" role="outer"/>
+  <member type="way" ref="867029359" role="outer"/>
   <member type="way" ref="527994752" role="outer"/>
   <member type="way" ref="27974753" role="outer"/>
   <member type="way" ref="27974676" role="outer"/>
@@ -6281,7 +6284,7 @@
   <tag k="wikidata" v="Q16163"/>
   <tag k="wikipedia" v="it:Provincia di Cremona"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -6354,7 +6357,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>
@@ -7404,7 +7408,7 @@
   <tag k="restriction" v="only_straight_on"/>
   <tag k="type" v="restriction"/>
  </relation>
- <relation id="9584949" visible="true" version="58" changeset="92182800" timestamp="2020-10-08T15:08:19Z" user="vrmap" uid="852319">
+ <relation id="9584949" visible="true" version="59" changeset="94020178" timestamp="2020-11-12T21:44:31Z" user="vbertola" uid="4347030">
   <member type="way" ref="252268321" role=""/>
   <member type="way" ref="252268299" role=""/>
   <member type="way" ref="228539544" role=""/>
@@ -7442,12 +7446,13 @@
   <member type="way" ref="24161151" role=""/>
   <member type="way" ref="65427644" role=""/>
   <member type="way" ref="24161122" role=""/>
+  <member type="way" ref="870955974" role=""/>
+  <member type="way" ref="737575818" role=""/>
+  <member type="way" ref="737575821" role=""/>
+  <member type="way" ref="737575819" role=""/>
   <member type="way" ref="189643067" role=""/>
   <member type="way" ref="22956291" role=""/>
   <member type="way" ref="737575820" role=""/>
-  <member type="way" ref="737575821" role=""/>
-  <member type="way" ref="737575819" role=""/>
-  <member type="way" ref="737575818" role=""/>
   <member type="way" ref="189643068" role=""/>
   <member type="way" ref="22956287" role=""/>
   <member type="way" ref="23184183" role=""/>
@@ -8291,9 +8296,10 @@
   <tag k="website" v="http://www.eurovelo8.com/countries/italy"/>
   <tag k="wikipedia" v="en:EV8 The Mediterranean Route"/>
  </relation>
- <relation id="9585839" visible="true" version="26" changeset="89886831" timestamp="2020-08-25T04:23:25Z" user="gzin" uid="35673">
+ <relation id="9585839" visible="true" version="27" changeset="94506437" timestamp="2020-11-20T14:30:02Z" user="patata_28" uid="11166885">
   <member type="way" ref="11701029" role=""/>
   <member type="way" ref="835705627" role=""/>
+  <member type="way" ref="875174822" role=""/>
   <member type="relation" ref="9583387" role="part"/>
   <member type="relation" ref="9629396" role="part"/>
   <member type="relation" ref="3977556" role="part"/>

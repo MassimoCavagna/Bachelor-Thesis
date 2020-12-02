@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3542641 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3442053 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3675844" minlon="10.0744629" maxlat="45.3753024" maxlon="10.0854492"/>
  <node id="298805334" visible="true" version="16" changeset="44330155" timestamp="2016-12-11T19:20:14Z" user="Elia Z" uid="2914055" lat="45.3744356" lon="10.0815803"/>
  <node id="298805346" visible="true" version="13" changeset="44330155" timestamp="2016-12-11T19:20:14Z" user="Elia Z" uid="2914055" lat="45.3746436" lon="10.0805504"/>
@@ -200,7 +200,7 @@
  <node id="450684026" visible="true" version="3" changeset="11064561" timestamp="2012-03-22T16:18:54Z" user="White_Rabbit" uid="604999" lat="45.3497882" lon="9.7556997">
   <tag k="power" v="tower"/>
  </node>
- <node id="450684029" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:11Z" user="Bs72" uid="622251" lat="45.3652220" lon="10.0429061">
+ <node id="450684029" visible="true" version="4" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.3652936" lon="10.0428471">
   <tag k="power" v="tower"/>
  </node>
  <node id="450684032" visible="true" version="3" changeset="11064561" timestamp="2012-03-22T16:18:54Z" user="White_Rabbit" uid="604999" lat="45.3487767" lon="9.5277876">
@@ -260,7 +260,7 @@
  <node id="450684085" visible="true" version="3" changeset="13260820" timestamp="2012-09-26T16:01:48Z" user="Bs72" uid="622251" lat="45.3783062" lon="10.3761284">
   <tag k="power" v="tower"/>
  </node>
- <node id="450684087" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:08Z" user="Bs72" uid="622251" lat="45.3650243" lon="10.0394464">
+ <node id="450684087" visible="true" version="4" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.3650563" lon="10.0396020">
   <tag k="power" v="tower"/>
  </node>
  <node id="450684090" visible="true" version="3" changeset="11064561" timestamp="2012-03-22T16:18:57Z" user="White_Rabbit" uid="604999" lat="45.3470481" lon="9.7102479">
@@ -1079,7 +1079,7 @@
  <node id="450684725" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:10Z" user="Bs72" uid="622251" lat="45.3616350" lon="9.9793850">
   <tag k="power" v="tower"/>
  </node>
- <node id="450684727" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:10Z" user="Bs72" uid="622251" lat="45.3649363" lon="10.0361367">
+ <node id="450684727" visible="true" version="4" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.3649269" lon="10.0361877">
   <tag k="power" v="tower"/>
  </node>
  <node id="450684728" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:09Z" user="Bs72" uid="622251" lat="45.3647363" lon="10.0330146">
@@ -1642,9 +1642,6 @@
  <node id="1707680516" visible="true" version="2" changeset="44330155" timestamp="2016-12-11T19:20:14Z" user="Elia Z" uid="2914055" lat="45.3702395" lon="10.1018061"/>
  <node id="1707680541" visible="true" version="2" changeset="44330155" timestamp="2016-12-11T19:20:14Z" user="Elia Z" uid="2914055" lat="45.3710537" lon="10.0978516"/>
  <node id="1765872845" visible="true" version="2" changeset="14962142" timestamp="2013-02-09T00:09:44Z" user="Baliano" uid="382012" lat="45.3104587" lon="10.0214213">
-  <tag k="power" v="tower"/>
- </node>
- <node id="1769950206" visible="true" version="2" changeset="13195255" timestamp="2012-09-21T14:51:11Z" user="Bs72" uid="622251" lat="45.3648955" lon="10.0371957">
   <tag k="power" v="tower"/>
  </node>
  <node id="1783132419" visible="true" version="1" changeset="11860053" timestamp="2012-06-10T22:19:32Z" user="Gianluigi" uid="498903" lat="45.3662911" lon="10.0839122"/>
@@ -2345,7 +2342,7 @@
   <tag k="highway" v="unclassified"/>
   <tag k="name" v="Via Monte Grappa"/>
  </way>
- <way id="210625430" visible="true" version="10" changeset="69963421" timestamp="2019-05-07T07:44:43Z" user="dvvuyyur" uid="9634896">
+ <way id="210625430" visible="true" version="11" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973">
   <nd ref="2207016430"/>
   <nd ref="2207016425"/>
   <nd ref="2207016417"/>
@@ -2594,7 +2591,6 @@
   <nd ref="450684205"/>
   <nd ref="450684029"/>
   <nd ref="450684087"/>
-  <nd ref="1769950206"/>
   <nd ref="450684727"/>
   <nd ref="450684728"/>
   <nd ref="450684043"/>
@@ -2838,7 +2834,7 @@
   <tag k="wikidata" v="Q105367"/>
   <tag k="wikipedia" v="it:Offlaga"/>
  </relation>
- <relation id="975402" visible="true" version="64" changeset="88768992" timestamp="2020-07-31T07:56:12Z" user="gspinoza" uid="562239">
+ <relation id="975402" visible="true" version="65" changeset="94498886" timestamp="2020-11-20T11:49:10Z" user="dega180" uid="454306">
   <member type="way" ref="58533898" role=""/>
   <member type="way" ref="214333359" role=""/>
   <member type="way" ref="214333356" role=""/>
@@ -2911,6 +2907,8 @@
   <member type="way" ref="206889882" role=""/>
   <member type="way" ref="59505616" role=""/>
   <member type="way" ref="58902408" role=""/>
+  <member type="way" ref="875113505" role=""/>
+  <member type="way" ref="875113506" role=""/>
   <member type="way" ref="59115460" role=""/>
   <member type="way" ref="59115478" role=""/>
   <member type="way" ref="59115463" role=""/>
@@ -3082,7 +3080,6 @@
   <member type="way" ref="122024760" role=""/>
   <member type="way" ref="720174975" role=""/>
   <tag k="cycle_network" v="Sistema Turistico Po di Lombardia"/>
-  <tag k="fixme" v="status=proposed deleted - state=proposed is correct tag if this is a proposed route"/>
   <tag k="name" v="Ciclovia del Mella (tratto sud)"/>
   <tag k="network" v="rcn"/>
   <tag k="ref" v="ME01"/>
@@ -3361,7 +3358,7 @@
   <tag k="route" v="road"/>
   <tag k="type" v="route"/>
  </relation>
- <relation id="8189749" visible="true" version="23" changeset="88769659" timestamp="2020-07-31T08:10:12Z" user="gspinoza" uid="562239">
+ <relation id="8189749" visible="true" version="24" changeset="94498886" timestamp="2020-11-20T11:49:10Z" user="dega180" uid="454306">
   <member type="way" ref="484551781" role=""/>
   <member type="way" ref="585185976" role=""/>
   <member type="way" ref="561197553" role=""/>
@@ -3446,6 +3443,8 @@
   <member type="way" ref="59115463" role=""/>
   <member type="way" ref="59115478" role=""/>
   <member type="way" ref="59115460" role=""/>
+  <member type="way" ref="875113506" role=""/>
+  <member type="way" ref="875113505" role=""/>
   <member type="way" ref="58902408" role=""/>
   <member type="way" ref="59505616" role=""/>
   <member type="way" ref="206889882" role=""/>

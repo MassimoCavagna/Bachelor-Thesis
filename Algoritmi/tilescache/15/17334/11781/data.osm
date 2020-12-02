@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3632389 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2408566 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.0424781" minlon="10.4370117" maxlat="45.0502403" maxlon="10.4479980"/>
  <node id="307038163" visible="true" version="7" changeset="28156441" timestamp="2015-01-15T09:31:27Z" user="Pyknite" uid="193512" lat="45.0442087" lon="10.4120565"/>
  <node id="307039261" visible="true" version="5" changeset="28640681" timestamp="2015-02-05T22:00:46Z" user="Pyknite" uid="193512" lat="45.0565829" lon="10.4940666"/>
@@ -893,7 +893,7 @@
   <tag k="name" v="Canale Navarolo"/>
   <tag k="waterway" v="ditch"/>
  </way>
- <relation id="43798" visible="true" version="46" changeset="66903819" timestamp="2019-02-04T13:39:45Z" user="Garmin-User" uid="177389">
+ <relation id="43798" visible="true" version="47" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="62505610" role="admin_centre"/>
   <member type="way" ref="27977551" role="outer"/>
   <member type="way" ref="27977480" role="outer"/>
@@ -935,8 +935,9 @@
   <member type="way" ref="27978792" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27979166" role="outer"/>
@@ -1202,7 +1203,7 @@
   <tag k="wikidata" v="Q42322"/>
   <tag k="wikipedia" v="it:Rivarolo Mantovano"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -1275,7 +1276,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>

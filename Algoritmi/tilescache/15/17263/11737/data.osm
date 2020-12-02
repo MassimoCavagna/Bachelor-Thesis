@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991877 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441807 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3830193" minlon="9.6569824" maxlat="45.3907352" maxlon="9.6679688"/>
  <node id="451849081" visible="true" version="1" changeset="1985994" timestamp="2009-07-30T16:20:29Z" user="wiso" uid="30891" lat="45.3922640" lon="9.6683828"/>
  <node id="451849082" visible="true" version="1" changeset="1985994" timestamp="2009-07-30T16:20:30Z" user="wiso" uid="30891" lat="45.3901314" lon="9.6676185"/>
@@ -195,7 +195,6 @@
  <node id="613499125" visible="true" version="1" changeset="3617163" timestamp="2010-01-14T14:03:01Z" user="wiso" uid="30891" lat="45.3964709" lon="9.6577437"/>
  <node id="680255699" visible="true" version="1" changeset="4297812" timestamp="2010-04-01T20:34:40Z" user="wiso" uid="30891" lat="45.3978811" lon="9.6582472"/>
  <node id="680255800" visible="true" version="2" changeset="24484384" timestamp="2014-08-01T16:18:35Z" user="kaitu" uid="69717" lat="45.3902920" lon="9.6851376"/>
- <node id="742412475" visible="true" version="3" changeset="36568559" timestamp="2016-01-14T11:53:28Z" user="bt1950" uid="330776" lat="45.3799790" lon="9.6562588"/>
  <node id="2563424403" visible="true" version="1" changeset="19259179" timestamp="2013-12-03T19:46:59Z" user="wiso" uid="30891" lat="45.3829188" lon="9.6583929"/>
  <node id="2563424404" visible="true" version="1" changeset="19259179" timestamp="2013-12-03T19:46:59Z" user="wiso" uid="30891" lat="45.3829193" lon="9.6582796"/>
  <node id="2563424406" visible="true" version="1" changeset="19259179" timestamp="2013-12-03T19:46:59Z" user="wiso" uid="30891" lat="45.3829250" lon="9.6595762"/>
@@ -401,7 +400,7 @@
   <tag k="name:left" v="Campagnola Cremasca"/>
   <tag k="name:right" v="Crema"/>
  </way>
- <way id="48278406" visible="true" version="4" changeset="29518678" timestamp="2015-03-16T14:38:14Z" user="kaitu" uid="69717">
+ <way id="48278406" visible="true" version="5" changeset="95000607" timestamp="2020-11-29T21:03:47Z" user="dega180" uid="454306">
   <nd ref="613498729"/>
   <nd ref="613475224"/>
   <nd ref="613475226"/>
@@ -462,7 +461,6 @@
   <nd ref="613475311"/>
   <nd ref="613475316"/>
   <nd ref="613475313"/>
-  <nd ref="742412475"/>
   <nd ref="613475314"/>
   <nd ref="613475318"/>
   <nd ref="613475319"/>

@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2868701 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3442053 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2594220" minlon="9.9206543" maxlat="45.2671548" maxlon="9.9316406"/>
  <node id="307076487" visible="true" version="3" changeset="28592954" timestamp="2015-02-03T16:26:15Z" user="Pyknite" uid="193512" lat="45.2098771" lon="9.9516226"/>
  <node id="307088653" visible="true" version="3" changeset="28631107" timestamp="2015-02-05T14:08:24Z" user="Pyknite" uid="193512" lat="45.2690224" lon="9.9281855"/>
  <node id="392462577" visible="true" version="3" changeset="17153991" timestamp="2013-07-30T14:48:05Z" user="ilrobi" uid="22110" lat="45.2480775" lon="9.9176185"/>
  <node id="451752894" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:04Z" user="wiso" uid="30891" lat="45.2562924" lon="9.9590454"/>
- <node id="451752899" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:04Z" user="wiso" uid="30891" lat="45.2580476" lon="9.9524259"/>
  <node id="451752901" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:04Z" user="wiso" uid="30891" lat="45.2568437" lon="9.9568851"/>
  <node id="451752902" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:04Z" user="wiso" uid="30891" lat="45.2589477" lon="9.9491814"/>
  <node id="451752910" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:05Z" user="wiso" uid="30891" lat="45.2563280" lon="9.9589115"/>
@@ -24,7 +23,9 @@
  <node id="451752921" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:05Z" user="wiso" uid="30891" lat="45.2630538" lon="9.9339689"/>
  <node id="451752922" visible="true" version="2" changeset="42740876" timestamp="2016-10-08T19:26:44Z" user="fedc" uid="602784" lat="45.2755543" lon="9.8871978"/>
  <node id="451752925" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:06Z" user="wiso" uid="30891" lat="45.2716408" lon="9.9020513"/>
- <node id="451752926" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:06Z" user="wiso" uid="30891" lat="45.2737727" lon="9.8939643"/>
+ <node id="451752926" visible="true" version="2" changeset="94990331" timestamp="2020-11-29T16:29:39Z" user="dega180" uid="454306" lat="45.2737773" lon="9.8939474">
+  <tag k="railway" v="level_crossing"/>
+ </node>
  <node id="451752927" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:06Z" user="wiso" uid="30891" lat="45.2618545" lon="9.9384406"/>
  <node id="451752929" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:06Z" user="wiso" uid="30891" lat="45.2673621" lon="9.9181483"/>
  <node id="451752930" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:06Z" user="wiso" uid="30891" lat="45.2675499" lon="9.9174571"/>
@@ -118,6 +119,9 @@
  <node id="1043783600" visible="true" version="1" changeset="6691008" timestamp="2010-12-17T21:29:43Z" user="ilrobi" uid="22110" lat="45.2621396" lon="9.9203169"/>
  <node id="1043783610" visible="true" version="1" changeset="6691008" timestamp="2010-12-17T21:29:43Z" user="ilrobi" uid="22110" lat="45.2571330" lon="9.9203041"/>
  <node id="1043783616" visible="true" version="1" changeset="6691008" timestamp="2010-12-17T21:29:44Z" user="ilrobi" uid="22110" lat="45.2663940" lon="9.9210116"/>
+ <node id="1189394368" visible="true" version="3" changeset="94990098" timestamp="2020-11-29T16:23:18Z" user="dega180" uid="454306" lat="45.2580924" lon="9.9524751">
+  <tag k="railway" v="level_crossing"/>
+ </node>
  <node id="1225639683" visible="true" version="2" changeset="20382183" timestamp="2014-02-04T22:07:35Z" user="Luca Mina" uid="1257620" lat="45.2549955" lon="9.9292530"/>
  <node id="1225639689" visible="true" version="1" changeset="7718875" timestamp="2011-03-30T18:13:01Z" user="ilrobi" uid="22110" lat="45.2642065" lon="9.9285283"/>
  <node id="1225639713" visible="true" version="1" changeset="7718875" timestamp="2011-03-30T18:13:03Z" user="ilrobi" uid="22110" lat="45.2650171" lon="9.9286087"/>
@@ -162,7 +166,7 @@
  <node id="2654782260" visible="true" version="1" changeset="20382183" timestamp="2014-02-04T22:07:33Z" user="Luca Mina" uid="1257620" lat="45.2579846" lon="9.9338777"/>
  <node id="2654782265" visible="true" version="1" changeset="20382183" timestamp="2014-02-04T22:07:33Z" user="Luca Mina" uid="1257620" lat="45.2580428" lon="9.9338556"/>
  <node id="2654782266" visible="true" version="1" changeset="20382183" timestamp="2014-02-04T22:07:33Z" user="Luca Mina" uid="1257620" lat="45.2580952" lon="9.9338707"/>
- <node id="2654782270" visible="true" version="1" changeset="20382183" timestamp="2014-02-04T22:07:33Z" user="Luca Mina" uid="1257620" lat="45.2587716" lon="9.9286458"/>
+ <node id="2654782270" visible="true" version="2" changeset="94990098" timestamp="2020-11-29T16:23:18Z" user="dega180" uid="454306" lat="45.2587849" lon="9.9286604"/>
  <node id="2654782272" visible="true" version="1" changeset="20382183" timestamp="2014-02-04T22:07:33Z" user="Luca Mina" uid="1257620" lat="45.2590159" lon="9.9275995"/>
  <node id="2654782273" visible="true" version="1" changeset="20382183" timestamp="2014-02-04T22:07:33Z" user="Luca Mina" uid="1257620" lat="45.2591618" lon="9.9269034"/>
  <node id="2654782274" visible="true" version="1" changeset="20382183" timestamp="2014-02-04T22:07:33Z" user="Luca Mina" uid="1257620" lat="45.2594828" lon="9.9255298"/>
@@ -411,7 +415,7 @@
   <nd ref="1043783320"/>
   <tag k="highway" v="unclassified"/>
  </way>
- <way id="106549043" visible="true" version="2" changeset="20382183" timestamp="2014-02-04T22:07:35Z" user="Luca Mina" uid="1257620">
+ <way id="106549043" visible="true" version="3" changeset="94990098" timestamp="2020-11-29T16:23:18Z" user="dega180" uid="454306">
   <nd ref="689304332"/>
   <nd ref="1225639859"/>
   <nd ref="1225639912"/>
@@ -433,6 +437,7 @@
   <nd ref="2654782295"/>
   <nd ref="1225639930"/>
   <nd ref="1225639831"/>
+  <nd ref="2654782270"/>
   <nd ref="1225639899"/>
   <nd ref="1225639974"/>
   <nd ref="1225640071"/>
@@ -636,7 +641,7 @@
   <tag k="name:right" v="Casalbuttano ed Uniti"/>
   <tag k="source" v="Regione Lombardia - La banca dati territoriali CTR10000 è prodotta da Regione Lombardia - Infrastruttura per l'Informazione Territoriale"/>
  </way>
- <way id="446571510" visible="true" version="4" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
+ <way id="446571510" visible="true" version="5" changeset="94990098" timestamp="2020-11-29T16:23:18Z" user="dega180" uid="454306">
   <nd ref="4438153744"/>
   <nd ref="4438153735"/>
   <nd ref="4438153736"/>
@@ -664,7 +669,7 @@
   <nd ref="451752932"/>
   <nd ref="451752914"/>
   <nd ref="451752902"/>
-  <nd ref="451752899"/>
+  <nd ref="1189394368"/>
   <nd ref="451752918"/>
   <nd ref="451752901"/>
   <nd ref="451752910"/>
@@ -718,7 +723,7 @@
   <tag k="wikidata" v="Q42818"/>
   <tag k="wikipedia" v="it:Casalbuttano ed Uniti"/>
  </relation>
- <relation id="183626" visible="true" version="56" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
+ <relation id="183626" visible="true" version="57" changeset="92894016" timestamp="2020-10-22T11:47:39Z" user="Mannivu" uid="1950277">
   <member type="way" ref="38289883" role=""/>
   <member type="way" ref="38289882" role=""/>
   <member type="way" ref="596450377" role=""/>
@@ -770,6 +775,7 @@
   <tag k="route" v="railway"/>
   <tag k="type" v="route"/>
   <tag k="wikidata" v="Q803335"/>
+  <tag k="wikimedia_commons" v="Category:Treviglio–Cremona railway"/>
   <tag k="wikipedia" v="it:Ferrovia Treviglio-Cremona"/>
  </relation>
  <relation id="8400077" visible="true" version="10" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">

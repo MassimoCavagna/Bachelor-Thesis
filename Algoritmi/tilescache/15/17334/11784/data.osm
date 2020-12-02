@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3578568 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2937094 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.0191851" minlon="10.4370117" maxlat="45.0269505" maxlon="10.4479980"/>
  <node id="307034066" visible="true" version="3" changeset="28249044" timestamp="2015-01-19T10:16:09Z" user="Pyknite" uid="193512" lat="45.0148113" lon="10.4641388"/>
  <node id="307037604" visible="true" version="5" changeset="28648100" timestamp="2015-02-06T10:29:19Z" user="Pyknite" uid="193512" lat="45.0425376" lon="10.4094270"/>
@@ -40,12 +40,6 @@
  <node id="791074521" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:07Z" user="Andrea Marchini" uid="191899" lat="45.0291984" lon="10.4446955"/>
  <node id="791074522" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:07Z" user="Andrea Marchini" uid="191899" lat="45.0299415" lon="10.4444917"/>
  <node id="791074523" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:07Z" user="Andrea Marchini" uid="191899" lat="45.0302827" lon="10.4444702"/>
- <node id="791074524" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:07Z" user="Andrea Marchini" uid="191899" lat="45.0313973" lon="10.4446097"/>
- <node id="791074525" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:07Z" user="Andrea Marchini" uid="191899" lat="45.0331791" lon="10.4448994"/>
- <node id="791074526" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:07Z" user="Andrea Marchini" uid="191899" lat="45.0346425" lon="10.4454787"/>
- <node id="791074527" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:07Z" user="Andrea Marchini" uid="191899" lat="45.0363180" lon="10.4457577"/>
- <node id="791074529" visible="true" version="1" changeset="5080472" timestamp="2010-06-26T12:04:07Z" user="Andrea Marchini" uid="191899" lat="45.0368791" lon="10.4458650"/>
- <node id="827777085" visible="true" version="1" changeset="5280546" timestamp="2010-07-21T17:07:32Z" user="Andrea Marchini" uid="191899" lat="45.0303609" lon="10.4444800"/>
  <node id="3332884008" visible="true" version="1" changeset="28640681" timestamp="2015-02-05T22:00:19Z" user="Pyknite" uid="193512" lat="45.0150980" lon="10.4633862"/>
  <node id="3332884009" visible="true" version="1" changeset="28640681" timestamp="2015-02-05T22:00:19Z" user="Pyknite" uid="193512" lat="45.0153644" lon="10.4628325"/>
  <node id="3332884010" visible="true" version="1" changeset="28640681" timestamp="2015-02-05T22:00:19Z" user="Pyknite" uid="193512" lat="45.0155425" lon="10.4624405"/>
@@ -328,6 +322,7 @@
  </node>
  <node id="3592201792" visible="true" version="1" changeset="31944141" timestamp="2015-06-13T14:04:56Z" user="Fredie" uid="2073275" lat="45.0247449" lon="10.4372231"/>
  <node id="3592201893" visible="true" version="1" changeset="31944141" timestamp="2015-06-13T14:04:56Z" user="Fredie" uid="2073275" lat="45.0248749" lon="10.4369149"/>
+ <node id="8043212098" visible="true" version="1" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306" lat="45.0303563" lon="10.4444497"/>
  <way id="326626106" visible="true" version="2" changeset="47411410" timestamp="2017-04-03T13:02:38Z" user="LvdT" uid="1834719">
   <nd ref="307034066"/>
   <nd ref="3332884008"/>
@@ -652,7 +647,7 @@
   <tag k="highway" v="track"/>
   <tag k="tracktype" v="grade1"/>
  </way>
- <way id="681203625" visible="true" version="1" changeset="68804718" timestamp="2019-04-02T17:35:28Z" user="singhyyd" uid="9196101">
+ <way id="681203625" visible="true" version="2" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306">
   <nd ref="791074453"/>
   <nd ref="791074456"/>
   <nd ref="791074458"/>
@@ -691,12 +686,7 @@
   <nd ref="791074521"/>
   <nd ref="791074522"/>
   <nd ref="791074523"/>
-  <nd ref="827777085"/>
-  <nd ref="791074524"/>
-  <nd ref="791074525"/>
-  <nd ref="791074526"/>
-  <nd ref="791074527"/>
-  <nd ref="791074529"/>
+  <nd ref="8043212098"/>
   <tag k="bicycle" v="yes"/>
   <tag k="foot" v="yes"/>
   <tag k="highway" v="track"/>

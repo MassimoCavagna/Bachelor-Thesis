@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3930316 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3439641 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1665472" minlon="9.6459961" maxlat="45.1742925" maxlon="9.6569824"/>
  <node id="309686968" visible="true" version="2" changeset="36363480" timestamp="2016-01-04T16:32:35Z" user="Fredie" uid="2073275" lat="45.1802279" lon="9.6368944"/>
  <node id="309686973" visible="true" version="2" changeset="36363480" timestamp="2016-01-04T16:32:35Z" user="Fredie" uid="2073275" lat="45.1797545" lon="9.6335582"/>
@@ -14080,7 +14080,7 @@
   <nd ref="1129516955"/>
   <tag k="name" v="Parco del Brembiolo"/>
  </way>
- <way id="721034703" visible="true" version="2" changeset="81801179" timestamp="2020-03-05T03:52:54Z" user="mcheck" uid="478872">
+ <way id="721034703" visible="true" version="3" changeset="95054574" timestamp="2020-11-30T15:47:08Z" user="fedc" uid="602784">
   <nd ref="991532505"/>
   <nd ref="991532513"/>
   <nd ref="857623515"/>
@@ -14123,7 +14123,10 @@
   <nd ref="857623852"/>
   <nd ref="850926066"/>
   <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Strada provinciale 142"/>
+  <tag k="oneway" v="no"/>
   <tag k="ref" v="SP142"/>
+  <tag k="surface" v="asphalt"/>
  </way>
  <way id="721034704" visible="true" version="1" changeset="73983499" timestamp="2019-09-01T22:46:12Z" user="fedc" uid="602784">
   <nd ref="850926110"/>

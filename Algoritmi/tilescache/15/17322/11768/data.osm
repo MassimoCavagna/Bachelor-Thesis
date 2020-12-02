@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3542641 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3439588 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1433047" minlon="10.3051758" maxlat="45.1510533" maxlon="10.3161621"/>
  <node id="249617153" visible="true" version="11" changeset="6262498" timestamp="2010-11-01T21:27:54Z" user="ilrobi" uid="22110" lat="45.1421334" lon="10.3150637"/>
  <node id="306151010" visible="true" version="10" changeset="43797537" timestamp="2016-11-19T12:20:25Z" user="Elia Z" uid="2914055" lat="45.1417178" lon="10.3157688"/>
@@ -904,7 +904,7 @@
   <nd ref="7830701705"/>
   <tag k="highway" v="track"/>
  </way>
- <way id="110451124" visible="true" version="7" changeset="59345195" timestamp="2018-05-28T16:33:37Z" user="pigio66" uid="7507474">
+ <way id="110451124" visible="true" version="8" changeset="94791544" timestamp="2020-11-25T17:48:42Z" user="Ze0zohk1" uid="4565074">
   <nd ref="1261311503"/>
   <nd ref="1261311785"/>
   <nd ref="1261311725"/>
@@ -992,7 +992,7 @@
   <nd ref="1261311503"/>
   <tag k="highway" v="raceway"/>
   <tag k="sport" v="motocross"/>
-  <tag k="surface" v="dirt/sand"/>
+  <tag k="surface" v="dirt;sand"/>
  </way>
  <way id="110492692" visible="true" version="4" changeset="59345195" timestamp="2018-05-28T16:33:37Z" user="pigio66" uid="7507474">
   <nd ref="1261737034"/>

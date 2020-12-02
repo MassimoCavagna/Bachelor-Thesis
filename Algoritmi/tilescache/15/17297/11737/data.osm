@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3583211 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2936057 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3830193" minlon="10.0305176" maxlat="45.3907352" maxlon="10.0415039"/>
  <node id="354924993" visible="true" version="4" changeset="44330155" timestamp="2016-12-11T19:20:14Z" user="Elia Z" uid="2914055" lat="45.3823682" lon="10.0448619"/>
  <node id="577567069" visible="true" version="1" changeset="3272107" timestamp="2009-12-02T13:38:11Z" user="vezzo" uid="59221" lat="45.3927305" lon="10.0343601"/>
@@ -296,7 +296,6 @@
  <node id="2219493630" visible="true" version="1" changeset="15484341" timestamp="2013-03-24T20:44:41Z" user="Bs72" uid="622251" lat="45.3837991" lon="10.0373625"/>
  <node id="2219493632" visible="true" version="1" changeset="15484341" timestamp="2013-03-24T20:44:41Z" user="Bs72" uid="622251" lat="45.3858753" lon="10.0350893"/>
  <node id="2219493636" visible="true" version="1" changeset="15484341" timestamp="2013-03-24T20:44:41Z" user="Bs72" uid="622251" lat="45.3850408" lon="10.0448928"/>
- <node id="2219493638" visible="true" version="1" changeset="15484341" timestamp="2013-03-24T20:44:41Z" user="Bs72" uid="622251" lat="45.3840235" lon="10.0365779"/>
  <node id="2219493640" visible="true" version="1" changeset="15484341" timestamp="2013-03-24T20:44:41Z" user="Bs72" uid="622251" lat="45.3857905" lon="10.0352905"/>
  <node id="2219493641" visible="true" version="1" changeset="15484341" timestamp="2013-03-24T20:44:41Z" user="Bs72" uid="622251" lat="45.3857170" lon="10.0353280"/>
  <node id="2219493642" visible="true" version="1" changeset="15484341" timestamp="2013-03-24T20:44:41Z" user="Bs72" uid="622251" lat="45.3857282" lon="10.0411712"/>
@@ -689,9 +688,8 @@
   <tag k="highway" v="residential"/>
   <tag k="oneway" v="no"/>
  </way>
- <way id="212049541" visible="true" version="2" changeset="68223655" timestamp="2019-03-17T09:46:19Z" user="Nordpfeil" uid="1337142">
+ <way id="212049541" visible="true" version="3" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973">
   <nd ref="2219493692"/>
-  <nd ref="2219493638"/>
   <nd ref="2219493630"/>
   <nd ref="2219493622"/>
   <nd ref="2219493682"/>

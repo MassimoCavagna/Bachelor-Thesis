@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2320393 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3858503 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="44.9881130" minlon="10.4150391" maxlat="44.9958826" maxlon="10.4260254"/>
  <node id="310027779" visible="true" version="30" changeset="31986312" timestamp="2015-06-15T15:16:27Z" user="Fredie" uid="2073275" lat="44.9901430" lon="10.4145469"/>
  <node id="310027781" visible="true" version="25" changeset="5714406" timestamp="2010-09-08T06:49:51Z" user="Andrea Marchini" uid="191899" lat="44.9887743" lon="10.4158539"/>
@@ -4234,7 +4234,7 @@
   <tag k="name" v="Tranvia Cremona-Casalmaggiore"/>
   <tag k="railway" v="razed"/>
  </way>
- <relation id="2163392" visible="true" version="314" changeset="92369540" timestamp="2020-10-12T18:06:39Z" user="frasty" uid="549825">
+ <relation id="2163392" visible="true" version="315" changeset="94135371" timestamp="2020-11-15T08:53:17Z" user="tytoalba" uid="676877">
   <member type="way" ref="161676540" role=""/>
   <member type="way" ref="590489115" role=""/>
   <member type="way" ref="379903241" role=""/>
@@ -4503,6 +4503,7 @@
   <member type="way" ref="200574743" role=""/>
   <member type="way" ref="115753025" role=""/>
   <member type="way" ref="23915462" role=""/>
+  <member type="way" ref="871818113" role=""/>
   <member type="way" ref="293954575" role=""/>
   <member type="way" ref="646081937" role=""/>
   <member type="way" ref="91888930" role=""/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1829361 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3440950 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2130036" minlon="9.9755859" maxlat="45.2207426" maxlon="9.9865723"/>
  <node id="336502010" visible="true" version="17" changeset="7474644" timestamp="2011-03-06T15:56:25Z" user="albertux" uid="118185" lat="45.2372592" lon="9.9696989"/>
  <node id="336503286" visible="true" version="15" changeset="44246851" timestamp="2016-12-07T23:10:29Z" user="Marco_T" uid="1227619" lat="45.2166931" lon="9.9862640"/>
@@ -18,7 +18,7 @@
  <node id="336503376" visible="true" version="15" changeset="44257275" timestamp="2016-12-08T12:44:07Z" user="Elia Z" uid="2914055" lat="45.2343775" lon="9.9715127"/>
  <node id="336503379" visible="true" version="14" changeset="18376" timestamp="2009-02-01T11:16:29Z" user="Diego Guidotti" uid="1700" lat="45.2359334" lon="9.9705246"/>
  <node id="336503737" visible="true" version="13" changeset="18376" timestamp="2009-02-01T11:16:28Z" user="Diego Guidotti" uid="1700" lat="45.2125742" lon="9.9880684"/>
- <node id="336503861" visible="true" version="8" changeset="44246851" timestamp="2016-12-07T23:10:29Z" user="Marco_T" uid="1227619" lat="45.2195131" lon="9.9854698"/>
+ <node id="336503861" visible="true" version="9" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2195150" lon="9.9854886"/>
  <node id="336503883" visible="true" version="14" changeset="16053554" timestamp="2013-05-09T20:59:39Z" user="mcheck" uid="478872" lat="45.2191607" lon="9.9848812"/>
  <node id="336503890" visible="true" version="3" changeset="16053554" timestamp="2013-05-09T20:59:39Z" user="mcheck" uid="478872" lat="45.2191148" lon="9.9852463"/>
  <node id="336503895" visible="true" version="15" changeset="44257275" timestamp="2016-12-08T12:44:07Z" user="Elia Z" uid="2914055" lat="45.2189311" lon="9.9850336"/>
@@ -214,7 +214,7 @@
  <node id="4543911950" visible="true" version="1" changeset="44246851" timestamp="2016-12-07T23:10:27Z" user="Marco_T" uid="1227619" lat="45.2194857" lon="9.9857488"/>
  <node id="4543911951" visible="true" version="1" changeset="44246851" timestamp="2016-12-07T23:10:27Z" user="Marco_T" uid="1227619" lat="45.2195599" lon="9.9857796"/>
  <node id="4543911952" visible="true" version="1" changeset="44246851" timestamp="2016-12-07T23:10:27Z" user="Marco_T" uid="1227619" lat="45.2196336" lon="9.9856938"/>
- <node id="4543911953" visible="true" version="1" changeset="44246851" timestamp="2016-12-07T23:10:27Z" user="Marco_T" uid="1227619" lat="45.2196487" lon="9.9854790"/>
+ <node id="4543911953" visible="true" version="2" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2196430" lon="9.9855005"/>
  <node id="4543911954" visible="true" version="1" changeset="44246851" timestamp="2016-12-07T23:10:27Z" user="Marco_T" uid="1227619" lat="45.2155610" lon="9.9809771"/>
  <node id="4543911955" visible="true" version="1" changeset="44246851" timestamp="2016-12-07T23:10:27Z" user="Marco_T" uid="1227619" lat="45.2150962" lon="9.9824148"/>
  <node id="4543911956" visible="true" version="1" changeset="44246851" timestamp="2016-12-07T23:10:27Z" user="Marco_T" uid="1227619" lat="45.2152492" lon="9.9824362"/>
@@ -236,7 +236,7 @@
  <node id="4543911973" visible="true" version="1" changeset="44246851" timestamp="2016-12-07T23:10:27Z" user="Marco_T" uid="1227619" lat="45.2163706" lon="9.9843379"/>
  <node id="4543911974" visible="true" version="1" changeset="44246851" timestamp="2016-12-07T23:10:27Z" user="Marco_T" uid="1227619" lat="45.2163574" lon="9.9842119"/>
  <node id="4543911975" visible="true" version="1" changeset="44246851" timestamp="2016-12-07T23:10:27Z" user="Marco_T" uid="1227619" lat="45.2157943" lon="9.9839624"/>
- <node id="4543911976" visible="true" version="2" changeset="46761933" timestamp="2017-03-11T13:03:19Z" user="sbiribizio" uid="354284" lat="45.2159757" lon="9.9852552">
+ <node id="4543911976" visible="true" version="3" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2159285" lon="9.9855395">
   <tag k="name" v="San Martino in Beliseto"/>
   <tag k="place" v="village"/>
   <tag k="wikidata" v="Q3947653"/>
@@ -258,6 +258,7 @@
  <node id="7997972042" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.2346951" lon="9.9713110"/>
  <node id="7997993600" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.2306094" lon="9.9855440"/>
  <node id="7997993603" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.2262921" lon="9.9855131"/>
+ <node id="8172809945" visible="true" version="1" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2236033" lon="9.9820085"/>
  <way id="30492517" visible="true" version="3" changeset="57328209" timestamp="2018-03-19T19:39:42Z" user="Elia Z" uid="2914055">
   <nd ref="336503890"/>
   <nd ref="5489491184"/>
@@ -334,11 +335,12 @@
   <nd ref="1225390834"/>
   <tag k="highway" v="residential"/>
  </way>
- <way id="110980893" visible="true" version="9" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306">
+ <way id="110980893" visible="true" version="10" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973">
   <nd ref="336503966"/>
   <nd ref="336503895"/>
   <nd ref="336503883"/>
   <nd ref="336503319"/>
+  <nd ref="8172809945"/>
   <nd ref="336503331"/>
   <nd ref="1225390602"/>
   <nd ref="4544831225"/>
@@ -362,7 +364,6 @@
   <nd ref="336502010"/>
   <tag k="highway" v="primary"/>
   <tag k="lanes" v="2"/>
-  <tag k="layer" v="0"/>
   <tag k="name" v="Via Bergamo"/>
   <tag k="old_ref" v="SS498"/>
   <tag k="ref" v="SPexSS498"/>
@@ -490,7 +491,7 @@
   <tag k="maxspeed" v="90"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="458365946" visible="true" version="1" changeset="44246851" timestamp="2016-12-07T23:10:28Z" user="Marco_T" uid="1227619">
+ <way id="458365946" visible="true" version="2" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973">
   <nd ref="4543911946"/>
   <nd ref="4543911945"/>
   <nd ref="4543911944"/>
@@ -503,6 +504,7 @@
   <nd ref="4543911937"/>
   <nd ref="4543911946"/>
   <tag k="landuse" v="cemetery"/>
+  <tag k="name" v="Cimitero di San Martino in Beliseto"/>
  </way>
  <way id="458365948" visible="true" version="1" changeset="44246851" timestamp="2016-12-07T23:10:28Z" user="Marco_T" uid="1227619">
   <nd ref="4543911953"/>

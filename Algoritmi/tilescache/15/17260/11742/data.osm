@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3541484 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3890695 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3444241" minlon="9.6240234" maxlat="45.3521452" maxlon="9.6350098"/>
  <node id="286205566" visible="true" version="3" changeset="16530315" timestamp="2013-06-12T21:37:19Z" user="bt1950" uid="330776" lat="45.3494668" lon="9.6271255"/>
  <node id="286205567" visible="true" version="3" changeset="16536745" timestamp="2013-06-13T11:53:23Z" user="bt1950" uid="330776" lat="45.3497284" lon="9.6285253"/>
@@ -209,7 +209,7 @@
  <node id="450684026" visible="true" version="3" changeset="11064561" timestamp="2012-03-22T16:18:54Z" user="White_Rabbit" uid="604999" lat="45.3497882" lon="9.7556997">
   <tag k="power" v="tower"/>
  </node>
- <node id="450684029" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:11Z" user="Bs72" uid="622251" lat="45.3652220" lon="10.0429061">
+ <node id="450684029" visible="true" version="4" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.3652936" lon="10.0428471">
   <tag k="power" v="tower"/>
  </node>
  <node id="450684032" visible="true" version="3" changeset="11064561" timestamp="2012-03-22T16:18:54Z" user="White_Rabbit" uid="604999" lat="45.3487767" lon="9.5277876">
@@ -269,7 +269,7 @@
  <node id="450684085" visible="true" version="3" changeset="13260820" timestamp="2012-09-26T16:01:48Z" user="Bs72" uid="622251" lat="45.3783062" lon="10.3761284">
   <tag k="power" v="tower"/>
  </node>
- <node id="450684087" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:08Z" user="Bs72" uid="622251" lat="45.3650243" lon="10.0394464">
+ <node id="450684087" visible="true" version="4" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.3650563" lon="10.0396020">
   <tag k="power" v="tower"/>
  </node>
  <node id="450684090" visible="true" version="3" changeset="11064561" timestamp="2012-03-22T16:18:57Z" user="White_Rabbit" uid="604999" lat="45.3470481" lon="9.7102479">
@@ -1088,7 +1088,7 @@
  <node id="450684725" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:10Z" user="Bs72" uid="622251" lat="45.3616350" lon="9.9793850">
   <tag k="power" v="tower"/>
  </node>
- <node id="450684727" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:10Z" user="Bs72" uid="622251" lat="45.3649363" lon="10.0361367">
+ <node id="450684727" visible="true" version="4" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.3649269" lon="10.0361877">
   <tag k="power" v="tower"/>
  </node>
  <node id="450684728" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:09Z" user="Bs72" uid="622251" lat="45.3647363" lon="10.0330146">
@@ -1382,9 +1382,6 @@
   <tag k="power" v="tower"/>
  </node>
  <node id="1686466152" visible="true" version="2" changeset="15146838" timestamp="2013-02-24T11:47:59Z" user="Baliano" uid="382012" lat="45.3796499" lon="10.4141557">
-  <tag k="power" v="tower"/>
- </node>
- <node id="1769950206" visible="true" version="2" changeset="13195255" timestamp="2012-09-21T14:51:11Z" user="Bs72" uid="622251" lat="45.3648955" lon="10.0371957">
   <tag k="power" v="tower"/>
  </node>
  <node id="1932304068" visible="true" version="1" changeset="13247233" timestamp="2012-09-25T14:11:22Z" user="Bs72" uid="622251" lat="45.3946152" lon="10.6113767">
@@ -2099,6 +2096,12 @@
  <node id="6552496256" visible="true" version="1" changeset="71322770" timestamp="2019-06-17T09:25:12Z" user="teoverde" uid="1407797" lat="45.3489507" lon="9.6236688"/>
  <node id="6552496257" visible="true" version="1" changeset="71322770" timestamp="2019-06-17T09:25:12Z" user="teoverde" uid="1407797" lat="45.3492912" lon="9.6259400"/>
  <node id="6552496258" visible="true" version="1" changeset="71322770" timestamp="2019-06-17T09:25:12Z" user="teoverde" uid="1407797" lat="45.3493006" lon="9.6260122"/>
+ <node id="8114112130" visible="true" version="1" changeset="94041560" timestamp="2020-11-13T07:21:09Z" user="Наташа Гончарик" uid="6331459" lat="45.3466622" lon="9.6333225"/>
+ <node id="8114112131" visible="true" version="1" changeset="94041560" timestamp="2020-11-13T07:21:09Z" user="Наташа Гончарик" uid="6331459" lat="45.3465895" lon="9.6324922"/>
+ <node id="8114112132" visible="true" version="1" changeset="94041560" timestamp="2020-11-13T07:21:09Z" user="Наташа Гончарик" uid="6331459" lat="45.3462936" lon="9.6303752"/>
+ <node id="8114112133" visible="true" version="1" changeset="94041560" timestamp="2020-11-13T07:21:09Z" user="Наташа Гончарик" uid="6331459" lat="45.3469362" lon="9.6297553"/>
+ <node id="8114112134" visible="true" version="1" changeset="94041560" timestamp="2020-11-13T07:21:09Z" user="Наташа Гончарик" uid="6331459" lat="45.3473483" lon="9.6295278"/>
+ <node id="8114112135" visible="true" version="1" changeset="94041560" timestamp="2020-11-13T07:21:09Z" user="Наташа Гончарик" uid="6331459" lat="45.3481186" lon="9.6293410"/>
  <way id="26137825" visible="true" version="9" changeset="16561520" timestamp="2013-06-15T10:55:09Z" user="bt1950" uid="330776">
   <nd ref="286205567"/>
   <nd ref="2345351849"/>
@@ -2387,7 +2390,7 @@
   <tag k="name:left" v="Chieve"/>
   <tag k="name:right" v="Crema"/>
  </way>
- <way id="210625430" visible="true" version="10" changeset="69963421" timestamp="2019-05-07T07:44:43Z" user="dvvuyyur" uid="9634896">
+ <way id="210625430" visible="true" version="11" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973">
   <nd ref="2207016430"/>
   <nd ref="2207016425"/>
   <nd ref="2207016417"/>
@@ -2636,7 +2639,6 @@
   <nd ref="450684205"/>
   <nd ref="450684029"/>
   <nd ref="450684087"/>
-  <nd ref="1769950206"/>
   <nd ref="450684727"/>
   <nd ref="450684728"/>
   <nd ref="450684043"/>
@@ -3908,6 +3910,16 @@
   <tag k="layer" v="1"/>
   <tag k="surface" v="asphalt"/>
   <tag k="width" v="3"/>
+ </way>
+ <way id="871078290" visible="true" version="1" changeset="94041560" timestamp="2020-11-13T07:21:09Z" user="Наташа Гончарик" uid="6331459">
+  <nd ref="8114112130"/>
+  <nd ref="8114112131"/>
+  <nd ref="8114112132"/>
+  <nd ref="8114112133"/>
+  <nd ref="8114112134"/>
+  <nd ref="8114112135"/>
+  <nd ref="2346586794"/>
+  <tag k="highway" v="service"/>
  </way>
  <relation id="44711" visible="true" version="12" changeset="44130367" timestamp="2016-12-03T06:31:14Z" user="nyuriks" uid="339581">
   <member type="way" ref="43627915" role="outer"/>

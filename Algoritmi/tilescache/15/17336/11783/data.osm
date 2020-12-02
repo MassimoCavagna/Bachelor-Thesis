@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2320395 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3439759 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.0269505" minlon="10.4589844" maxlat="45.0347148" maxlon="10.4699707"/>
  <node id="62510686" visible="true" version="2" changeset="47411410" timestamp="2017-04-03T13:02:17Z" user="LvdT" uid="1834719" lat="45.0279720" lon="10.4697830">
   <tag k="gfoss_id" v="2649"/>
@@ -92,7 +92,7 @@
  <node id="827777078" visible="true" version="1" changeset="5280546" timestamp="2010-07-21T17:07:32Z" user="Andrea Marchini" uid="191899" lat="45.0304455" lon="10.4428189"/>
  <node id="827777080" visible="true" version="1" changeset="5280546" timestamp="2010-07-21T17:07:32Z" user="Andrea Marchini" uid="191899" lat="45.0303318" lon="10.4434948"/>
  <node id="827777083" visible="true" version="1" changeset="5280546" timestamp="2010-07-21T17:07:32Z" user="Andrea Marchini" uid="191899" lat="45.0303015" lon="10.4438811"/>
- <node id="827777085" visible="true" version="1" changeset="5280546" timestamp="2010-07-21T17:07:32Z" user="Andrea Marchini" uid="191899" lat="45.0303609" lon="10.4444800"/>
+ <node id="827777085" visible="true" version="2" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306" lat="45.0303995" lon="10.4445761"/>
  <node id="827777087" visible="true" version="1" changeset="5280546" timestamp="2010-07-21T17:07:32Z" user="Andrea Marchini" uid="191899" lat="45.0305668" lon="10.4451149"/>
  <node id="827777089" visible="true" version="1" changeset="5280546" timestamp="2010-07-21T17:07:32Z" user="Andrea Marchini" uid="191899" lat="45.0308095" lon="10.4458337"/>
  <node id="827777092" visible="true" version="1" changeset="5280546" timestamp="2010-07-21T17:07:32Z" user="Andrea Marchini" uid="191899" lat="45.0311659" lon="10.4463916"/>
@@ -348,6 +348,8 @@
  <node id="7681190237" visible="true" version="1" changeset="87516983" timestamp="2020-07-03T20:21:07Z" user="Pab09" uid="178610" lat="45.0292364" lon="10.4607665"/>
  <node id="7681190238" visible="true" version="1" changeset="87516983" timestamp="2020-07-03T20:21:07Z" user="Pab09" uid="178610" lat="45.0286454" lon="10.4743369"/>
  <node id="7681190239" visible="true" version="1" changeset="87516983" timestamp="2020-07-03T20:21:07Z" user="Pab09" uid="178610" lat="45.0312458" lon="10.4766972"/>
+ <node id="8043212098" visible="true" version="1" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306" lat="45.0303563" lon="10.4444497"/>
+ <node id="8043212102" visible="true" version="1" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306" lat="45.0303448" lon="10.4434178"/>
  <way id="40764478" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T18:25:56Z" user="Guido Piazzi" uid="38067">
   <nd ref="495107082"/>
   <nd ref="495107072"/>
@@ -417,7 +419,7 @@
   <tag k="highway" v="tertiary"/>
   <tag k="incline" v="flat"/>
  </way>
- <way id="68926944" visible="true" version="4" changeset="15751490" timestamp="2013-04-16T15:25:10Z" user="Pyknite" uid="193512">
+ <way id="68926944" visible="true" version="5" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306">
   <nd ref="335801920"/>
   <nd ref="827777035"/>
   <nd ref="827777037"/>
@@ -438,8 +440,10 @@
   <nd ref="827777071"/>
   <nd ref="827777075"/>
   <nd ref="827777078"/>
+  <nd ref="8043212102"/>
   <nd ref="827777080"/>
   <nd ref="827777083"/>
+  <nd ref="8043212098"/>
   <nd ref="827777085"/>
   <nd ref="827777087"/>
   <nd ref="827777089"/>

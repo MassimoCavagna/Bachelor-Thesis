@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1876270 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3439588 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2052635" minlon="9.7888184" maxlat="45.2130036" maxlon="9.7998047"/>
  <node id="495376348" visible="true" version="2" changeset="14235978" timestamp="2012-12-11T09:30:13Z" user="adirricor" uid="245439" lat="45.2098866" lon="9.7964588"/>
  <node id="495376360" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T17:09:27Z" user="Guido Piazzi" uid="38067" lat="45.2108579" lon="9.7985012"/>
@@ -347,6 +347,16 @@
  <node id="5182078267" visible="true" version="1" changeset="53156691" timestamp="2017-10-22T16:59:06Z" user="fedc" uid="602784" lat="45.1500811" lon="9.8912154"/>
  <node id="5182078268" visible="true" version="1" changeset="53156691" timestamp="2017-10-22T16:59:06Z" user="fedc" uid="602784" lat="45.1499563" lon="9.8913800"/>
  <node id="7265058587" visible="true" version="1" changeset="81796286" timestamp="2020-03-05T00:42:06Z" user="mcheck" uid="478872" lat="45.2226233" lon="9.7883660"/>
+ <node id="8141289626" visible="true" version="1" changeset="94420059" timestamp="2020-11-19T08:17:28Z" user="soresina" uid="11922651" lat="45.2085575" lon="9.8002227"/>
+ <node id="8141289636" visible="true" version="1" changeset="94420059" timestamp="2020-11-19T08:17:28Z" user="soresina" uid="11922651" lat="45.2119837" lon="9.8008480"/>
+ <node id="8141295206" visible="true" version="1" changeset="94420123" timestamp="2020-11-19T08:18:36Z" user="soresina" uid="11922651" lat="45.2120393" lon="9.8008304"/>
+ <node id="8141295207" visible="true" version="1" changeset="94420123" timestamp="2020-11-19T08:18:36Z" user="soresina" uid="11922651" lat="45.2120733" lon="9.8007928"/>
+ <node id="8141295208" visible="true" version="1" changeset="94420123" timestamp="2020-11-19T08:18:36Z" user="soresina" uid="11922651" lat="45.2120960" lon="9.8007231"/>
+ <node id="8141295209" visible="true" version="1" changeset="94420123" timestamp="2020-11-19T08:18:36Z" user="soresina" uid="11922651" lat="45.2115555" lon="9.7981965"/>
+ <node id="8141295210" visible="true" version="1" changeset="94420123" timestamp="2020-11-19T08:18:36Z" user="soresina" uid="11922651" lat="45.2115215" lon="9.7980999"/>
+ <node id="8141295211" visible="true" version="1" changeset="94420123" timestamp="2020-11-19T08:18:36Z" user="soresina" uid="11922651" lat="45.2114611" lon="9.7980570"/>
+ <node id="8141295212" visible="true" version="1" changeset="94420123" timestamp="2020-11-19T08:18:36Z" user="soresina" uid="11922651" lat="45.2114119" lon="9.7980033"/>
+ <node id="8141295213" visible="true" version="1" changeset="94420123" timestamp="2020-11-19T08:18:36Z" user="soresina" uid="11922651" lat="45.2113855" lon="9.7978960"/>
  <way id="40762984" visible="true" version="4" changeset="53112094" timestamp="2017-10-20T20:56:45Z" user="fedc" uid="602784">
   <nd ref="495376348"/>
   <nd ref="495376427"/>
@@ -362,13 +372,14 @@
   <tag k="it:lombardia:ctrn:cascina:CS_ID" v="1833"/>
   <tag k="landuse" v="farmyard"/>
  </way>
- <way id="93448968" visible="true" version="4" changeset="53112094" timestamp="2017-10-20T20:56:45Z" user="fedc" uid="602784">
+ <way id="93448968" visible="true" version="5" changeset="94420059" timestamp="2020-11-19T08:17:28Z" user="soresina" uid="11922651">
   <nd ref="1083367722"/>
   <nd ref="1083368496"/>
   <nd ref="1083368619"/>
   <nd ref="1083368468"/>
   <nd ref="1083368161"/>
   <nd ref="1083367896"/>
+  <nd ref="8141289626"/>
   <nd ref="1083367712"/>
   <nd ref="5178933293"/>
   <nd ref="5178933292"/>
@@ -749,6 +760,18 @@
   <nd ref="5182078266"/>
   <nd ref="5182078267"/>
   <nd ref="5182078268"/>
+ </way>
+ <way id="874557313" visible="true" version="1" changeset="94420123" timestamp="2020-11-19T08:18:36Z" user="soresina" uid="11922651">
+  <nd ref="8141289636"/>
+  <nd ref="8141295206"/>
+  <nd ref="8141295207"/>
+  <nd ref="8141295208"/>
+  <nd ref="8141295209"/>
+  <nd ref="8141295210"/>
+  <nd ref="8141295211"/>
+  <nd ref="8141295212"/>
+  <nd ref="8141295213"/>
+  <tag k="highway" v="track"/>
  </way>
  <relation id="2250491" visible="true" version="32" changeset="90474198" timestamp="2020-09-06T09:31:17Z" user="Francoerbi41" uid="4982687">
   <member type="node" ref="971083416" role=""/>

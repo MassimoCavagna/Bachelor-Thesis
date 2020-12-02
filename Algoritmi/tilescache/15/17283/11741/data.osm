@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2868701 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3897392 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3521452" minlon="9.8767090" maxlat="45.3598653" maxlon="9.8876953"/>
  <node id="275186779" visible="true" version="7" changeset="10579114" timestamp="2012-02-03T20:55:53Z" user="Gianluigi" uid="498903" lat="45.1411137" lon="10.4215145"/>
  <node id="288034979" visible="true" version="4" changeset="28236692" timestamp="2015-01-18T18:08:56Z" user="Fredie" uid="2073275" lat="45.0465187" lon="10.6628115"/>
@@ -942,7 +942,7 @@
  <node id="450684026" visible="true" version="3" changeset="11064561" timestamp="2012-03-22T16:18:54Z" user="White_Rabbit" uid="604999" lat="45.3497882" lon="9.7556997">
   <tag k="power" v="tower"/>
  </node>
- <node id="450684029" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:11Z" user="Bs72" uid="622251" lat="45.3652220" lon="10.0429061">
+ <node id="450684029" visible="true" version="4" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.3652936" lon="10.0428471">
   <tag k="power" v="tower"/>
  </node>
  <node id="450684032" visible="true" version="3" changeset="11064561" timestamp="2012-03-22T16:18:54Z" user="White_Rabbit" uid="604999" lat="45.3487767" lon="9.5277876">
@@ -1002,7 +1002,7 @@
  <node id="450684085" visible="true" version="3" changeset="13260820" timestamp="2012-09-26T16:01:48Z" user="Bs72" uid="622251" lat="45.3783062" lon="10.3761284">
   <tag k="power" v="tower"/>
  </node>
- <node id="450684087" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:08Z" user="Bs72" uid="622251" lat="45.3650243" lon="10.0394464">
+ <node id="450684087" visible="true" version="4" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.3650563" lon="10.0396020">
   <tag k="power" v="tower"/>
  </node>
  <node id="450684090" visible="true" version="3" changeset="11064561" timestamp="2012-03-22T16:18:57Z" user="White_Rabbit" uid="604999" lat="45.3470481" lon="9.7102479">
@@ -1821,7 +1821,7 @@
  <node id="450684725" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:10Z" user="Bs72" uid="622251" lat="45.3616350" lon="9.9793850">
   <tag k="power" v="tower"/>
  </node>
- <node id="450684727" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:10Z" user="Bs72" uid="622251" lat="45.3649363" lon="10.0361367">
+ <node id="450684727" visible="true" version="4" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.3649269" lon="10.0361877">
   <tag k="power" v="tower"/>
  </node>
  <node id="450684728" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:09Z" user="Bs72" uid="622251" lat="45.3647363" lon="10.0330146">
@@ -4095,9 +4095,6 @@
  <node id="1763384041" visible="true" version="1" changeset="11682865" timestamp="2012-05-23T17:53:21Z" user="Gianluigi" uid="498903" lat="45.3074747" lon="9.9765042"/>
  <node id="1763384047" visible="true" version="1" changeset="11682865" timestamp="2012-05-23T17:53:21Z" user="Gianluigi" uid="498903" lat="45.3081134" lon="9.9756956"/>
  <node id="1763384078" visible="true" version="1" changeset="11682865" timestamp="2012-05-23T17:53:21Z" user="Gianluigi" uid="498903" lat="45.3086144" lon="9.9735961"/>
- <node id="1769950206" visible="true" version="2" changeset="13195255" timestamp="2012-09-21T14:51:11Z" user="Bs72" uid="622251" lat="45.3648955" lon="10.0371957">
-  <tag k="power" v="tower"/>
- </node>
  <node id="1775389313" visible="true" version="1" changeset="11790909" timestamp="2012-06-03T20:45:45Z" user="Gianluigi" uid="498903" lat="45.2811352" lon="10.0245547"/>
  <node id="1775389322" visible="true" version="1" changeset="11790909" timestamp="2012-06-03T20:45:46Z" user="Gianluigi" uid="498903" lat="45.2824110" lon="10.0233799"/>
  <node id="1775389345" visible="true" version="1" changeset="11790909" timestamp="2012-06-03T20:45:46Z" user="Gianluigi" uid="498903" lat="45.2844848" lon="10.0189413"/>
@@ -8715,7 +8712,7 @@
   <nd ref="1229735180"/>
   <tag k="highway" v="track"/>
  </way>
- <way id="210625430" visible="true" version="10" changeset="69963421" timestamp="2019-05-07T07:44:43Z" user="dvvuyyur" uid="9634896">
+ <way id="210625430" visible="true" version="11" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973">
   <nd ref="2207016430"/>
   <nd ref="2207016425"/>
   <nd ref="2207016417"/>
@@ -8964,7 +8961,6 @@
   <nd ref="450684205"/>
   <nd ref="450684029"/>
   <nd ref="450684087"/>
-  <nd ref="1769950206"/>
   <nd ref="450684727"/>
   <nd ref="450684728"/>
   <nd ref="450684043"/>
@@ -10159,7 +10155,7 @@
   <tag k="wikidata" v="Q42936"/>
   <tag k="wikipedia" v="it:Soncino"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -10232,7 +10228,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>

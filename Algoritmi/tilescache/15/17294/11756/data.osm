@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3583218 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1318762 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2362175" minlon="9.9975586" maxlat="45.2439534" maxlon="10.0085449"/>
  <node id="307081858" visible="true" version="2" changeset="28592954" timestamp="2015-02-03T16:26:15Z" user="Pyknite" uid="193512" lat="45.2313782" lon="10.0041792"/>
  <node id="307085172" visible="true" version="4" changeset="28592954" timestamp="2015-02-03T16:26:15Z" user="Pyknite" uid="193512" lat="45.2469524" lon="9.9978494"/>
@@ -772,7 +772,7 @@
   <tag k="wikidata" v="Q42818"/>
   <tag k="wikipedia" v="it:Casalbuttano ed Uniti"/>
  </relation>
- <relation id="183626" visible="true" version="56" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
+ <relation id="183626" visible="true" version="57" changeset="92894016" timestamp="2020-10-22T11:47:39Z" user="Mannivu" uid="1950277">
   <member type="way" ref="38289883" role=""/>
   <member type="way" ref="38289882" role=""/>
   <member type="way" ref="596450377" role=""/>
@@ -824,6 +824,7 @@
   <tag k="route" v="railway"/>
   <tag k="type" v="route"/>
   <tag k="wikidata" v="Q803335"/>
+  <tag k="wikimedia_commons" v="Category:Treviglio–Cremona railway"/>
   <tag k="wikipedia" v="it:Ferrovia Treviglio-Cremona"/>
  </relation>
  <relation id="8400077" visible="true" version="10" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">

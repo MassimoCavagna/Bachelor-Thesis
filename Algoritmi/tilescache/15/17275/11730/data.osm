@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991887 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441780 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4370083" minlon="9.7888184" maxlat="45.4447168" maxlon="9.7998047"/>
  <node id="495437437" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T17:59:39Z" user="Guido Piazzi" uid="38067" lat="45.4365037" lon="9.7902412"/>
  <node id="495437438" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T17:59:39Z" user="Guido Piazzi" uid="38067" lat="45.4365860" lon="9.7900618"/>
@@ -152,7 +152,7 @@
  <node id="3519740986" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:52Z" user="adirricor" uid="245439" lat="45.4400480" lon="9.7993106"/>
  <node id="3519742112" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:56Z" user="adirricor" uid="245439" lat="45.4396355" lon="9.7927292"/>
  <node id="3519742140" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:56Z" user="adirricor" uid="245439" lat="45.4399652" lon="9.8021537"/>
- <node id="3519742141" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:56Z" user="adirricor" uid="245439" lat="45.4375600" lon="9.7899604"/>
+ <node id="3519742141" visible="true" version="2" changeset="92643926" timestamp="2020-10-17T23:09:19Z" user="dega180" uid="454306" lat="45.4375873" lon="9.7899777"/>
  <node id="3519742144" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:56Z" user="adirricor" uid="245439" lat="45.4367657" lon="9.7911030"/>
  <node id="3519742612" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:58Z" user="adirricor" uid="245439" lat="45.4395662" lon="9.7927016"/>
  <node id="3519742657" visible="true" version="1" changeset="31178295" timestamp="2015-05-15T14:37:59Z" user="adirricor" uid="245439" lat="45.4400796" lon="9.7991773"/>
@@ -337,7 +337,7 @@
   <nd ref="3519740986"/>
   <tag k="highway" v="track"/>
  </way>
- <way id="805079950" visible="true" version="1" changeset="85346657" timestamp="2020-05-17T19:45:02Z" user="aacomm" uid="8511019">
+ <way id="805079950" visible="true" version="2" changeset="92643926" timestamp="2020-10-17T23:09:19Z" user="dega180" uid="454306">
   <nd ref="3010605986"/>
   <nd ref="3519738880"/>
   <nd ref="3519740976"/>
@@ -352,9 +352,23 @@
   <nd ref="3519739846"/>
   <nd ref="3519739867"/>
   <nd ref="3519742141"/>
+  <tag k="highway" v="track"/>
+  <tag k="name" v="Via Triulza"/>
+  <tag k="tracktype" v="grade2"/>
+ </way>
+ <way id="860244202" visible="true" version="1" changeset="92643926" timestamp="2020-10-17T23:09:19Z" user="dega180" uid="454306">
   <nd ref="3519738835"/>
   <nd ref="3519740452"/>
   <tag k="highway" v="track"/>
+  <tag k="name" v="Via Triulza"/>
+  <tag k="tracktype" v="grade2"/>
+ </way>
+ <way id="860244203" visible="true" version="1" changeset="92643926" timestamp="2020-10-17T23:09:19Z" user="dega180" uid="454306">
+  <nd ref="3519742141"/>
+  <nd ref="3519738835"/>
+  <tag k="bridge" v="yes"/>
+  <tag k="highway" v="track"/>
+  <tag k="layer" v="1"/>
   <tag k="name" v="Via Triulza"/>
   <tag k="tracktype" v="grade2"/>
  </way>

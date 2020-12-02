@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3542641 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3439587 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="44.9336964" minlon="10.5139160" maxlat="44.9414734" maxlon="10.5249023"/>
  <node id="1016476979" visible="true" version="1" changeset="6518794" timestamp="2010-12-02T20:01:31Z" user="ilrobi" uid="22110" lat="44.9361317" lon="10.5226531"/>
  <node id="1016477242" visible="true" version="1" changeset="6518794" timestamp="2010-12-02T20:01:39Z" user="ilrobi" uid="22110" lat="44.9388953" lon="10.5308515"/>
@@ -1582,6 +1582,10 @@
  <node id="8026378010" visible="true" version="1" changeset="92789804" timestamp="2020-10-20T20:26:35Z" user="MinerMax555" uid="8829660" lat="44.9371090" lon="10.5353939"/>
  <node id="8026378026" visible="true" version="1" changeset="92789804" timestamp="2020-10-20T20:26:35Z" user="MinerMax555" uid="8829660" lat="44.9365302" lon="10.5375692"/>
  <node id="8026378036" visible="true" version="1" changeset="92789804" timestamp="2020-10-20T20:26:35Z" user="MinerMax555" uid="8829660" lat="44.9363186" lon="10.5381954"/>
+ <node id="8126701347" visible="true" version="1" changeset="94221955" timestamp="2020-11-16T19:01:14Z" user="MinerMax555" uid="8829660" lat="44.9392995" lon="10.5197176"/>
+ <node id="8126701348" visible="true" version="1" changeset="94221955" timestamp="2020-11-16T19:01:14Z" user="MinerMax555" uid="8829660" lat="44.9389122" lon="10.5192187"/>
+ <node id="8126701349" visible="true" version="1" changeset="94221955" timestamp="2020-11-16T19:01:14Z" user="MinerMax555" uid="8829660" lat="44.9393128" lon="10.5182236"/>
+ <node id="8126701350" visible="true" version="1" changeset="94221955" timestamp="2020-11-16T19:01:14Z" user="MinerMax555" uid="8829660" lat="44.9397265" lon="10.5185692"/>
  <way id="87417039" visible="true" version="8" changeset="36148306" timestamp="2015-12-24T17:18:07Z" user="Michele Giacomoli" uid="3426954">
   <nd ref="1016478978"/>
   <nd ref="3523075424"/>
@@ -3270,9 +3274,10 @@
   <nd ref="3520192690"/>
   <tag k="landuse" v="grass"/>
  </way>
- <way id="345333261" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:56:58Z" user="Fredie" uid="2073275">
+ <way id="345333261" visible="true" version="2" changeset="94221955" timestamp="2020-11-16T19:01:14Z" user="MinerMax555" uid="8829660">
   <nd ref="3520195184"/>
   <nd ref="3520194240"/>
+  <nd ref="8126701350"/>
   <nd ref="3520194617"/>
   <nd ref="3520195192"/>
   <nd ref="3520195406"/>
@@ -3911,6 +3916,15 @@
   <nd ref="1181397745"/>
   <tag k="highway" v="unclassified"/>
   <tag k="name" v="Via Querce"/>
+ </way>
+ <way id="872708960" visible="true" version="1" changeset="94221955" timestamp="2020-11-16T19:01:14Z" user="MinerMax555" uid="8829660">
+  <nd ref="8126701350"/>
+  <nd ref="8126701349"/>
+  <nd ref="8126701348"/>
+  <nd ref="8126701347"/>
+  <nd ref="3520194240"/>
+  <nd ref="8126701350"/>
+  <tag k="landuse" v="farmyard"/>
  </way>
  <relation id="2250005" visible="true" version="22" changeset="88689830" timestamp="2020-07-29T16:45:32Z" user="Benny4L" uid="647382">
   <member type="way" ref="168963501" role=""/>

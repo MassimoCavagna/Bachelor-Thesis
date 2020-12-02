@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2320387 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2076002 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2362175" minlon="10.2612305" maxlat="45.2439534" maxlon="10.2722168"/>
  <node id="470625936" visible="true" version="1" changeset="2195218" timestamp="2009-08-18T21:49:41Z" user="lucadelu" uid="13591" lat="45.2261079" lon="10.2578749"/>
  <node id="470625938" visible="true" version="2" changeset="12167323" timestamp="2012-07-09T21:27:30Z" user="Gianluigi" uid="498903" lat="45.2265810" lon="10.2580495"/>
@@ -232,6 +232,23 @@
  <node id="3771700856" visible="true" version="1" changeset="34426434" timestamp="2015-10-04T12:17:03Z" user="Moliva" uid="107039" lat="45.2458888" lon="10.2829819"/>
  <node id="5317256102" visible="true" version="1" changeset="55114514" timestamp="2018-01-02T23:10:48Z" user="ilcamminare" uid="582732" lat="45.2277058" lon="10.2841794"/>
  <node id="5317256423" visible="true" version="1" changeset="55114514" timestamp="2018-01-02T23:10:48Z" user="ilcamminare" uid="582732" lat="45.2267643" lon="10.2881192"/>
+ <node id="8048706819" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2444335" lon="10.2612676"/>
+ <node id="8048706820" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2446923" lon="10.2613212"/>
+ <node id="8048706821" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2449132" lon="10.2613427"/>
+ <node id="8048706822" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2450719" lon="10.2613266"/>
+ <node id="8048706823" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2452720" lon="10.2612917"/>
+ <node id="8048706824" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2454665" lon="10.2612193"/>
+ <node id="8048706825" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2456441" lon="10.2611335"/>
+ <node id="8048706826" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2462521" lon="10.2606507"/>
+ <node id="8048706827" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2463277" lon="10.2606239"/>
+ <node id="8048706828" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2463862" lon="10.2606748"/>
+ <node id="8048706829" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2465637" lon="10.2612569"/>
+ <node id="8048706830" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2465675" lon="10.2614205"/>
+ <node id="8048706831" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2465430" lon="10.2615921"/>
+ <node id="8048706832" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2463258" lon="10.2627348"/>
+ <node id="8048706833" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2462295" lon="10.2632578"/>
+ <node id="8048706834" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2459651" lon="10.2642448"/>
+ <node id="8048706835" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2457517" lon="10.2652212"/>
  <way id="51519708" visible="true" version="5" changeset="55114514" timestamp="2018-01-02T23:10:53Z" user="ilcamminare" uid="582732">
   <nd ref="658763240"/>
   <nd ref="658763242"/>
@@ -496,6 +513,27 @@
   <tag k="ref" v="SP103"/>
   <tag k="width" v="5"/>
  </way>
+ <way id="863980135" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306">
+  <nd ref="1511984422"/>
+  <nd ref="8048706819"/>
+  <nd ref="8048706820"/>
+  <nd ref="8048706821"/>
+  <nd ref="8048706822"/>
+  <nd ref="8048706823"/>
+  <nd ref="8048706824"/>
+  <nd ref="8048706825"/>
+  <nd ref="8048706826"/>
+  <nd ref="8048706827"/>
+  <nd ref="8048706828"/>
+  <nd ref="8048706829"/>
+  <nd ref="8048706830"/>
+  <nd ref="8048706831"/>
+  <nd ref="8048706832"/>
+  <nd ref="8048706833"/>
+  <nd ref="8048706834"/>
+  <nd ref="8048706835"/>
+  <tag k="highway" v="track"/>
+ </way>
  <relation id="43893" visible="true" version="69" changeset="65915268" timestamp="2018-12-31T15:21:32Z" user="fayor" uid="743479">
   <member type="way" ref="323021234" role="outer"/>
   <member type="way" ref="323021229" role="outer"/>
@@ -670,7 +708,7 @@
   <tag k="wikidata" v="Q104616"/>
   <tag k="wikipedia" v="it:Gambara"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -743,7 +781,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>

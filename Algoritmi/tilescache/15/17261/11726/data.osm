@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1486572 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3163412 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4678360" minlon="9.6350098" maxlat="45.4755403" maxlon="9.6459961"/>
  <node id="287721001" visible="true" version="14" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277" lat="45.4696506" lon="9.6294288"/>
  <node id="307111698" visible="true" version="2" changeset="3053742" timestamp="2009-11-07T07:53:26Z" user="Luigi62" uid="90148" lat="45.4539448" lon="9.6504205"/>
@@ -796,6 +796,8 @@
  <node id="7526217397" visible="true" version="1" changeset="85304109" timestamp="2020-05-16T13:17:41Z" user="Mannivu" uid="1950277" lat="45.4683400" lon="9.6407848"/>
  <node id="7526217398" visible="true" version="1" changeset="85304109" timestamp="2020-05-16T13:17:41Z" user="Mannivu" uid="1950277" lat="45.4686765" lon="9.6409571"/>
  <node id="7526217399" visible="true" version="1" changeset="85304109" timestamp="2020-05-16T13:17:41Z" user="Mannivu" uid="1950277" lat="45.4689656" lon="9.6411599"/>
+ <node id="8093404667" visible="true" version="1" changeset="93734865" timestamp="2020-11-08T11:10:52Z" user="Mannivu" uid="1950277" lat="45.4747965" lon="9.6443001"/>
+ <node id="8093404668" visible="true" version="1" changeset="93734865" timestamp="2020-11-08T11:10:52Z" user="Mannivu" uid="1950277" lat="45.4748049" lon="9.6442036"/>
  <way id="27981628" visible="true" version="7" changeset="65337427" timestamp="2018-12-10T09:43:19Z" user="Mannivu" uid="1950277">
   <nd ref="307111698"/>
   <nd ref="558701205"/>
@@ -1021,7 +1023,7 @@
   <tag k="tunnel" v="yes"/>
   <tag k="waterway" v="ditch"/>
  </way>
- <way id="650146841" visible="true" version="1" changeset="64976862" timestamp="2018-11-28T16:13:44Z" user="Mannivu" uid="1950277">
+ <way id="650146841" visible="true" version="2" changeset="93734865" timestamp="2020-11-08T11:10:52Z" user="Mannivu" uid="1950277">
   <nd ref="6100274094"/>
   <nd ref="6100274093"/>
   <nd ref="6100274092"/>
@@ -1039,7 +1041,7 @@
   <nd ref="6100270380"/>
   <nd ref="6100270379"/>
   <nd ref="6100270378"/>
-  <nd ref="6100270377"/>
+  <nd ref="8093404668"/>
   <tag k="name" v="Roggia Resega"/>
   <tag k="waterway" v="ditch"/>
  </way>
@@ -1748,6 +1750,20 @@
   <nd ref="7526217399"/>
   <nd ref="7526196982"/>
   <tag k="landuse" v="farmland"/>
+ </way>
+ <way id="868283980" visible="true" version="1" changeset="93734865" timestamp="2020-11-08T11:10:52Z" user="Mannivu" uid="1950277">
+  <nd ref="8093404667"/>
+  <nd ref="6100270377"/>
+  <tag k="name" v="Roggia Resega"/>
+  <tag k="waterway" v="ditch"/>
+ </way>
+ <way id="868283981" visible="true" version="1" changeset="93734865" timestamp="2020-11-08T11:10:52Z" user="Mannivu" uid="1950277">
+  <nd ref="8093404668"/>
+  <nd ref="8093404667"/>
+  <tag k="layer" v="-1"/>
+  <tag k="name" v="Roggia Resega"/>
+  <tag k="tunnel" v="culvert"/>
+  <tag k="waterway" v="ditch"/>
  </way>
  <relation id="45021" visible="true" version="11" changeset="92753959" timestamp="2020-10-20T08:51:03Z" user="Mannivu" uid="1950277">
   <member type="way" ref="27981288" role="outer"/>

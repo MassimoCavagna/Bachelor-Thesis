@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3094907 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3160028 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4755403" minlon="9.7338867" maxlat="45.4832435" maxlon="9.7448730"/>
  <node id="207316791" visible="true" version="7" changeset="64147813" timestamp="2018-11-03T19:25:33Z" user="Mannivu" uid="1950277" lat="45.4809053" lon="9.7387698"/>
  <node id="307115207" visible="true" version="2" changeset="2927306" timestamp="2009-10-23T08:28:05Z" user="Luigi62" uid="90148" lat="45.4821665" lon="9.7200369"/>
@@ -646,12 +646,17 @@
   <tag k="highway" v="stop"/>
  </node>
  <node id="5602659391" visible="true" version="2" changeset="64147813" timestamp="2018-11-03T18:34:23Z" user="Mannivu" uid="1950277" lat="45.4809342" lon="9.7370303"/>
- <node id="6002471054" visible="true" version="2" changeset="68794684" timestamp="2019-04-02T13:47:14Z" user="Micael Camozzi" uid="2557267" lat="45.4828131" lon="9.7358110">
+ <node id="6002471054" visible="true" version="3" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267" lat="45.4828131" lon="9.7358110">
   <tag k="direction" v="both"/>
   <tag k="highway" v="stop"/>
+  <tag k="stop" v="all"/>
  </node>
  <node id="6002471056" visible="true" version="1" changeset="63724319" timestamp="2018-10-21T11:08:01Z" user="Micael Camozzi" uid="2557267" lat="45.4836348" lon="9.7361088"/>
- <node id="6002471058" visible="true" version="2" changeset="88176275" timestamp="2020-07-18T13:21:25Z" user="Micael Camozzi" uid="2557267" lat="45.4822927" lon="9.7399606"/>
+ <node id="6002471058" visible="true" version="3" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267" lat="45.4822927" lon="9.7399606">
+  <tag k="direction" v="both"/>
+  <tag k="highway" v="stop"/>
+  <tag k="stop" v="all"/>
+ </node>
  <node id="6002471061" visible="true" version="1" changeset="63724319" timestamp="2018-10-21T11:08:01Z" user="Micael Camozzi" uid="2557267" lat="45.4830238" lon="9.7401749"/>
  <node id="6002471062" visible="true" version="1" changeset="63724319" timestamp="2018-10-21T11:08:01Z" user="Micael Camozzi" uid="2557267" lat="45.4830926" lon="9.7401559"/>
  <node id="6002471063" visible="true" version="1" changeset="63724319" timestamp="2018-10-21T11:08:01Z" user="Micael Camozzi" uid="2557267" lat="45.4831415" lon="9.7400451"/>
@@ -940,11 +945,27 @@
  <node id="7726520074" visible="true" version="1" changeset="88176275" timestamp="2020-07-18T13:21:25Z" user="Micael Camozzi" uid="2557267" lat="45.4808493" lon="9.7414630"/>
  <node id="7726520075" visible="true" version="1" changeset="88176275" timestamp="2020-07-18T13:21:25Z" user="Micael Camozzi" uid="2557267" lat="45.4807903" lon="9.7416630"/>
  <node id="7726520076" visible="true" version="1" changeset="88176275" timestamp="2020-07-18T13:21:25Z" user="Micael Camozzi" uid="2557267" lat="45.4806875" lon="9.7417717"/>
- <node id="7726520077" visible="true" version="1" changeset="88176275" timestamp="2020-07-18T13:21:25Z" user="Micael Camozzi" uid="2557267" lat="45.4817513" lon="9.7398305"/>
- <node id="7726520078" visible="true" version="1" changeset="88176275" timestamp="2020-07-18T13:21:25Z" user="Micael Camozzi" uid="2557267" lat="45.4818168" lon="9.7393863"/>
- <node id="7726520079" visible="true" version="1" changeset="88176275" timestamp="2020-07-18T13:21:25Z" user="Micael Camozzi" uid="2557267" lat="45.4815460" lon="9.7393286"/>
- <node id="7726520080" visible="true" version="1" changeset="88176275" timestamp="2020-07-18T13:21:25Z" user="Micael Camozzi" uid="2557267" lat="45.4814847" lon="9.7397605"/>
+ <node id="7726520077" visible="true" version="2" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267" lat="45.4817522" lon="9.7398324"/>
+ <node id="7726520078" visible="true" version="2" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267" lat="45.4818101" lon="9.7393929"/>
+ <node id="7726520079" visible="true" version="2" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267" lat="45.4815424" lon="9.7393212"/>
+ <node id="7726520080" visible="true" version="2" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267" lat="45.4814845" lon="9.7397607"/>
  <node id="7726520081" visible="true" version="1" changeset="88176275" timestamp="2020-07-18T13:21:25Z" user="Micael Camozzi" uid="2557267" lat="45.4823112" lon="9.7398128"/>
+ <node id="8066266610" visible="true" version="1" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267" lat="45.4810757" lon="9.7398841"/>
+ <node id="8066266611" visible="true" version="1" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267" lat="45.4810605" lon="9.7400311"/>
+ <node id="8066266612" visible="true" version="1" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267" lat="45.4809965" lon="9.7400176"/>
+ <node id="8066266613" visible="true" version="1" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267" lat="45.4810117" lon="9.7398706"/>
+ <node id="8066266614" visible="true" version="2" changeset="94610161" timestamp="2020-11-23T04:25:37Z" user="mcheck" uid="478872" lat="45.4809656" lon="9.7399289"/>
+ <node id="8066266615" visible="true" version="1" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267" lat="45.4810047" lon="9.7399377">
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="8066266616" visible="true" version="1" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267" lat="45.4810687" lon="9.7399512"/>
+ <node id="8066266617" visible="true" version="1" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267" lat="45.4828363" lon="9.7403975"/>
+ <node id="8066266618" visible="true" version="1" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267" lat="45.4808643" lon="9.7419047"/>
+ <node id="8066266619" visible="true" version="1" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267" lat="45.4826751" lon="9.7425429"/>
+ <node id="8066266620" visible="true" version="1" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267" lat="45.4830532" lon="9.7402470"/>
+ <node id="8066266621" visible="true" version="1" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267" lat="45.4810286" lon="9.7397081"/>
+ <node id="8066266622" visible="true" version="1" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267" lat="45.4811435" lon="9.7386820"/>
+ <node id="8066266623" visible="true" version="1" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267" lat="45.4810533" lon="9.7395685"/>
  <way id="27981646" visible="true" version="13" changeset="71507721" timestamp="2019-06-22T11:38:55Z" user="Micael Camozzi" uid="2557267">
   <nd ref="307115207"/>
   <nd ref="4584070372"/>
@@ -1214,7 +1235,7 @@
   <tag k="building" v="yes"/>
   <tag k="man_made" v="works"/>
  </way>
- <way id="158844758" visible="true" version="2" changeset="88176275" timestamp="2020-07-18T13:21:25Z" user="Micael Camozzi" uid="2557267">
+ <way id="158844758" visible="true" version="3" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267">
   <nd ref="1709799664"/>
   <nd ref="1709799655"/>
   <nd ref="1709799657"/>
@@ -1225,6 +1246,8 @@
   <nd ref="7726520074"/>
   <nd ref="1709799651"/>
   <nd ref="1709799661"/>
+  <nd ref="8066266619"/>
+  <nd ref="8066266620"/>
   <nd ref="1709799664"/>
   <tag k="landuse" v="industrial"/>
  </way>
@@ -1563,7 +1586,7 @@
   <nd ref="3339971921"/>
   <tag k="landuse" v="farmland"/>
  </way>
- <way id="327317276" visible="true" version="5" changeset="88176275" timestamp="2020-07-18T13:21:25Z" user="Micael Camozzi" uid="2557267">
+ <way id="327317276" visible="true" version="6" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267">
   <nd ref="3340581773"/>
   <nd ref="3340581774"/>
   <nd ref="3340581775"/>
@@ -1582,6 +1605,7 @@
   <nd ref="3340581788"/>
   <nd ref="3340581789"/>
   <nd ref="3340581790"/>
+  <nd ref="8066266623"/>
   <nd ref="3340581791"/>
   <nd ref="3340581792"/>
   <tag k="layer" v="-1"/>
@@ -2638,12 +2662,14 @@
   <nd ref="7726520070"/>
   <tag k="building" v="industrial"/>
  </way>
- <way id="827620394" visible="true" version="1" changeset="88176275" timestamp="2020-07-18T13:21:25Z" user="Micael Camozzi" uid="2557267">
-  <nd ref="1394759938"/>
-  <nd ref="7726520074"/>
-  <nd ref="7726520075"/>
+ <way id="827620394" visible="true" version="2" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267">
   <nd ref="7726520076"/>
+  <nd ref="7726520075"/>
+  <nd ref="7726520074"/>
+  <nd ref="8066266614"/>
+  <nd ref="1394759938"/>
   <tag k="highway" v="service"/>
+  <tag k="oneway" v="yes"/>
  </way>
  <way id="827620395" visible="true" version="1" changeset="88176275" timestamp="2020-07-18T13:21:25Z" user="Micael Camozzi" uid="2557267">
   <nd ref="7726520077"/>
@@ -2652,6 +2678,57 @@
   <nd ref="7726520080"/>
   <nd ref="7726520077"/>
   <tag k="amenity" v="parking"/>
+ </way>
+ <way id="865399125" visible="true" version="1" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267">
+  <nd ref="8066266610"/>
+  <nd ref="8066266616"/>
+  <nd ref="8066266611"/>
+  <nd ref="8066266612"/>
+  <nd ref="8066266615"/>
+  <nd ref="8066266613"/>
+  <nd ref="8066266610"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="865399126" visible="true" version="1" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267">
+  <nd ref="8066266616"/>
+  <nd ref="8066266617"/>
+  <tag k="access" v="permit"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="865399127" visible="true" version="1" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267">
+  <nd ref="8066266615"/>
+  <nd ref="8066266616"/>
+  <tag k="access" v="permit"/>
+  <tag k="highway" v="service"/>
+  <tag k="layer" v="-1"/>
+  <tag k="tunnel" v="yes"/>
+ </way>
+ <way id="865399128" visible="true" version="1" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267">
+  <nd ref="8066266614"/>
+  <nd ref="8066266615"/>
+  <tag k="access" v="permit"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="865399129" visible="true" version="1" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267">
+  <nd ref="8066266612"/>
+  <nd ref="8066266618"/>
+  <nd ref="8066266619"/>
+  <nd ref="8066266620"/>
+  <nd ref="8066266621"/>
+  <nd ref="8066266613"/>
+  <tag k="barrier" v="fence"/>
+ </way>
+ <way id="865399130" visible="true" version="1" changeset="93303242" timestamp="2020-10-30T17:38:51Z" user="Micael Camozzi" uid="2557267">
+  <nd ref="3340581785"/>
+  <nd ref="8066266622"/>
+  <nd ref="8066266623"/>
+  <nd ref="3340581790"/>
+  <nd ref="3340581789"/>
+  <nd ref="3340581788"/>
+  <nd ref="3340581787"/>
+  <nd ref="3340581786"/>
+  <nd ref="3340581785"/>
+  <tag k="leisure" v="park"/>
  </way>
  <relation id="43893" visible="true" version="69" changeset="65915268" timestamp="2018-12-31T15:21:32Z" user="fayor" uid="743479">
   <member type="way" ref="323021234" role="outer"/>
@@ -2792,7 +2869,7 @@
   <tag k="wikidata" v="Q16163"/>
   <tag k="wikipedia" v="it:Provincia di Cremona"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -2865,7 +2942,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>
@@ -3490,7 +3568,7 @@
   <tag k="restriction" v="only_straight_on"/>
   <tag k="type" v="restriction"/>
  </relation>
- <relation id="6780651" visible="true" version="38" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306">
+ <relation id="6780651" visible="true" version="40" changeset="94647947" timestamp="2020-11-23T15:51:06Z" user="Luca Sarga" uid="3090360">
   <member type="way" ref="107052224" role=""/>
   <member type="way" ref="107052180" role=""/>
   <member type="way" ref="38845337" role=""/>
@@ -3533,6 +3611,7 @@
   <member type="way" ref="382315362" role=""/>
   <member type="way" ref="382836977" role=""/>
   <member type="way" ref="31654935" role=""/>
+  <member type="way" ref="876213090" role=""/>
   <member type="way" ref="619899698" role=""/>
   <member type="way" ref="24714191" role=""/>
   <member type="way" ref="24714192" role=""/>
@@ -3763,8 +3842,12 @@
   <member type="way" ref="186811024" role=""/>
   <member type="way" ref="186811033" role=""/>
   <member type="way" ref="186811034" role=""/>
+  <member type="way" ref="863578150" role=""/>
+  <member type="way" ref="863578149" role=""/>
   <member type="way" ref="169083488" role=""/>
-  <member type="way" ref="305154341" role=""/>
+  <member type="way" ref="863578147" role=""/>
+  <member type="way" ref="863578148" role=""/>
+  <member type="way" ref="863578146" role=""/>
   <member type="way" ref="358634904" role=""/>
   <member type="way" ref="187778205" role=""/>
   <member type="way" ref="567549252" role=""/>
@@ -3781,7 +3864,7 @@
   <tag k="route" v="road"/>
   <tag k="type" v="route"/>
  </relation>
- <relation id="6782208" visible="true" version="46" changeset="91841154" timestamp="2020-10-01T18:20:37Z" user="Mannivu" uid="1950277">
+ <relation id="6782208" visible="true" version="47" changeset="94501093" timestamp="2020-11-20T12:30:53Z" user="dega180" uid="454306">
   <member type="way" ref="285591085" role=""/>
   <member type="way" ref="256114733" role=""/>
   <member type="way" ref="172687416" role=""/>
@@ -3832,6 +3915,8 @@
   <member type="way" ref="117060295" role=""/>
   <member type="way" ref="356987209" role=""/>
   <member type="way" ref="297000423" role=""/>
+  <member type="way" ref="875135684" role=""/>
+  <member type="way" ref="875135683" role=""/>
   <member type="way" ref="458684860" role=""/>
   <member type="way" ref="298298832" role=""/>
   <member type="way" ref="458684859" role=""/>

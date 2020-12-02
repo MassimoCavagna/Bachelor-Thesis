@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1877508 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3440695 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2748864" minlon="9.9755859" maxlat="45.2826171" maxlon="9.9865723"/>
  <node id="307089778" visible="true" version="5" changeset="28592954" timestamp="2015-02-03T16:26:15Z" user="Pyknite" uid="193512" lat="45.2759132" lon="9.9723474"/>
- <node id="336488172" visible="true" version="5" changeset="835319" timestamp="2009-01-25T18:49:53Z" user="Diego Guidotti" uid="1700" lat="45.2967215" lon="9.9920915"/>
- <node id="336488175" visible="true" version="5" changeset="835319" timestamp="2009-01-25T18:49:53Z" user="Diego Guidotti" uid="1700" lat="45.2963955" lon="9.9921773"/>
- <node id="336488822" visible="true" version="4" changeset="835319" timestamp="2009-01-25T18:49:54Z" user="Diego Guidotti" uid="1700" lat="45.2958400" lon="9.9921258"/>
- <node id="336488826" visible="true" version="4" changeset="835319" timestamp="2009-01-25T18:49:55Z" user="Diego Guidotti" uid="1700" lat="45.2952121" lon="9.9919370"/>
+ <node id="336488169" visible="true" version="6" changeset="11682865" timestamp="2012-05-23T17:53:59Z" user="Gianluigi" uid="498903" lat="45.2971230" lon="9.9918800"/>
+ <node id="336488172" visible="true" version="6" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2967611" lon="9.9920539"/>
+ <node id="336488175" visible="true" version="6" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2965200" lon="9.9921263"/>
+ <node id="336488822" visible="true" version="5" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2959494" lon="9.9921607"/>
+ <node id="336488826" visible="true" version="5" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2951234" lon="9.9918699"/>
  <node id="336488831" visible="true" version="4" changeset="835319" timestamp="2009-01-25T18:49:55Z" user="Diego Guidotti" uid="1700" lat="45.2946929" lon="9.9915336"/>
  <node id="336488837" visible="true" version="4" changeset="835319" timestamp="2009-01-25T18:49:57Z" user="Diego Guidotti" uid="1700" lat="45.2935940" lon="9.9905723"/>
  <node id="336488842" visible="true" version="4" changeset="835319" timestamp="2009-01-25T18:49:58Z" user="Diego Guidotti" uid="1700" lat="45.2925011" lon="9.9896367"/>
@@ -30,7 +31,7 @@
  <node id="495204698" visible="true" version="2" changeset="11674634" timestamp="2012-05-22T19:05:25Z" user="Gianluigi" uid="498903" lat="45.2734276" lon="9.9803287"/>
  <node id="640249601" visible="true" version="1" changeset="3886043" timestamp="2010-02-15T19:26:07Z" user="vezzo" uid="59221" lat="45.2879829" lon="10.0015705"/>
  <node id="1225407848" visible="true" version="1" changeset="7716644" timestamp="2011-03-30T14:25:38Z" user="ilrobi" uid="22110" lat="45.2726221" lon="9.9850483"/>
- <node id="1226440686" visible="true" version="1" changeset="7723882" timestamp="2011-03-31T08:11:37Z" user="ilrobi" uid="22110" lat="45.2954531" lon="9.9920464"/>
+ <node id="1226440686" visible="true" version="2" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2953757" lon="9.9920115"/>
  <node id="1226440714" visible="true" version="1" changeset="7723882" timestamp="2011-03-31T08:11:37Z" user="ilrobi" uid="22110" lat="45.2943870" lon="9.9912660"/>
  <node id="1313312577" visible="true" version="1" changeset="8352394" timestamp="2011-06-05T18:28:04Z" user="demetrio_m" uid="196617" lat="45.2191741" lon="9.8875801">
   <tag k="power" v="tower"/>
@@ -365,6 +366,7 @@
  <node id="1762413209" visible="true" version="1" changeset="11674634" timestamp="2012-05-22T19:05:08Z" user="Gianluigi" uid="498903" lat="45.2862985" lon="9.9863773"/>
  <node id="1763383532" visible="true" version="1" changeset="11682865" timestamp="2012-05-23T17:53:12Z" user="Gianluigi" uid="498903" lat="45.2925930" lon="9.9897153"/>
  <node id="1763383646" visible="true" version="1" changeset="11682865" timestamp="2012-05-23T17:53:14Z" user="Gianluigi" uid="498903" lat="45.2941460" lon="9.9910552"/>
+ <node id="1763383788" visible="true" version="1" changeset="11682865" timestamp="2012-05-23T17:53:17Z" user="Gianluigi" uid="498903" lat="45.2969895" lon="9.9919543"/>
  <node id="1765872845" visible="true" version="2" changeset="14962142" timestamp="2013-02-09T00:09:44Z" user="Baliano" uid="382012" lat="45.3104587" lon="10.0214213">
   <tag k="power" v="tower"/>
  </node>
@@ -435,10 +437,18 @@
  <node id="7758105882" visible="true" version="1" changeset="88584671" timestamp="2020-07-27T20:31:11Z" user="Benny4L" uid="647382" lat="45.3034194" lon="10.0151091">
   <tag k="power" v="tower"/>
  </node>
- <way id="45420153" visible="true" version="8" changeset="46135130" timestamp="2017-02-16T12:02:29Z" user="Senbee" uid="312126">
+ <node id="8172811240" visible="true" version="1" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2956356" lon="9.9920976"/>
+ <node id="8172811241" visible="true" version="1" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2962356" lon="9.9921647"/>
+ <node id="8172811242" visible="true" version="1" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2971985" lon="9.9918314"/>
+ <way id="45420153" visible="true" version="9" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973">
+  <nd ref="8172811242"/>
+  <nd ref="336488169"/>
+  <nd ref="1763383788"/>
   <nd ref="336488172"/>
   <nd ref="336488175"/>
+  <nd ref="8172811241"/>
   <nd ref="336488822"/>
+  <nd ref="8172811240"/>
   <nd ref="1226440686"/>
   <nd ref="336488826"/>
   <nd ref="336488831"/>
@@ -623,7 +633,7 @@
   <nd ref="1762413115"/>
   <tag k="highway" v="unclassified"/>
  </way>
- <way id="166054610" visible="true" version="5" changeset="61984835" timestamp="2018-08-25T13:31:39Z" user="Cascafico" uid="361003">
+ <way id="166054610" visible="true" version="6" changeset="94500742" timestamp="2020-11-20T12:23:56Z" user="dega180" uid="454306">
   <nd ref="1775389340"/>
   <nd ref="1775389341"/>
   <nd ref="1775389320"/>
@@ -632,7 +642,8 @@
   <nd ref="1775389315"/>
   <nd ref="1775389340"/>
   <tag k="amenity" v="fuel"/>
-  <tag k="brand" v="Pompe Bianche"/>
+  <tag k="brand" v="Metano"/>
+  <tag k="brand:wikidata" v="Q62294765"/>
   <tag k="fuel:cng" v="yes"/>
   <tag k="name" v="Metano"/>
   <tag k="operator" v="Metan.Ba.Chi. di Chiodelli Giuseppe &amp; C. S.N.C."/>

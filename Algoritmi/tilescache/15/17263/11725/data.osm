@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3083194 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (120861 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4755403" minlon="9.6569824" maxlat="45.4832435" maxlon="9.6679688"/>
  <node id="207316832" visible="true" version="9" changeset="65910622" timestamp="2018-12-31T13:20:43Z" user="Mannivu" uid="1950277" lat="45.4817721" lon="9.6820371"/>
  <node id="207316835" visible="true" version="8" changeset="66069020" timestamp="2019-01-06T12:56:03Z" user="Mannivu" uid="1950277" lat="45.4812144" lon="9.6718794"/>
@@ -177,10 +177,9 @@
  <node id="5951141866" visible="true" version="2" changeset="83479465" timestamp="2020-04-13T13:20:26Z" user="Mannivu" uid="1950277" lat="45.4785250" lon="9.6631944"/>
  <node id="5951141867" visible="true" version="2" changeset="83479465" timestamp="2020-04-13T13:20:26Z" user="Mannivu" uid="1950277" lat="45.4785104" lon="9.6628505"/>
  <node id="6211080170" visible="true" version="2" changeset="90660089" timestamp="2020-09-09T17:53:50Z" user="Mannivu" uid="1950277" lat="45.4801001" lon="9.6552578"/>
- <node id="6780687713" visible="true" version="6" changeset="84966001" timestamp="2020-05-10T10:09:15Z" user="Mannivu" uid="1950277" lat="45.4802125" lon="9.6618752">
+ <node id="6780687713" visible="true" version="7" changeset="93751997" timestamp="2020-11-08T18:06:12Z" user="Mannivu" uid="1950277" lat="45.4802125" lon="9.6618752">
   <tag k="amenity" v="restaurant"/>
   <tag k="cuisine" v="italian"/>
-  <tag k="delivery:covid19" v="yes"/>
   <tag k="diet:gluten_free" v="no"/>
   <tag k="diet:lactose_free" v="yes"/>
   <tag k="email" v="info@poderemontizzolo.it"/>
@@ -191,6 +190,7 @@
   <tag k="phone" v="+39 0363 52175"/>
   <tag k="reservation" v="yes"/>
   <tag k="smoking" v="outside"/>
+  <tag k="takeaway:covid19" v="only"/>
   <tag k="toilets" v="yes"/>
   <tag k="toilets:access" v="customers"/>
   <tag k="toilets:wheelchair" v="yes"/>

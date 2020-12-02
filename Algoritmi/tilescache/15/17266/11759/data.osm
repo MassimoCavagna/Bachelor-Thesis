@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3076199 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1318762 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2130036" minlon="9.6899414" maxlat="45.2207426" maxlon="9.7009277"/>
  <node id="62512979" visible="true" version="3" changeset="81605566" timestamp="2020-02-28T20:04:26Z" user="mcheck" uid="478872" lat="45.2189124" lon="9.6941106">
   <tag k="gfoss_id" v="7873"/>
@@ -30200,7 +30200,7 @@
   <tag k="wikidata" v="Q42217"/>
   <tag k="wikipedia" v="it:Castiglione d'Adda"/>
  </relation>
- <relation id="6780651" visible="true" version="38" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306">
+ <relation id="6780651" visible="true" version="40" changeset="94647947" timestamp="2020-11-23T15:51:06Z" user="Luca Sarga" uid="3090360">
   <member type="way" ref="107052224" role=""/>
   <member type="way" ref="107052180" role=""/>
   <member type="way" ref="38845337" role=""/>
@@ -30243,6 +30243,7 @@
   <member type="way" ref="382315362" role=""/>
   <member type="way" ref="382836977" role=""/>
   <member type="way" ref="31654935" role=""/>
+  <member type="way" ref="876213090" role=""/>
   <member type="way" ref="619899698" role=""/>
   <member type="way" ref="24714191" role=""/>
   <member type="way" ref="24714192" role=""/>
@@ -30473,8 +30474,12 @@
   <member type="way" ref="186811024" role=""/>
   <member type="way" ref="186811033" role=""/>
   <member type="way" ref="186811034" role=""/>
+  <member type="way" ref="863578150" role=""/>
+  <member type="way" ref="863578149" role=""/>
   <member type="way" ref="169083488" role=""/>
-  <member type="way" ref="305154341" role=""/>
+  <member type="way" ref="863578147" role=""/>
+  <member type="way" ref="863578148" role=""/>
+  <member type="way" ref="863578146" role=""/>
   <member type="way" ref="358634904" role=""/>
   <member type="way" ref="187778205" role=""/>
   <member type="way" ref="567549252" role=""/>

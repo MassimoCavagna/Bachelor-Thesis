@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991861 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441807 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1897801" minlon="9.6679688" maxlat="45.1975223" maxlon="9.6789551"/>
  <node id="479384194" visible="true" version="1" changeset="2331030" timestamp="2009-08-31T21:04:38Z" user="rubini" uid="154481" lat="45.1872173" lon="9.6709573"/>
  <node id="479384200" visible="true" version="3" changeset="81607005" timestamp="2020-02-28T20:57:11Z" user="mcheck" uid="478872" lat="45.1876227" lon="9.6718638"/>
@@ -2243,6 +2243,7 @@
  <node id="7251665521" visible="true" version="1" changeset="81607005" timestamp="2020-02-28T20:57:11Z" user="mcheck" uid="478872" lat="45.1930603" lon="9.6768873"/>
  <node id="7251665527" visible="true" version="1" changeset="81607005" timestamp="2020-02-28T20:57:11Z" user="mcheck" uid="478872" lat="45.1900345" lon="9.6766846"/>
  <node id="7251665529" visible="true" version="1" changeset="81607005" timestamp="2020-02-28T20:57:11Z" user="mcheck" uid="478872" lat="45.1974028" lon="9.6767334"/>
+ <node id="8040950451" visible="true" version="1" changeset="92972420" timestamp="2020-10-23T21:33:46Z" user="fedc" uid="602784" lat="45.1969478" lon="9.6427266"/>
  <way id="49331616" visible="true" version="8" changeset="86051422" timestamp="2020-06-01T14:46:42Z" user="Alecs01" uid="1476146">
   <nd ref="626492965"/>
   <nd ref="626492966"/>
@@ -2548,7 +2549,7 @@
   <tag k="tunnel" v="culvert"/>
   <tag k="waterway" v="canal"/>
  </way>
- <way id="450027323" visible="true" version="6" changeset="77599297" timestamp="2019-11-26T23:09:57Z" user="fedc" uid="602784">
+ <way id="450027323" visible="true" version="7" changeset="92972420" timestamp="2020-10-23T21:33:46Z" user="fedc" uid="602784">
   <nd ref="4469459222"/>
   <nd ref="4469459223"/>
   <nd ref="4469459224"/>
@@ -3020,6 +3021,7 @@
   <nd ref="1140932034"/>
   <nd ref="1140914024"/>
   <nd ref="1140913757"/>
+  <nd ref="8040950451"/>
   <nd ref="1140913550"/>
   <nd ref="1140913703"/>
   <nd ref="1140914406"/>
@@ -5697,7 +5699,7 @@
   <tag k="wikidata" v="Q42318"/>
   <tag k="wikipedia" v="it:Terranova dei Passerini"/>
  </relation>
- <relation id="10340679" visible="true" version="7" changeset="77599711" timestamp="2019-11-26T23:37:01Z" user="fedc" uid="602784">
+ <relation id="10340679" visible="true" version="8" changeset="93686198" timestamp="2020-11-06T21:46:59Z" user="dega180" uid="454306">
   <member type="way" ref="448895542" role=""/>
   <member type="way" ref="312513363" role=""/>
   <member type="way" ref="83808788" role=""/>
@@ -5740,6 +5742,10 @@
   <member type="way" ref="449460561" role=""/>
   <member type="way" ref="485688131" role=""/>
   <member type="way" ref="706196935" role=""/>
+  <member type="way" ref="867863841" role=""/>
+  <member type="way" ref="867863840" role=""/>
+  <member type="way" ref="867863836" role=""/>
+  <member type="way" ref="867863835" role=""/>
   <member type="way" ref="386762173" role=""/>
   <member type="way" ref="749946788" role=""/>
   <tag k="name" v="Roggia Codogna"/>

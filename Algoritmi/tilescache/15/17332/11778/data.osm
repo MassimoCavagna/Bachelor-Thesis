@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1876270 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441951 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.0657615" minlon="10.4150391" maxlat="45.0735206" maxlon="10.4260254"/>
  <node id="307038163" visible="true" version="7" changeset="28156441" timestamp="2015-01-15T09:31:27Z" user="Pyknite" uid="193512" lat="45.0442087" lon="10.4120565"/>
  <node id="307042935" visible="true" version="7" changeset="28156441" timestamp="2015-01-15T09:31:27Z" user="Pyknite" uid="193512" lat="45.0907257" lon="10.4163246"/>
@@ -562,6 +562,9 @@
  <node id="7681182651" visible="true" version="1" changeset="87516480" timestamp="2020-07-03T20:16:10Z" user="Pab09" uid="178610" lat="45.0747189" lon="10.4356661"/>
  <node id="7681182656" visible="true" version="1" changeset="87516480" timestamp="2020-07-03T20:16:10Z" user="Pab09" uid="178610" lat="45.0684288" lon="10.4430468"/>
  <node id="8033504097" visible="true" version="1" changeset="92854157" timestamp="2020-10-21T20:53:57Z" user="MinerMax555" uid="8829660" lat="45.0494548" lon="10.5312122"/>
+ <node id="8043235287" visible="true" version="1" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306" lat="45.0587088" lon="10.5072512"/>
+ <node id="8043235294" visible="true" version="1" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306" lat="45.0535181" lon="10.5183361"/>
+ <node id="8043235295" visible="true" version="1" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306" lat="45.0539882" lon="10.5227882"/>
  <way id="103156156" visible="true" version="1" changeset="7484673" timestamp="2011-03-07T14:20:27Z" user="ilrobi" uid="22110">
   <nd ref="1191106359"/>
   <nd ref="1191106124"/>
@@ -794,7 +797,7 @@
   <tag k="boundary" v="administrative"/>
   <tag k="source" v="Based on confini amministrativi 2013 by Regione Lombardia"/>
  </way>
- <way id="531414890" visible="true" version="2" changeset="92854157" timestamp="2020-10-21T20:53:57Z" user="MinerMax555" uid="8829660">
+ <way id="531414890" visible="true" version="3" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306">
   <nd ref="5158634747"/>
   <nd ref="796819157"/>
   <nd ref="796819370"/>
@@ -978,6 +981,7 @@
   <nd ref="900741157"/>
   <nd ref="900741120"/>
   <nd ref="900741110"/>
+  <nd ref="8043235287"/>
   <nd ref="900741064"/>
   <nd ref="900741050"/>
   <nd ref="900741148"/>
@@ -994,6 +998,7 @@
   <nd ref="900741171"/>
   <nd ref="900741132"/>
   <nd ref="900741122"/>
+  <nd ref="8043235294"/>
   <nd ref="900741083"/>
   <nd ref="900741066"/>
   <nd ref="900741163"/>
@@ -1002,6 +1007,7 @@
   <nd ref="900741114"/>
   <nd ref="900741070"/>
   <nd ref="900741053"/>
+  <nd ref="8043235295"/>
   <nd ref="900741151"/>
   <nd ref="900741141"/>
   <nd ref="900741154"/>
@@ -1220,7 +1226,7 @@
   <nd ref="7681176718"/>
   <tag k="landuse" v="residential"/>
  </way>
- <relation id="43798" visible="true" version="46" changeset="66903819" timestamp="2019-02-04T13:39:45Z" user="Garmin-User" uid="177389">
+ <relation id="43798" visible="true" version="47" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="62505610" role="admin_centre"/>
   <member type="way" ref="27977551" role="outer"/>
   <member type="way" ref="27977480" role="outer"/>
@@ -1262,8 +1268,9 @@
   <member type="way" ref="27978792" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27979166" role="outer"/>
@@ -1525,7 +1532,7 @@
   <tag k="wikidata" v="Q42322"/>
   <tag k="wikipedia" v="it:Rivarolo Mantovano"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -1598,7 +1605,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1878284 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3439696 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="44.9570241" minlon="10.5139160" maxlat="44.9647979" maxlon="10.5249023"/>
  <node id="1171088032" visible="true" version="1" changeset="7386102" timestamp="2011-02-24T22:28:35Z" user="ilrobi" uid="22110" lat="44.9360036" lon="10.5137948"/>
  <node id="1171088198" visible="true" version="1" changeset="7386102" timestamp="2011-02-24T22:28:40Z" user="ilrobi" uid="22110" lat="44.9401690" lon="10.5180820"/>
@@ -472,8 +472,8 @@
  <node id="3520200177" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:55:28Z" user="Fredie" uid="2073275" lat="44.9580045" lon="10.5180034"/>
  <node id="3520200179" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:55:28Z" user="Fredie" uid="2073275" lat="44.9580610" lon="10.5166625"/>
  <node id="3520200180" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:55:28Z" user="Fredie" uid="2073275" lat="44.9581005" lon="10.5174527"/>
- <node id="3520200189" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:55:28Z" user="Fredie" uid="2073275" lat="44.9583716" lon="10.5166146"/>
- <node id="3520200403" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:55:28Z" user="Fredie" uid="2073275" lat="44.9588009" lon="10.5146432"/>
+ <node id="3520200189" visible="true" version="2" changeset="94221955" timestamp="2020-11-16T19:01:14Z" user="MinerMax555" uid="8829660" lat="44.9583393" lon="10.5166066"/>
+ <node id="3520200403" visible="true" version="2" changeset="94221955" timestamp="2020-11-16T19:01:14Z" user="MinerMax555" uid="8829660" lat="44.9587345" lon="10.5146110"/>
  <node id="3520200404" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:55:28Z" user="Fredie" uid="2073275" lat="44.9587925" lon="10.5207322"/>
  <node id="3520200406" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:55:28Z" user="Fredie" uid="2073275" lat="44.9588743" lon="10.5169498"/>
  <node id="3520200409" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:55:28Z" user="Fredie" uid="2073275" lat="44.9589873" lon="10.5178278"/>
@@ -553,6 +553,8 @@
  </node>
  <node id="5266040186" visible="true" version="1" changeset="54370189" timestamp="2017-12-05T15:49:35Z" user="Michele Giacomoli" uid="3426954" lat="44.9504235" lon="10.5061336"/>
  <node id="5267036379" visible="true" version="1" changeset="54387039" timestamp="2017-12-06T01:09:31Z" user="Michele Giacomoli" uid="3426954" lat="44.9511000" lon="10.5064819"/>
+ <node id="8126701345" visible="true" version="1" changeset="94221955" timestamp="2020-11-16T19:01:14Z" user="MinerMax555" uid="8829660" lat="44.9585273" lon="10.5158177"/>
+ <node id="8126701346" visible="true" version="1" changeset="94221955" timestamp="2020-11-16T19:01:14Z" user="MinerMax555" uid="8829660" lat="44.9584818" lon="10.5158043"/>
  <way id="101419257" visible="true" version="5" changeset="31184499" timestamp="2015-05-15T18:57:34Z" user="Fredie" uid="2073275">
   <nd ref="1217571096"/>
   <nd ref="1217571319"/>
@@ -1008,7 +1010,7 @@
   <nd ref="3520201381"/>
   <tag k="waterway" v="ditch"/>
  </way>
- <way id="345333141" visible="true" version="2" changeset="31786896" timestamp="2015-06-07T10:44:42Z" user="Fredie" uid="2073275">
+ <way id="345333141" visible="true" version="3" changeset="94221955" timestamp="2020-11-16T19:01:14Z" user="MinerMax555" uid="8829660">
   <nd ref="3520200420"/>
   <nd ref="3520200406"/>
   <nd ref="3520200416"/>
@@ -1019,6 +1021,8 @@
   <nd ref="3520200161"/>
   <nd ref="3520200179"/>
   <nd ref="3520200189"/>
+  <nd ref="8126701346"/>
+  <nd ref="8126701345"/>
   <nd ref="3520200403"/>
   <nd ref="3520200420"/>
   <tag k="landuse" v="farmyard"/>

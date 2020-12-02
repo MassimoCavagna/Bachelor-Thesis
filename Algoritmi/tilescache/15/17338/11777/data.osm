@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3679741 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2936411 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.0735206" minlon="10.4809570" maxlat="45.0812786" maxlon="10.4919434"/>
  <node id="21101707" visible="true" version="9" changeset="45920783" timestamp="2017-02-08T15:43:43Z" user="Fredie" uid="2073275" lat="45.0825089" lon="10.4603719"/>
  <node id="248461839" visible="true" version="2" changeset="830216" timestamp="2009-01-23T23:26:02Z" user="Diego Guidotti" uid="1700" lat="45.0734184" lon="10.4871983"/>
@@ -1220,7 +1220,7 @@
   <tag k="highway" v="track"/>
   <tag k="tracktype" v="grade2"/>
  </way>
- <relation id="43798" visible="true" version="46" changeset="66903819" timestamp="2019-02-04T13:39:45Z" user="Garmin-User" uid="177389">
+ <relation id="43798" visible="true" version="47" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="62505610" role="admin_centre"/>
   <member type="way" ref="27977551" role="outer"/>
   <member type="way" ref="27977480" role="outer"/>
@@ -1262,8 +1262,9 @@
   <member type="way" ref="27978792" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27979166" role="outer"/>
@@ -1543,7 +1544,7 @@
   <tag k="wikidata" v="Q42966"/>
   <tag k="wikipedia" v="it:Bozzolo (Italia)"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -1616,7 +1617,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>

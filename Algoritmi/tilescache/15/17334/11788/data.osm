@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2771649 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2936056 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="44.9881130" minlon="10.4370117" maxlat="44.9958826" maxlon="10.4479980"/>
  <node id="754169787" visible="true" version="3" changeset="31924460" timestamp="2015-06-12T15:49:43Z" user="Fredie" uid="2073275" lat="44.9917487" lon="10.4334120">
   <tag k="highway" v="crossing"/>
@@ -1197,7 +1197,7 @@
   <tag k="highway" v="tertiary"/>
   <tag k="name" v="Via del Santuario"/>
  </way>
- <relation id="2163392" visible="true" version="314" changeset="92369540" timestamp="2020-10-12T18:06:39Z" user="frasty" uid="549825">
+ <relation id="2163392" visible="true" version="315" changeset="94135371" timestamp="2020-11-15T08:53:17Z" user="tytoalba" uid="676877">
   <member type="way" ref="161676540" role=""/>
   <member type="way" ref="590489115" role=""/>
   <member type="way" ref="379903241" role=""/>
@@ -1466,6 +1466,7 @@
   <member type="way" ref="200574743" role=""/>
   <member type="way" ref="115753025" role=""/>
   <member type="way" ref="23915462" role=""/>
+  <member type="way" ref="871818113" role=""/>
   <member type="way" ref="293954575" role=""/>
   <member type="way" ref="646081937" role=""/>
   <member type="way" ref="91888930" role=""/>

@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3094907 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3887259 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2748864" minlon="9.8876953" maxlat="45.2826171" maxlon="9.8986816"/>
  <node id="307090463" visible="true" version="2" changeset="28631107" timestamp="2015-02-05T14:08:24Z" user="Pyknite" uid="193512" lat="45.2791329" lon="9.8866800"/>
  <node id="307095185" visible="true" version="2" changeset="28576891" timestamp="2015-02-02T21:14:51Z" user="Pyknite" uid="193512" lat="45.3127786" lon="9.8848227"/>
+ <node id="451752926" visible="true" version="2" changeset="94990331" timestamp="2020-11-29T16:29:39Z" user="dega180" uid="454306" lat="45.2737773" lon="9.8939474">
+  <tag k="railway" v="level_crossing"/>
+ </node>
  <node id="1189394099" visible="true" version="1" changeset="7474447" timestamp="2011-03-06T15:38:47Z" user="albertux" uid="118185" lat="45.2725343" lon="9.8924040"/>
  <node id="1189394108" visible="true" version="1" changeset="7474447" timestamp="2011-03-06T15:38:47Z" user="albertux" uid="118185" lat="45.2772841" lon="9.8947308"/>
  <node id="1189394175" visible="true" version="1" changeset="7474447" timestamp="2011-03-06T15:38:49Z" user="albertux" uid="118185" lat="45.2773120" lon="9.8946117"/>
@@ -262,7 +265,7 @@
   <tag k="oneway" v="no"/>
   <tag k="ref" v="SPexSS498"/>
  </way>
- <way id="217859685" visible="true" version="6" changeset="60877032" timestamp="2018-07-19T15:56:05Z" user="datamove" uid="4930752">
+ <way id="217859685" visible="true" version="7" changeset="94990331" timestamp="2020-11-29T16:29:39Z" user="dega180" uid="454306">
   <nd ref="1189394406"/>
   <nd ref="4436553467"/>
   <nd ref="4436553468"/>
@@ -289,6 +292,7 @@
   <nd ref="1189394273"/>
   <nd ref="1189394510"/>
   <nd ref="1189394545"/>
+  <nd ref="451752926"/>
   <nd ref="1189394457"/>
   <nd ref="1189394286"/>
   <nd ref="1189394641"/>

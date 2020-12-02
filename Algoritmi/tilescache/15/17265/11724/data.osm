@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991873 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3163430 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4832435" minlon="9.6789551" maxlat="45.4909457" maxlon="9.6899414"/>
  <node id="261678328" visible="true" version="6" changeset="68443623" timestamp="2019-03-23T14:33:00Z" user="Mannivu" uid="1950277" lat="45.4838547" lon="9.6803793"/>
  <node id="261678329" visible="true" version="7" changeset="68443623" timestamp="2019-03-23T14:33:00Z" user="Mannivu" uid="1950277" lat="45.4841911" lon="9.6798762"/>
@@ -362,7 +362,6 @@
  <node id="1790059727" visible="true" version="1" changeset="11915264" timestamp="2012-06-16T15:26:24Z" user="Luca Vetturi" uid="307829" lat="45.4830594" lon="9.6900592"/>
  <node id="1790059728" visible="true" version="1" changeset="11915264" timestamp="2012-06-16T15:26:24Z" user="Luca Vetturi" uid="307829" lat="45.4878324" lon="9.6893143"/>
  <node id="1790059729" visible="true" version="1" changeset="11915264" timestamp="2012-06-16T15:26:24Z" user="Luca Vetturi" uid="307829" lat="45.4887951" lon="9.6854385"/>
- <node id="1790059730" visible="true" version="1" changeset="11915264" timestamp="2012-06-16T15:26:24Z" user="Luca Vetturi" uid="307829" lat="45.4998430" lon="9.6766543"/>
  <node id="1790059732" visible="true" version="1" changeset="11915264" timestamp="2012-06-16T15:26:24Z" user="Luca Vetturi" uid="307829" lat="45.4888925" lon="9.6884713"/>
  <node id="1790059733" visible="true" version="1" changeset="11915264" timestamp="2012-06-16T15:26:24Z" user="Luca Vetturi" uid="307829" lat="45.4977863" lon="9.6791970"/>
  <node id="1790059734" visible="true" version="1" changeset="11915264" timestamp="2012-06-16T15:26:24Z" user="Luca Vetturi" uid="307829" lat="45.4927171" lon="9.6873770"/>
@@ -691,6 +690,8 @@
  <node id="4159040566" visible="true" version="1" changeset="39013027" timestamp="2016-05-01T09:31:08Z" user="sbiribizio" uid="354284" lat="45.4891122" lon="9.6957215">
   <tag k="power" v="tower"/>
  </node>
+ <node id="4463657109" visible="true" version="2" changeset="94464913" timestamp="2020-11-19T23:15:43Z" user="dega180" uid="454306" lat="45.4994200" lon="9.6777708"/>
+ <node id="4463657156" visible="true" version="1" changeset="43164986" timestamp="2016-10-25T16:46:58Z" user="Ale_Zena_IT" uid="22290" lat="45.4998420" lon="9.6765528"/>
  <node id="4697352727" visible="true" version="1" changeset="46274972" timestamp="2017-02-21T13:23:24Z" user="LuSirto" uid="506470" lat="45.4826442" lon="9.6746425"/>
  <node id="4697352728" visible="true" version="1" changeset="46274972" timestamp="2017-02-21T13:23:24Z" user="LuSirto" uid="506470" lat="45.4829081" lon="9.6757954"/>
  <node id="4697352729" visible="true" version="1" changeset="46274972" timestamp="2017-02-21T13:23:24Z" user="LuSirto" uid="506470" lat="45.4830466" lon="9.6766645"/>
@@ -1093,10 +1094,11 @@
   <tag k="highway" v="track"/>
   <tag k="surface" v="dirt"/>
  </way>
- <way id="167628311" visible="true" version="5" changeset="74491743" timestamp="2019-09-15T09:43:51Z" user="Mannivu" uid="1950277">
-  <nd ref="1790059730"/>
+ <way id="167628311" visible="true" version="6" changeset="94464913" timestamp="2020-11-19T23:15:43Z" user="dega180" uid="454306">
+  <nd ref="4463657156"/>
   <nd ref="1790059749"/>
   <nd ref="1790059711"/>
+  <nd ref="4463657109"/>
   <nd ref="1790059735"/>
   <nd ref="1790059745"/>
   <nd ref="1790059739"/>
@@ -1922,7 +1924,7 @@
   <tag k="wikidata" v="Q101077"/>
   <tag k="wikipedia" v="it:Fornovo San Giovanni"/>
  </relation>
- <relation id="6782208" visible="true" version="46" changeset="91841154" timestamp="2020-10-01T18:20:37Z" user="Mannivu" uid="1950277">
+ <relation id="6782208" visible="true" version="47" changeset="94501093" timestamp="2020-11-20T12:30:53Z" user="dega180" uid="454306">
   <member type="way" ref="285591085" role=""/>
   <member type="way" ref="256114733" role=""/>
   <member type="way" ref="172687416" role=""/>
@@ -1973,6 +1975,8 @@
   <member type="way" ref="117060295" role=""/>
   <member type="way" ref="356987209" role=""/>
   <member type="way" ref="297000423" role=""/>
+  <member type="way" ref="875135684" role=""/>
+  <member type="way" ref="875135683" role=""/>
   <member type="way" ref="458684860" role=""/>
   <member type="way" ref="298298832" role=""/>
   <member type="way" ref="458684859" role=""/>

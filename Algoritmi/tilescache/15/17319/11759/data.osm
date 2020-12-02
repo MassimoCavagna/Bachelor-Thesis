@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1876318 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3440721 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2130036" minlon="10.2722168" maxlat="45.2207426" maxlon="10.2832031"/>
  <node id="377047371" visible="true" version="2" changeset="9949336" timestamp="2011-11-25T22:14:11Z" user="Gianluigi" uid="498903" lat="45.2192545" lon="10.2705106"/>
  <node id="377047384" visible="true" version="2" changeset="9949336" timestamp="2011-11-25T22:14:11Z" user="Gianluigi" uid="498903" lat="45.2191824" lon="10.2712405"/>
@@ -175,6 +175,14 @@
  <node id="1521995936" visible="true" version="2" changeset="21873209" timestamp="2014-04-22T21:12:30Z" user="sniper10" uid="2017644" lat="45.2238604" lon="10.2622761"/>
  <node id="1521995937" visible="true" version="2" changeset="21873209" timestamp="2014-04-22T21:12:30Z" user="sniper10" uid="2017644" lat="45.2239327" lon="10.2618190"/>
  <node id="3644913096" visible="true" version="1" changeset="32549747" timestamp="2015-07-10T17:51:44Z" user="Moliva" uid="107039" lat="45.2143327" lon="10.2866319"/>
+ <node id="8048636068" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2210863" lon="10.2785276"/>
+ <node id="8048636069" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2207693" lon="10.2797025"/>
+ <node id="8048636070" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2206675" lon="10.2800223"/>
+ <node id="8048636071" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2206158" lon="10.2802332"/>
+ <node id="8048636072" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2203872" lon="10.2814412"/>
+ <node id="8048636073" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2185969" lon="10.2898599"/>
+ <node id="8048636074" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2186002" lon="10.2899759"/>
+ <node id="8048636075" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2192109" lon="10.2902934"/>
  <way id="40767351" visible="true" version="2" changeset="9972297" timestamp="2011-11-27T21:30:34Z" user="Gianluigi" uid="498903">
   <nd ref="495418331"/>
   <nd ref="495418307"/>
@@ -412,6 +420,18 @@
   <tag k="highway" v="tertiary"/>
   <tag k="maxspeed" v="90"/>
   <tag k="name" v="Strada Provinciale 83"/>
+ </way>
+ <way id="863980127" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306">
+  <nd ref="1517016872"/>
+  <nd ref="8048636068"/>
+  <nd ref="8048636069"/>
+  <nd ref="8048636070"/>
+  <nd ref="8048636071"/>
+  <nd ref="8048636072"/>
+  <nd ref="8048636073"/>
+  <nd ref="8048636074"/>
+  <nd ref="8048636075"/>
+  <tag k="highway" v="track"/>
  </way>
  <relation id="2250815" visible="true" version="29" changeset="90489964" timestamp="2020-09-06T18:35:27Z" user="fedc" uid="602784">
   <member type="way" ref="156100535" role=""/>

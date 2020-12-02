@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3930455 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3439587 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1665472" minlon="9.6569824" maxlat="45.1742925" maxlon="9.6679688"/>
  <node id="446900519" visible="true" version="4" changeset="59725306" timestamp="2018-06-11T02:17:57Z" user="fedc" uid="602784" lat="45.1655515" lon="9.6607355"/>
  <node id="446900520" visible="true" version="2" changeset="59725306" timestamp="2018-06-11T02:17:57Z" user="fedc" uid="602784" lat="45.1660051" lon="9.6605154"/>
@@ -4297,28 +4297,31 @@
   <nd ref="3927307446"/>
   <tag k="landuse" v="grass"/>
  </way>
- <way id="596247308" visible="true" version="1" changeset="59725306" timestamp="2018-06-11T02:17:54Z" user="fedc" uid="602784">
+ <way id="596247308" visible="true" version="2" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784">
   <nd ref="5680713240"/>
   <nd ref="1802538145"/>
   <nd ref="5680713242"/>
   <nd ref="5680713253"/>
   <tag k="highway" v="primary"/>
   <tag k="lanes" v="2"/>
-  <tag k="name" v="Strada Provinciale exSS234 Codognese"/>
-  <tag k="ref" v="SPexSS234"/>
+  <tag k="name" v="Strada provinciale 234 dir Codognese"/>
+  <tag k="oneway" v="no"/>
+  <tag k="ref" v="SP234dir"/>
+  <tag k="surface" v="asphalt"/>
  </way>
- <way id="596247309" visible="true" version="1" changeset="59725306" timestamp="2018-06-11T02:17:55Z" user="fedc" uid="602784">
+ <way id="596247309" visible="true" version="2" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784">
   <nd ref="5680713252"/>
   <nd ref="5680713253"/>
   <tag k="bridge" v="yes"/>
   <tag k="highway" v="primary"/>
   <tag k="lanes" v="2"/>
   <tag k="layer" v="1"/>
-  <tag k="name" v="Strada Provinciale exSS234 Codognese"/>
+  <tag k="name" v="Strada provinciale 234 dir Codognese"/>
   <tag k="oneway" v="no"/>
-  <tag k="ref" v="SPexSS234"/>
+  <tag k="ref" v="SP234dir"/>
+  <tag k="surface" v="asphalt"/>
  </way>
- <way id="596247310" visible="true" version="1" changeset="59725306" timestamp="2018-06-11T02:17:55Z" user="fedc" uid="602784">
+ <way id="596247310" visible="true" version="2" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784">
   <nd ref="5680713252"/>
   <nd ref="1802538148"/>
   <nd ref="5030728605"/>
@@ -4331,10 +4334,12 @@
   <nd ref="5680716845"/>
   <tag k="highway" v="primary"/>
   <tag k="lanes" v="2"/>
-  <tag k="name" v="Strada Provinciale exSS234 Codognese"/>
-  <tag k="ref" v="SPexSS234"/>
+  <tag k="name" v="Strada provinciale 234 dir Codognese"/>
+  <tag k="oneway" v="no"/>
+  <tag k="ref" v="SP234dir"/>
+  <tag k="surface" v="asphalt"/>
  </way>
- <way id="596247311" visible="true" version="1" changeset="59725306" timestamp="2018-06-11T02:17:55Z" user="fedc" uid="602784">
+ <way id="596247311" visible="true" version="2" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784">
   <nd ref="5680713261"/>
   <nd ref="1802538143"/>
   <nd ref="1802538144"/>
@@ -4358,7 +4363,9 @@
   <tag k="lanes" v="2"/>
   <tag k="maxspeed" v="60"/>
   <tag k="name" v="Via Emilia"/>
+  <tag k="oneway" v="no"/>
   <tag k="ref" v="SS9"/>
+  <tag k="surface" v="asphalt"/>
  </way>
  <way id="598414095" visible="true" version="5" changeset="86622805" timestamp="2020-06-14T12:09:39Z" user="Davide Dinosio" uid="6187242">
   <nd ref="1129517286"/>
@@ -4804,7 +4811,7 @@
   <tag k="restriction" v="only_left_turn"/>
   <tag k="type" v="restriction"/>
  </relation>
- <relation id="1795722" visible="true" version="114" changeset="79201046" timestamp="2020-01-04T22:31:04Z" user="fedc" uid="602784">
+ <relation id="1795722" visible="true" version="116" changeset="93711556" timestamp="2020-11-07T15:44:25Z" user="astraspera" uid="2653653">
   <member type="way" ref="46579235" role=""/>
   <member type="way" ref="22882758" role=""/>
   <member type="way" ref="46579240" role=""/>
@@ -4829,19 +4836,12 @@
   <member type="way" ref="677362527" role=""/>
   <member type="way" ref="25870585" role=""/>
   <member type="way" ref="593467740" role=""/>
-  <member type="way" ref="38963336" role=""/>
-  <member type="way" ref="372639399" role=""/>
-  <member type="way" ref="372639398" role=""/>
-  <member type="way" ref="38963337" role=""/>
+  <member type="way" ref="868042564" role=""/>
+  <member type="way" ref="868042560" role=""/>
   <member type="way" ref="304530028" role=""/>
   <member type="way" ref="593467742" role=""/>
   <member type="way" ref="304530027" role=""/>
-  <member type="way" ref="390480323" role=""/>
-  <member type="way" ref="593467735" role=""/>
   <member type="way" ref="677857788" role=""/>
-  <member type="way" ref="665212723" role=""/>
-  <member type="way" ref="480327975" role=""/>
-  <member type="way" ref="593467738" role=""/>
   <member type="way" ref="593467721" role=""/>
   <member type="way" ref="98497763" role=""/>
   <member type="way" ref="689668521" role=""/>
@@ -4972,9 +4972,8 @@
   <member type="way" ref="721154573" role=""/>
   <member type="way" ref="305732731" role=""/>
   <member type="way" ref="305732735" role=""/>
+  <member type="way" ref="863578145" role=""/>
   <member type="way" ref="305732728" role=""/>
-  <member type="way" ref="169083489" role=""/>
-  <member type="way" ref="627610463" role=""/>
   <member type="way" ref="37767972" role=""/>
   <member type="way" ref="187778390" role=""/>
   <member type="way" ref="93391171" role=""/>
@@ -4986,6 +4985,8 @@
   <member type="way" ref="542524217" role=""/>
   <member type="way" ref="542524216" role=""/>
   <member type="way" ref="593467732" role=""/>
+  <member type="way" ref="390480323" role=""/>
+  <member type="way" ref="593467735" role=""/>
   <member type="way" ref="542524219" role=""/>
   <member type="way" ref="596247312" role=""/>
   <member type="way" ref="596247308" role=""/>
@@ -5023,7 +5024,22 @@
   <member type="way" ref="627610462" role=""/>
   <member type="way" ref="627610464" role=""/>
   <member type="way" ref="627610480" role=""/>
+  <member type="way" ref="169083489" role=""/>
+  <member type="way" ref="627610463" role=""/>
   <member type="way" ref="627610481" role=""/>
+  <member type="way" ref="484484690" role="road"/>
+  <member type="way" ref="546028963" role=""/>
+  <member type="way" ref="546028960" role=""/>
+  <member type="way" ref="868042563" role=""/>
+  <member type="way" ref="868042562" role=""/>
+  <member type="way" ref="868042561" role=""/>
+  <member type="way" ref="868042565" role=""/>
+  <member type="way" ref="746096661" role=""/>
+  <member type="way" ref="746096662" role=""/>
+  <member type="way" ref="38963329" role=""/>
+  <member type="way" ref="546028964" role=""/>
+  <member type="way" ref="546028962" role=""/>
+  <member type="way" ref="746096660" role=""/>
   <tag k="name" v="Strada Provinciale exSS234 Codognese"/>
   <tag k="network" v="IT:PV;IT:MI;IT:LO"/>
   <tag k="old_name" v="Strada Statale Codognese"/>
@@ -5043,7 +5059,7 @@
   <tag k="type" v="route"/>
   <tag k="voltage" v="380000"/>
  </relation>
- <relation id="7236569" visible="true" version="106" changeset="91654352" timestamp="2020-09-28T16:05:16Z" user="damianeue" uid="10124288">
+ <relation id="7236569" visible="true" version="113" changeset="93932316" timestamp="2020-11-11T13:54:07Z" user="Markko27" uid="11102980">
   <member type="way" ref="492871661" role=""/>
   <member type="way" ref="53374729" role=""/>
   <member type="way" ref="53374728" role=""/>
@@ -5303,39 +5319,14 @@
   <member type="way" ref="136842917" role=""/>
   <member type="way" ref="136842908" role=""/>
   <member type="way" ref="136842907" role=""/>
-  <member type="way" ref="23430882" role=""/>
-  <member type="way" ref="137227438" role=""/>
-  <member type="way" ref="136842920" role=""/>
-  <member type="way" ref="136842919" role=""/>
-  <member type="way" ref="56849695" role=""/>
-  <member type="way" ref="253394933" role=""/>
-  <member type="way" ref="56849696" role=""/>
-  <member type="way" ref="56849693" role=""/>
-  <member type="way" ref="253394934" role=""/>
-  <member type="way" ref="56849700" role=""/>
-  <member type="way" ref="103594962" role=""/>
-  <member type="way" ref="103594979" role=""/>
-  <member type="way" ref="609549048" role=""/>
-  <member type="way" ref="428604990" role=""/>
-  <member type="way" ref="57390818" role=""/>
-  <member type="way" ref="57390832" role=""/>
-  <member type="way" ref="57390822" role=""/>
-  <member type="way" ref="335980228" role=""/>
-  <member type="way" ref="335980221" role=""/>
-  <member type="way" ref="609547288" role=""/>
-  <member type="way" ref="55288078" role=""/>
-  <member type="way" ref="253394880" role=""/>
-  <member type="way" ref="55288081" role=""/>
-  <member type="way" ref="55288084" role=""/>
-  <member type="way" ref="253394877" role=""/>
-  <member type="way" ref="56828576" role=""/>
-  <member type="way" ref="55288089" role=""/>
-  <member type="way" ref="55288082" role=""/>
+  <member type="way" ref="60119763" role=""/>
+  <member type="way" ref="60119767" role=""/>
+  <member type="way" ref="56828598" role=""/>
+  <member type="way" ref="60110209" role=""/>
   <member type="way" ref="60107361" role=""/>
-  <member type="way" ref="136845700" role=""/>
+  <member type="way" ref="136845699" role=""/>
   <member type="way" ref="136845693" role=""/>
   <member type="way" ref="253394892" role=""/>
-  <member type="way" ref="136845699" role=""/>
   <member type="way" ref="55288087" role=""/>
   <member type="way" ref="25862224" role=""/>
   <member type="way" ref="371064621" role=""/>
@@ -5629,14 +5620,21 @@
   <member type="way" ref="317720726" role=""/>
   <member type="way" ref="534547994" role=""/>
   <member type="way" ref="677865947" role=""/>
+  <member type="way" ref="870394198" role=""/>
+  <member type="way" ref="870394197" role=""/>
   <member type="way" ref="534547991" role=""/>
   <member type="way" ref="677624565" role=""/>
   <member type="way" ref="677393122" role=""/>
   <member type="way" ref="230557798" role=""/>
   <member type="way" ref="230557797" role=""/>
+  <member type="way" ref="867681967" role=""/>
+  <member type="way" ref="867681965" role=""/>
   <member type="way" ref="623553898" role=""/>
+  <member type="way" ref="867681854" role=""/>
   <member type="way" ref="460392993" role=""/>
+  <member type="way" ref="867681853" role=""/>
   <member type="way" ref="623553899" role=""/>
+  <member type="way" ref="867679077" role=""/>
   <member type="way" ref="39188386" role=""/>
   <member type="way" ref="27250436" role=""/>
   <member type="way" ref="479678222" role=""/>
@@ -5675,12 +5673,24 @@
   <member type="way" ref="809610223" role=""/>
   <member type="way" ref="809610222" role=""/>
   <member type="way" ref="32758125" role=""/>
+  <member type="way" ref="862750402" role=""/>
+  <member type="way" ref="862750398" role=""/>
+  <member type="way" ref="862750401" role=""/>
+  <member type="way" ref="862750397" role=""/>
+  <member type="way" ref="862750393" role=""/>
+  <member type="way" ref="862750396" role=""/>
   <member type="way" ref="578147558" role=""/>
   <member type="way" ref="578147557" role=""/>
   <member type="way" ref="578147554" role=""/>
   <member type="way" ref="578147550" role=""/>
   <member type="way" ref="578147556" role=""/>
+  <member type="way" ref="862750387" role=""/>
+  <member type="way" ref="862750384" role=""/>
+  <member type="way" ref="862750386" role=""/>
+  <member type="way" ref="862750385" role=""/>
   <member type="way" ref="677357768" role=""/>
+  <member type="way" ref="862750380" role=""/>
+  <member type="way" ref="862750383" role=""/>
   <member type="way" ref="677111349" role=""/>
   <member type="way" ref="455487976" role=""/>
   <member type="way" ref="207614451" role=""/>
@@ -5962,6 +5972,14 @@
   <member type="way" ref="815601715" role=""/>
   <member type="way" ref="815601716" role=""/>
   <member type="way" ref="815601719" role=""/>
+  <member type="way" ref="136845697" role=""/>
+  <member type="way" ref="136845698" role=""/>
+  <member type="way" ref="136845696" role=""/>
+  <member type="way" ref="136845695" role=""/>
+  <member type="way" ref="136845694" role=""/>
+  <member type="way" ref="57390828" role=""/>
+  <member type="way" ref="60119760" role=""/>
+  <member type="way" ref="60119772" role=""/>
   <tag k="from" v="Rimini"/>
   <tag k="name" v="Strada Statale 9 Via Emilia"/>
   <tag k="operator" v="ANAS"/>

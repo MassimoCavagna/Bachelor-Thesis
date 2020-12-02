@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1301522 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3440950 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.0657615" minlon="10.3930664" maxlat="45.0735206" maxlon="10.4040527"/>
  <node id="332790881" visible="true" version="7" changeset="4238319" timestamp="2010-03-26T14:47:12Z" user="woodpeck_repair" uid="145231" lat="45.0715465" lon="10.4206170"/>
  <node id="332790882" visible="true" version="7" changeset="4238319" timestamp="2010-03-26T14:47:13Z" user="woodpeck_repair" uid="145231" lat="45.0711828" lon="10.4230289"/>
@@ -506,6 +506,9 @@
  <node id="7681182649" visible="true" version="1" changeset="87516480" timestamp="2020-07-03T20:16:10Z" user="Pab09" uid="178610" lat="45.0692504" lon="10.4103622"/>
  <node id="7681182652" visible="true" version="1" changeset="87516480" timestamp="2020-07-03T20:16:10Z" user="Pab09" uid="178610" lat="45.0693716" lon="10.4094234"/>
  <node id="8033504097" visible="true" version="1" changeset="92854157" timestamp="2020-10-21T20:53:57Z" user="MinerMax555" uid="8829660" lat="45.0494548" lon="10.5312122"/>
+ <node id="8043235287" visible="true" version="1" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306" lat="45.0587088" lon="10.5072512"/>
+ <node id="8043235294" visible="true" version="1" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306" lat="45.0535181" lon="10.5183361"/>
+ <node id="8043235295" visible="true" version="1" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306" lat="45.0539882" lon="10.5227882"/>
  <way id="53529361" visible="true" version="4" changeset="13107598" timestamp="2012-09-14T13:49:39Z" user="ilrobi" uid="22110">
   <nd ref="332791024"/>
   <nd ref="676268506"/>
@@ -720,7 +723,7 @@
   <nd ref="332790884"/>
   <tag k="highway" v="secondary"/>
  </way>
- <way id="531414890" visible="true" version="2" changeset="92854157" timestamp="2020-10-21T20:53:57Z" user="MinerMax555" uid="8829660">
+ <way id="531414890" visible="true" version="3" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306">
   <nd ref="5158634747"/>
   <nd ref="796819157"/>
   <nd ref="796819370"/>
@@ -904,6 +907,7 @@
   <nd ref="900741157"/>
   <nd ref="900741120"/>
   <nd ref="900741110"/>
+  <nd ref="8043235287"/>
   <nd ref="900741064"/>
   <nd ref="900741050"/>
   <nd ref="900741148"/>
@@ -920,6 +924,7 @@
   <nd ref="900741171"/>
   <nd ref="900741132"/>
   <nd ref="900741122"/>
+  <nd ref="8043235294"/>
   <nd ref="900741083"/>
   <nd ref="900741066"/>
   <nd ref="900741163"/>
@@ -928,6 +933,7 @@
   <nd ref="900741114"/>
   <nd ref="900741070"/>
   <nd ref="900741053"/>
+  <nd ref="8043235295"/>
   <nd ref="900741151"/>
   <nd ref="900741141"/>
   <nd ref="900741154"/>

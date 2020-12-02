@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3094907 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3439779 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1820368" minlon="10.3271484" maxlat="45.1897801" maxlon="10.3381348"/>
  <node id="307053304" visible="true" version="5" changeset="28240596" timestamp="2015-01-18T21:21:38Z" user="Pyknite" uid="193512" lat="45.1789755" lon="10.3308542"/>
  <node id="307054420" visible="true" version="3" changeset="28768280" timestamp="2015-02-11T09:05:58Z" user="Pyknite" uid="193512" lat="45.1841043" lon="10.3277170"/>
@@ -753,7 +753,7 @@
   <tag k="height" v="6"/>
   <tag k="name" v="Attività agricola allevamento"/>
  </way>
- <relation id="43798" visible="true" version="46" changeset="66903819" timestamp="2019-02-04T13:39:45Z" user="Garmin-User" uid="177389">
+ <relation id="43798" visible="true" version="47" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="62505610" role="admin_centre"/>
   <member type="way" ref="27977551" role="outer"/>
   <member type="way" ref="27977480" role="outer"/>
@@ -795,8 +795,9 @@
   <member type="way" ref="27978792" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27979166" role="outer"/>
@@ -1077,7 +1078,7 @@
   <tag k="wikidata" v="Q42127"/>
   <tag k="wikipedia" v="it:Casalromano"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -1150,7 +1151,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>
@@ -1561,7 +1563,7 @@
   <tag k="wikidata" v="Q1210"/>
   <tag k="wikipedia" v="it:Lombardia"/>
  </relation>
- <relation id="2252101" visible="true" version="31" changeset="74150507" timestamp="2019-09-05T20:52:07Z" user="Benny4L" uid="647382">
+ <relation id="2252101" visible="true" version="32" changeset="93083685" timestamp="2020-10-26T22:56:58Z" user="dega180" uid="454306">
   <member type="way" ref="169083809" role=""/>
   <member type="way" ref="147597757" role=""/>
   <member type="way" ref="550516304" role=""/>
@@ -1608,16 +1610,17 @@
   <member type="way" ref="709341810" role=""/>
   <member type="way" ref="709341786" role=""/>
   <member type="way" ref="709341785" role=""/>
+  <member type="way" ref="39479866" role=""/>
+  <member type="way" ref="39479855" role=""/>
+  <member type="way" ref="39962542" role=""/>
+  <member type="way" ref="169229934" role=""/>
+  <member type="way" ref="863986845" role=""/>
   <member type="way" ref="169229939" role=""/>
   <member type="way" ref="169229925" role=""/>
   <member type="way" ref="709348281" role=""/>
   <member type="way" ref="709348282" role=""/>
   <member type="way" ref="709348283" role=""/>
   <member type="way" ref="709341814" role=""/>
-  <member type="way" ref="169229934" role=""/>
-  <member type="way" ref="39962542" role=""/>
-  <member type="way" ref="39479855" role=""/>
-  <member type="way" ref="39479866" role=""/>
   <member type="way" ref="84585422" role=""/>
   <member type="way" ref="84585389" role=""/>
   <member type="way" ref="39962552" role=""/>

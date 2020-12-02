@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (834617 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2408566 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1742925" minlon="9.6459961" maxlat="45.1820368" maxlon="9.6569824"/>
  <node id="62513006" visible="true" version="6" changeset="78739222" timestamp="2019-12-22T17:00:38Z" user="rza31" uid="2137840" lat="45.1793292" lon="9.6483958">
   <tag k="gfoss_id" v="7869"/>
@@ -7399,8 +7399,8 @@
  <node id="2627357996" visible="true" version="1" changeset="20070282" timestamp="2014-01-18T17:40:16Z" user="Delladv" uid="1889764" lat="45.1836721" lon="9.6507857"/>
  <node id="2627357998" visible="true" version="1" changeset="20070282" timestamp="2014-01-18T17:40:16Z" user="Delladv" uid="1889764" lat="45.1835049" lon="9.6506156"/>
  <node id="2627358000" visible="true" version="1" changeset="20070282" timestamp="2014-01-18T17:40:16Z" user="Delladv" uid="1889764" lat="45.1837307" lon="9.6504654"/>
- <node id="2627369934" visible="true" version="1" changeset="20070456" timestamp="2014-01-18T17:48:32Z" user="Delladv" uid="1889764" lat="45.1821799" lon="9.6566363"/>
- <node id="2627369936" visible="true" version="1" changeset="20070456" timestamp="2014-01-18T17:48:32Z" user="Delladv" uid="1889764" lat="45.1820963" lon="9.6566284"/>
+ <node id="2627369934" visible="true" version="2" changeset="92972420" timestamp="2020-10-23T21:33:46Z" user="fedc" uid="602784" lat="45.1821867" lon="9.6566363"/>
+ <node id="2627369936" visible="true" version="2" changeset="92972420" timestamp="2020-10-23T21:33:46Z" user="fedc" uid="602784" lat="45.1821335" lon="9.6566284"/>
  <node id="2627369938" visible="true" version="1" changeset="20070456" timestamp="2014-01-18T17:48:32Z" user="Delladv" uid="1889764" lat="45.1817366" lon="9.6566506"/>
  <node id="2627369945" visible="true" version="1" changeset="20070456" timestamp="2014-01-18T17:48:32Z" user="Delladv" uid="1889764" lat="45.1813491" lon="9.6565498"/>
  <node id="2627369949" visible="true" version="1" changeset="20070456" timestamp="2014-01-18T17:48:32Z" user="Delladv" uid="1889764" lat="45.1811511" lon="9.6567346"/>
@@ -7652,7 +7652,7 @@
  <node id="3046469902" visible="true" version="1" changeset="25061977" timestamp="2014-08-27T21:09:57Z" user="wiso" uid="30891" lat="45.1926530" lon="9.6365308"/>
  <node id="3046469903" visible="true" version="1" changeset="25061977" timestamp="2014-08-27T21:09:57Z" user="wiso" uid="30891" lat="45.1926652" lon="9.6365521"/>
  <node id="3049655752" visible="true" version="2" changeset="28658643" timestamp="2015-02-06T20:15:34Z" user="Alecs01" uid="1476146" lat="45.1753198" lon="9.6670722"/>
- <node id="3054897456" visible="true" version="1" changeset="25176135" timestamp="2014-09-02T08:05:24Z" user="walley" uid="5013" lat="45.1965520" lon="9.6435602"/>
+ <node id="3054897456" visible="true" version="2" changeset="92972420" timestamp="2020-10-23T21:33:46Z" user="fedc" uid="602784" lat="45.1965405" lon="9.6435534"/>
  <node id="3056578301" visible="true" version="1" changeset="25194349" timestamp="2014-09-02T23:30:34Z" user="botticchio" uid="1612733" lat="45.1826489" lon="9.6465509"/>
  <node id="3121280423" visible="true" version="1" changeset="25970185" timestamp="2014-10-09T21:01:59Z" user="wiso_dbtopo_lodi" uid="2317501" lat="45.1742953" lon="9.6501891">
   <tag k="natural" v="tree"/>
@@ -8906,6 +8906,7 @@
  <node id="7622596117" visible="true" version="1" changeset="86665790" timestamp="2020-06-15T11:04:50Z" user="Davide Dinosio" uid="6187242" lat="45.1731169" lon="9.6548235"/>
  <node id="7622596118" visible="true" version="1" changeset="86665790" timestamp="2020-06-15T11:04:50Z" user="Davide Dinosio" uid="6187242" lat="45.1724768" lon="9.6548395"/>
  <node id="7622596119" visible="true" version="1" changeset="86665790" timestamp="2020-06-15T11:04:50Z" user="Davide Dinosio" uid="6187242" lat="45.1721878" lon="9.6548675"/>
+ <node id="8040836745" visible="true" version="1" changeset="92970545" timestamp="2020-10-23T20:33:00Z" user="fedc" uid="602784" lat="45.1860244" lon="9.6476403"/>
  <way id="38034554" visible="true" version="11" changeset="73770340" timestamp="2019-08-26T21:17:08Z" user="fedc" uid="602784">
   <nd ref="446900592"/>
   <nd ref="446900658"/>
@@ -19152,7 +19153,7 @@
   <tag k="sd_fer_sed" v="A raso"/>
   <tag k="source" v="geoportale Provincia di Lodi, License IODL-2.0 (http://sdi.provincia.lodi.it/)"/>
  </way>
- <way id="300572843" visible="true" version="4" changeset="67489314" timestamp="2019-02-23T09:35:39Z" user="astraspera" uid="2653653">
+ <way id="300572843" visible="true" version="5" changeset="92970545" timestamp="2020-10-23T20:33:00Z" user="fedc" uid="602784">
   <nd ref="3046469895"/>
   <nd ref="3046469892"/>
   <nd ref="3046469893"/>
@@ -19231,6 +19232,7 @@
   <nd ref="3046469736"/>
   <nd ref="3046469734"/>
   <nd ref="3046469732"/>
+  <nd ref="8040836745"/>
   <nd ref="3046469727"/>
   <nd ref="3046469721"/>
   <nd ref="3046469722"/>
@@ -21294,7 +21296,7 @@
   <tag k="name" v="Via Don Luigi Bernardinelli"/>
   <tag k="type" v="associatedStreet"/>
  </relation>
- <relation id="1795722" visible="true" version="114" changeset="79201046" timestamp="2020-01-04T22:31:04Z" user="fedc" uid="602784">
+ <relation id="1795722" visible="true" version="116" changeset="93711556" timestamp="2020-11-07T15:44:25Z" user="astraspera" uid="2653653">
   <member type="way" ref="46579235" role=""/>
   <member type="way" ref="22882758" role=""/>
   <member type="way" ref="46579240" role=""/>
@@ -21319,19 +21321,12 @@
   <member type="way" ref="677362527" role=""/>
   <member type="way" ref="25870585" role=""/>
   <member type="way" ref="593467740" role=""/>
-  <member type="way" ref="38963336" role=""/>
-  <member type="way" ref="372639399" role=""/>
-  <member type="way" ref="372639398" role=""/>
-  <member type="way" ref="38963337" role=""/>
+  <member type="way" ref="868042564" role=""/>
+  <member type="way" ref="868042560" role=""/>
   <member type="way" ref="304530028" role=""/>
   <member type="way" ref="593467742" role=""/>
   <member type="way" ref="304530027" role=""/>
-  <member type="way" ref="390480323" role=""/>
-  <member type="way" ref="593467735" role=""/>
   <member type="way" ref="677857788" role=""/>
-  <member type="way" ref="665212723" role=""/>
-  <member type="way" ref="480327975" role=""/>
-  <member type="way" ref="593467738" role=""/>
   <member type="way" ref="593467721" role=""/>
   <member type="way" ref="98497763" role=""/>
   <member type="way" ref="689668521" role=""/>
@@ -21462,9 +21457,8 @@
   <member type="way" ref="721154573" role=""/>
   <member type="way" ref="305732731" role=""/>
   <member type="way" ref="305732735" role=""/>
+  <member type="way" ref="863578145" role=""/>
   <member type="way" ref="305732728" role=""/>
-  <member type="way" ref="169083489" role=""/>
-  <member type="way" ref="627610463" role=""/>
   <member type="way" ref="37767972" role=""/>
   <member type="way" ref="187778390" role=""/>
   <member type="way" ref="93391171" role=""/>
@@ -21476,6 +21470,8 @@
   <member type="way" ref="542524217" role=""/>
   <member type="way" ref="542524216" role=""/>
   <member type="way" ref="593467732" role=""/>
+  <member type="way" ref="390480323" role=""/>
+  <member type="way" ref="593467735" role=""/>
   <member type="way" ref="542524219" role=""/>
   <member type="way" ref="596247312" role=""/>
   <member type="way" ref="596247308" role=""/>
@@ -21513,7 +21509,22 @@
   <member type="way" ref="627610462" role=""/>
   <member type="way" ref="627610464" role=""/>
   <member type="way" ref="627610480" role=""/>
+  <member type="way" ref="169083489" role=""/>
+  <member type="way" ref="627610463" role=""/>
   <member type="way" ref="627610481" role=""/>
+  <member type="way" ref="484484690" role="road"/>
+  <member type="way" ref="546028963" role=""/>
+  <member type="way" ref="546028960" role=""/>
+  <member type="way" ref="868042563" role=""/>
+  <member type="way" ref="868042562" role=""/>
+  <member type="way" ref="868042561" role=""/>
+  <member type="way" ref="868042565" role=""/>
+  <member type="way" ref="746096661" role=""/>
+  <member type="way" ref="746096662" role=""/>
+  <member type="way" ref="38963329" role=""/>
+  <member type="way" ref="546028964" role=""/>
+  <member type="way" ref="546028962" role=""/>
+  <member type="way" ref="746096660" role=""/>
   <tag k="name" v="Strada Provinciale exSS234 Codognese"/>
   <tag k="network" v="IT:PV;IT:MI;IT:LO"/>
   <tag k="old_name" v="Strada Statale Codognese"/>
@@ -21994,7 +22005,7 @@
   <tag k="wikidata" v="Q15427590"/>
   <tag k="wikipedia" v="en:Pavia–Mantua railway"/>
  </relation>
- <relation id="7481564" visible="true" version="16" changeset="89583185" timestamp="2020-08-18T15:15:54Z" user="fedc" uid="602784">
+ <relation id="7481564" visible="true" version="19" changeset="93982250" timestamp="2020-11-12T09:28:19Z" user="PaoloRE1981" uid="821025">
   <member type="way" ref="326805437" role=""/>
   <member type="way" ref="326802920" role=""/>
   <member type="way" ref="326802923" role=""/>
@@ -22061,14 +22072,18 @@
   <member type="way" ref="265863757" role=""/>
   <member type="way" ref="265863756" role=""/>
   <member type="way" ref="199800266" role=""/>
+  <member type="way" ref="870707648" role=""/>
+  <member type="way" ref="870707647" role=""/>
   <member type="way" ref="199800265" role=""/>
   <member type="way" ref="199800267" role=""/>
   <member type="way" ref="199800264" role=""/>
   <member type="way" ref="222042807" role=""/>
   <member type="way" ref="222042800" role=""/>
-  <member type="way" ref="70259702" role=""/>
-  <member type="way" ref="70259692" role=""/>
   <member type="way" ref="339151065" role=""/>
+  <member type="way" ref="70259692" role=""/>
+  <member type="way" ref="870710203" role=""/>
+  <member type="way" ref="70259702" role=""/>
+  <member type="way" ref="870710204" role=""/>
   <member type="way" ref="339151064" role=""/>
   <member type="way" ref="48202027" role=""/>
   <member type="way" ref="48202026" role=""/>
@@ -22184,14 +22199,18 @@
   <member type="way" ref="377805301" role=""/>
   <member type="way" ref="377805289" role=""/>
   <member type="way" ref="377805283" role=""/>
+  <member type="way" ref="870707650" role=""/>
+  <member type="way" ref="870707649" role=""/>
   <member type="way" ref="377805292" role=""/>
   <member type="way" ref="377805305" role=""/>
   <member type="way" ref="377805296" role=""/>
   <member type="way" ref="377805282" role=""/>
   <member type="way" ref="377805285" role=""/>
-  <member type="way" ref="377805306" role=""/>
-  <member type="way" ref="377805287" role=""/>
   <member type="way" ref="164015842" role=""/>
+  <member type="way" ref="377805287" role=""/>
+  <member type="way" ref="870710201" role=""/>
+  <member type="way" ref="870710202" role=""/>
+  <member type="way" ref="377805306" role=""/>
   <member type="way" ref="377805311" role=""/>
   <member type="way" ref="377805295" role=""/>
   <member type="way" ref="377805303" role=""/>
@@ -22298,6 +22317,7 @@
   <member type="way" ref="60651125" role=""/>
   <member type="way" ref="411756295" role=""/>
   <member type="way" ref="411756292" role=""/>
+  <member type="way" ref="867529076" role=""/>
   <member type="way" ref="462437759" role=""/>
   <member type="way" ref="462437760" role=""/>
   <member type="way" ref="60651124" role=""/>
@@ -22383,6 +22403,7 @@
   <member type="way" ref="326937226" role=""/>
   <member type="way" ref="462437758" role=""/>
   <member type="way" ref="462437757" role=""/>
+  <member type="way" ref="867529077" role=""/>
   <member type="way" ref="326932115" role=""/>
   <member type="way" ref="411756293" role=""/>
   <member type="way" ref="411756294" role=""/>

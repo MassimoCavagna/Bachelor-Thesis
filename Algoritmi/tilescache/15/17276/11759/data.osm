@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2351468 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441780 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2130036" minlon="9.7998047" maxlat="45.2207426" maxlon="9.8107910"/>
  <node id="307078598" visible="true" version="3" changeset="28631399" timestamp="2015-02-05T14:26:22Z" user="Pyknite" uid="193512" lat="45.2182039" lon="9.8201605"/>
  <node id="307079416" visible="true" version="2" changeset="28301643" timestamp="2015-01-21T08:25:34Z" user="Pyknite" uid="193512" lat="45.2225366" lon="9.7876903"/>
@@ -129,14 +129,78 @@
  <node id="3302035315" visible="true" version="1" changeset="28301643" timestamp="2015-01-21T08:25:17Z" user="Pyknite" uid="193512" lat="45.2226142" lon="9.7900210"/>
  <node id="3302035329" visible="true" version="1" changeset="28301643" timestamp="2015-01-21T08:25:18Z" user="Pyknite" uid="193512" lat="45.2229243" lon="9.7890116"/>
  <node id="3302035336" visible="true" version="1" changeset="28301643" timestamp="2015-01-21T08:25:18Z" user="Pyknite" uid="193512" lat="45.2230403" lon="9.7897752"/>
- <node id="5178933301" visible="true" version="1" changeset="53112094" timestamp="2017-10-20T20:56:43Z" user="fedc" uid="602784" lat="45.2140596" lon="9.8015893">
-  <tag k="name" v="Cascina Sant'Eusebio Superiore"/>
+ <node id="5178933301" visible="true" version="2" changeset="94419882" timestamp="2020-11-19T08:14:42Z" user="soresina" uid="11922651" lat="45.2140596" lon="9.8015893">
+  <tag k="name" v="Eremo Sant'Eusebio Superiore"/>
   <tag k="place" v="hamlet"/>
  </node>
  <node id="7972643158" visible="true" version="1" changeset="91923983" timestamp="2020-10-04T08:34:16Z" user="tdovera" uid="1694801" lat="45.2183434" lon="9.8046055">
   <tag k="natural" v="tree"/>
  </node>
- <way id="195711061" visible="true" version="1" changeset="14235978" timestamp="2012-12-11T09:28:15Z" user="adirricor" uid="245439">
+ <node id="8141289636" visible="true" version="1" changeset="94420059" timestamp="2020-11-19T08:17:28Z" user="soresina" uid="11922651" lat="45.2119837" lon="9.8008480"/>
+ <node id="8141289637" visible="true" version="1" changeset="94420059" timestamp="2020-11-19T08:17:28Z" user="soresina" uid="11922651" lat="45.2120063" lon="9.8009285"/>
+ <node id="8141289638" visible="true" version="1" changeset="94420059" timestamp="2020-11-19T08:17:28Z" user="soresina" uid="11922651" lat="45.2119799" lon="9.8017546"/>
+ <node id="8141289639" visible="true" version="1" changeset="94420059" timestamp="2020-11-19T08:17:28Z" user="soresina" uid="11922651" lat="45.2119799" lon="9.8018083"/>
+ <node id="8141289640" visible="true" version="1" changeset="94420059" timestamp="2020-11-19T08:17:28Z" user="soresina" uid="11922651" lat="45.2131779" lon="9.8014488"/>
+ <node id="8141289641" visible="true" version="1" changeset="94420059" timestamp="2020-11-19T08:17:28Z" user="soresina" uid="11922651" lat="45.2133366" lon="9.8014274"/>
+ <node id="8141289642" visible="true" version="1" changeset="94420059" timestamp="2020-11-19T08:17:28Z" user="soresina" uid="11922651" lat="45.2134159" lon="9.8014596"/>
+ <node id="8141289643" visible="true" version="1" changeset="94420059" timestamp="2020-11-19T08:17:28Z" user="soresina" uid="11922651" lat="45.2134802" lon="9.8015132"/>
+ <node id="8141289644" visible="true" version="1" changeset="94420059" timestamp="2020-11-19T08:17:28Z" user="soresina" uid="11922651" lat="45.2135671" lon="9.8016151"/>
+ <node id="8141289645" visible="true" version="1" changeset="94420059" timestamp="2020-11-19T08:17:28Z" user="soresina" uid="11922651" lat="45.2136125" lon="9.8017224"/>
+ <node id="8141289646" visible="true" version="1" changeset="94420059" timestamp="2020-11-19T08:17:28Z" user="soresina" uid="11922651" lat="45.2136465" lon="9.8018190"/>
+ <node id="8141289647" visible="true" version="1" changeset="94420059" timestamp="2020-11-19T08:17:28Z" user="soresina" uid="11922651" lat="45.2136767" lon="9.8018780"/>
+ <node id="8141289648" visible="true" version="1" changeset="94420059" timestamp="2020-11-19T08:17:28Z" user="soresina" uid="11922651" lat="45.2137145" lon="9.8019155"/>
+ <node id="8141289649" visible="true" version="1" changeset="94420059" timestamp="2020-11-19T08:17:28Z" user="soresina" uid="11922651" lat="45.2137750" lon="9.8019102"/>
+ <node id="8141289650" visible="true" version="1" changeset="94420059" timestamp="2020-11-19T08:17:28Z" user="soresina" uid="11922651" lat="45.2138883" lon="9.8018994"/>
+ <node id="8141301928" visible="true" version="1" changeset="94420432" timestamp="2020-11-19T08:22:46Z" user="soresina" uid="11922651" lat="45.2143039" lon="9.8016825"/>
+ <node id="8141301929" visible="true" version="1" changeset="94420432" timestamp="2020-11-19T08:22:46Z" user="soresina" uid="11922651" lat="45.2142831" lon="9.8019748"/>
+ <node id="8141301930" visible="true" version="1" changeset="94420432" timestamp="2020-11-19T08:22:46Z" user="soresina" uid="11922651" lat="45.2141055" lon="9.8019534"/>
+ <node id="8141301931" visible="true" version="1" changeset="94420432" timestamp="2020-11-19T08:22:46Z" user="soresina" uid="11922651" lat="45.2141301" lon="9.8016557"/>
+ <node id="8141302372" visible="true" version="1" changeset="94420464" timestamp="2020-11-19T08:23:20Z" user="soresina" uid="11922651" lat="45.2145495" lon="9.8017039"/>
+ <node id="8141302373" visible="true" version="1" changeset="94420464" timestamp="2020-11-19T08:23:20Z" user="soresina" uid="11922651" lat="45.2145193" lon="9.8020258"/>
+ <node id="8141302374" visible="true" version="1" changeset="94420464" timestamp="2020-11-19T08:23:20Z" user="soresina" uid="11922651" lat="45.2143436" lon="9.8020124"/>
+ <node id="8141302375" visible="true" version="1" changeset="94420464" timestamp="2020-11-19T08:23:20Z" user="soresina" uid="11922651" lat="45.2143795" lon="9.8015510"/>
+ <node id="8141302376" visible="true" version="1" changeset="94420464" timestamp="2020-11-19T08:23:20Z" user="soresina" uid="11922651" lat="45.2144947" lon="9.8015671"/>
+ <node id="8141302377" visible="true" version="1" changeset="94420464" timestamp="2020-11-19T08:23:20Z" user="soresina" uid="11922651" lat="45.2144853" lon="9.8016932"/>
+ <node id="8141560945" visible="true" version="1" changeset="94426394" timestamp="2020-11-19T09:53:26Z" user="soresina" uid="11922651" lat="45.2143217" lon="9.8014937"/>
+ <node id="8141560946" visible="true" version="1" changeset="94426394" timestamp="2020-11-19T09:53:26Z" user="soresina" uid="11922651" lat="45.2142858" lon="9.8014857"/>
+ <node id="8141560947" visible="true" version="1" changeset="94426394" timestamp="2020-11-19T09:53:26Z" user="soresina" uid="11922651" lat="45.2142896" lon="9.8014186"/>
+ <node id="8141560948" visible="true" version="1" changeset="94426394" timestamp="2020-11-19T09:53:26Z" user="soresina" uid="11922651" lat="45.2142178" lon="9.8014052"/>
+ <node id="8141560949" visible="true" version="1" changeset="94426394" timestamp="2020-11-19T09:53:26Z" user="soresina" uid="11922651" lat="45.2141964" lon="9.8016659"/>
+ <node id="8141579047" visible="true" version="1" changeset="94426522" timestamp="2020-11-19T09:54:56Z" user="soresina" uid="11922651" lat="45.2140704" lon="9.8013355">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="8141584790" visible="true" version="1" changeset="94426453" timestamp="2020-11-19T09:54:03Z" user="soresina" uid="11922651" lat="45.2142136" lon="9.8014561"/>
+ <node id="8141584791" visible="true" version="1" changeset="94426453" timestamp="2020-11-19T09:54:03Z" user="soresina" uid="11922651" lat="45.2141252" lon="9.8014401"/>
+ <node id="8141584792" visible="true" version="1" changeset="94426453" timestamp="2020-11-19T09:54:03Z" user="soresina" uid="11922651" lat="45.2141328" lon="9.8013542"/>
+ <node id="8141584793" visible="true" version="1" changeset="94426453" timestamp="2020-11-19T09:54:03Z" user="soresina" uid="11922651" lat="45.2142197" lon="9.8013677"/>
+ <node id="8141604187" visible="true" version="1" changeset="94427097" timestamp="2020-11-19T10:02:54Z" user="soresina" uid="11922651" lat="45.2140383" lon="9.8019559"/>
+ <node id="8141604188" visible="true" version="1" changeset="94427097" timestamp="2020-11-19T10:02:54Z" user="soresina" uid="11922651" lat="45.2141366" lon="9.8020042"/>
+ <node id="8141604189" visible="true" version="1" changeset="94427097" timestamp="2020-11-19T10:02:54Z" user="soresina" uid="11922651" lat="45.2142669" lon="9.8020364"/>
+ <node id="8141604190" visible="true" version="1" changeset="94427097" timestamp="2020-11-19T10:02:54Z" user="soresina" uid="11922651" lat="45.2145126" lon="9.8020686"/>
+ <node id="8141604191" visible="true" version="1" changeset="94427097" timestamp="2020-11-19T10:02:54Z" user="soresina" uid="11922651" lat="45.2145768" lon="9.8020900"/>
+ <node id="8141604192" visible="true" version="1" changeset="94427097" timestamp="2020-11-19T10:02:54Z" user="soresina" uid="11922651" lat="45.2153326" lon="9.8022322"/>
+ <node id="8141604193" visible="true" version="1" changeset="94427097" timestamp="2020-11-19T10:02:54Z" user="soresina" uid="11922651" lat="45.2161602" lon="9.8023958"/>
+ <node id="8141604194" visible="true" version="1" changeset="94427097" timestamp="2020-11-19T10:02:54Z" user="soresina" uid="11922651" lat="45.2164663" lon="9.8024521"/>
+ <node id="8141616400" visible="true" version="1" changeset="94427170" timestamp="2020-11-19T10:03:59Z" user="soresina" uid="11922651" lat="45.2165362" lon="9.8026774"/>
+ <node id="8141616401" visible="true" version="1" changeset="94427170" timestamp="2020-11-19T10:03:59Z" user="soresina" uid="11922651" lat="45.2165966" lon="9.8029751"/>
+ <node id="8141616402" visible="true" version="1" changeset="94427170" timestamp="2020-11-19T10:03:59Z" user="soresina" uid="11922651" lat="45.2166552" lon="9.8033372"/>
+ <node id="8141616403" visible="true" version="1" changeset="94427170" timestamp="2020-11-19T10:03:59Z" user="soresina" uid="11922651" lat="45.2166477" lon="9.8037530"/>
+ <node id="8141616404" visible="true" version="1" changeset="94427170" timestamp="2020-11-19T10:03:59Z" user="soresina" uid="11922651" lat="45.2166514" lon="9.8044235"/>
+ <node id="8141616405" visible="true" version="1" changeset="94427170" timestamp="2020-11-19T10:03:59Z" user="soresina" uid="11922651" lat="45.2166420" lon="9.8047293"/>
+ <node id="8141616406" visible="true" version="1" changeset="94427170" timestamp="2020-11-19T10:03:59Z" user="soresina" uid="11922651" lat="45.2166318" lon="9.8050465"/>
+ <node id="8141616407" visible="true" version="1" changeset="94427300" timestamp="2020-11-19T10:05:50Z" user="soresina" uid="11922651" lat="45.2162405" lon="9.8001293"/>
+ <node id="8141616408" visible="true" version="1" changeset="94427300" timestamp="2020-11-19T10:05:50Z" user="soresina" uid="11922651" lat="45.2167166" lon="9.8000328"/>
+ <node id="8141616409" visible="true" version="1" changeset="94427300" timestamp="2020-11-19T10:05:50Z" user="soresina" uid="11922651" lat="45.2165352" lon="9.7982518"/>
+ <node id="8141616410" visible="true" version="1" changeset="94427300" timestamp="2020-11-19T10:05:50Z" user="soresina" uid="11922651" lat="45.2163916" lon="9.7982840"/>
+ <node id="8141616411" visible="true" version="1" changeset="94427300" timestamp="2020-11-19T10:05:50Z" user="soresina" uid="11922651" lat="45.2162783" lon="9.7982625"/>
+ <node id="8141616412" visible="true" version="1" changeset="94427300" timestamp="2020-11-19T10:05:50Z" user="soresina" uid="11922651" lat="45.2161725" lon="9.7980908"/>
+ <node id="8183822721" visible="true" version="1" changeset="95090793" timestamp="2020-12-01T10:54:04Z" user="soresina" uid="11922651" lat="45.2182847" lon="9.8034853">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="8185375670" visible="true" version="1" changeset="95117407" timestamp="2020-12-01T21:21:44Z" user="soresina" uid="11922651" lat="45.2191421" lon="9.8028970">
+  <tag k="natural" v="tree"/>
+ </node>
+ <way id="195711061" visible="true" version="2" changeset="94427170" timestamp="2020-11-19T10:03:59Z" user="soresina" uid="11922651">
   <nd ref="2061277097"/>
   <nd ref="2061277069"/>
   <nd ref="2061277063"/>
@@ -144,6 +208,7 @@
   <nd ref="2061277083"/>
   <nd ref="2061277073"/>
   <nd ref="2061277024"/>
+  <nd ref="8141616406"/>
   <nd ref="2061277027"/>
   <nd ref="2061277025"/>
   <nd ref="2061277051"/>
@@ -299,6 +364,98 @@
   <tag k="name:left" v="San Bassano"/>
   <tag k="name:right" v="Pizzighettone"/>
   <tag k="source" v="Based on confini amministrativi 2013 by Regione Lombardia"/>
+ </way>
+ <way id="874557032" visible="true" version="1" changeset="94420059" timestamp="2020-11-19T08:17:28Z" user="soresina" uid="11922651">
+  <nd ref="8141289636"/>
+  <nd ref="8141289637"/>
+  <nd ref="8141289638"/>
+  <nd ref="8141289639"/>
+  <nd ref="8141289640"/>
+  <nd ref="8141289641"/>
+  <nd ref="8141289642"/>
+  <nd ref="8141289643"/>
+  <nd ref="8141289644"/>
+  <nd ref="8141289645"/>
+  <nd ref="8141289646"/>
+  <nd ref="8141289647"/>
+  <nd ref="8141289648"/>
+  <nd ref="8141289649"/>
+  <nd ref="8141289650"/>
+  <tag k="highway" v="track"/>
+ </way>
+ <way id="874558326" visible="true" version="2" changeset="94426394" timestamp="2020-11-19T09:53:26Z" user="soresina" uid="11922651">
+  <nd ref="8141301928"/>
+  <nd ref="8141301929"/>
+  <nd ref="8141301930"/>
+  <nd ref="8141301931"/>
+  <nd ref="8141560949"/>
+  <nd ref="8141301928"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="874558498" visible="true" version="2" changeset="94426591" timestamp="2020-11-19T09:56:01Z" user="soresina" uid="11922651">
+  <nd ref="8141302372"/>
+  <nd ref="8141302373"/>
+  <nd ref="8141302374"/>
+  <nd ref="8141302375"/>
+  <nd ref="8141302376"/>
+  <nd ref="8141302377"/>
+  <nd ref="8141302372"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="874589683" visible="true" version="3" changeset="94426777" timestamp="2020-11-19T09:58:23Z" user="soresina" uid="11922651">
+  <nd ref="8141301928"/>
+  <nd ref="8141560945"/>
+  <nd ref="8141560946"/>
+  <nd ref="8141560947"/>
+  <nd ref="8141560948"/>
+  <nd ref="8141584790"/>
+  <nd ref="8141560949"/>
+  <nd ref="8141301928"/>
+  <tag k="amenity" v="place_of_worship"/>
+  <tag k="building" v="yes"/>
+  <tag k="religion" v="christian"/>
+ </way>
+ <way id="874590256" visible="true" version="1" changeset="94426453" timestamp="2020-11-19T09:54:03Z" user="soresina" uid="11922651">
+  <nd ref="8141560948"/>
+  <nd ref="8141584790"/>
+  <nd ref="8141584791"/>
+  <nd ref="8141584792"/>
+  <nd ref="8141584793"/>
+  <nd ref="8141560948"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="874593302" visible="true" version="1" changeset="94427097" timestamp="2020-11-19T10:02:54Z" user="soresina" uid="11922651">
+  <nd ref="8141289650"/>
+  <nd ref="8141604187"/>
+  <nd ref="8141604188"/>
+  <nd ref="8141604189"/>
+  <nd ref="8141604190"/>
+  <nd ref="8141604191"/>
+  <nd ref="8141604192"/>
+  <nd ref="8141604193"/>
+  <nd ref="8141604194"/>
+  <tag k="highway" v="track"/>
+ </way>
+ <way id="874593728" visible="true" version="1" changeset="94427170" timestamp="2020-11-19T10:03:59Z" user="soresina" uid="11922651">
+  <nd ref="8141604194"/>
+  <nd ref="8141616400"/>
+  <nd ref="8141616401"/>
+  <nd ref="8141616402"/>
+  <nd ref="8141616403"/>
+  <nd ref="8141616404"/>
+  <nd ref="8141616405"/>
+  <nd ref="8141616406"/>
+  <tag k="highway" v="track"/>
+ </way>
+ <way id="874594346" visible="true" version="1" changeset="94427300" timestamp="2020-11-19T10:05:50Z" user="soresina" uid="11922651">
+  <nd ref="8141604194"/>
+  <nd ref="8141616407"/>
+  <nd ref="8141616408"/>
+  <nd ref="8141616409"/>
+  <nd ref="8141616410"/>
+  <nd ref="8141616411"/>
+  <nd ref="8141616412"/>
+  <tag k="highway" v="track"/>
  </way>
  <relation id="44357" visible="true" version="13" changeset="55081902" timestamp="2018-01-01T17:39:54Z" user="fayor" uid="743479">
   <member type="node" ref="62510729" role="admin_centre"/>

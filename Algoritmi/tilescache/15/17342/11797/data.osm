@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1878284 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441780 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="44.9181393" minlon="10.5249023" maxlat="44.9259184" maxlon="10.5358887"/>
  <node id="473001239" visible="true" version="2" changeset="28065741" timestamp="2015-01-11T16:07:48Z" user="lanzelot72" uid="1089198" lat="44.9148755" lon="10.5356317"/>
  <node id="473003907" visible="true" version="2" changeset="6518794" timestamp="2010-12-02T20:04:35Z" user="ilrobi" uid="22110" lat="44.9300052" lon="10.5359532"/>
@@ -4018,16 +4018,20 @@
   <tag k="type" v="route"/>
   <tag k="website" v="http://www.ilcamminare.it/"/>
  </relation>
- <relation id="7944114" visible="true" version="11" changeset="89138507" timestamp="2020-08-08T20:46:07Z" user="ilcamminare" uid="582732">
+ <relation id="7944114" visible="true" version="15" changeset="95071684" timestamp="2020-11-30T22:44:42Z" user="ilcamminare" uid="582732">
   <member type="relation" ref="7395978" role=""/>
   <member type="relation" ref="7509559" role=""/>
   <member type="relation" ref="7509677" role=""/>
+  <member type="relation" ref="7908409" role=""/>
   <member type="relation" ref="11485077" role=""/>
   <member type="relation" ref="7511106" role=""/>
   <member type="relation" ref="7512833" role=""/>
   <member type="relation" ref="7515706" role=""/>
+  <member type="relation" ref="11961433" role=""/>
   <member type="relation" ref="7520011" role=""/>
+  <member type="relation" ref="11964540" role=""/>
   <member type="relation" ref="7522484" role=""/>
+  <member type="relation" ref="11964908" role=""/>
   <member type="relation" ref="7527433" role=""/>
   <member type="relation" ref="7820031" role=""/>
   <member type="relation" ref="7821406" role=""/>
@@ -4050,7 +4054,7 @@
   <tag k="network" v="nwn"/>
   <tag k="osmc:symbol" v="blue:blue:red_stripe:CSG:white"/>
   <tag k="pilgrimage" v="yes"/>
-  <tag k="ref" v="CSG_26_Total"/>
+  <tag k="ref" v="CSG_27_Total"/>
   <tag k="route" v="hiking"/>
   <tag k="state" v="proposed"/>
   <tag k="type" v="route"/>

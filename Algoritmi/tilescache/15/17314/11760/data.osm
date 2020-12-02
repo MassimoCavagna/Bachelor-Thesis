@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1829361 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3858488 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2052635" minlon="10.2172852" maxlat="45.2130036" maxlon="10.2282715"/>
  <node id="335996231" visible="true" version="11" changeset="11618352" timestamp="2012-05-16T21:42:15Z" user="Gianluigi" uid="498903" lat="45.2226256" lon="10.1809625"/>
  <node id="335998188" visible="true" version="2" changeset="89874354" timestamp="2020-08-24T19:08:54Z" user="fedc" uid="602784" lat="45.2008604" lon="10.1981244"/>
@@ -307,7 +307,7 @@
  <node id="7840959555" visible="true" version="1" changeset="89874354" timestamp="2020-08-24T19:08:54Z" user="fedc" uid="602784" lat="45.2128984" lon="10.2313098"/>
  <node id="7840959568" visible="true" version="1" changeset="89874354" timestamp="2020-08-24T19:08:54Z" user="fedc" uid="602784" lat="45.2129491" lon="10.2315816"/>
  <node id="7840959573" visible="true" version="1" changeset="89874354" timestamp="2020-08-24T19:08:54Z" user="fedc" uid="602784" lat="45.2128637" lon="10.2311234"/>
- <way id="39273069" visible="true" version="3" changeset="4235402" timestamp="2010-03-26T08:20:29Z" user="woodpeck_repair" uid="145231">
+ <way id="39273069" visible="true" version="4" changeset="93686516" timestamp="2020-11-06T22:00:44Z" user="dega180" uid="454306">
   <nd ref="470625737"/>
   <nd ref="470625739"/>
   <nd ref="470625741"/>
@@ -335,7 +335,8 @@
   <nd ref="470625785"/>
   <nd ref="470625787"/>
   <nd ref="377045168"/>
-  <tag k="highway" v="unclassified"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
  </way>
  <way id="40762701" visible="true" version="4" changeset="89874354" timestamp="2020-08-24T19:08:54Z" user="fedc" uid="602784">
   <nd ref="495380762"/>

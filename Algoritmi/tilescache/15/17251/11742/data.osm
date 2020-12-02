@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1829361 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3440721 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3444241" minlon="9.5251465" maxlat="45.3521452" maxlon="9.5361328"/>
  <node id="255462386" visible="true" version="4" changeset="29450299" timestamp="2015-03-13T15:00:27Z" user="fedc" uid="602784" lat="45.3573587" lon="9.5328295"/>
  <node id="255462387" visible="true" version="3" changeset="276752" timestamp="2009-02-08T20:53:57Z" user="wiso" uid="30891" lat="45.3564300" lon="9.5321232"/>
@@ -20,12 +20,12 @@
  <node id="255462402" visible="true" version="3" changeset="276752" timestamp="2009-02-08T20:53:58Z" user="wiso" uid="30891" lat="45.3492885" lon="9.5248705"/>
  <node id="255462403" visible="true" version="3" changeset="276752" timestamp="2009-02-08T20:53:58Z" user="wiso" uid="30891" lat="45.3490050" lon="9.5244757"/>
  <node id="255462404" visible="true" version="3" changeset="276752" timestamp="2009-02-08T20:53:58Z" user="wiso" uid="30891" lat="45.3477744" lon="9.5223729"/>
- <node id="309822869" visible="true" version="6" changeset="49743260" timestamp="2017-06-22T10:47:07Z" user="FabioMTB" uid="4617656" lat="45.4757741" lon="9.5559190"/>
- <node id="309822870" visible="true" version="4" changeset="29393245" timestamp="2015-03-10T21:02:51Z" user="fedc" uid="602784" lat="45.4754119" lon="9.5556800"/>
- <node id="309822871" visible="true" version="4" changeset="29393245" timestamp="2015-03-10T21:02:51Z" user="fedc" uid="602784" lat="45.4749751" lon="9.5555607"/>
- <node id="309822872" visible="true" version="5" changeset="48438206" timestamp="2017-05-05T21:16:21Z" user="FabioMTB" uid="4617656" lat="45.4745930" lon="9.5556247"/>
- <node id="309822873" visible="true" version="5" changeset="48438206" timestamp="2017-05-05T21:16:21Z" user="FabioMTB" uid="4617656" lat="45.4741450" lon="9.5557206"/>
- <node id="309822881" visible="true" version="5" changeset="48438206" timestamp="2017-05-05T21:16:21Z" user="FabioMTB" uid="4617656" lat="45.4733047" lon="9.5558997"/>
+ <node id="309822869" visible="true" version="7" changeset="94641459" timestamp="2020-11-23T13:34:34Z" user="Mannivu" uid="1950277" lat="45.4757741" lon="9.5558953"/>
+ <node id="309822870" visible="true" version="5" changeset="94641459" timestamp="2020-11-23T13:34:34Z" user="Mannivu" uid="1950277" lat="45.4754072" lon="9.5556597"/>
+ <node id="309822871" visible="true" version="5" changeset="94641459" timestamp="2020-11-23T13:34:34Z" user="Mannivu" uid="1950277" lat="45.4751125" lon="9.5555742"/>
+ <node id="309822872" visible="true" version="6" changeset="94641459" timestamp="2020-11-23T13:34:34Z" user="Mannivu" uid="1950277" lat="45.4747927" lon="9.5555473"/>
+ <node id="309822873" visible="true" version="6" changeset="94641459" timestamp="2020-11-23T13:34:34Z" user="Mannivu" uid="1950277" lat="45.4741379" lon="9.5556733"/>
+ <node id="309822881" visible="true" version="6" changeset="94641459" timestamp="2020-11-23T13:34:34Z" user="Mannivu" uid="1950277" lat="45.4733047" lon="9.5558558"/>
  <node id="309822886" visible="true" version="4" changeset="48438206" timestamp="2017-05-05T21:16:21Z" user="FabioMTB" uid="4617656" lat="45.4723084" lon="9.5559179"/>
  <node id="360631846" visible="true" version="6" changeset="61193209" timestamp="2018-07-30T12:50:12Z" user="Mannivu" uid="1950277" lat="45.4825260" lon="9.5647504"/>
  <node id="360631848" visible="true" version="6" changeset="61193209" timestamp="2018-07-30T12:38:51Z" user="Mannivu" uid="1950277" lat="45.4822586" lon="9.5644357"/>
@@ -227,7 +227,7 @@
  <node id="450684026" visible="true" version="3" changeset="11064561" timestamp="2012-03-22T16:18:54Z" user="White_Rabbit" uid="604999" lat="45.3497882" lon="9.7556997">
   <tag k="power" v="tower"/>
  </node>
- <node id="450684029" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:11Z" user="Bs72" uid="622251" lat="45.3652220" lon="10.0429061">
+ <node id="450684029" visible="true" version="4" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.3652936" lon="10.0428471">
   <tag k="power" v="tower"/>
  </node>
  <node id="450684032" visible="true" version="3" changeset="11064561" timestamp="2012-03-22T16:18:54Z" user="White_Rabbit" uid="604999" lat="45.3487767" lon="9.5277876">
@@ -287,7 +287,7 @@
  <node id="450684085" visible="true" version="3" changeset="13260820" timestamp="2012-09-26T16:01:48Z" user="Bs72" uid="622251" lat="45.3783062" lon="10.3761284">
   <tag k="power" v="tower"/>
  </node>
- <node id="450684087" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:08Z" user="Bs72" uid="622251" lat="45.3650243" lon="10.0394464">
+ <node id="450684087" visible="true" version="4" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.3650563" lon="10.0396020">
   <tag k="power" v="tower"/>
  </node>
  <node id="450684090" visible="true" version="3" changeset="11064561" timestamp="2012-03-22T16:18:57Z" user="White_Rabbit" uid="604999" lat="45.3470481" lon="9.7102479">
@@ -1106,7 +1106,7 @@
  <node id="450684725" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:10Z" user="Bs72" uid="622251" lat="45.3616350" lon="9.9793850">
   <tag k="power" v="tower"/>
  </node>
- <node id="450684727" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:10Z" user="Bs72" uid="622251" lat="45.3649363" lon="10.0361367">
+ <node id="450684727" visible="true" version="4" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.3649269" lon="10.0361877">
   <tag k="power" v="tower"/>
  </node>
  <node id="450684728" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:09Z" user="Bs72" uid="622251" lat="45.3647363" lon="10.0330146">
@@ -1643,9 +1643,6 @@
  <node id="1686466152" visible="true" version="2" changeset="15146838" timestamp="2013-02-24T11:47:59Z" user="Baliano" uid="382012" lat="45.3796499" lon="10.4141557">
   <tag k="power" v="tower"/>
  </node>
- <node id="1769950206" visible="true" version="2" changeset="13195255" timestamp="2012-09-21T14:51:11Z" user="Bs72" uid="622251" lat="45.3648955" lon="10.0371957">
-  <tag k="power" v="tower"/>
- </node>
  <node id="1797521083" visible="true" version="1" changeset="11971971" timestamp="2012-06-21T19:40:28Z" user="merto" uid="194280" lat="45.3458000" lon="9.5298692">
   <tag k="source" v="Cartografia Provincia di Lodi"/>
  </node>
@@ -2001,7 +1998,7 @@
  <node id="3026491543" visible="true" version="1" changeset="24848492" timestamp="2014-08-19T03:36:07Z" user="fedc" uid="602784" lat="45.3464810" lon="9.5276863"/>
  <node id="3026491544" visible="true" version="1" changeset="24848492" timestamp="2014-08-19T03:36:07Z" user="fedc" uid="602784" lat="45.3460570" lon="9.5286996"/>
  <node id="3026491545" visible="true" version="1" changeset="24848492" timestamp="2014-08-19T03:36:07Z" user="fedc" uid="602784" lat="45.3455693" lon="9.5306046"/>
- <node id="3054692214" visible="true" version="3" changeset="49743260" timestamp="2017-06-22T10:47:07Z" user="FabioMTB" uid="4617656" lat="45.4760007" lon="9.5561380"/>
+ <node id="3054692214" visible="true" version="4" changeset="94641459" timestamp="2020-11-23T13:34:34Z" user="Mannivu" uid="1950277" lat="45.4760362" lon="9.5561414"/>
  <node id="3107209260" visible="true" version="1" changeset="25810254" timestamp="2014-10-02T14:05:07Z" user="adirricor" uid="245439" lat="45.4408880" lon="9.5597034"/>
  <node id="3107209319" visible="true" version="1" changeset="25810254" timestamp="2014-10-02T14:05:08Z" user="adirricor" uid="245439" lat="45.4393278" lon="9.5572975"/>
  <node id="3107210329" visible="true" version="1" changeset="25810254" timestamp="2014-10-02T14:05:09Z" user="adirricor" uid="245439" lat="45.4395668" lon="9.5576167"/>
@@ -2048,8 +2045,8 @@
  <node id="3952784429" visible="true" version="1" changeset="36644804" timestamp="2016-01-17T23:00:13Z" user="fedc" uid="602784" lat="45.3490938" lon="9.5244632"/>
  <node id="3952784430" visible="true" version="1" changeset="36644804" timestamp="2016-01-17T23:00:13Z" user="fedc" uid="602784" lat="45.3493550" lon="9.5241152"/>
  <node id="3952784431" visible="true" version="1" changeset="36644804" timestamp="2016-01-17T23:00:13Z" user="fedc" uid="602784" lat="45.3494217" lon="9.5241864"/>
- <node id="4414943147" visible="true" version="2" changeset="49743260" timestamp="2017-06-22T10:47:08Z" user="FabioMTB" uid="4617656" lat="45.4761752" lon="9.5563342"/>
- <node id="4414943150" visible="true" version="2" changeset="49743260" timestamp="2017-06-22T10:47:08Z" user="FabioMTB" uid="4617656" lat="45.4761081" lon="9.5562595"/>
+ <node id="4414943147" visible="true" version="3" changeset="94641459" timestamp="2020-11-23T13:34:34Z" user="Mannivu" uid="1950277" lat="45.4762204" lon="9.5563473"/>
+ <node id="4414943150" visible="true" version="3" changeset="94641459" timestamp="2020-11-23T13:34:34Z" user="Mannivu" uid="1950277" lat="45.4761413" lon="9.5562595"/>
  <node id="4470475951" visible="true" version="1" changeset="43272452" timestamp="2016-10-29T20:15:53Z" user="fedc" uid="602784" lat="45.3593600" lon="9.5444798"/>
  <node id="4470506424" visible="true" version="1" changeset="43273035" timestamp="2016-10-29T20:58:08Z" user="fedc" uid="602784" lat="45.3569178" lon="9.5421217"/>
  <node id="4470506425" visible="true" version="1" changeset="43273035" timestamp="2016-10-29T20:58:08Z" user="fedc" uid="602784" lat="45.3571848" lon="9.5422896"/>
@@ -2192,7 +2189,7 @@
  <node id="4574145579" visible="true" version="1" changeset="44693802" timestamp="2016-12-26T23:25:32Z" user="fedc" uid="602784" lat="45.3628320" lon="9.5517670"/>
  <node id="4574145580" visible="true" version="1" changeset="44693802" timestamp="2016-12-26T23:25:32Z" user="fedc" uid="602784" lat="45.3629250" lon="9.5516782"/>
  <node id="4574145581" visible="true" version="1" changeset="44693802" timestamp="2016-12-26T23:25:32Z" user="fedc" uid="602784" lat="45.3629853" lon="9.5516299"/>
- <node id="4930588496" visible="true" version="1" changeset="49743260" timestamp="2017-06-22T10:47:06Z" user="FabioMTB" uid="4617656" lat="45.4756098" lon="9.5557966"/>
+ <node id="4930588496" visible="true" version="2" changeset="94641459" timestamp="2020-11-23T13:34:34Z" user="Mannivu" uid="1950277" lat="45.4756240" lon="9.5557831"/>
  <node id="4930588516" visible="true" version="2" changeset="61193209" timestamp="2018-07-30T12:30:29Z" user="Mannivu" uid="1950277" lat="45.4774225" lon="9.5576888"/>
  <node id="5052461654" visible="true" version="1" changeset="51360299" timestamp="2017-08-23T02:23:42Z" user="fedc" uid="602784" lat="45.4711921" lon="9.5561725"/>
  <node id="5052461655" visible="true" version="1" changeset="51360299" timestamp="2017-08-23T02:23:42Z" user="fedc" uid="602784" lat="45.4708122" lon="9.5563126"/>
@@ -2274,7 +2271,6 @@
  <node id="5052467155" visible="true" version="1" changeset="51360357" timestamp="2017-08-23T02:30:59Z" user="fedc" uid="602784" lat="45.4378986" lon="9.5554373"/>
  <node id="5052467156" visible="true" version="1" changeset="51360357" timestamp="2017-08-23T02:30:59Z" user="fedc" uid="602784" lat="45.4378150" lon="9.5552480"/>
  <node id="5054122641" visible="true" version="1" changeset="51380122" timestamp="2017-08-23T16:04:17Z" user="fedc" uid="602784" lat="45.3279682" lon="9.5164557"/>
- <node id="5054122642" visible="true" version="1" changeset="51380122" timestamp="2017-08-23T16:04:17Z" user="fedc" uid="602784" lat="45.3263366" lon="9.5162575"/>
  <node id="5054122643" visible="true" version="1" changeset="51380122" timestamp="2017-08-23T16:04:17Z" user="fedc" uid="602784" lat="45.3262268" lon="9.5161872"/>
  <node id="5054122644" visible="true" version="1" changeset="51380122" timestamp="2017-08-23T16:04:17Z" user="fedc" uid="602784" lat="45.3261243" lon="9.5160362"/>
  <node id="5054122645" visible="true" version="1" changeset="51380122" timestamp="2017-08-23T16:04:17Z" user="fedc" uid="602784" lat="45.3284053" lon="9.5165115"/>
@@ -2929,6 +2925,8 @@
  <node id="7923480003" visible="true" version="1" changeset="91152902" timestamp="2020-09-19T15:06:44Z" user="astraspera" uid="2653653" lat="45.3429251" lon="9.5303919"/>
  <node id="7923480004" visible="true" version="1" changeset="91152902" timestamp="2020-09-19T15:06:44Z" user="astraspera" uid="2653653" lat="45.3437556" lon="9.5308355"/>
  <node id="7923480005" visible="true" version="1" changeset="91152902" timestamp="2020-09-19T15:06:44Z" user="astraspera" uid="2653653" lat="45.3445302" lon="9.5277813"/>
+ <node id="8044603993" visible="true" version="1" changeset="93023150" timestamp="2020-10-25T17:21:46Z" user="fedc" uid="602784" lat="45.3263426" lon="9.5162498"/>
+ <node id="8044603994" visible="true" version="1" changeset="93023150" timestamp="2020-10-25T17:21:46Z" user="fedc" uid="602784" lat="45.3262730" lon="9.5162239"/>
  <way id="43656620" visible="true" version="4" changeset="29520155" timestamp="2015-03-16T15:38:43Z" user="kaitu" uid="69717">
   <nd ref="552304920"/>
   <nd ref="552304930"/>
@@ -3184,7 +3182,7 @@
   <tag k="height" v="3.108"/>
   <tag k="source" v="Cartografia Provincia di Lodi"/>
  </way>
- <way id="210625430" visible="true" version="10" changeset="69963421" timestamp="2019-05-07T07:44:43Z" user="dvvuyyur" uid="9634896">
+ <way id="210625430" visible="true" version="11" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973">
   <nd ref="2207016430"/>
   <nd ref="2207016425"/>
   <nd ref="2207016417"/>
@@ -3433,7 +3431,6 @@
   <nd ref="450684205"/>
   <nd ref="450684029"/>
   <nd ref="450684087"/>
-  <nd ref="1769950206"/>
   <nd ref="450684727"/>
   <nd ref="450684728"/>
   <nd ref="450684043"/>
@@ -3806,10 +3803,11 @@
   <tag k="surface" v="unpaved"/>
   <tag k="tracktype" v="grade2"/>
  </way>
- <way id="517809494" visible="true" version="12" changeset="86154364" timestamp="2020-06-03T21:24:04Z" user="fedc" uid="602784">
+ <way id="517809494" visible="true" version="13" changeset="93023150" timestamp="2020-10-25T17:21:46Z" user="fedc" uid="602784">
   <nd ref="5054122644"/>
   <nd ref="5054122643"/>
-  <nd ref="5054122642"/>
+  <nd ref="8044603994"/>
+  <nd ref="8044603993"/>
   <nd ref="5054122641"/>
   <nd ref="5054122645"/>
   <nd ref="5054122646"/>
@@ -5056,7 +5054,7 @@
   <tag k="wikidata" v="Q42167"/>
   <tag k="wikipedia" v="it:Dovera"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -5129,7 +5127,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>

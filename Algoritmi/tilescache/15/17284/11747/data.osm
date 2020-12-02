@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991883 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3897392 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3058026" minlon="9.8876953" maxlat="45.3135290" maxlon="9.8986816"/>
  <node id="264358818" visible="true" version="3" changeset="42542698" timestamp="2016-09-30T13:41:21Z" user="fedc" uid="602784" lat="45.3239276" lon="9.8772614"/>
  <node id="307090463" visible="true" version="2" changeset="28631107" timestamp="2015-02-05T14:08:24Z" user="Pyknite" uid="193512" lat="45.2791329" lon="9.8866800"/>
@@ -2123,17 +2123,17 @@
   <tag k="wikidata" v="Q43058"/>
   <tag k="wikipedia" v="it:Genivolta"/>
  </relation>
- <relation id="2250847" visible="true" version="32" changeset="92791116" timestamp="2020-10-20T21:11:24Z" user="fedc" uid="602784">
+ <relation id="2250847" visible="true" version="34" changeset="94975453" timestamp="2020-11-29T08:40:06Z" user="AlessioZappa" uid="12186632">
   <member type="way" ref="113678704" role=""/>
   <member type="way" ref="126701315" role=""/>
   <member type="way" ref="126701313" role=""/>
   <member type="way" ref="557365070" role="backward"/>
   <member type="way" ref="557365069" role=""/>
   <member type="way" ref="126701303" role=""/>
-  <member type="way" ref="576978580" role=""/>
-  <member type="way" ref="576978578" role="forward"/>
-  <member type="way" ref="619115096" role="forward"/>
-  <member type="way" ref="619115097" role="backward"/>
+  <member type="way" ref="200665209" role=""/>
+  <member type="way" ref="72217879" role=""/>
+  <member type="way" ref="625057210" role=""/>
+  <member type="way" ref="576978575" role=""/>
   <member type="way" ref="168716011" role=""/>
   <member type="way" ref="168716012" role=""/>
   <member type="way" ref="560510016" role=""/>
@@ -2203,7 +2203,6 @@
   <member type="way" ref="184472631" role="forward"/>
   <member type="way" ref="184472629" role="forward"/>
   <member type="way" ref="184472633" role="forward"/>
-  <member type="way" ref="557365071" role="forward"/>
   <member type="way" ref="27541538" role=""/>
   <member type="way" ref="27541534" role=""/>
   <member type="way" ref="197898591" role=""/>
@@ -2211,15 +2210,13 @@
   <member type="way" ref="168963193" role=""/>
   <member type="way" ref="168968056" role=""/>
   <member type="way" ref="618892725" role=""/>
-  <member type="way" ref="619115098" role=""/>
-  <member type="way" ref="576978575" role=""/>
-  <member type="way" ref="71753117" role=""/>
-  <member type="way" ref="126706431" role=""/>
-  <member type="way" ref="352376795" role=""/>
-  <member type="way" ref="126705915" role=""/>
-  <member type="way" ref="126705912" role=""/>
-  <member type="way" ref="837612967" role=""/>
   <member type="way" ref="126705918" role=""/>
+  <member type="way" ref="837612967" role=""/>
+  <member type="way" ref="126705912" role=""/>
+  <member type="way" ref="126705915" role=""/>
+  <member type="way" ref="352376795" role=""/>
+  <member type="way" ref="126706431" role=""/>
+  <member type="way" ref="71753117" role=""/>
   <member type="way" ref="249617403" role=""/>
   <member type="way" ref="549605532" role="forward"/>
   <member type="way" ref="577680963" role="backward"/>

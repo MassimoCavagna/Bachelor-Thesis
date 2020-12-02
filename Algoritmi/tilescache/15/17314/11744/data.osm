@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (325138 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3162799 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3289787" minlon="10.2172852" maxlat="45.3367019" maxlon="10.2282715"/>
  <node id="495202638" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T14:47:36Z" user="Guido Piazzi" uid="38067" lat="45.3312786" lon="10.2239978"/>
  <node id="495202639" visible="true" version="2" changeset="8022021" timestamp="2011-05-01T14:50:58Z" user="Moliva" uid="107039" lat="45.3304219" lon="10.2237273"/>
@@ -453,6 +453,7 @@
  <node id="3704291576" visible="true" version="1" changeset="33433371" timestamp="2015-08-19T09:02:54Z" user="Moliva" uid="107039" lat="45.3752397" lon="10.2577130"/>
  <node id="3704391523" visible="true" version="1" changeset="33434785" timestamp="2015-08-19T10:08:46Z" user="Moliva" uid="107039" lat="45.3733551" lon="10.2495160"/>
  <node id="3704512880" visible="true" version="1" changeset="33436692" timestamp="2015-08-19T11:33:53Z" user="Moliva" uid="107039" lat="45.3598919" lon="10.2248826"/>
+ <node id="8114438952" visible="true" version="1" changeset="94050269" timestamp="2020-11-13T09:31:14Z" user="dany70" uid="7885826" lat="45.3250700" lon="10.2198064"/>
  <way id="40763133" visible="true" version="3" changeset="8022021" timestamp="2011-05-01T14:50:57Z" user="Moliva" uid="107039">
   <nd ref="1269022043"/>
   <nd ref="1269032010"/>
@@ -1094,5 +1095,10 @@
   <nd ref="2448181784"/>
   <nd ref="2448181790"/>
   <tag k="building" v="yes"/>
+ </way>
+ <way id="871115245" visible="true" version="1" changeset="94050269" timestamp="2020-11-13T09:31:14Z" user="dany70" uid="7885826">
+  <nd ref="8114438952"/>
+  <nd ref="1268991342"/>
+  <tag k="highway" v="path"/>
  </way>
 </osm>

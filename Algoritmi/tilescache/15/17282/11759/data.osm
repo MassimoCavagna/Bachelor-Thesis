@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (753655 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3440835 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2130036" minlon="9.8657227" maxlat="45.2207426" maxlon="9.8767090"/>
  <node id="249617122" visible="true" version="14" changeset="6245543" timestamp="2010-10-31T19:59:44Z" user="ilrobi" uid="22110" lat="45.2153749" lon="9.8765372"/>
  <node id="264364366" visible="true" version="4" changeset="42764575" timestamp="2016-10-09T23:19:22Z" user="fedc" uid="602784" lat="45.2205907" lon="9.8698374"/>
@@ -1338,7 +1338,7 @@
   <tag k="ref" v="SP415"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <relation id="67534" visible="true" version="193" changeset="74193056" timestamp="2019-09-06T20:52:47Z" user="fedc" uid="602784">
+ <relation id="67534" visible="true" version="194" changeset="94991437" timestamp="2020-11-29T16:59:52Z" user="dega180" uid="454306">
   <member type="way" ref="585187099" role=""/>
   <member type="way" ref="542472413" role=""/>
   <member type="way" ref="542472412" role=""/>
@@ -1366,10 +1366,10 @@
   <member type="way" ref="478858129" role=""/>
   <member type="way" ref="478858128" role=""/>
   <member type="way" ref="478858127" role=""/>
-  <member type="way" ref="133268719" role=""/>
   <member type="way" ref="656862949" role=""/>
-  <member type="way" ref="656862953" role=""/>
-  <member type="way" ref="656862954" role=""/>
+  <member type="way" ref="133268719" role=""/>
+  <member type="way" ref="878939333" role=""/>
+  <member type="way" ref="878939332" role=""/>
   <member type="way" ref="656862955" role=""/>
   <member type="way" ref="656862956" role=""/>
   <member type="way" ref="656862957" role=""/>
@@ -1381,6 +1381,8 @@
   <member type="way" ref="493666030" role=""/>
   <member type="way" ref="656862960" role=""/>
   <member type="way" ref="133268666" role=""/>
+  <member type="way" ref="656862953" role=""/>
+  <member type="way" ref="656862954" role=""/>
   <member type="way" ref="656862961" role=""/>
   <member type="way" ref="505304855" role=""/>
   <member type="way" ref="656862948" role=""/>

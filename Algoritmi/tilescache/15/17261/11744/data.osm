@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2320407 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3858503 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3289787" minlon="9.6350098" maxlat="45.3367019" maxlon="9.6459961"/>
  <node id="252567527" visible="true" version="6" changeset="17876805" timestamp="2013-09-16T21:40:34Z" user="wiso" uid="30891" lat="45.3346603" lon="9.6226530"/>
  <node id="252567528" visible="true" version="5" changeset="17876805" timestamp="2013-09-16T21:40:34Z" user="wiso" uid="30891" lat="45.3355641" lon="9.6278882"/>
@@ -5238,7 +5238,7 @@
   <tag k="barrier" v="fence"/>
   <tag k="fence_type" v="chain"/>
  </way>
- <way id="226965672" visible="true" version="5" changeset="27875926" timestamp="2015-01-02T23:10:01Z" user="kaitu" uid="69717">
+ <way id="226965672" visible="true" version="6" changeset="94255585" timestamp="2020-11-17T08:23:06Z" user="Edward" uid="364">
   <nd ref="2357022691"/>
   <nd ref="2357022693"/>
   <nd ref="2357022697"/>
@@ -5281,6 +5281,7 @@
   <tag k="building" v="church"/>
   <tag k="name" v="Chiesa San Martino"/>
   <tag k="religion" v="christian"/>
+  <tag k="wikidata" v="Q87764575"/>
  </way>
  <way id="226965673" visible="true" version="5" changeset="16719624" timestamp="2013-06-26T22:01:08Z" user="bt1950" uid="330776">
   <nd ref="2357104240"/>

@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2320407 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3439641 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2594220" minlon="10.0524902" maxlat="45.2671548" maxlon="10.0634766"/>
- <node id="336490845" visible="true" version="5" changeset="835319" timestamp="2009-01-25T18:23:36Z" user="Diego Guidotti" uid="1700" lat="45.2657763" lon="9.9860061"/>
+ <node id="336490845" visible="true" version="6" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2657433" lon="9.9860088"/>
  <node id="336490881" visible="true" version="3" changeset="835319" timestamp="2009-01-25T18:23:36Z" user="Diego Guidotti" uid="1700" lat="45.2661810" lon="9.9896968"/>
- <node id="336490882" visible="true" version="4" changeset="38743530" timestamp="2016-04-21T01:35:42Z" user="andrewpmk" uid="1679" lat="45.2658737" lon="9.9868579"/>
  <node id="336492914" visible="true" version="3" changeset="835319" timestamp="2009-01-25T18:23:34Z" user="Diego Guidotti" uid="1700" lat="45.2646763" lon="10.0269034"/>
  <node id="336492990" visible="true" version="3" changeset="5316073" timestamp="2010-07-25T20:05:01Z" user="Moliva" uid="107039" lat="45.2609174" lon="10.0637539"/>
  <node id="336492992" visible="true" version="3" changeset="5316073" timestamp="2010-07-25T20:05:01Z" user="Moliva" uid="107039" lat="45.2610063" lon="10.0612195"/>
@@ -401,7 +400,7 @@
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
   <tag k="width" v="6"/>
  </way>
- <way id="69679956" visible="true" version="7" changeset="81185817" timestamp="2020-02-18T19:16:41Z" user="pigio66" uid="7507474">
+ <way id="69679956" visible="true" version="8" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973">
   <nd ref="833366057"/>
   <nd ref="833366186"/>
   <nd ref="833366144"/>
@@ -460,7 +459,6 @@
   <nd ref="336493031"/>
   <nd ref="336490881"/>
   <nd ref="1762412671"/>
-  <nd ref="336490882"/>
   <nd ref="336490845"/>
   <tag k="highway" v="tertiary"/>
   <tag k="lanes" v="2"/>
@@ -613,7 +611,7 @@
   <nd ref="1754292465"/>
   <tag k="highway" v="track"/>
  </way>
- <relation id="554044" visible="true" version="38" changeset="88584671" timestamp="2020-07-27T20:31:11Z" user="Benny4L" uid="647382">
+ <relation id="554044" visible="true" version="39" changeset="94397007" timestamp="2020-11-18T21:47:29Z" user="dega180" uid="454306">
   <member type="way" ref="830775358" role=""/>
   <member type="way" ref="252583751" role=""/>
   <member type="way" ref="50847830" role=""/>
@@ -754,6 +752,8 @@
   <member type="way" ref="377039296" role=""/>
   <member type="way" ref="377039302" role=""/>
   <member type="way" ref="377039310" role=""/>
+  <member type="way" ref="874421005" role=""/>
+  <member type="way" ref="874421004" role=""/>
   <member type="way" ref="368806903" role=""/>
   <member type="way" ref="378532927" role=""/>
   <member type="way" ref="378532928" role=""/>

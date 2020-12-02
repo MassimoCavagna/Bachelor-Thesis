@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2320407 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3163551 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4061637" minlon="9.8876953" maxlat="45.4138765" maxlon="9.8986816"/>
  <node id="143556014" visible="true" version="21" changeset="51421609" timestamp="2017-08-25T00:26:29Z" user="fedc" uid="602784" lat="45.4132691" lon="9.8884157"/>
  <node id="275186779" visible="true" version="7" changeset="10579114" timestamp="2012-02-03T20:55:53Z" user="Gianluigi" uid="498903" lat="45.1411137" lon="10.4215145"/>
@@ -8861,7 +8861,7 @@
   <tag k="wikidata" v="Q105399"/>
   <tag k="wikipedia" v="it:Orzinuovi"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -8934,7 +8934,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>
@@ -9515,7 +9516,7 @@
   <tag k="wikidata" v="Q16144"/>
   <tag k="wikipedia" v="it:Provincia di Brescia"/>
  </relation>
- <relation id="554044" visible="true" version="38" changeset="88584671" timestamp="2020-07-27T20:31:11Z" user="Benny4L" uid="647382">
+ <relation id="554044" visible="true" version="39" changeset="94397007" timestamp="2020-11-18T21:47:29Z" user="dega180" uid="454306">
   <member type="way" ref="830775358" role=""/>
   <member type="way" ref="252583751" role=""/>
   <member type="way" ref="50847830" role=""/>
@@ -9656,6 +9657,8 @@
   <member type="way" ref="377039296" role=""/>
   <member type="way" ref="377039302" role=""/>
   <member type="way" ref="377039310" role=""/>
+  <member type="way" ref="874421005" role=""/>
+  <member type="way" ref="874421004" role=""/>
   <member type="way" ref="368806903" role=""/>
   <member type="way" ref="378532927" role=""/>
   <member type="way" ref="378532928" role=""/>

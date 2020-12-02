@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1829361 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441807 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2594220" minlon="9.5581055" maxlat="45.2671548" maxlon="9.5690918"/>
  <node id="268872824" visible="true" version="6" changeset="4863777" timestamp="2010-05-31T14:16:16Z" user="FedericoCozzi" uid="80088" lat="45.5217090" lon="9.5189503"/>
  <node id="268872825" visible="true" version="4" changeset="4863617" timestamp="2010-05-31T14:04:09Z" user="FedericoCozzi" uid="80088" lat="45.5201783" lon="9.5165024"/>
@@ -6655,7 +6655,7 @@
   <tag k="wikidata" v="Q2249812"/>
   <tag k="wikipedia" v="it:Canale della Muzza"/>
  </relation>
- <relation id="7236569" visible="true" version="106" changeset="91654352" timestamp="2020-09-28T16:05:16Z" user="damianeue" uid="10124288">
+ <relation id="7236569" visible="true" version="113" changeset="93932316" timestamp="2020-11-11T13:54:07Z" user="Markko27" uid="11102980">
   <member type="way" ref="492871661" role=""/>
   <member type="way" ref="53374729" role=""/>
   <member type="way" ref="53374728" role=""/>
@@ -6915,39 +6915,14 @@
   <member type="way" ref="136842917" role=""/>
   <member type="way" ref="136842908" role=""/>
   <member type="way" ref="136842907" role=""/>
-  <member type="way" ref="23430882" role=""/>
-  <member type="way" ref="137227438" role=""/>
-  <member type="way" ref="136842920" role=""/>
-  <member type="way" ref="136842919" role=""/>
-  <member type="way" ref="56849695" role=""/>
-  <member type="way" ref="253394933" role=""/>
-  <member type="way" ref="56849696" role=""/>
-  <member type="way" ref="56849693" role=""/>
-  <member type="way" ref="253394934" role=""/>
-  <member type="way" ref="56849700" role=""/>
-  <member type="way" ref="103594962" role=""/>
-  <member type="way" ref="103594979" role=""/>
-  <member type="way" ref="609549048" role=""/>
-  <member type="way" ref="428604990" role=""/>
-  <member type="way" ref="57390818" role=""/>
-  <member type="way" ref="57390832" role=""/>
-  <member type="way" ref="57390822" role=""/>
-  <member type="way" ref="335980228" role=""/>
-  <member type="way" ref="335980221" role=""/>
-  <member type="way" ref="609547288" role=""/>
-  <member type="way" ref="55288078" role=""/>
-  <member type="way" ref="253394880" role=""/>
-  <member type="way" ref="55288081" role=""/>
-  <member type="way" ref="55288084" role=""/>
-  <member type="way" ref="253394877" role=""/>
-  <member type="way" ref="56828576" role=""/>
-  <member type="way" ref="55288089" role=""/>
-  <member type="way" ref="55288082" role=""/>
+  <member type="way" ref="60119763" role=""/>
+  <member type="way" ref="60119767" role=""/>
+  <member type="way" ref="56828598" role=""/>
+  <member type="way" ref="60110209" role=""/>
   <member type="way" ref="60107361" role=""/>
-  <member type="way" ref="136845700" role=""/>
+  <member type="way" ref="136845699" role=""/>
   <member type="way" ref="136845693" role=""/>
   <member type="way" ref="253394892" role=""/>
-  <member type="way" ref="136845699" role=""/>
   <member type="way" ref="55288087" role=""/>
   <member type="way" ref="25862224" role=""/>
   <member type="way" ref="371064621" role=""/>
@@ -7241,14 +7216,21 @@
   <member type="way" ref="317720726" role=""/>
   <member type="way" ref="534547994" role=""/>
   <member type="way" ref="677865947" role=""/>
+  <member type="way" ref="870394198" role=""/>
+  <member type="way" ref="870394197" role=""/>
   <member type="way" ref="534547991" role=""/>
   <member type="way" ref="677624565" role=""/>
   <member type="way" ref="677393122" role=""/>
   <member type="way" ref="230557798" role=""/>
   <member type="way" ref="230557797" role=""/>
+  <member type="way" ref="867681967" role=""/>
+  <member type="way" ref="867681965" role=""/>
   <member type="way" ref="623553898" role=""/>
+  <member type="way" ref="867681854" role=""/>
   <member type="way" ref="460392993" role=""/>
+  <member type="way" ref="867681853" role=""/>
   <member type="way" ref="623553899" role=""/>
+  <member type="way" ref="867679077" role=""/>
   <member type="way" ref="39188386" role=""/>
   <member type="way" ref="27250436" role=""/>
   <member type="way" ref="479678222" role=""/>
@@ -7287,12 +7269,24 @@
   <member type="way" ref="809610223" role=""/>
   <member type="way" ref="809610222" role=""/>
   <member type="way" ref="32758125" role=""/>
+  <member type="way" ref="862750402" role=""/>
+  <member type="way" ref="862750398" role=""/>
+  <member type="way" ref="862750401" role=""/>
+  <member type="way" ref="862750397" role=""/>
+  <member type="way" ref="862750393" role=""/>
+  <member type="way" ref="862750396" role=""/>
   <member type="way" ref="578147558" role=""/>
   <member type="way" ref="578147557" role=""/>
   <member type="way" ref="578147554" role=""/>
   <member type="way" ref="578147550" role=""/>
   <member type="way" ref="578147556" role=""/>
+  <member type="way" ref="862750387" role=""/>
+  <member type="way" ref="862750384" role=""/>
+  <member type="way" ref="862750386" role=""/>
+  <member type="way" ref="862750385" role=""/>
   <member type="way" ref="677357768" role=""/>
+  <member type="way" ref="862750380" role=""/>
+  <member type="way" ref="862750383" role=""/>
   <member type="way" ref="677111349" role=""/>
   <member type="way" ref="455487976" role=""/>
   <member type="way" ref="207614451" role=""/>
@@ -7574,6 +7568,14 @@
   <member type="way" ref="815601715" role=""/>
   <member type="way" ref="815601716" role=""/>
   <member type="way" ref="815601719" role=""/>
+  <member type="way" ref="136845697" role=""/>
+  <member type="way" ref="136845698" role=""/>
+  <member type="way" ref="136845696" role=""/>
+  <member type="way" ref="136845695" role=""/>
+  <member type="way" ref="136845694" role=""/>
+  <member type="way" ref="57390828" role=""/>
+  <member type="way" ref="60119760" role=""/>
+  <member type="way" ref="60119772" role=""/>
   <tag k="from" v="Rimini"/>
   <tag k="name" v="Strada Statale 9 Via Emilia"/>
   <tag k="operator" v="ANAS"/>
@@ -7949,7 +7951,7 @@
   <tag k="natural" v="water"/>
   <tag k="type" v="multipolygon"/>
  </relation>
- <relation id="10340679" visible="true" version="7" changeset="77599711" timestamp="2019-11-26T23:37:01Z" user="fedc" uid="602784">
+ <relation id="10340679" visible="true" version="8" changeset="93686198" timestamp="2020-11-06T21:46:59Z" user="dega180" uid="454306">
   <member type="way" ref="448895542" role=""/>
   <member type="way" ref="312513363" role=""/>
   <member type="way" ref="83808788" role=""/>
@@ -7992,6 +7994,10 @@
   <member type="way" ref="449460561" role=""/>
   <member type="way" ref="485688131" role=""/>
   <member type="way" ref="706196935" role=""/>
+  <member type="way" ref="867863841" role=""/>
+  <member type="way" ref="867863840" role=""/>
+  <member type="way" ref="867863836" role=""/>
+  <member type="way" ref="867863835" role=""/>
   <member type="way" ref="386762173" role=""/>
   <member type="way" ref="749946788" role=""/>
   <tag k="name" v="Roggia Codogna"/>

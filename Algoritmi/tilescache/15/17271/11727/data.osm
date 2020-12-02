@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991884 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441951 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4601306" minlon="9.7448730" maxlat="45.4678360" maxlon="9.7558594"/>
  <node id="307112168" visible="true" version="3" changeset="4277727" timestamp="2010-03-30T15:45:26Z" user="Luigi62" uid="90148" lat="45.4563160" lon="9.7611927"/>
  <node id="538801300" visible="true" version="1" changeset="2927306" timestamp="2009-10-23T08:27:42Z" user="Luigi62" uid="90148" lat="45.4536165" lon="9.7549726"/>
@@ -40,7 +40,7 @@
  <node id="2323400317" visible="true" version="1" changeset="16327750" timestamp="2013-05-28T18:21:27Z" user="gigi2037" uid="616481" lat="45.4583286" lon="9.7566891"/>
  <node id="2323400318" visible="true" version="1" changeset="16327750" timestamp="2013-05-28T18:21:28Z" user="gigi2037" uid="616481" lat="45.4583455" lon="9.7565278"/>
  <node id="2323400319" visible="true" version="1" changeset="16327750" timestamp="2013-05-28T18:21:28Z" user="gigi2037" uid="616481" lat="45.4585681" lon="9.7581771"/>
- <node id="2323400320" visible="true" version="1" changeset="16327750" timestamp="2013-05-28T18:21:28Z" user="gigi2037" uid="616481" lat="45.4587438" lon="9.7597157"/>
+ <node id="2323400320" visible="true" version="2" changeset="92643926" timestamp="2020-10-17T23:09:19Z" user="dega180" uid="454306" lat="45.4587464" lon="9.7597249"/>
  <node id="2323400321" visible="true" version="1" changeset="16327750" timestamp="2013-05-28T18:21:28Z" user="gigi2037" uid="616481" lat="45.4589094" lon="9.7564815"/>
  <node id="2323400322" visible="true" version="1" changeset="16327750" timestamp="2013-05-28T18:21:28Z" user="gigi2037" uid="616481" lat="45.4591470" lon="9.7614350"/>
  <node id="2323400323" visible="true" version="1" changeset="16327750" timestamp="2013-05-28T18:21:29Z" user="gigi2037" uid="616481" lat="45.4592233" lon="9.7618697"/>
@@ -166,6 +166,7 @@
  <node id="4547837341" visible="true" version="1" changeset="44302066" timestamp="2016-12-10T12:25:23Z" user="Elia Z" uid="2914055" lat="45.4717354" lon="9.7364145"/>
  <node id="4547837342" visible="true" version="1" changeset="44302066" timestamp="2016-12-10T12:25:23Z" user="Elia Z" uid="2914055" lat="45.4715501" lon="9.7372217"/>
  <node id="4547837345" visible="true" version="1" changeset="44302066" timestamp="2016-12-10T12:25:23Z" user="Elia Z" uid="2914055" lat="45.4701942" lon="9.7374135"/>
+ <node id="8017538823" visible="true" version="1" changeset="92643926" timestamp="2020-10-17T23:09:19Z" user="dega180" uid="454306" lat="45.4590464" lon="9.7613193"/>
  <way id="27981576" visible="true" version="10" changeset="44302066" timestamp="2016-12-10T12:25:30Z" user="Elia Z" uid="2914055">
   <nd ref="4547837341"/>
   <nd ref="4547837342"/>
@@ -244,7 +245,7 @@
   <nd ref="2323400355"/>
   <tag k="highway" v="track"/>
  </way>
- <way id="223442394" visible="true" version="4" changeset="23153835" timestamp="2014-06-25T16:25:29Z" user="motopisolo" uid="2055277">
+ <way id="223442394" visible="true" version="5" changeset="92643926" timestamp="2020-10-17T23:09:19Z" user="dega180" uid="454306">
   <nd ref="2323400333"/>
   <nd ref="2323400332"/>
   <nd ref="2323400330"/>
@@ -253,6 +254,7 @@
   <nd ref="2323400326"/>
   <nd ref="2323400323"/>
   <nd ref="2323400322"/>
+  <nd ref="8017538823"/>
   <nd ref="2323400320"/>
   <nd ref="2928035456"/>
   <nd ref="2323400319"/>
@@ -572,7 +574,7 @@
   <tag k="wikidata" v="Q16163"/>
   <tag k="wikipedia" v="it:Provincia di Cremona"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -645,7 +647,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>

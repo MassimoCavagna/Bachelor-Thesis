@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (753655 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3439759 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2207426" minlon="10.0305176" maxlat="45.2284806" maxlon="10.0415039"/>
  <node id="332193968" visible="true" version="15" changeset="19631917" timestamp="2013-12-25T16:49:18Z" user="Moliva" uid="107039" lat="45.2325099" lon="10.0320512"/>
  <node id="332197269" visible="true" version="6" changeset="19631917" timestamp="2013-12-25T16:49:18Z" user="Moliva" uid="107039" lat="45.2352628" lon="10.0320755"/>
@@ -650,7 +650,7 @@
   <tag k="usage" v="branch"/>
   <tag k="voltage" v="3000"/>
  </way>
- <way id="107289980" visible="true" version="4" changeset="56266039" timestamp="2018-02-11T15:19:49Z" user="pigio66" uid="7507474">
+ <way id="107289980" visible="true" version="5" changeset="93617037" timestamp="2020-11-05T17:40:42Z" user="pigio66" uid="7507474">
   <nd ref="1225118597"/>
   <nd ref="4177426873"/>
   <nd ref="4177426874"/>
@@ -691,6 +691,8 @@
   <nd ref="1233436445"/>
   <nd ref="5405427114"/>
   <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Via Olmeneta"/>
+  <tag k="ref" v="SP65"/>
  </way>
  <way id="253479732" visible="true" version="1" changeset="19631917" timestamp="2013-12-25T16:49:14Z" user="Moliva" uid="107039">
   <nd ref="2594025964"/>
@@ -1245,7 +1247,7 @@
   <tag k="highway" v="path"/>
   <tag k="surface" v="ground"/>
  </way>
- <relation id="183626" visible="true" version="56" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
+ <relation id="183626" visible="true" version="57" changeset="92894016" timestamp="2020-10-22T11:47:39Z" user="Mannivu" uid="1950277">
   <member type="way" ref="38289883" role=""/>
   <member type="way" ref="38289882" role=""/>
   <member type="way" ref="596450377" role=""/>
@@ -1297,6 +1299,7 @@
   <tag k="route" v="railway"/>
   <tag k="type" v="route"/>
   <tag k="wikidata" v="Q803335"/>
+  <tag k="wikimedia_commons" v="Category:Treviglio–Cremona railway"/>
   <tag k="wikipedia" v="it:Ferrovia Treviglio-Cremona"/>
  </relation>
  <relation id="1412021" visible="true" version="14" changeset="80494683" timestamp="2020-02-03T18:35:25Z" user="e pt" uid="3193667">

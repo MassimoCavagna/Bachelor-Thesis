@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2523336 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3897392 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2516883" minlon="9.6679688" maxlat="45.2594220" maxlon="9.6789551"/>
  <node id="252578712" visible="true" version="8" changeset="3128222" timestamp="2009-11-15T23:18:53Z" user="wiso" uid="30891" lat="45.2999106" lon="9.5817973"/>
  <node id="252578713" visible="true" version="8" changeset="3128222" timestamp="2009-11-15T23:18:53Z" user="wiso" uid="30891" lat="45.3005520" lon="9.5849923"/>
@@ -175,9 +175,7 @@
  <node id="309687356" visible="true" version="2" changeset="1821301" timestamp="2009-07-13T21:13:33Z" user="wiso" uid="30891" lat="45.2602705" lon="9.6925447">
   <tag k="created_by" v="JOSM"/>
  </node>
- <node id="309687358" visible="true" version="2" changeset="1821301" timestamp="2009-07-13T21:13:33Z" user="wiso" uid="30891" lat="45.2595374" lon="9.6927769">
-  <tag k="created_by" v="JOSM"/>
- </node>
+ <node id="309687358" visible="true" version="3" changeset="94993378" timestamp="2020-11-29T17:38:49Z" user="dega180" uid="454306" lat="45.2595240" lon="9.6926802"/>
  <node id="309687373" visible="true" version="1" changeset="668682" timestamp="2008-11-03T15:50:38Z" user="Riverlab" uid="22264" lat="45.2666609" lon="9.6757804">
   <tag k="created_by" v="JOSM"/>
  </node>
@@ -3090,7 +3088,8 @@
  <node id="7683346983" visible="true" version="1" changeset="87539399" timestamp="2020-07-04T19:26:21Z" user="Helmchen42" uid="1817244" lat="45.2560556" lon="9.6657479"/>
  <node id="7683346984" visible="true" version="1" changeset="87539399" timestamp="2020-07-04T19:26:21Z" user="Helmchen42" uid="1817244" lat="45.2558687" lon="9.6655816"/>
  <node id="7683496585" visible="true" version="1" changeset="87539399" timestamp="2020-07-04T19:26:21Z" user="Helmchen42" uid="1817244" lat="45.2560500" lon="9.6658096"/>
- <way id="28194470" visible="true" version="8" changeset="30292296" timestamp="2015-04-17T18:45:23Z" user="Alecs01" uid="1476146">
+ <node id="8176806098" visible="true" version="1" changeset="94993378" timestamp="2020-11-29T17:38:49Z" user="dega180" uid="454306" lat="45.2596901" lon="9.6925518"/>
+ <way id="28194470" visible="true" version="9" changeset="94993378" timestamp="2020-11-29T17:38:49Z" user="dega180" uid="454306">
   <nd ref="309687329"/>
   <nd ref="309687330"/>
   <nd ref="309687331"/>
@@ -3129,6 +3128,7 @@
   <nd ref="441348190"/>
   <nd ref="309687355"/>
   <nd ref="309687356"/>
+  <nd ref="8176806098"/>
   <nd ref="309687358"/>
   <nd ref="441348163"/>
   <nd ref="441348164"/>
@@ -6508,7 +6508,7 @@
   <tag k="wikidata" v="Q42538"/>
   <tag k="wikipedia" v="it:Montodine"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -6581,7 +6581,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>

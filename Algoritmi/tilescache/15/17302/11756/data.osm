@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2523336 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1318762 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2362175" minlon="10.0854492" maxlat="45.2439534" maxlon="10.0964355"/>
  <node id="307221674" visible="true" version="2" changeset="28639550" timestamp="2015-02-05T21:11:50Z" user="Pyknite" uid="193512" lat="45.2332270" lon="10.0715879"/>
  <node id="469275829" visible="true" version="2" changeset="77975702" timestamp="2019-12-05T07:26:21Z" user="pigio66" uid="7507474" lat="45.2464914" lon="10.1017246"/>
@@ -1034,7 +1034,7 @@
   <tag k="wikidata" v="Q42245"/>
   <tag k="wikipedia" v="it:Robecco d'Oglio"/>
  </relation>
- <relation id="8189749" visible="true" version="23" changeset="88769659" timestamp="2020-07-31T08:10:12Z" user="gspinoza" uid="562239">
+ <relation id="8189749" visible="true" version="24" changeset="94498886" timestamp="2020-11-20T11:49:10Z" user="dega180" uid="454306">
   <member type="way" ref="484551781" role=""/>
   <member type="way" ref="585185976" role=""/>
   <member type="way" ref="561197553" role=""/>
@@ -1119,6 +1119,8 @@
   <member type="way" ref="59115463" role=""/>
   <member type="way" ref="59115478" role=""/>
   <member type="way" ref="59115460" role=""/>
+  <member type="way" ref="875113506" role=""/>
+  <member type="way" ref="875113505" role=""/>
   <member type="way" ref="58902408" role=""/>
   <member type="way" ref="59505616" role=""/>
   <member type="way" ref="206889882" role=""/>

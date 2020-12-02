@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991877 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1318762 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4370083" minlon="9.4921875" maxlat="45.4447168" maxlon="9.5031738"/>
  <node id="923164461" visible="true" version="1" changeset="5857416" timestamp="2010-09-23T20:03:28Z" user="ilrobi" uid="22110" lat="45.4080649" lon="9.4931959"/>
  <node id="923164520" visible="true" version="1" changeset="5857416" timestamp="2010-09-23T20:03:29Z" user="ilrobi" uid="22110" lat="45.4104174" lon="9.4936444"/>
@@ -197,6 +197,8 @@
  <node id="7471446121" visible="true" version="1" changeset="84480523" timestamp="2020-05-01T15:58:26Z" user="FabioMTB" uid="4617656" lat="45.4384441" lon="9.5029080"/>
  <node id="7471446122" visible="true" version="1" changeset="84480523" timestamp="2020-05-01T15:58:26Z" user="FabioMTB" uid="4617656" lat="45.4384441" lon="9.5033043"/>
  <node id="7471504910" visible="true" version="1" changeset="84481345" timestamp="2020-05-01T16:14:47Z" user="FabioMTB" uid="4617656" lat="45.4237479" lon="9.4949563"/>
+ <node id="8089378635" visible="true" version="1" changeset="93685812" timestamp="2020-11-06T21:34:05Z" user="dega180" uid="454306" lat="45.4410987" lon="9.4952233"/>
+ <node id="8089378636" visible="true" version="1" changeset="93685812" timestamp="2020-11-06T21:34:05Z" user="dega180" uid="454306" lat="45.4394722" lon="9.4952131"/>
  <way id="78790827" visible="true" version="9" changeset="84481345" timestamp="2020-05-01T16:14:47Z" user="FabioMTB" uid="4617656">
   <nd ref="923165525"/>
   <nd ref="967187342"/>
@@ -299,9 +301,10 @@
   <tag k="ref" v="SP1"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="109090207" visible="true" version="1" changeset="7897487" timestamp="2011-04-18T14:20:40Z" user="ilrobi" uid="22110">
+ <way id="109090207" visible="true" version="2" changeset="93685812" timestamp="2020-11-06T21:34:05Z" user="dega180" uid="454306">
   <nd ref="1249947374"/>
   <nd ref="1249947677"/>
+  <nd ref="8089378635"/>
   <nd ref="1249947481"/>
   <nd ref="1249947401"/>
   <nd ref="1249947582"/>
@@ -487,5 +490,11 @@
   <nd ref="7471446119"/>
   <nd ref="7471446122"/>
   <tag k="building" v="yes"/>
+ </way>
+ <way id="867861146" visible="true" version="1" changeset="93685812" timestamp="2020-11-06T21:34:05Z" user="dega180" uid="454306">
+  <nd ref="8089378635"/>
+  <nd ref="8089378636"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
  </way>
 </osm>

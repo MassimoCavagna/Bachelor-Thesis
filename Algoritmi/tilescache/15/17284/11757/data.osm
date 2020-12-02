@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2771633 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441825 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2284806" minlon="9.8876953" maxlat="45.2362175" maxlon="9.8986816"/>
  <node id="495375035" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T17:07:25Z" user="Guido Piazzi" uid="38067" lat="45.2295515" lon="9.8955224"/>
  <node id="495375042" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T17:07:26Z" user="Guido Piazzi" uid="38067" lat="45.2295120" lon="9.8957157"/>
@@ -137,6 +137,9 @@
  <node id="7998038300" visible="true" version="1" changeset="92313340" timestamp="2020-10-11T20:33:50Z" user="dega180" uid="454306" lat="45.2349002" lon="9.8871922"/>
  <node id="7998038301" visible="true" version="1" changeset="92313340" timestamp="2020-10-11T20:33:50Z" user="dega180" uid="454306" lat="45.2344795" lon="9.8870330"/>
  <node id="7998038308" visible="true" version="1" changeset="92313340" timestamp="2020-10-11T20:33:50Z" user="dega180" uid="454306" lat="45.2313476" lon="9.8866052"/>
+ <node id="8141974617" visible="true" version="1" changeset="94429997" timestamp="2020-11-19T10:43:12Z" user="tdovera" uid="1694801" lat="45.2338525" lon="9.8930577">
+  <tag k="natural" v="tree"/>
+ </node>
  <way id="40768734" visible="true" version="2" changeset="62049519" timestamp="2018-08-27T19:18:36Z" user="pigio66" uid="7507474">
   <nd ref="495375212"/>
   <nd ref="495375214"/>

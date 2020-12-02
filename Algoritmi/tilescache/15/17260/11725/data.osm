@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3083194 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2562899 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4755403" minlon="9.6240234" maxlat="45.4832435" maxlon="9.6350098"/>
  <node id="207318661" visible="true" version="8" changeset="68443623" timestamp="2019-03-23T14:38:52Z" user="Mannivu" uid="1950277" lat="45.4782420" lon="9.6363288"/>
  <node id="207318662" visible="true" version="6" changeset="8974059" timestamp="2011-08-10T08:24:00Z" user="ilrobi" uid="22110" lat="45.4777266" lon="9.6311699"/>
@@ -170,9 +170,9 @@
  <node id="1393474129" visible="true" version="8" changeset="62493044" timestamp="2018-09-11T15:35:56Z" user="asdf2" uid="1416503" lat="45.4774936" lon="9.6269827"/>
  <node id="1393474146" visible="true" version="4" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4781808" lon="9.6356977"/>
  <node id="1393474147" visible="true" version="3" changeset="68667912" timestamp="2019-03-29T15:39:33Z" user="Mannivu" uid="1950277" lat="45.4784935" lon="9.6343899"/>
- <node id="1393494617" visible="true" version="5" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4781076" lon="9.6349418"/>
- <node id="1393494633" visible="true" version="4" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4781975" lon="9.6343025"/>
- <node id="1393494634" visible="true" version="4" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4782259" lon="9.6346049"/>
+ <node id="1393494617" visible="true" version="6" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4780850" lon="9.6347434"/>
+ <node id="1393494633" visible="true" version="5" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4781897" lon="9.6343129"/>
+ <node id="1393494634" visible="true" version="5" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4782192" lon="9.6345998"/>
  <node id="1393494635" visible="true" version="4" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4783302" lon="9.6344833"/>
  <node id="1393494636" visible="true" version="5" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4783263" lon="9.6343647"/>
  <node id="1393494638" visible="true" version="1" changeset="8974202" timestamp="2011-08-10T08:40:14Z" user="ilrobi" uid="22110" lat="45.4791383" lon="9.6342123"/>
@@ -301,8 +301,9 @@
   <tag k="crossing:supervision" v="no"/>
   <tag k="railway" v="crossing"/>
  </node>
- <node id="1795999088" visible="true" version="4" changeset="60880295" timestamp="2018-07-19T18:12:29Z" user="Mannivu" uid="1950277" lat="45.4888738" lon="9.6371141">
+ <node id="1795999088" visible="true" version="5" changeset="94136689" timestamp="2020-11-15T09:31:51Z" user="Mannivu" uid="1950277" lat="45.4888738" lon="9.6371141">
   <tag k="crossing" v="zebra"/>
+  <tag k="crossing:island" v="no"/>
   <tag k="highway" v="crossing"/>
  </node>
  <node id="1795999093" visible="true" version="3" changeset="59537751" timestamp="2018-06-04T13:23:19Z" user="Mannivu" uid="1950277" lat="45.4888775" lon="9.6372469">
@@ -323,13 +324,15 @@
   <tag k="crossing" v="zebra"/>
   <tag k="highway" v="crossing"/>
  </node>
- <node id="1795999120" visible="true" version="4" changeset="60880295" timestamp="2018-07-19T18:12:29Z" user="Mannivu" uid="1950277" lat="45.4867487" lon="9.6353206">
+ <node id="1795999120" visible="true" version="6" changeset="94516487" timestamp="2020-11-20T17:54:20Z" user="Mannivu" uid="1950277" lat="45.4867528" lon="9.6353238">
   <tag k="crossing" v="zebra"/>
+  <tag k="crossing:island" v="no"/>
   <tag k="highway" v="crossing"/>
  </node>
  <node id="1795999128" visible="true" version="3" changeset="68931467" timestamp="2019-04-05T18:35:48Z" user="Mannivu" uid="1950277" lat="45.4866321" lon="9.6350768"/>
- <node id="1795999130" visible="true" version="5" changeset="64424531" timestamp="2018-11-12T23:53:50Z" user="Mannivu" uid="1950277" lat="45.4830643" lon="9.6322111">
+ <node id="1795999130" visible="true" version="6" changeset="94516487" timestamp="2020-11-20T17:54:12Z" user="Mannivu" uid="1950277" lat="45.4830643" lon="9.6322111">
   <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing:island" v="no"/>
   <tag k="highway" v="crossing"/>
   <tag k="tactile_paving" v="no"/>
  </node>
@@ -362,8 +365,9 @@
   <tag k="wheelchair" v="yes"/>
  </node>
  <node id="1913210770" visible="true" version="1" changeset="13100327" timestamp="2012-09-13T19:55:43Z" user="WinstonSmith" uid="36030" lat="45.4828900" lon="9.6322015"/>
- <node id="1913210791" visible="true" version="6" changeset="70775838" timestamp="2019-05-30T15:40:31Z" user="Mannivu" uid="1950277" lat="45.4906539" lon="9.6387419">
+ <node id="1913210791" visible="true" version="7" changeset="93879384" timestamp="2020-11-10T18:52:31Z" user="Mannivu" uid="1950277" lat="45.4906539" lon="9.6387419">
   <tag k="crossing" v="marked"/>
+  <tag k="crossing:island" v="no"/>
   <tag k="highway" v="crossing"/>
  </node>
  <node id="1913210795" visible="true" version="1" changeset="13100327" timestamp="2012-09-13T19:55:44Z" user="WinstonSmith" uid="36030" lat="45.4826343" lon="9.6320594"/>
@@ -964,7 +968,7 @@
  <node id="4086079654" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4769527" lon="9.6366620"/>
  <node id="4086079655" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4770392" lon="9.6365761"/>
  <node id="4086079662" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4779119" lon="9.6341085"/>
- <node id="4086079663" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4779570" lon="9.6342855"/>
+ <node id="4086079663" visible="true" version="2" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4777502" lon="9.6347335"/>
  <node id="4086079664" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4781526" lon="9.6364098"/>
  <node id="4086079665" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4781714" lon="9.6364635"/>
  <node id="4446034134" visible="true" version="1" changeset="42868892" timestamp="2016-10-13T14:27:17Z" user="FabioMTB" uid="4617656" lat="45.4756523" lon="9.6253666"/>
@@ -1708,7 +1712,6 @@
  <node id="5739037264" visible="true" version="1" changeset="60408334" timestamp="2018-07-04T12:48:19Z" user="Mannivu" uid="1950277" lat="45.4807502" lon="9.6310640"/>
  <node id="5739037265" visible="true" version="1" changeset="60408334" timestamp="2018-07-04T12:48:19Z" user="Mannivu" uid="1950277" lat="45.4812049" lon="9.6314287"/>
  <node id="5782201703" visible="true" version="1" changeset="61030539" timestamp="2018-07-24T16:54:14Z" user="Mannivu" uid="1950277" lat="45.4845718" lon="9.6335795"/>
- <node id="5782201705" visible="true" version="1" changeset="61030539" timestamp="2018-07-24T16:54:14Z" user="Mannivu" uid="1950277" lat="45.4847255" lon="9.6335137"/>
  <node id="5790349331" visible="true" version="1" changeset="61127435" timestamp="2018-07-27T18:22:45Z" user="Mannivu" uid="1950277" lat="45.4819439" lon="9.6386059"/>
  <node id="5796023304" visible="true" version="2" changeset="62406297" timestamp="2018-09-08T16:25:14Z" user="SiMaz96" uid="3141745" lat="45.4771134" lon="9.6271639"/>
  <node id="5796023305" visible="true" version="2" changeset="62406297" timestamp="2018-09-08T16:25:14Z" user="SiMaz96" uid="3141745" lat="45.4771114" lon="9.6271047"/>
@@ -1814,7 +1817,7 @@
   <tag k="amenity" v="restaurant"/>
   <tag k="name" v="Ristorante da Firem e Röstec"/>
  </node>
- <node id="5859440089" visible="true" version="8" changeset="88833981" timestamp="2020-08-02T09:06:42Z" user="Mannivu" uid="1950277" lat="45.4797376" lon="9.6300869">
+ <node id="5859440089" visible="true" version="9" changeset="93751997" timestamp="2020-11-08T18:06:12Z" user="Mannivu" uid="1950277" lat="45.4797376" lon="9.6300869">
   <tag k="addr:city" v="Caravaggio"/>
   <tag k="addr:housenumber" v="1"/>
   <tag k="addr:street" v="Via Beata Vergine"/>
@@ -1825,6 +1828,7 @@
   <tag k="opening_hours" v="Tu-Su 10:30-14:30,17:30-23:00"/>
   <tag k="opening_hours:covid19" v="open"/>
   <tag k="phone" v="+39 324 805 2004"/>
+  <tag k="takeaway:covid19" v="yes"/>
  </node>
  <node id="5859440090" visible="true" version="3" changeset="85565948" timestamp="2020-05-21T16:53:29Z" user="Mannivu" uid="1950277" lat="45.4803550" lon="9.6301747">
   <tag k="amenity" v="restaurant"/>
@@ -1934,8 +1938,9 @@
  <node id="6002084648" visible="true" version="1" changeset="63721157" timestamp="2018-10-21T08:23:34Z" user="Mannivu" uid="1950277" lat="45.4816789" lon="9.6360987"/>
  <node id="6002084649" visible="true" version="1" changeset="63721157" timestamp="2018-10-21T08:23:34Z" user="Mannivu" uid="1950277" lat="45.4816149" lon="9.6359914"/>
  <node id="6002084650" visible="true" version="1" changeset="63721157" timestamp="2018-10-21T08:23:34Z" user="Mannivu" uid="1950277" lat="45.4813742" lon="9.6346450"/>
- <node id="6033704772" visible="true" version="1" changeset="64136496" timestamp="2018-11-03T10:22:13Z" user="Mannivu" uid="1950277" lat="45.4795096" lon="9.6291071">
+ <node id="6033704772" visible="true" version="2" changeset="94516487" timestamp="2020-11-20T17:52:57Z" user="Mannivu" uid="1950277" lat="45.4795096" lon="9.6291071">
   <tag k="crossing" v="zebra"/>
+  <tag k="crossing:island" v="no"/>
   <tag k="highway" v="crossing"/>
  </node>
  <node id="6033704773" visible="true" version="1" changeset="64136496" timestamp="2018-11-03T10:22:13Z" user="Mannivu" uid="1950277" lat="45.4799214" lon="9.6294689"/>
@@ -2059,8 +2064,9 @@
   <tag k="name" v="Dottoressa Caspani Daniela Francesca"/>
   <tag k="wheelchair" v="yes"/>
  </node>
- <node id="6826955812" visible="true" version="1" changeset="74956036" timestamp="2019-09-26T11:58:51Z" user="Mannivu" uid="1950277" lat="45.4904960" lon="9.6384833">
+ <node id="6826955812" visible="true" version="2" changeset="93755637" timestamp="2020-11-08T20:13:05Z" user="Mannivu" uid="1950277" lat="45.4904960" lon="9.6384833">
   <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing:island" v="no"/>
   <tag k="highway" v="crossing"/>
   <tag k="supervised" v="no"/>
  </node>
@@ -2311,18 +2317,62 @@
  <node id="7992785870" visible="true" version="1" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4782608" lon="9.6343381"/>
  <node id="7992785871" visible="true" version="1" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4783815" lon="9.6343795"/>
  <node id="7992785872" visible="true" version="1" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4784374" lon="9.6343880"/>
- <node id="7992785873" visible="true" version="1" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4780641" lon="9.6340615"/>
- <node id="7992785874" visible="true" version="1" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4781057" lon="9.6341116"/>
- <node id="7992785875" visible="true" version="1" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4781422" lon="9.6341692"/>
- <node id="7992785876" visible="true" version="1" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4781730" lon="9.6342332"/>
- <node id="7992785877" visible="true" version="1" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4782152" lon="9.6343758"/>
- <node id="7992785878" visible="true" version="1" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4782295" lon="9.6345284"/>
- <node id="7992785879" visible="true" version="1" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4782153" lon="9.6346801"/>
- <node id="7992785880" visible="true" version="1" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4781977" lon="9.6347526"/>
- <node id="7992785881" visible="true" version="1" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4781737" lon="9.6348212"/>
- <node id="7992785882" visible="true" version="1" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4781434" lon="9.6348846"/>
- <node id="7992785883" visible="true" version="1" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4780182" lon="9.6340198"/>
- <node id="7992785884" visible="true" version="1" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4782260" lon="9.6344519"/>
+ <node id="7992785873" visible="true" version="2" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4780693" lon="9.6342290"/>
+ <node id="7992785874" visible="true" version="2" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4781031" lon="9.6342373"/>
+ <node id="7992785875" visible="true" version="2" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4781352" lon="9.6342545"/>
+ <node id="7992785876" visible="true" version="2" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4781644" lon="9.6342801"/>
+ <node id="7992785877" visible="true" version="2" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4782196" lon="9.6343766"/>
+ <node id="7992785878" visible="true" version="2" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4782351" lon="9.6345266"/>
+ <node id="7992785879" visible="true" version="2" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4782012" lon="9.6346423"/>
+ <node id="7992785880" visible="true" version="2" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4781778" lon="9.6346792"/>
+ <node id="7992785881" visible="true" version="2" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4781500" lon="9.6347090"/>
+ <node id="7992785882" visible="true" version="2" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4781187" lon="9.6347307"/>
+ <node id="7992785883" visible="true" version="2" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4780351" lon="9.6342298"/>
+ <node id="7992785884" visible="true" version="2" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4782352" lon="9.6344499"/>
+ <node id="8120500412" visible="true" version="1" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4780248" lon="9.6349856"/>
+ <node id="8120500413" visible="true" version="1" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4780405" lon="9.6347461"/>
+ <node id="8120500414" visible="true" version="1" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4779968" lon="9.6347332"/>
+ <node id="8120500415" visible="true" version="1" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4779567" lon="9.6347055"/>
+ <node id="8120500416" visible="true" version="1" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4779224" lon="9.6346647"/>
+ <node id="8120529617" visible="true" version="1" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4778962" lon="9.6346133"/>
+ <node id="8120529618" visible="true" version="1" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4778795" lon="9.6345544"/>
+ <node id="8120529619" visible="true" version="1" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4778782" lon="9.6344282"/>
+ <node id="8120529620" visible="true" version="1" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4778937" lon="9.6343685"/>
+ <node id="8120529621" visible="true" version="1" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4779188" lon="9.6343161"/>
+ <node id="8120529622" visible="true" version="1" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4779522" lon="9.6342739"/>
+ <node id="8120529623" visible="true" version="1" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4779917" lon="9.6342445"/>
+ <node id="8120529624" visible="true" version="1" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4778734" lon="9.6344914"/>
+ <node id="8145828293" visible="true" version="2" changeset="94499008" timestamp="2020-11-20T11:51:02Z" user="Mannivu" uid="1950277" lat="45.4832381" lon="9.6322899">
+  <tag k="highway" v="street_lamp"/>
+  <tag k="lamp_mount" v="straight_mast"/>
+  <tag k="lamp_type" v="electric"/>
+  <tag k="light:shape" v="cylindrical"/>
+  <tag k="opening_hours" v="dusk-dawn"/>
+ </node>
+ <node id="8145828294" visible="true" version="1" changeset="94498723" timestamp="2020-11-20T11:46:23Z" user="Mannivu" uid="1950277" lat="45.4828857" lon="9.6319976">
+  <tag k="highway" v="street_lamp"/>
+  <tag k="lamp_mount" v="straight_mast"/>
+  <tag k="lamp_type" v="electric"/>
+  <tag k="light:shape" v="cylindrical"/>
+  <tag k="opening_hours" v="dusk-dawn"/>
+ </node>
+ <node id="8145828295" visible="true" version="2" changeset="94554236" timestamp="2020-11-21T17:28:05Z" user="Mannivu" uid="1950277" lat="45.4830101" lon="9.6322282">
+  <tag k="highway" v="street_lamp"/>
+  <tag k="lamp_mount" v="straight_mast"/>
+  <tag k="lamp_type" v="electric"/>
+  <tag k="light:shape" v="cylindrical"/>
+  <tag k="opening_hours" v="dusk-dawn"/>
+ </node>
+ <node id="8145837835" visible="true" version="1" changeset="94499008" timestamp="2020-11-20T11:51:02Z" user="Mannivu" uid="1950277" lat="45.4867135" lon="9.6354260"/>
+ <node id="8145837836" visible="true" version="1" changeset="94499008" timestamp="2020-11-20T11:51:02Z" user="Mannivu" uid="1950277" lat="45.4867955" lon="9.6352129"/>
+ <node id="8145837840" visible="true" version="1" changeset="94499008" timestamp="2020-11-20T11:51:02Z" user="Mannivu" uid="1950277" lat="45.4831953" lon="9.6322238"/>
+ <node id="8145847019" visible="true" version="2" changeset="94554236" timestamp="2020-11-21T17:28:05Z" user="Mannivu" uid="1950277" lat="45.4827517" lon="9.6320084">
+  <tag k="highway" v="street_lamp"/>
+  <tag k="lamp_mount" v="straight_mast"/>
+  <tag k="lamp_type" v="electric"/>
+  <tag k="light:shape" v="cylindrical"/>
+  <tag k="opening_hours" v="dusk-dawn"/>
+ </node>
  <way id="25442812" visible="true" version="16" changeset="88945406" timestamp="2020-08-04T19:32:28Z" user="Dingo67" uid="9192791">
   <nd ref="3977947035"/>
   <nd ref="3977947036"/>
@@ -2358,12 +2408,13 @@
   <tag k="oneway" v="yes"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="27242824" visible="true" version="8" changeset="72776963" timestamp="2019-07-29T15:58:04Z" user="Mannivu" uid="1950277">
+ <way id="27242824" visible="true" version="9" changeset="94516448" timestamp="2020-11-20T17:52:35Z" user="Mannivu" uid="1950277">
   <nd ref="278538176"/>
   <nd ref="5806900038"/>
   <nd ref="5806900044"/>
   <nd ref="298987450"/>
   <nd ref="6658132690"/>
+  <tag k="cycleway:both" v="no"/>
   <tag k="highway" v="unclassified"/>
   <tag k="maxspeed" v="50"/>
   <tag k="name" v="Circonvallazione delle Fontane"/>
@@ -2638,7 +2689,7 @@
   <tag k="oneway" v="yes"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="125459698" visible="true" version="34" changeset="87851362" timestamp="2020-07-11T11:34:03Z" user="Mannivu" uid="1950277">
+ <way id="125459698" visible="true" version="36" changeset="93057095" timestamp="2020-10-26T11:01:37Z" user="Mannivu" uid="1950277">
   <nd ref="1393494905"/>
   <nd ref="1795999130"/>
   <nd ref="5892504117"/>
@@ -2654,7 +2705,7 @@
   <nd ref="6826955812"/>
   <nd ref="1393636653"/>
   <tag k="alt_name" v="Viale Papa Giovanni XXIII"/>
-  <tag k="hgv" v="delivery"/>
+  <tag k="hgv" v="no"/>
   <tag k="highway" v="tertiary"/>
   <tag k="lanes" v="2"/>
   <tag k="lit" v="yes"/>
@@ -2662,6 +2713,7 @@
   <tag k="maxspeed:type" v="IT:zone30"/>
   <tag k="name" v="Viale Papa Giovanni Ventitreesimo"/>
   <tag k="oneway" v="no"/>
+  <tag k="parking:lane:both" v="no_stopping"/>
   <tag k="priority_road" v="yes"/>
   <tag k="ref" v="SP132"/>
   <tag k="sidewalk" v="separate"/>
@@ -2924,12 +2976,13 @@
   <tag k="parking" v="surface"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="180867458" visible="true" version="21" changeset="91999672" timestamp="2020-10-05T17:18:21Z" user="Mannivu" uid="1950277">
+ <way id="180867458" visible="true" version="22" changeset="94499008" timestamp="2020-11-20T11:51:02Z" user="Mannivu" uid="1950277">
   <nd ref="1913210762"/>
   <nd ref="1913210722"/>
   <nd ref="2368126591"/>
   <nd ref="2368126595"/>
   <nd ref="1913210728"/>
+  <nd ref="8145837835"/>
   <nd ref="1795999093"/>
   <nd ref="1795999113"/>
   <nd ref="6100274209"/>
@@ -3403,7 +3456,7 @@
   <tag k="ref" v="SP132"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="394903093" visible="true" version="5" changeset="78684873" timestamp="2019-12-20T13:21:07Z" user="Mannivu" uid="1950277">
+ <way id="394903093" visible="true" version="6" changeset="93009844" timestamp="2020-10-25T09:16:35Z" user="Mannivu" uid="1950277">
   <nd ref="3977947036"/>
   <nd ref="3977947037"/>
   <nd ref="3977947038"/>
@@ -3416,6 +3469,7 @@
   <nd ref="3977947052"/>
   <nd ref="1393494905"/>
   <tag k="alt_name" v="Viale Papa Giovanni XXIII"/>
+  <tag k="hgv" v="no"/>
   <tag k="highway" v="tertiary"/>
   <tag k="lanes" v="1"/>
   <tag k="lit" v="yes"/>
@@ -3424,7 +3478,7 @@
   <tag k="oneway" v="yes"/>
   <tag k="surface" v="sett"/>
  </way>
- <way id="394903094" visible="true" version="5" changeset="78684873" timestamp="2019-12-20T13:21:07Z" user="Mannivu" uid="1950277">
+ <way id="394903094" visible="true" version="6" changeset="93009844" timestamp="2020-10-25T09:16:35Z" user="Mannivu" uid="1950277">
   <nd ref="1393494905"/>
   <nd ref="3977947054"/>
   <nd ref="3977947053"/>
@@ -3435,6 +3489,7 @@
   <nd ref="3977947044"/>
   <nd ref="3977947046"/>
   <tag k="alt_name" v="Viale Papa Giovanni XXIII"/>
+  <tag k="hgv" v="no"/>
   <tag k="highway" v="tertiary"/>
   <tag k="lanes" v="1"/>
   <tag k="lit" v="yes"/>
@@ -3637,16 +3692,16 @@
   <nd ref="4086064099"/>
   <tag k="building" v="retail"/>
  </way>
- <way id="406549691" visible="true" version="10" changeset="69008500" timestamp="2019-04-08T14:05:29Z" user="Mannivu" uid="1950277">
+ <way id="406549691" visible="true" version="11" changeset="94516515" timestamp="2020-11-20T17:53:42Z" user="Mannivu" uid="1950277">
   <nd ref="4597091022"/>
   <nd ref="6386290714"/>
   <nd ref="4086064104"/>
   <tag k="covered" v="yes"/>
   <tag k="highway" v="footway"/>
   <tag k="maxheight" v="below_default"/>
-  <tag k="surface" v="paved"/>
+  <tag k="surface" v="paving_stones"/>
  </way>
- <way id="406549693" visible="true" version="3" changeset="68931467" timestamp="2019-04-05T18:25:17Z" user="Mannivu" uid="1950277">
+ <way id="406549693" visible="true" version="4" changeset="94516515" timestamp="2020-11-20T17:53:35Z" user="Mannivu" uid="1950277">
   <nd ref="4086064105"/>
   <nd ref="4086064107"/>
   <nd ref="4086064109"/>
@@ -3656,7 +3711,7 @@
   <nd ref="4086064111"/>
   <tag k="covered" v="colonnade"/>
   <tag k="highway" v="footway"/>
-  <tag k="surface" v="paved"/>
+  <tag k="surface" v="paving_stones"/>
  </way>
  <way id="406551543" visible="true" version="5" changeset="84894428" timestamp="2020-05-08T12:25:10Z" user="Mannivu" uid="1950277">
   <nd ref="2696206332"/>
@@ -3767,10 +3822,11 @@
   <nd ref="2696206332"/>
   <tag k="landuse" v="residential"/>
  </way>
- <way id="406551544" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:25Z" user="morsi" uid="139580">
+ <way id="406551544" visible="true" version="2" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277">
   <nd ref="4086079663"/>
   <nd ref="4086079655"/>
   <nd ref="4086079664"/>
+  <nd ref="8120500412"/>
   <nd ref="4086079663"/>
   <tag k="landuse" v="construction"/>
  </way>
@@ -4258,14 +4314,6 @@
   <tag k="leaf_type" v="broadleaved"/>
   <tag k="natural" v="tree_row"/>
  </way>
- <way id="460337270" visible="true" version="5" changeset="61030539" timestamp="2018-07-24T16:54:15Z" user="Mannivu" uid="1950277">
-  <nd ref="4560102828"/>
-  <nd ref="5738982526"/>
-  <nd ref="5782201705"/>
-  <tag k="leaf_cycle" v="deciduous"/>
-  <tag k="leaf_type" v="broadleaved"/>
-  <tag k="natural" v="tree_row"/>
- </way>
  <way id="460337271" visible="true" version="7" changeset="68931467" timestamp="2019-04-05T18:35:48Z" user="Mannivu" uid="1950277">
   <nd ref="4560102830"/>
   <nd ref="5782201703"/>
@@ -4499,7 +4547,7 @@
   <tag k="sidewalk" v="both"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="577458644" visible="true" version="4" changeset="88945406" timestamp="2020-08-04T19:32:28Z" user="Dingo67" uid="9192791">
+ <way id="577458644" visible="true" version="5" changeset="95065385" timestamp="2020-11-30T19:36:21Z" user="Mannivu" uid="1950277">
   <nd ref="3977947050"/>
   <nd ref="5535789311"/>
   <nd ref="5535789318"/>
@@ -4539,6 +4587,7 @@
   <tag k="old_name" v="Circonvallazione delle Fontane"/>
   <tag k="oneway" v="yes"/>
   <tag k="ref" v="SP132"/>
+  <tag k="sidewalk" v="left"/>
   <tag k="surface" v="asphalt"/>
  </way>
  <way id="577459248" visible="true" version="1" changeset="57890254" timestamp="2018-04-07T12:23:24Z" user="Mannivu" uid="1950277">
@@ -4774,7 +4823,7 @@
   <nd ref="1393494794"/>
   <nd ref="4078235647"/>
  </way>
- <way id="604957289" visible="true" version="1" changeset="60406316" timestamp="2018-07-04T11:41:59Z" user="Mannivu" uid="1950277">
+ <way id="604957289" visible="true" version="2" changeset="94516515" timestamp="2020-11-20T17:53:25Z" user="Mannivu" uid="1950277">
   <nd ref="5738895576"/>
   <nd ref="5738895574"/>
   <nd ref="5738895571"/>
@@ -4785,7 +4834,7 @@
   <nd ref="5738895575"/>
   <tag k="covered" v="yes"/>
   <tag k="highway" v="footway"/>
-  <tag k="surface" v="paved"/>
+  <tag k="surface" v="paving_stones"/>
  </way>
  <way id="604957290" visible="true" version="3" changeset="68931467" timestamp="2019-04-05T17:51:00Z" user="Mannivu" uid="1950277">
   <nd ref="4086064111"/>
@@ -4799,7 +4848,7 @@
   <tag k="noname" v="yes"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="604957292" visible="true" version="1" changeset="60406316" timestamp="2018-07-04T11:41:59Z" user="Mannivu" uid="1950277">
+ <way id="604957292" visible="true" version="2" changeset="94516515" timestamp="2020-11-20T17:53:29Z" user="Mannivu" uid="1950277">
   <nd ref="4559928197"/>
   <nd ref="5738895584"/>
   <nd ref="5738895581"/>
@@ -4809,7 +4858,7 @@
   <nd ref="5738895582"/>
   <tag k="covered" v="yes"/>
   <tag k="highway" v="footway"/>
-  <tag k="surface" v="paved"/>
+  <tag k="surface" v="paving_stones"/>
  </way>
  <way id="604961794" visible="true" version="2" changeset="68931467" timestamp="2019-04-05T18:18:02Z" user="Mannivu" uid="1950277">
   <nd ref="1393494719"/>
@@ -5050,12 +5099,13 @@
   <tag k="sidewalk" v="left"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="613797772" visible="true" version="1" changeset="61329445" timestamp="2018-08-03T12:49:00Z" user="Mannivu" uid="1950277">
+ <way id="613797772" visible="true" version="2" changeset="94516448" timestamp="2020-11-20T17:52:29Z" user="Mannivu" uid="1950277">
   <nd ref="4596000779"/>
   <nd ref="3977946983"/>
   <nd ref="3977946987"/>
   <nd ref="3977946992"/>
   <nd ref="3977946997"/>
+  <tag k="cycleway:right" v="no"/>
   <tag k="highway" v="unclassified"/>
   <tag k="lanes" v="1"/>
   <tag k="maxspeed" v="50"/>
@@ -5428,13 +5478,13 @@
   <nd ref="4560089413"/>
   <tag k="highway" v="footway"/>
  </way>
- <way id="681933190" visible="true" version="2" changeset="69008500" timestamp="2019-04-08T14:05:30Z" user="Mannivu" uid="1950277">
+ <way id="681933190" visible="true" version="3" changeset="94516515" timestamp="2020-11-20T17:53:52Z" user="Mannivu" uid="1950277">
   <nd ref="6386290717"/>
   <nd ref="1393494726"/>
   <tag k="covered" v="colonnade"/>
   <tag k="highway" v="footway"/>
   <tag k="maxheight" v="below_default"/>
-  <tag k="surface" v="paved"/>
+  <tag k="surface" v="asphalt"/>
  </way>
  <way id="681933191" visible="true" version="2" changeset="69008500" timestamp="2019-04-08T14:05:30Z" user="Mannivu" uid="1950277">
   <nd ref="6386207077"/>
@@ -5448,7 +5498,7 @@
   <tag k="highway" v="footway"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="681933193" visible="true" version="2" changeset="69008500" timestamp="2019-04-08T14:05:30Z" user="Mannivu" uid="1950277">
+ <way id="681933193" visible="true" version="3" changeset="94516515" timestamp="2020-11-20T17:53:47Z" user="Mannivu" uid="1950277">
   <nd ref="5738895569"/>
   <nd ref="6386290718"/>
   <nd ref="6386290713"/>
@@ -5459,7 +5509,7 @@
   <tag k="covered" v="colonnade"/>
   <tag k="highway" v="footway"/>
   <tag k="maxheight" v="below_default"/>
-  <tag k="surface" v="paved"/>
+  <tag k="surface" v="paving_stones"/>
  </way>
  <way id="681935207" visible="true" version="1" changeset="68931467" timestamp="2019-04-05T18:33:16Z" user="Mannivu" uid="1950277">
   <nd ref="6386330832"/>
@@ -5891,15 +5941,16 @@
   <tag k="start_date" v="1575"/>
   <tag k="wikidata" v="Q3949872"/>
  </way>
- <way id="833987051" visible="true" version="1" changeset="88945406" timestamp="2020-08-04T19:32:28Z" user="Dingo67" uid="9192791">
+ <way id="833987051" visible="true" version="2" changeset="94516515" timestamp="2020-11-20T17:54:05Z" user="Mannivu" uid="1950277">
   <nd ref="3977947035"/>
   <nd ref="5738895562"/>
   <nd ref="6386330831"/>
   <nd ref="5738895576"/>
   <tag k="bicycle" v="yes"/>
   <tag k="highway" v="footway"/>
+  <tag k="surface" v="sett"/>
  </way>
- <way id="855553365" visible="true" version="1" changeset="91999672" timestamp="2020-10-05T17:18:21Z" user="Mannivu" uid="1950277">
+ <way id="855553365" visible="true" version="2" changeset="94499008" timestamp="2020-11-20T11:51:02Z" user="Mannivu" uid="1950277">
   <nd ref="1795999084"/>
   <nd ref="5729254238"/>
   <nd ref="5719772964"/>
@@ -5907,6 +5958,7 @@
   <nd ref="5719772963"/>
   <nd ref="1795999110"/>
   <nd ref="1795999096"/>
+  <nd ref="8145837836"/>
   <nd ref="1795999128"/>
   <nd ref="1393636520"/>
   <nd ref="2368126600"/>
@@ -5924,7 +5976,7 @@
   <tag k="lit" v="yes"/>
   <tag k="surface" v="sett"/>
  </way>
- <way id="857281662" visible="true" version="1" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277">
+ <way id="857281662" visible="true" version="2" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277">
   <nd ref="1393494617"/>
   <nd ref="7992785882"/>
   <nd ref="7992785881"/>
@@ -5940,11 +5992,24 @@
   <nd ref="7992785874"/>
   <nd ref="7992785873"/>
   <nd ref="7992785883"/>
+  <nd ref="8120529623"/>
+  <nd ref="8120529622"/>
+  <nd ref="8120529621"/>
+  <nd ref="8120529620"/>
+  <nd ref="8120529619"/>
+  <nd ref="8120529624"/>
+  <nd ref="8120529618"/>
+  <nd ref="8120529617"/>
+  <nd ref="8120500416"/>
+  <nd ref="8120500415"/>
+  <nd ref="8120500414"/>
+  <nd ref="8120500413"/>
+  <nd ref="1393494617"/>
   <tag k="construction" v="unclassified"/>
   <tag k="highway" v="construction"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="857281663" visible="true" version="1" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277">
+ <way id="857281663" visible="true" version="2" changeset="94497830" timestamp="2020-11-20T11:31:35Z" user="Mannivu" uid="1950277">
   <nd ref="1393494634"/>
   <nd ref="7992785869"/>
   <nd ref="1393494635"/>
@@ -5954,9 +6019,10 @@
   <tag k="construction" v="unclassified"/>
   <tag k="highway" v="construction"/>
   <tag k="lanes" v="1"/>
+  <tag k="oneway" v="yes"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="857281664" visible="true" version="1" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277">
+ <way id="857281664" visible="true" version="2" changeset="94497830" timestamp="2020-11-20T11:31:35Z" user="Mannivu" uid="1950277">
   <nd ref="1393474147"/>
   <nd ref="7992785872"/>
   <nd ref="7992785871"/>
@@ -5966,7 +6032,15 @@
   <tag k="construction" v="unclassified"/>
   <tag k="highway" v="construction"/>
   <tag k="lanes" v="1"/>
+  <tag k="oneway" v="yes"/>
   <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="875114235" visible="true" version="1" changeset="94499008" timestamp="2020-11-20T11:51:02Z" user="Mannivu" uid="1950277">
+  <nd ref="4560102828"/>
+  <nd ref="8145837840"/>
+  <tag k="leaf_cycle" v="deciduous"/>
+  <tag k="leaf_type" v="broadleaved"/>
+  <tag k="natural" v="tree_row"/>
  </way>
  <relation id="45021" visible="true" version="11" changeset="92753959" timestamp="2020-10-20T08:51:03Z" user="Mannivu" uid="1950277">
   <member type="way" ref="27981288" role="outer"/>

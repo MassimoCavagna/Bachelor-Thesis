@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2771650 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2473883 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2207426" minlon="9.6240234" maxlat="45.2284806" maxlon="9.6350098"/>
  <node id="309687034" visible="true" version="2" changeset="55066198" timestamp="2017-12-31T21:15:19Z" user="fedc" uid="602784" lat="45.2261754" lon="9.6323917"/>
- <node id="662998491" visible="true" version="3" changeset="29480871" timestamp="2015-03-14T21:20:49Z" user="fedc" uid="602784" lat="45.2126395" lon="9.6260903"/>
+ <node id="662998491" visible="true" version="4" changeset="92969136" timestamp="2020-10-23T19:59:28Z" user="fedc" uid="602784" lat="45.2126700" lon="9.6261306"/>
  <node id="662998505" visible="true" version="2" changeset="81605566" timestamp="2020-02-28T20:04:26Z" user="mcheck" uid="478872" lat="45.2196298" lon="9.6266064"/>
  <node id="662998508" visible="true" version="1" changeset="4074727" timestamp="2010-03-08T19:14:54Z" user="merto" uid="194280" lat="45.2161107" lon="9.6268615"/>
  <node id="662998510" visible="true" version="1" changeset="4074727" timestamp="2010-03-08T19:14:54Z" user="merto" uid="194280" lat="45.2170562" lon="9.6267720"/>
@@ -1393,6 +1393,8 @@
  <node id="7824302739" visible="true" version="1" changeset="89595485" timestamp="2020-08-18T20:39:39Z" user="Firenado" uid="11666609" lat="45.2233271" lon="9.6574116"/>
  <node id="7824302740" visible="true" version="1" changeset="89595485" timestamp="2020-08-18T20:39:39Z" user="Firenado" uid="11666609" lat="45.2234480" lon="9.6576905"/>
  <node id="7824302741" visible="true" version="1" changeset="89595485" timestamp="2020-08-18T20:39:39Z" user="Firenado" uid="11666609" lat="45.2329385" lon="9.6389365"/>
+ <node id="8040754756" visible="true" version="1" changeset="92969136" timestamp="2020-10-23T19:59:28Z" user="fedc" uid="602784" lat="45.2127325" lon="9.6260821"/>
+ <node id="8040754759" visible="true" version="1" changeset="92969136" timestamp="2020-10-23T19:59:28Z" user="fedc" uid="602784" lat="45.2126936" lon="9.6260970"/>
  <way id="51998958" visible="true" version="6" changeset="55112345" timestamp="2018-01-02T21:19:45Z" user="fedc" uid="602784">
   <nd ref="662998547"/>
   <nd ref="5317107853"/>
@@ -1945,7 +1947,7 @@
   <tag k="name" v="Colatore Valguercia"/>
   <tag k="waterway" v="ditch"/>
  </way>
- <way id="332716835" visible="true" version="4" changeset="81605566" timestamp="2020-02-28T20:04:26Z" user="mcheck" uid="478872">
+ <way id="332716835" visible="true" version="5" changeset="92969136" timestamp="2020-10-23T19:59:28Z" user="fedc" uid="602784">
   <nd ref="662998646"/>
   <nd ref="3119102731"/>
   <nd ref="662998649"/>
@@ -2003,6 +2005,8 @@
   <nd ref="7251572307"/>
   <nd ref="7251572304"/>
   <nd ref="7251572305"/>
+  <nd ref="8040754756"/>
+  <nd ref="8040754759"/>
   <nd ref="662998491"/>
   <tag k="highway" v="tertiary"/>
   <tag k="lanes" v="2"/>

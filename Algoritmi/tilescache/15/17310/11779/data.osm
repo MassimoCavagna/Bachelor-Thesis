@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1878284 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441807 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.0580014" minlon="10.1733398" maxlat="45.0657615" maxlon="10.1843262"/>
  <node id="62511378" visible="true" version="2" changeset="32821900" timestamp="2015-07-23T10:32:16Z" user="Fredie" uid="2073275" lat="45.0637700" lon="10.1822760">
   <tag k="gfoss_id" v="2655"/>
@@ -2271,7 +2271,7 @@
   <tag k="restriction" v="only_straight_on"/>
   <tag k="type" v="restriction"/>
  </relation>
- <relation id="9584949" visible="true" version="58" changeset="92182800" timestamp="2020-10-08T15:08:19Z" user="vrmap" uid="852319">
+ <relation id="9584949" visible="true" version="59" changeset="94020178" timestamp="2020-11-12T21:44:31Z" user="vbertola" uid="4347030">
   <member type="way" ref="252268321" role=""/>
   <member type="way" ref="252268299" role=""/>
   <member type="way" ref="228539544" role=""/>
@@ -2309,12 +2309,13 @@
   <member type="way" ref="24161151" role=""/>
   <member type="way" ref="65427644" role=""/>
   <member type="way" ref="24161122" role=""/>
+  <member type="way" ref="870955974" role=""/>
+  <member type="way" ref="737575818" role=""/>
+  <member type="way" ref="737575821" role=""/>
+  <member type="way" ref="737575819" role=""/>
   <member type="way" ref="189643067" role=""/>
   <member type="way" ref="22956291" role=""/>
   <member type="way" ref="737575820" role=""/>
-  <member type="way" ref="737575821" role=""/>
-  <member type="way" ref="737575819" role=""/>
-  <member type="way" ref="737575818" role=""/>
   <member type="way" ref="189643068" role=""/>
   <member type="way" ref="22956287" role=""/>
   <member type="way" ref="23184183" role=""/>
@@ -3158,9 +3159,10 @@
   <tag k="website" v="http://www.eurovelo8.com/countries/italy"/>
   <tag k="wikipedia" v="en:EV8 The Mediterranean Route"/>
  </relation>
- <relation id="9585839" visible="true" version="26" changeset="89886831" timestamp="2020-08-25T04:23:25Z" user="gzin" uid="35673">
+ <relation id="9585839" visible="true" version="27" changeset="94506437" timestamp="2020-11-20T14:30:02Z" user="patata_28" uid="11166885">
   <member type="way" ref="11701029" role=""/>
   <member type="way" ref="835705627" role=""/>
+  <member type="way" ref="875174822" role=""/>
   <member type="relation" ref="9583387" role="part"/>
   <member type="relation" ref="9629396" role="part"/>
   <member type="relation" ref="3977556" role="part"/>

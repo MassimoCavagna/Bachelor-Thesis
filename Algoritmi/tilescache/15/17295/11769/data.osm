@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2027240 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441747 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1355552" minlon="10.0085449" maxlat="45.1433047" maxlon="10.0195312"/>
  <node id="282022547" visible="true" version="18" changeset="35009173" timestamp="2015-11-01T11:09:09Z" user="Fredie" uid="2073275" lat="45.1431822" lon="10.0103252"/>
  <node id="282023006" visible="true" version="4" changeset="5454510" timestamp="2010-08-10T14:52:31Z" user="Mold0101" uid="82704" lat="45.1428440" lon="10.0113675"/>
@@ -82,10 +82,7 @@
  <node id="332193372" visible="true" version="5" changeset="35009173" timestamp="2015-11-01T11:09:17Z" user="Fredie" uid="2073275" lat="45.1435329" lon="10.0049210"/>
  <node id="332193373" visible="true" version="4" changeset="35009173" timestamp="2015-11-01T11:09:17Z" user="Fredie" uid="2073275" lat="45.1433587" lon="10.0063831"/>
  <node id="359750111" visible="true" version="3" changeset="39166196" timestamp="2016-05-07T15:33:03Z" user="Padus" uid="3889164" lat="45.1558848" lon="9.9964601"/>
- <node id="404736619" visible="true" version="5" changeset="91027966" timestamp="2020-09-17T07:28:17Z" user="Davide21B" uid="11728659" lat="45.1422521" lon="10.0069171">
-  <tag k="crossing:barrier" v="double_half"/>
-  <tag k="railway" v="level_crossing"/>
- </node>
+ <node id="404736619" visible="true" version="7" changeset="94159610" timestamp="2020-11-15T18:28:27Z" user="Michele Bonezzi" uid="12177545" lat="45.1422474" lon="10.0068997"/>
  <node id="412434482" visible="true" version="5" changeset="56425231" timestamp="2018-02-16T20:38:07Z" user="pigio66" uid="7507474" lat="45.1310565" lon="10.0401405"/>
  <node id="430914717" visible="true" version="4" changeset="63697220" timestamp="2018-10-20T07:19:28Z" user="Padus" uid="3889164" lat="45.1375565" lon="10.0186784"/>
  <node id="447742262" visible="true" version="3" changeset="63405218" timestamp="2018-10-11T07:42:35Z" user="Padus" uid="3889164" lat="45.1509479" lon="10.0197316">
@@ -218,6 +215,10 @@
  <node id="852939796" visible="true" version="2" changeset="7819968" timestamp="2011-04-10T07:38:51Z" user="Udini" uid="410505" lat="45.1404274" lon="10.0124461"/>
  <node id="852939798" visible="true" version="1" changeset="5453107" timestamp="2010-08-10T11:43:07Z" user="Mold0101" uid="82704" lat="45.1354010" lon="10.0103755"/>
  <node id="852939821" visible="true" version="3" changeset="63685349" timestamp="2018-10-19T17:20:50Z" user="Padus" uid="3889164" lat="45.1394643" lon="10.0127987"/>
+ <node id="852939825" visible="true" version="6" changeset="94344028" timestamp="2020-11-18T09:00:36Z" user="AlessioZappa" uid="12186632" lat="45.1407096" lon="10.0213807">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
  <node id="852939827" visible="true" version="1" changeset="5453107" timestamp="2010-08-10T11:43:07Z" user="Mold0101" uid="82704" lat="45.1402314" lon="10.0127027"/>
  <node id="852939833" visible="true" version="2" changeset="46163013" timestamp="2017-02-17T12:22:00Z" user="Senbee" uid="312126" lat="45.1400856" lon="10.0135341"/>
  <node id="852939835" visible="true" version="3" changeset="46163013" timestamp="2017-02-17T12:22:00Z" user="Senbee" uid="312126" lat="45.1377208" lon="10.0159217"/>
@@ -291,6 +292,7 @@
  <node id="858303656" visible="true" version="2" changeset="35009173" timestamp="2015-11-01T11:10:23Z" user="Fredie" uid="2073275" lat="45.1438610" lon="10.0029707"/>
  <node id="864609537" visible="true" version="1" changeset="5516278" timestamp="2010-08-17T10:07:44Z" user="Mold0101" uid="82704" lat="45.1327216" lon="10.0137544"/>
  <node id="864609559" visible="true" version="1" changeset="5516278" timestamp="2010-08-17T10:07:45Z" user="Mold0101" uid="82704" lat="45.1331189" lon="10.0135190"/>
+ <node id="866726023" visible="true" version="3" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1377293" lon="10.0296457"/>
  <node id="1239505142" visible="true" version="2" changeset="19240737" timestamp="2013-12-02T20:40:48Z" user="Graziano Capelli" uid="1172973" lat="45.1422584" lon="10.0146429"/>
  <node id="1239505145" visible="true" version="2" changeset="74207620" timestamp="2019-09-07T15:08:57Z" user="Benny4L" uid="647382" lat="45.1426194" lon="10.0175221"/>
  <node id="1239505149" visible="true" version="1" changeset="7819968" timestamp="2011-04-10T07:38:40Z" user="Udini" uid="410505" lat="45.1406104" lon="10.0131998"/>
@@ -737,6 +739,10 @@
  <node id="2061400767" visible="true" version="2" changeset="46136961" timestamp="2017-02-16T13:22:36Z" user="Senbee" uid="312126" lat="45.1389559" lon="10.0105996"/>
  <node id="2061400768" visible="true" version="1" changeset="14236789" timestamp="2012-12-11T11:11:59Z" user="adirricor" uid="245439" lat="45.1407729" lon="10.0109734"/>
  <node id="2061400769" visible="true" version="1" changeset="14236789" timestamp="2012-12-11T11:11:59Z" user="adirricor" uid="245439" lat="45.1417467" lon="10.0111446"/>
+ <node id="2090705759" visible="true" version="2" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1437712" lon="10.0106296">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
  <node id="2090705775" visible="true" version="1" changeset="14484529" timestamp="2013-01-01T09:29:30Z" user="Graziano Capelli" uid="1172973" lat="45.1422493" lon="10.0127641"/>
  <node id="2103346855" visible="true" version="1" changeset="14590619" timestamp="2013-01-09T20:15:25Z" user="Graziano Capelli" uid="1172973" lat="45.1505540" lon="10.0368151"/>
  <node id="2103346858" visible="true" version="2" changeset="34693880" timestamp="2015-10-17T13:29:19Z" user="Fredie" uid="2073275" lat="45.1539345" lon="9.9947836"/>
@@ -771,7 +777,7 @@
  <node id="2103346918" visible="true" version="2" changeset="34627699" timestamp="2015-10-14T08:07:27Z" user="Fredie" uid="2073275" lat="45.1342940" lon="10.0578776"/>
  <node id="2103346921" visible="true" version="3" changeset="34653698" timestamp="2015-10-15T12:36:36Z" user="Fredie" uid="2073275" lat="45.1258111" lon="10.0548330"/>
  <node id="2103346923" visible="true" version="2" changeset="34637437" timestamp="2015-10-14T17:03:00Z" user="Fredie" uid="2073275" lat="45.1280300" lon="10.0397120"/>
- <node id="2103346924" visible="true" version="2" changeset="34637437" timestamp="2015-10-14T17:03:00Z" user="Fredie" uid="2073275" lat="45.1262485" lon="10.0395781"/>
+ <node id="2103346924" visible="true" version="3" changeset="94572195" timestamp="2020-11-22T08:57:47Z" user="AlessioZappa" uid="12186632" lat="45.1262847" lon="10.0395852"/>
  <node id="2103346933" visible="true" version="2" changeset="34627699" timestamp="2015-10-14T08:07:27Z" user="Fredie" uid="2073275" lat="45.1436749" lon="10.0503335"/>
  <node id="2103346935" visible="true" version="1" changeset="14590619" timestamp="2013-01-09T20:15:26Z" user="Graziano Capelli" uid="1172973" lat="45.1496081" lon="10.0377378"/>
  <node id="2103346937" visible="true" version="3" changeset="34653698" timestamp="2015-10-15T12:36:36Z" user="Fredie" uid="2073275" lat="45.1290453" lon="10.0178633"/>
@@ -1017,7 +1023,7 @@
  <node id="2103347454" visible="true" version="1" changeset="14590619" timestamp="2013-01-09T20:15:31Z" user="Graziano Capelli" uid="1172973" lat="45.1293488" lon="10.0038403"/>
  <node id="2103347455" visible="true" version="1" changeset="14590619" timestamp="2013-01-09T20:15:31Z" user="Graziano Capelli" uid="1172973" lat="45.1540647" lon="10.0130507"/>
  <node id="2103347456" visible="true" version="1" changeset="14590619" timestamp="2013-01-09T20:15:31Z" user="Graziano Capelli" uid="1172973" lat="45.1554860" lon="10.0395306"/>
- <node id="2103347457" visible="true" version="2" changeset="34627699" timestamp="2015-10-14T08:07:28Z" user="Fredie" uid="2073275" lat="45.1374270" lon="10.0520659"/>
+ <node id="2103347457" visible="true" version="3" changeset="94947384" timestamp="2020-11-28T14:53:31Z" user="AlessioZappa" uid="12186632" lat="45.1374869" lon="10.0520429"/>
  <node id="2103347458" visible="true" version="2" changeset="34693880" timestamp="2015-10-17T13:29:20Z" user="Fredie" uid="2073275" lat="45.1470004" lon="9.9895946"/>
  <node id="2103347459" visible="true" version="1" changeset="14590619" timestamp="2013-01-09T20:15:31Z" user="Graziano Capelli" uid="1172973" lat="45.1375949" lon="10.0513315"/>
  <node id="2103347460" visible="true" version="2" changeset="34637437" timestamp="2015-10-14T17:03:02Z" user="Fredie" uid="2073275" lat="45.1280964" lon="10.0235321"/>
@@ -1030,6 +1036,8 @@
  <node id="2103347474" visible="true" version="1" changeset="14590619" timestamp="2013-01-09T20:15:31Z" user="Graziano Capelli" uid="1172973" lat="45.1550479" lon="10.0132761"/>
  <node id="2106374527" visible="true" version="3" changeset="51078878" timestamp="2017-08-13T11:17:49Z" user="Elia Z" uid="2914055" lat="45.1422540" lon="10.0066969"/>
  <node id="2106374537" visible="true" version="1" changeset="14614943" timestamp="2013-01-11T21:49:35Z" user="Graziano Capelli" uid="1172973" lat="45.1428428" lon="10.0111779"/>
+ <node id="2106374540" visible="true" version="1" changeset="14614943" timestamp="2013-01-11T21:49:35Z" user="Graziano Capelli" uid="1172973" lat="45.1433752" lon="10.0104957"/>
+ <node id="2106374545" visible="true" version="1" changeset="14614943" timestamp="2013-01-11T21:49:36Z" user="Graziano Capelli" uid="1172973" lat="45.1435341" lon="10.0104367"/>
  <node id="2264967828" visible="true" version="4" changeset="46163013" timestamp="2017-02-17T12:22:00Z" user="Senbee" uid="312126" lat="45.1362645" lon="10.0162644"/>
  <node id="2264967829" visible="true" version="4" changeset="63697220" timestamp="2018-10-20T07:19:28Z" user="Padus" uid="3889164" lat="45.1367185" lon="10.0175691"/>
  <node id="2369578864" visible="true" version="1" changeset="16784022" timestamp="2013-07-01T21:36:55Z" user="Carsten_FfM" uid="1413853" lat="45.1404408" lon="10.0126682"/>
@@ -1128,10 +1136,10 @@
  <node id="2561988897" visible="true" version="2" changeset="63420175" timestamp="2018-10-11T13:46:24Z" user="Padus" uid="3889164" lat="45.1418520" lon="10.0155853"/>
  <node id="2561988898" visible="true" version="2" changeset="63420175" timestamp="2018-10-11T13:46:24Z" user="Padus" uid="3889164" lat="45.1419089" lon="10.0155846"/>
  <node id="2836081294" visible="true" version="1" changeset="22128992" timestamp="2014-05-04T16:19:46Z" user="Davlak" uid="217070" lat="45.1408277" lon="10.0192094"/>
- <node id="2836081295" visible="true" version="1" changeset="22128992" timestamp="2014-05-04T16:19:46Z" user="Davlak" uid="217070" lat="45.1409480" lon="10.0192061"/>
+ <node id="2836081295" visible="true" version="2" changeset="94344028" timestamp="2020-11-18T09:00:36Z" user="AlessioZappa" uid="12186632" lat="45.1409339" lon="10.0192061"/>
  <node id="2836081296" visible="true" version="1" changeset="22128992" timestamp="2014-05-04T16:19:46Z" user="Davlak" uid="217070" lat="45.1409718" lon="10.0191252"/>
- <node id="2836081297" visible="true" version="1" changeset="22128992" timestamp="2014-05-04T16:19:46Z" user="Davlak" uid="217070" lat="45.1410083" lon="10.0192421"/>
- <node id="2836081298" visible="true" version="2" changeset="54991962" timestamp="2017-12-28T19:33:36Z" user="S_Am" uid="7360355" lat="45.1410748" lon="10.0190047"/>
+ <node id="2836081297" visible="true" version="2" changeset="94344028" timestamp="2020-11-18T09:00:36Z" user="AlessioZappa" uid="12186632" lat="45.1409692" lon="10.0192190"/>
+ <node id="2836081298" visible="true" version="3" changeset="94344028" timestamp="2020-11-18T09:00:36Z" user="AlessioZappa" uid="12186632" lat="45.1410194" lon="10.0190448"/>
  <node id="2836081801" visible="true" version="1" changeset="22128992" timestamp="2014-05-04T16:19:46Z" user="Davlak" uid="217070" lat="45.1411780" lon="10.0189183"/>
  <node id="2836081802" visible="true" version="1" changeset="22128992" timestamp="2014-05-04T16:19:46Z" user="Davlak" uid="217070" lat="45.1412530" lon="10.0188782"/>
  <node id="2836081803" visible="true" version="1" changeset="22128992" timestamp="2014-05-04T16:19:46Z" user="Davlak" uid="217070" lat="45.1412829" lon="10.0156777"/>
@@ -1535,6 +1543,7 @@
  <node id="3786370022" visible="true" version="1" changeset="34637437" timestamp="2015-10-14T17:02:07Z" user="Fredie" uid="2073275" lat="45.1259664" lon="10.0281870"/>
  <node id="3786370030" visible="true" version="1" changeset="34637437" timestamp="2015-10-14T17:02:07Z" user="Fredie" uid="2073275" lat="45.1260108" lon="10.0352195"/>
  <node id="3786370065" visible="true" version="1" changeset="34637437" timestamp="2015-10-14T17:02:08Z" user="Fredie" uid="2073275" lat="45.1262059" lon="10.0274192"/>
+ <node id="3786370121" visible="true" version="1" changeset="34637437" timestamp="2015-10-14T17:02:09Z" user="Fredie" uid="2073275" lat="45.1264376" lon="10.0386586"/>
  <node id="3786370139" visible="true" version="1" changeset="34637437" timestamp="2015-10-14T17:02:09Z" user="Fredie" uid="2073275" lat="45.1265135" lon="10.0387030"/>
  <node id="3786370161" visible="true" version="1" changeset="34637437" timestamp="2015-10-14T17:02:10Z" user="Fredie" uid="2073275" lat="45.1266358" lon="10.0286057"/>
  <node id="3786370232" visible="true" version="1" changeset="34637437" timestamp="2015-10-14T17:02:11Z" user="Fredie" uid="2073275" lat="45.1270042" lon="10.0252653"/>
@@ -2119,7 +2128,7 @@
  <node id="5305071467" visible="true" version="1" changeset="54934696" timestamp="2017-12-26T16:57:40Z" user="S_Am" uid="7360355" lat="45.1416993" lon="10.0186763"/>
  <node id="5308937194" visible="true" version="2" changeset="57907811" timestamp="2018-04-08T08:51:42Z" user="S_Am" uid="7360355" lat="45.1421645" lon="10.0166654"/>
  <node id="5308937196" visible="true" version="2" changeset="57907811" timestamp="2018-04-08T08:51:42Z" user="S_Am" uid="7360355" lat="45.1421703" lon="10.0170516"/>
- <node id="5308991393" visible="true" version="1" changeset="54991962" timestamp="2017-12-28T19:33:36Z" user="S_Am" uid="7360355" lat="45.1410502" lon="10.0192837"/>
+ <node id="5308991393" visible="true" version="2" changeset="94344028" timestamp="2020-11-18T09:00:36Z" user="AlessioZappa" uid="12186632" lat="45.1410035" lon="10.0192390"/>
  <node id="5308991394" visible="true" version="1" changeset="54991962" timestamp="2017-12-28T19:33:36Z" user="S_Am" uid="7360355" lat="45.1412432" lon="10.0158826"/>
  <node id="5308991395" visible="true" version="1" changeset="54991962" timestamp="2017-12-28T19:33:36Z" user="S_Am" uid="7360355" lat="45.1412186" lon="10.0159121"/>
  <node id="5308991396" visible="true" version="2" changeset="59737307" timestamp="2018-06-11T10:57:13Z" user="Mannivu" uid="1950277" lat="45.1411983" lon="10.0159515"/>
@@ -2130,6 +2139,7 @@
  <node id="5353286272" visible="true" version="1" changeset="55637765" timestamp="2018-01-21T20:47:03Z" user="S_Am" uid="7360355" lat="45.1520842" lon="9.9718781"/>
  <node id="5353286273" visible="true" version="1" changeset="55637765" timestamp="2018-01-21T20:47:03Z" user="S_Am" uid="7360355" lat="45.1520930" lon="9.9717403"/>
  <node id="5353286274" visible="true" version="1" changeset="55637765" timestamp="2018-01-21T20:47:03Z" user="S_Am" uid="7360355" lat="45.1520590" lon="9.9718556"/>
+ <node id="5377436717" visible="true" version="2" changeset="56635995" timestamp="2018-02-24T13:20:49Z" user="pigio66" uid="7507474" lat="45.1370578" lon="10.0310502"/>
  <node id="5428718830" visible="true" version="3" changeset="56635589" timestamp="2018-02-24T12:59:56Z" user="pigio66" uid="7507474" lat="45.1393561" lon="10.0262169">
   <tag k="crossing" v="traffic_signals"/>
   <tag k="highway" v="traffic_signals"/>
@@ -2217,7 +2227,26 @@
  <node id="5433301862" visible="true" version="1" changeset="56635589" timestamp="2018-02-24T12:59:51Z" user="pigio66" uid="7507474" lat="45.1411617" lon="10.0177136"/>
  <node id="5433301863" visible="true" version="1" changeset="56635589" timestamp="2018-02-24T12:59:52Z" user="pigio66" uid="7507474" lat="45.1411187" lon="10.0176076"/>
  <node id="5433301864" visible="true" version="1" changeset="56635589" timestamp="2018-02-24T12:59:52Z" user="pigio66" uid="7507474" lat="45.1411390" lon="10.0163702"/>
+ <node id="5433301865" visible="true" version="3" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1404093" lon="10.0222374">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="5433301866" visible="true" version="3" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1408651" lon="10.0206519">
+  <tag k="crossing" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="5433301894" visible="true" version="1" changeset="56635589" timestamp="2018-02-24T12:59:52Z" user="pigio66" uid="7507474" lat="45.1399112" lon="10.0239867"/>
+ <node id="5433301895" visible="true" version="1" changeset="56635589" timestamp="2018-02-24T12:59:52Z" user="pigio66" uid="7507474" lat="45.1399540" lon="10.0238115"/>
+ <node id="5433301896" visible="true" version="2" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1400000" lon="10.0237295"/>
  <node id="5433301898" visible="true" version="2" changeset="75862869" timestamp="2019-10-17T21:22:47Z" user="GiovanniC83" uid="9622178" lat="45.1399766" lon="10.0240745">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="5433301899" visible="true" version="2" changeset="75862869" timestamp="2019-10-17T21:22:47Z" user="GiovanniC83" uid="9622178" lat="45.1399427" lon="10.0238519">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="5433301900" visible="true" version="2" changeset="75862869" timestamp="2019-10-17T21:22:47Z" user="GiovanniC83" uid="9622178" lat="45.1399220" lon="10.0239318">
   <tag k="crossing" v="marked"/>
   <tag k="highway" v="crossing"/>
  </node>
@@ -2230,8 +2259,17 @@
   <tag k="highway" v="traffic_signals"/>
   <tag k="traffic_signals" v="signal"/>
  </node>
+ <node id="5433311121" visible="true" version="1" changeset="56635589" timestamp="2018-02-24T12:59:53Z" user="pigio66" uid="7507474" lat="45.1385903" lon="10.0276739"/>
+ <node id="5433311123" visible="true" version="1" changeset="56635589" timestamp="2018-02-24T12:59:53Z" user="pigio66" uid="7507474" lat="45.1387026" lon="10.0274933"/>
+ <node id="5433311127" visible="true" version="1" changeset="56635589" timestamp="2018-02-24T12:59:53Z" user="pigio66" uid="7507474" lat="45.1386671" lon="10.0275667"/>
+ <node id="5433311129" visible="true" version="3" changeset="75862869" timestamp="2019-10-17T21:22:47Z" user="GiovanniC83" uid="9622178" lat="45.1386129" lon="10.0276060">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="5433311137" visible="true" version="1" changeset="56635589" timestamp="2018-02-24T12:59:53Z" user="pigio66" uid="7507474" lat="45.1376143" lon="10.0298744"/>
  <node id="5448495043" visible="true" version="1" changeset="56823309" timestamp="2018-03-02T15:24:41Z" user="pigio66" uid="7507474" lat="45.1415333" lon="10.0191360"/>
  <node id="5448495044" visible="true" version="1" changeset="56823309" timestamp="2018-03-02T15:24:41Z" user="pigio66" uid="7507474" lat="45.1415756" lon="10.0190377"/>
+ <node id="5532627581" visible="true" version="2" changeset="94975453" timestamp="2020-11-29T08:40:06Z" user="AlessioZappa" uid="12186632" lat="45.1512177" lon="10.0102709"/>
  <node id="5537417421" visible="true" version="1" changeset="57907811" timestamp="2018-04-08T08:51:42Z" user="S_Am" uid="7360355" lat="45.1421935" lon="10.0165096"/>
  <node id="5537417422" visible="true" version="1" changeset="57907811" timestamp="2018-04-08T08:51:42Z" user="S_Am" uid="7360355" lat="45.1421872" lon="10.0160977"/>
  <node id="5537417423" visible="true" version="1" changeset="57907811" timestamp="2018-04-08T08:51:42Z" user="S_Am" uid="7360355" lat="45.1421953" lon="10.0174119"/>
@@ -5650,7 +5688,7 @@
  <node id="6027716717" visible="true" version="1" changeset="64051881" timestamp="2018-10-31T16:16:46Z" user="Padus" uid="3889164" lat="45.1423897" lon="10.0069746"/>
  <node id="6027716718" visible="true" version="1" changeset="64051881" timestamp="2018-10-31T16:16:46Z" user="Padus" uid="3889164" lat="45.1423235" lon="10.0068861"/>
  <node id="6027716719" visible="true" version="1" changeset="64051881" timestamp="2018-10-31T16:16:46Z" user="Padus" uid="3889164" lat="45.1423065" lon="10.0067681"/>
- <node id="6027716720" visible="true" version="1" changeset="64051881" timestamp="2018-10-31T16:16:46Z" user="Padus" uid="3889164" lat="45.1423197" lon="10.0067239"/>
+ <node id="6027716720" visible="true" version="2" changeset="94159501" timestamp="2020-11-15T18:24:45Z" user="Michele Bonezzi" uid="12177545" lat="45.1423256" lon="10.0067354"/>
  <node id="6027716721" visible="true" version="1" changeset="64051881" timestamp="2018-10-31T16:16:46Z" user="Padus" uid="3889164" lat="45.1423614" lon="10.0067292"/>
  <node id="6027716722" visible="true" version="1" changeset="64051881" timestamp="2018-10-31T16:16:46Z" user="Padus" uid="3889164" lat="45.1424541" lon="10.0068700"/>
  <node id="6027716723" visible="true" version="1" changeset="64051881" timestamp="2018-10-31T16:16:46Z" user="Padus" uid="3889164" lat="45.1425714" lon="10.0067292"/>
@@ -6751,6 +6789,110 @@
  <node id="7858099122" visible="true" version="1" changeset="90137224" timestamp="2020-08-30T07:17:55Z" user="astraspera" uid="2653653" lat="45.1403214" lon="10.0074551"/>
  <node id="7858099123" visible="true" version="1" changeset="90137224" timestamp="2020-08-30T07:17:55Z" user="astraspera" uid="2653653" lat="45.1404050" lon="10.0074995"/>
  <node id="7858099124" visible="true" version="1" changeset="90137224" timestamp="2020-08-30T07:17:55Z" user="astraspera" uid="2653653" lat="45.1403661" lon="10.0075322"/>
+ <node id="8121580116" visible="true" version="1" changeset="94159610" timestamp="2020-11-15T18:28:27Z" user="Michele Bonezzi" uid="12177545" lat="45.1422686" lon="10.0067635"/>
+ <node id="8121617683" visible="true" version="1" changeset="94159501" timestamp="2020-11-15T18:24:45Z" user="Michele Bonezzi" uid="12177545" lat="45.1423388" lon="10.0048470"/>
+ <node id="8121951938" visible="true" version="1" changeset="94164508" timestamp="2020-11-15T21:06:05Z" user="Filippo Locatelli" uid="12178187" lat="45.1378507" lon="10.0180397">
+  <tag k="addr:housenumber" v="111"/>
+  <tag k="addr:street" v="corso Garibaldi"/>
+  <tag k="description" v="pasticceria"/>
+  <tag k="name" v="Pasticceria Biancaneve"/>
+  <tag k="phone" v="3703259360"/>
+  <tag k="shop" v="pastry"/>
+ </node>
+ <node id="8133858448" visible="true" version="1" changeset="94340022" timestamp="2020-11-18T08:08:55Z" user="AlessioZappa" uid="12186632" lat="45.1440191" lon="10.0104013">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="8133858454" visible="true" version="1" changeset="94340022" timestamp="2020-11-18T08:08:55Z" user="AlessioZappa" uid="12186632" lat="45.1472346" lon="10.0102914">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="8133858455" visible="true" version="1" changeset="94340022" timestamp="2020-11-18T08:08:55Z" user="AlessioZappa" uid="12186632" lat="45.1502993" lon="10.0102175">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="8133945084" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1427611" lon="10.0150292"/>
+ <node id="8133945085" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1428685" lon="10.0148487"/>
+ <node id="8133945086" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1429683" lon="10.0147814"/>
+ <node id="8133945087" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1429747" lon="10.0147565"/>
+ <node id="8133945088" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1429351" lon="10.0110428"/>
+ <node id="8133945089" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1429755" lon="10.0108840"/>
+ <node id="8133945090" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1430405" lon="10.0107497"/>
+ <node id="8133945091" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1435840" lon="10.0104334"/>
+ <node id="8133945092" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1436507" lon="10.0104637"/>
+ <node id="8133945093" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1436977" lon="10.0105174"/>
+ <node id="8133945094" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1437166" lon="10.0105676"/>
+ <node id="8133945095" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1440107" lon="10.0104191">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="8133945096" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1437487" lon="10.0106447"/>
+ <node id="8133945097" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1438039" lon="10.0106038"/>
+ <node id="8133945098" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1437998" lon="10.0105489"/>
+ <node id="8133945099" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1438113" lon="10.0105186"/>
+ <node id="8133945100" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1439258" lon="10.0104228"/>
+ <node id="8133945101" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1439661" lon="10.0104217"/>
+ <node id="8133945102" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1440065" lon="10.0104380"/>
+ <node id="8133945103" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1440353" lon="10.0103645"/>
+ <node id="8133945104" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1440287" lon="10.0103283"/>
+ <node id="8133945105" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1440262" lon="10.0102933"/>
+ <node id="8133945106" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1440509" lon="10.0102571"/>
+ <node id="8133945107" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1440707" lon="10.0102419"/>
+ <node id="8133945108" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1441004" lon="10.0102127"/>
+ <node id="8133945109" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1441525" lon="10.0101921"/>
+ <node id="8133945110" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1452159" lon="10.0101603"/>
+ <node id="8133945111" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1460422" lon="10.0101532"/>
+ <node id="8133945112" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1465389" lon="10.0101744"/>
+ <node id="8133945113" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1471305" lon="10.0101957"/>
+ <node id="8133945114" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1471779" lon="10.0103019"/>
+ <node id="8133945115" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1472977" lon="10.0102877"/>
+ <node id="8133945116" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1473626" lon="10.0102240"/>
+ <node id="8133950217" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1473901" lon="10.0101992"/>
+ <node id="8133950218" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1511861" lon="10.0102407"/>
+ <node id="8133950220" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632" lat="45.1432775" lon="10.0105589"/>
+ <node id="8134128781" visible="true" version="1" changeset="94344028" timestamp="2020-11-18T09:00:36Z" user="AlessioZappa" uid="12186632" lat="45.1409720" lon="10.0205571">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="8134128783" visible="true" version="1" changeset="94344028" timestamp="2020-11-18T09:00:36Z" user="AlessioZappa" uid="12186632" lat="45.1382061" lon="10.0285582">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="8134128784" visible="true" version="1" changeset="94344028" timestamp="2020-11-18T09:00:36Z" user="AlessioZappa" uid="12186632" lat="45.1375147" lon="10.0300386">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="8134169451" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1370917" lon="10.0309850"/>
+ <node id="8134169452" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1371268" lon="10.0309819"/>
+ <node id="8134169453" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1373189" lon="10.0305439"/>
+ <node id="8134169454" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1373899" lon="10.0303538"/>
+ <node id="8134169455" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1374523" lon="10.0301617"/>
+ <node id="8134169456" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1377556" lon="10.0295936"/>
+ <node id="8134169457" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1377677" lon="10.0295295"/>
+ <node id="8134169458" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1380137" lon="10.0289746"/>
+ <node id="8134169459" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1389349" lon="10.0269236"/>
+ <node id="8134169460" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1391773" lon="10.0263605"/>
+ <node id="8134169461" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1392404" lon="10.0262091"/>
+ <node id="8134169462" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1393121" lon="10.0260028"/>
+ <node id="8134169463" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1395071" lon="10.0253401"/>
+ <node id="8134169464" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1396584" lon="10.0248413"/>
+ <node id="8134169465" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1401427" lon="10.0232375"/>
+ <node id="8134169466" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1402655" lon="10.0228045"/>
+ <node id="8134169467" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1404725" lon="10.0220575"/>
+ <node id="8134169468" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1405048" lon="10.0220026"/>
+ <node id="8134169469" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1405794" lon="10.0217465"/>
+ <node id="8134169470" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1408292" lon="10.0209426"/>
+ <node id="8134169471" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1408492" lon="10.0208277"/>
+ <node id="8134169472" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1408815" lon="10.0205309"/>
+ <node id="8134169473" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1409116" lon="10.0202585"/>
+ <node id="8134169474" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1409575" lon="10.0198774"/>
+ <node id="8134169475" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1410068" lon="10.0194226"/>
+ <node id="8134169476" visible="true" version="1" changeset="94344649" timestamp="2020-11-18T09:08:35Z" user="AlessioZappa" uid="12186632" lat="45.1410154" lon="10.0193057"/>
+ <node id="8173796861" visible="true" version="1" changeset="94947851" timestamp="2020-11-28T15:03:55Z" user="AlessioZappa" uid="12186632" lat="45.1408787" lon="10.0205518"/>
+ <node id="8173803260" visible="true" version="1" changeset="94947384" timestamp="2020-11-28T14:53:31Z" user="AlessioZappa" uid="12186632" lat="45.1374881" lon="10.0521484"/>
+ <node id="8177801306" visible="true" version="1" changeset="95007174" timestamp="2020-11-30T01:06:47Z" user="manfre_" uid="11647044" lat="45.1414150" lon="10.0156733"/>
+ <node id="8177842986" visible="true" version="1" changeset="95006979" timestamp="2020-11-30T01:02:36Z" user="manfre_" uid="11647044" lat="45.1415026" lon="10.0147721"/>
+ <node id="8177859576" visible="true" version="1" changeset="95006979" timestamp="2020-11-30T01:09:25Z" user="manfre_" uid="11647044" lat="45.1421917" lon="10.0151706"/>
  <way id="25859431" visible="true" version="31" changeset="69214485" timestamp="2019-04-14T21:28:26Z" user="GiovanniC83" uid="9622178">
   <nd ref="314627404"/>
   <nd ref="854301450"/>
@@ -6794,13 +6936,14 @@
   <tag k="name" v="Via Bergamo"/>
   <tag k="postal_code" v="26100"/>
  </way>
- <way id="25904834" visible="true" version="9" changeset="90765214" timestamp="2020-09-11T15:03:05Z" user="manfre_" uid="11647044">
+ <way id="25904834" visible="true" version="10" changeset="95006979" timestamp="2020-11-30T00:54:44Z" user="manfre_" uid="11647044">
   <nd ref="4688794701"/>
   <nd ref="282575316"/>
   <nd ref="282575317"/>
   <nd ref="4688794702"/>
   <tag k="highway" v="residential"/>
   <tag k="is_in" v="Cremona, Lombardia, Italy"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Spalato"/>
@@ -6809,7 +6952,7 @@
   <tag k="sidewalk" v="right"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="25904853" visible="true" version="11" changeset="89470880" timestamp="2020-08-16T12:46:11Z" user="manfre_" uid="11647044">
+ <way id="25904853" visible="true" version="12" changeset="95006979" timestamp="2020-11-30T00:49:43Z" user="manfre_" uid="11647044">
   <nd ref="2061400729"/>
   <nd ref="852939842"/>
   <nd ref="2061400707"/>
@@ -6819,6 +6962,7 @@
   <nd ref="852939460"/>
   <tag k="highway" v="residential"/>
   <tag k="is_in" v="Cremona, Lombardia, Italy"/>
+  <tag k="lanes" v="2"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Grado"/>
@@ -6826,7 +6970,7 @@
   <tag k="sidewalk" v="both"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="25904925" visible="true" version="9" changeset="89470726" timestamp="2020-08-16T13:00:51Z" user="manfre_" uid="11647044">
+ <way id="25904925" visible="true" version="11" changeset="95006979" timestamp="2020-11-30T01:00:43Z" user="manfre_" uid="11647044">
   <nd ref="282575748"/>
   <nd ref="852939253"/>
   <nd ref="852939479"/>
@@ -6835,23 +6979,27 @@
   <nd ref="852939495"/>
   <tag k="highway" v="residential"/>
   <tag k="is_in" v="Cremona, Lombardia, Italy"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Zara"/>
   <tag k="oneway" v="yes"/>
   <tag k="postal_code" v="26100"/>
+  <tag k="sidewalk" v="right"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="25904932" visible="true" version="8" changeset="89476954" timestamp="2020-08-16T16:54:17Z" user="manfre_" uid="11647044">
+ <way id="25904932" visible="true" version="11" changeset="95006979" timestamp="2020-11-30T01:02:43Z" user="manfre_" uid="11647044">
   <nd ref="282575967"/>
   <nd ref="852939952"/>
-  <nd ref="282575968"/>
+  <nd ref="8177842986"/>
   <tag k="highway" v="residential"/>
   <tag k="is_in" v="Cremona, Lombardia, Italy"/>
+  <tag k="lanes" v="2"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Montello"/>
   <tag k="postal_code" v="26100"/>
+  <tag k="sidewalk" v="both"/>
   <tag k="surface" v="asphalt"/>
  </way>
  <way id="25904973" visible="true" version="20" changeset="89419676" timestamp="2020-08-14T16:09:21Z" user="manfre_" uid="11647044">
@@ -6939,7 +7087,7 @@
   <tag k="name" v="Piazza Della Stazione"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="28612192" visible="true" version="12" changeset="89477764" timestamp="2020-08-16T16:55:54Z" user="manfre_" uid="11647044">
+ <way id="28612192" visible="true" version="13" changeset="95006979" timestamp="2020-11-30T01:05:58Z" user="manfre_" uid="11647044">
   <nd ref="2836081804"/>
   <nd ref="2561988858"/>
   <nd ref="2561988859"/>
@@ -6948,6 +7096,7 @@
   <nd ref="4688731480"/>
   <nd ref="4688731690"/>
   <tag k="highway" v="residential"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Piazza Risorgimento"/>
@@ -7039,21 +7188,23 @@
   <tag k="oneway" v="yes"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="71746114" visible="true" version="6" changeset="89470726" timestamp="2020-08-16T13:00:58Z" user="manfre_" uid="11647044">
+ <way id="71746114" visible="true" version="8" changeset="95006979" timestamp="2020-11-30T01:01:01Z" user="manfre_" uid="11647044">
   <nd ref="852939856"/>
   <nd ref="852939326"/>
   <nd ref="852939543"/>
   <nd ref="852939495"/>
   <tag k="highway" v="residential"/>
   <tag k="is_in" v="Cremona, Lombardia, Italy"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Zara"/>
   <tag k="oneway" v="yes"/>
   <tag k="postal_code" v="26100"/>
+  <tag k="sidewalk" v="none"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="71746116" visible="true" version="13" changeset="89445038" timestamp="2020-08-15T14:32:44Z" user="manfre_" uid="11647044">
+ <way id="71746116" visible="true" version="14" changeset="94372226" timestamp="2020-11-18T14:45:56Z" user="manfre_" uid="11647044">
   <nd ref="852939612"/>
   <nd ref="852939391"/>
   <nd ref="4690409401"/>
@@ -7069,6 +7220,7 @@
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via dei Mille"/>
   <tag k="oneway" v="yes"/>
+  <tag k="sidewalk" v="both"/>
   <tag k="surface" v="asphalt"/>
  </way>
  <way id="71746121" visible="true" version="9" changeset="89470726" timestamp="2020-08-16T13:49:48Z" user="manfre_" uid="11647044">
@@ -7083,7 +7235,7 @@
   <tag k="oneway" v="yes"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="71746125" visible="true" version="10" changeset="89471025" timestamp="2020-08-16T13:29:25Z" user="manfre_" uid="11647044">
+ <way id="71746125" visible="true" version="11" changeset="95006979" timestamp="2020-11-30T00:51:06Z" user="manfre_" uid="11647044">
   <nd ref="852939891"/>
   <nd ref="852939341"/>
   <nd ref="852939566"/>
@@ -7096,6 +7248,7 @@
   <nd ref="4690409391"/>
   <nd ref="852939490"/>
   <tag k="highway" v="residential"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Volturno"/>
@@ -7103,7 +7256,7 @@
   <tag k="sidewalk" v="both"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="71746126" visible="true" version="6" changeset="89470726" timestamp="2020-08-16T13:01:05Z" user="manfre_" uid="11647044">
+ <way id="71746126" visible="true" version="8" changeset="95006979" timestamp="2020-11-30T01:01:10Z" user="manfre_" uid="11647044">
   <nd ref="282575749"/>
   <nd ref="852939485"/>
   <nd ref="852939265"/>
@@ -7111,11 +7264,13 @@
   <nd ref="852939986"/>
   <tag k="highway" v="residential"/>
   <tag k="is_in" v="Cremona, Lombardia, Italy"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Zara"/>
   <tag k="oneway" v="yes"/>
   <tag k="postal_code" v="26100"/>
+  <tag k="sidewalk" v="right"/>
   <tag k="surface" v="asphalt"/>
  </way>
  <way id="71746131" visible="true" version="10" changeset="89780804" timestamp="2020-08-22T13:04:25Z" user="manfre_" uid="11647044">
@@ -7133,16 +7288,18 @@
   <tag k="sidewalk" v="both"/>
   <tag k="surface" v="sett"/>
  </way>
- <way id="71746132" visible="true" version="6" changeset="89470726" timestamp="2020-08-16T13:00:53Z" user="manfre_" uid="11647044">
+ <way id="71746132" visible="true" version="8" changeset="95006979" timestamp="2020-11-30T01:00:37Z" user="manfre_" uid="11647044">
   <nd ref="852939593"/>
   <nd ref="282575748"/>
   <tag k="highway" v="residential"/>
   <tag k="is_in" v="Cremona, Lombardia, Italy"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Zara"/>
   <tag k="oneway" v="yes"/>
   <tag k="postal_code" v="26100"/>
+  <tag k="sidewalk" v="right"/>
   <tag k="surface" v="asphalt"/>
  </way>
  <way id="71746133" visible="true" version="10" changeset="91763081" timestamp="2020-09-30T10:58:16Z" user="manfre_" uid="11647044">
@@ -7208,7 +7365,7 @@
   <tag k="oneway" v="yes"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="71746148" visible="true" version="6" changeset="89470726" timestamp="2020-08-16T13:00:38Z" user="manfre_" uid="11647044">
+ <way id="71746148" visible="true" version="8" changeset="95006979" timestamp="2020-11-30T01:00:18Z" user="manfre_" uid="11647044">
   <nd ref="852939856"/>
   <nd ref="852939319"/>
   <nd ref="852939986"/>
@@ -7227,8 +7384,10 @@
   <nd ref="852939856"/>
   <tag k="highway" v="residential"/>
   <tag k="junction" v="roundabout"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
+  <tag k="sidewalk" v="right"/>
   <tag k="surface" v="asphalt"/>
  </way>
  <way id="71746149" visible="true" version="12" changeset="58943831" timestamp="2018-05-14T08:31:59Z" user="pigio66" uid="7507474">
@@ -7293,7 +7452,7 @@
   <tag k="oneway" v="yes"/>
   <tag k="source" v="bing"/>
  </way>
- <way id="71746161" visible="true" version="8" changeset="90765214" timestamp="2020-09-11T14:53:26Z" user="manfre_" uid="11647044">
+ <way id="71746161" visible="true" version="9" changeset="95006979" timestamp="2020-11-30T00:50:07Z" user="manfre_" uid="11647044">
   <nd ref="852940003"/>
   <nd ref="852939379"/>
   <nd ref="852939924"/>
@@ -7301,13 +7460,14 @@
   <nd ref="852939355"/>
   <nd ref="282575748"/>
   <tag k="highway" v="residential"/>
+  <tag k="lanes" v="2"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Giuseppe Garibotti"/>
   <tag k="sidewalk" v="both"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="71746163" visible="true" version="10" changeset="89424592" timestamp="2020-08-14T18:02:35Z" user="manfre_" uid="11647044">
+ <way id="71746163" visible="true" version="11" changeset="95006979" timestamp="2020-11-30T00:46:06Z" user="manfre_" uid="11647044">
   <nd ref="852939391"/>
   <nd ref="852939262"/>
   <nd ref="4690409392"/>
@@ -7319,6 +7479,7 @@
   <nd ref="4690409398"/>
   <nd ref="852939548"/>
   <tag k="highway" v="residential"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Magenta"/>
@@ -7392,11 +7553,12 @@
   <tag k="oneway" v="yes"/>
   <tag k="tunnel" v="yes"/>
  </way>
- <way id="71889510" visible="true" version="7" changeset="89451918" timestamp="2020-08-15T17:10:36Z" user="manfre_" uid="11647044">
+ <way id="71889510" visible="true" version="8" changeset="95007080" timestamp="2020-11-30T00:53:04Z" user="manfre_" uid="11647044">
   <nd ref="854433065"/>
   <nd ref="854433113"/>
   <nd ref="2061400744"/>
   <nd ref="854433100"/>
+  <tag k="cycleway:both" v="no"/>
   <tag k="highway" v="residential"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed" v="40"/>
@@ -7404,41 +7566,43 @@
   <tag k="name" v="Via Pasubio"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="71889536" visible="true" version="5" changeset="89442116" timestamp="2020-08-15T10:49:48Z" user="manfre_" uid="11647044">
+ <way id="71889536" visible="true" version="8" changeset="95007174" timestamp="2020-11-30T00:59:05Z" user="manfre_" uid="11647044">
   <nd ref="854433165"/>
   <nd ref="3788861793"/>
   <nd ref="3788861753"/>
   <nd ref="854433176"/>
+  <tag k="cycleway:both" v="no"/>
   <tag k="highway" v="residential"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed" v="50"/>
   <tag k="name" v="Piazza Castello"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="71889542" visible="true" version="5" changeset="89442116" timestamp="2020-08-15T10:49:40Z" user="manfre_" uid="11647044">
+ <way id="71889542" visible="true" version="8" changeset="95007174" timestamp="2020-11-30T00:59:02Z" user="manfre_" uid="11647044">
   <nd ref="854433167"/>
   <nd ref="3788861757"/>
   <nd ref="854433100"/>
+  <tag k="cycleway:both" v="no"/>
   <tag k="highway" v="residential"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed" v="50"/>
   <tag k="name" v="Piazza Castello"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="107943177" visible="true" version="9" changeset="91027341" timestamp="2020-09-17T07:20:33Z" user="Davide21B" uid="11728659">
+ <way id="107943177" visible="true" version="12" changeset="95006979" timestamp="2020-11-30T01:09:43Z" user="manfre_" uid="11647044">
   <nd ref="1239505142"/>
   <nd ref="2561988860"/>
   <nd ref="1498943798"/>
-  <nd ref="2561988861"/>
-  <nd ref="282053574"/>
-  <nd ref="2561988874"/>
+  <nd ref="8177859576"/>
   <tag k="cycleway:right" v="shared_lane"/>
   <tag k="cycleway:right:lane" v="pictogram"/>
   <tag k="highway" v="secondary_link"/>
+  <tag k="lanes" v="2"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Ferruccio Ghinaglia"/>
   <tag k="oneway" v="yes"/>
+  <tag k="sidewalk" v="right"/>
   <tag k="surface" v="asphalt"/>
  </way>
  <way id="107943193" visible="true" version="6" changeset="89470880" timestamp="2020-08-16T13:07:46Z" user="manfre_" uid="11647044">
@@ -7452,7 +7616,7 @@
   <tag k="oneway" v="yes"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="107943194" visible="true" version="4" changeset="89470726" timestamp="2020-08-16T13:01:46Z" user="manfre_" uid="11647044">
+ <way id="107943194" visible="true" version="6" changeset="95006979" timestamp="2020-11-30T01:01:28Z" user="manfre_" uid="11647044">
   <nd ref="852939495"/>
   <nd ref="852939769"/>
   <nd ref="282575749"/>
@@ -7461,10 +7625,12 @@
   <nd ref="282575967"/>
   <tag k="highway" v="residential"/>
   <tag k="is_in" v="Cremona, Lombardia, Italy"/>
+  <tag k="lanes" v="2"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Zara"/>
   <tag k="postal_code" v="26100"/>
+  <tag k="sidewalk" v="both"/>
   <tag k="surface" v="asphalt"/>
  </way>
  <way id="124480174" visible="true" version="2" changeset="63417664" timestamp="2018-10-11T12:58:07Z" user="Padus" uid="3889164">
@@ -7767,10 +7933,11 @@
   <nd ref="1385675287"/>
   <tag k="highway" v="service"/>
  </way>
- <way id="126704820" visible="true" version="6" changeset="89476954" timestamp="2020-08-16T16:59:53Z" user="manfre_" uid="11647044">
+ <way id="126704820" visible="true" version="7" changeset="95006979" timestamp="2020-11-30T01:10:00Z" user="manfre_" uid="11647044">
   <nd ref="1239505163"/>
   <nd ref="282023794"/>
   <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Piazza Risorgimento"/>
@@ -7822,10 +7989,11 @@
   <tag k="surface" v="concrete"/>
   <tag k="width" v="4"/>
  </way>
- <way id="136628312" visible="true" version="7" changeset="91027282" timestamp="2020-09-17T07:19:45Z" user="Davide21B" uid="11728659">
+ <way id="136628312" visible="true" version="8" changeset="95007080" timestamp="2020-11-30T01:09:50Z" user="manfre_" uid="11647044">
   <nd ref="282023794"/>
   <nd ref="1498943801"/>
   <nd ref="1239505142"/>
+  <tag k="cycleway:right" v="no"/>
   <tag k="highway" v="secondary"/>
   <tag k="lanes" v="2"/>
   <tag k="maxspeed" v="50"/>
@@ -7955,11 +8123,11 @@
   <tag k="usage" v="branch"/>
   <tag k="voltage" v="3000"/>
  </way>
- <way id="195722062" visible="true" version="7" changeset="90765214" timestamp="2020-09-11T15:03:00Z" user="manfre_" uid="11647044">
+ <way id="195722062" visible="true" version="9" changeset="95006979" timestamp="2020-11-30T00:55:31Z" user="manfre_" uid="11647044">
   <nd ref="4688794702"/>
   <nd ref="2061400766"/>
-  <nd ref="2061400730"/>
   <tag k="highway" v="residential"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Spalato"/>
@@ -7967,11 +8135,13 @@
   <tag k="sidewalk" v="right"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="195722063" visible="true" version="8" changeset="90765214" timestamp="2020-09-11T14:58:28Z" user="manfre_" uid="11647044">
+ <way id="195722063" visible="true" version="10" changeset="95006979" timestamp="2020-11-30T00:53:25Z" user="manfre_" uid="11647044">
   <nd ref="2061400744"/>
   <nd ref="2061400758"/>
   <nd ref="6140598561"/>
+  <tag k="cycleway:both" v="no"/>
   <tag k="highway" v="residential"/>
+  <tag k="lanes" v="2"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed" v="40"/>
   <tag k="maxspeed:type" v="sign"/>
@@ -8095,7 +8265,7 @@
   <tag k="name" v="Via Angelo Massarotti"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="195722075" visible="true" version="6" changeset="90765214" timestamp="2020-09-11T15:01:27Z" user="manfre_" uid="11647044">
+ <way id="195722075" visible="true" version="7" changeset="95006979" timestamp="2020-11-30T00:54:05Z" user="manfre_" uid="11647044">
   <nd ref="2061400767"/>
   <nd ref="2061400736"/>
   <nd ref="2061400754"/>
@@ -8118,17 +8288,19 @@
   <nd ref="2061400767"/>
   <tag k="highway" v="residential"/>
   <tag k="junction" v="roundabout"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="sidewalk" v="none"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="195722076" visible="true" version="7" changeset="90765214" timestamp="2020-09-11T15:00:54Z" user="manfre_" uid="11647044">
+ <way id="195722076" visible="true" version="8" changeset="95006979" timestamp="2020-11-30T00:53:51Z" user="manfre_" uid="11647044">
   <nd ref="2061400729"/>
   <nd ref="2061400742"/>
   <nd ref="2061400712"/>
   <nd ref="2061400694"/>
   <tag k="highway" v="residential"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Grado"/>
@@ -8171,11 +8343,12 @@
   <tag k="sidewalk" v="both"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="195722080" visible="true" version="8" changeset="90765214" timestamp="2020-09-11T15:01:20Z" user="manfre_" uid="11647044">
+ <way id="195722080" visible="true" version="9" changeset="95006979" timestamp="2020-11-30T00:53:58Z" user="manfre_" uid="11647044">
   <nd ref="2061400696"/>
   <nd ref="2061400739"/>
   <nd ref="2061400722"/>
   <tag k="highway" v="residential"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Spalato"/>
@@ -8190,12 +8363,13 @@
   <tag k="lit" v="yes"/>
   <tag k="surface" v="paving_stones"/>
  </way>
- <way id="195722082" visible="true" version="5" changeset="90765214" timestamp="2020-09-11T15:02:24Z" user="manfre_" uid="11647044">
+ <way id="195722082" visible="true" version="6" changeset="95006979" timestamp="2020-11-30T00:54:24Z" user="manfre_" uid="11647044">
   <nd ref="2061400746"/>
   <nd ref="282575320"/>
   <nd ref="2061400722"/>
   <tag k="highway" v="residential"/>
   <tag k="is_in" v="Cremona, Lombardia, Italy"/>
+  <tag k="lanes" v="2"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Spalato"/>
@@ -8214,7 +8388,7 @@
   <tag k="oneway" v="yes"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="200345416" visible="true" version="20" changeset="81425061" timestamp="2020-02-24T22:08:14Z" user="GiovanniC83" uid="9622178">
+ <way id="200345416" visible="true" version="22" changeset="94947384" timestamp="2020-11-28T14:53:31Z" user="AlessioZappa" uid="12186632">
   <nd ref="2103347031"/>
   <nd ref="2103347274"/>
   <nd ref="2103347215"/>
@@ -8454,6 +8628,7 @@
   <nd ref="2103347171"/>
   <nd ref="2103346986"/>
   <nd ref="2103346990"/>
+  <nd ref="8173803260"/>
   <nd ref="2103347457"/>
   <nd ref="2103346947"/>
   <nd ref="3785857763"/>
@@ -8529,6 +8704,7 @@
   <nd ref="2103347181"/>
   <nd ref="2103346924"/>
   <nd ref="3786370139"/>
+  <nd ref="3786370121"/>
   <nd ref="2103347360"/>
   <nd ref="852912056"/>
   <nd ref="2103347207"/>
@@ -8730,43 +8906,48 @@
   <tag k="fee" v="no"/>
   <tag k="parking" v="surface"/>
  </way>
- <way id="249617397" visible="true" version="7" changeset="89470880" timestamp="2020-08-16T13:34:23Z" user="manfre_" uid="11647044">
-  <nd ref="282575968"/>
+ <way id="249617397" visible="true" version="12" changeset="95006979" timestamp="2020-11-30T01:11:47Z" user="manfre_" uid="11647044">
   <nd ref="2836081803"/>
   <nd ref="4690409417"/>
   <nd ref="4690409416"/>
   <tag k="highway" v="residential"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Corso Giuseppe Garibaldi"/>
   <tag k="oneway" v="yes"/>
+  <tag k="sidewalk" v="right"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="249617398" visible="true" version="5" changeset="89419783" timestamp="2020-08-14T16:12:52Z" user="manfre_" uid="11647044">
+ <way id="249617398" visible="true" version="7" changeset="95006979" timestamp="2020-11-30T01:03:55Z" user="manfre_" uid="11647044">
   <nd ref="4690409416"/>
   <nd ref="2561988854"/>
   <nd ref="2561988848"/>
   <tag k="highway" v="residential"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Corso Giuseppe Garibaldi"/>
   <tag k="oneway" v="yes"/>
+  <tag k="sidewalk" v="right"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="249617399" visible="true" version="5" changeset="89419783" timestamp="2020-08-14T16:11:34Z" user="manfre_" uid="11647044">
+ <way id="249617399" visible="true" version="7" changeset="95006979" timestamp="2020-11-30T01:04:37Z" user="manfre_" uid="11647044">
   <nd ref="2561988854"/>
   <nd ref="2561988855"/>
   <nd ref="5308991396"/>
   <nd ref="2561988857"/>
   <nd ref="2561988856"/>
   <tag k="highway" v="residential"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Corso Giuseppe Garibaldi"/>
   <tag k="oneway" v="yes"/>
+  <tag k="sidewalk" v="right"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="249617401" visible="true" version="8" changeset="89476954" timestamp="2020-08-16T16:57:44Z" user="manfre_" uid="11647044">
+ <way id="249617401" visible="true" version="12" changeset="95007337" timestamp="2020-11-30T01:10:38Z" user="manfre_" uid="11647044">
   <nd ref="2561988870"/>
   <nd ref="4688731487"/>
   <nd ref="4688731488"/>
@@ -8775,11 +8956,15 @@
   <nd ref="4688731484"/>
   <nd ref="4688731483"/>
   <nd ref="4688731690"/>
+  <tag k="cycleway:right" v="no"/>
+  <tag k="foot" v="use_sidepath"/>
   <tag k="highway" v="tertiary"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Piazza Risorgimento"/>
   <tag k="oneway" v="yes"/>
+  <tag k="sidewalk" v="separate"/>
   <tag k="surface" v="asphalt"/>
  </way>
  <way id="249617402" visible="true" version="1" changeset="19240737" timestamp="2013-12-02T20:40:47Z" user="Graziano Capelli" uid="1172973">
@@ -8831,14 +9016,13 @@
   <tag k="fee" v="yes"/>
   <tag k="parking" v="surface"/>
  </way>
- <way id="279400411" visible="true" version="8" changeset="89476954" timestamp="2020-08-16T16:55:44Z" user="manfre_" uid="11647044">
+ <way id="279400411" visible="true" version="11" changeset="95007174" timestamp="2020-11-30T01:07:47Z" user="manfre_" uid="11647044">
   <nd ref="2561988874"/>
   <nd ref="2561988849"/>
   <nd ref="282024199"/>
   <nd ref="282575968"/>
-  <nd ref="2561988851"/>
-  <nd ref="2561988852"/>
-  <nd ref="2836081804"/>
+  <nd ref="8177801306"/>
+  <tag k="cycleway:right" v="no"/>
   <tag k="highway" v="secondary"/>
   <tag k="lanes" v="2"/>
   <tag k="lit" v="yes"/>
@@ -8847,9 +9031,10 @@
   <tag k="old_name" v="Porta Milano"/>
   <tag k="oneway" v="yes"/>
   <tag k="postal_code" v="26100"/>
+  <tag k="sidewalk" v="right"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="279400416" visible="true" version="8" changeset="89477088" timestamp="2020-08-16T16:57:31Z" user="manfre_" uid="11647044">
+ <way id="279400416" visible="true" version="9" changeset="95007080" timestamp="2020-11-30T01:10:07Z" user="manfre_" uid="11647044">
   <nd ref="2561988870"/>
   <nd ref="4688731486"/>
   <nd ref="6405157887"/>
@@ -8857,6 +9042,7 @@
   <nd ref="6405157890"/>
   <nd ref="282052635"/>
   <nd ref="282023794"/>
+  <tag k="cycleway:right" v="no"/>
   <tag k="highway" v="secondary"/>
   <tag k="is_in" v="Cremona, Lombardia, Italy"/>
   <tag k="lanes" v="2"/>
@@ -9012,7 +9198,7 @@
   <nd ref="5537417426"/>
   <tag k="highway" v="footway"/>
  </way>
- <way id="297249216" visible="true" version="4" changeset="89582060" timestamp="2020-08-18T14:51:24Z" user="fedc" uid="602784">
+ <way id="297249216" visible="true" version="5" changeset="94159501" timestamp="2020-11-15T18:24:45Z" user="Michele Bonezzi" uid="12177545">
   <nd ref="7823451699"/>
   <nd ref="7823451698"/>
   <nd ref="7823451697"/>
@@ -9020,18 +9206,20 @@
   <nd ref="3011062044"/>
   <nd ref="3011062045"/>
   <nd ref="3011062046"/>
+  <nd ref="8121617683"/>
   <nd ref="3011062047"/>
   <tag k="historic" v="railway"/>
   <tag k="name" v="Ex Ferrovia Cremona-Iseo"/>
   <tag k="railway" v="razed"/>
  </way>
- <way id="306801090" visible="true" version="5" changeset="89442116" timestamp="2020-08-15T10:56:44Z" user="manfre_" uid="11647044">
+ <way id="306801090" visible="true" version="6" changeset="95007174" timestamp="2020-11-30T00:59:29Z" user="manfre_" uid="11647044">
   <nd ref="2061400768"/>
   <nd ref="854433165"/>
   <tag k="highway" v="residential"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Gradisca"/>
+  <tag k="sidewalk" v="left"/>
   <tag k="surface" v="asphalt"/>
  </way>
  <way id="307129664" visible="true" version="8" changeset="89452738" timestamp="2020-08-15T17:42:08Z" user="manfre_" uid="11647044">
@@ -9503,7 +9691,7 @@
   <tag k="leaf_type" v="mixed"/>
   <tag k="natural" v="wood"/>
  </way>
- <way id="375524891" visible="true" version="3" changeset="64051881" timestamp="2018-10-31T16:16:52Z" user="Padus" uid="3889164">
+ <way id="375524891" visible="true" version="4" changeset="94159610" timestamp="2020-11-15T18:28:27Z" user="Michele Bonezzi" uid="12177545">
   <nd ref="3788861980"/>
   <nd ref="6027716698"/>
   <nd ref="3788861975"/>
@@ -9529,6 +9717,7 @@
   <nd ref="3788861872"/>
   <nd ref="2106374527"/>
   <nd ref="3788861878"/>
+  <nd ref="8121580116"/>
   <nd ref="3788861890"/>
   <nd ref="3788861897"/>
   <nd ref="6027716714"/>
@@ -10236,10 +10425,11 @@
   <tag k="name" v="Via Dalmazia"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="475058531" visible="true" version="5" changeset="89476954" timestamp="2020-08-16T16:59:34Z" user="manfre_" uid="11647044">
+ <way id="475058531" visible="true" version="6" changeset="95006979" timestamp="2020-11-30T01:08:23Z" user="manfre_" uid="11647044">
   <nd ref="282023794"/>
   <nd ref="2561988874"/>
   <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Piazza Risorgimento"/>
@@ -10247,19 +10437,21 @@
   <tag k="source" v="GPS-track (bicicletta da corsa)"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="475058532" visible="true" version="4" changeset="89476954" timestamp="2020-08-16T16:59:33Z" user="manfre_" uid="11647044">
+ <way id="475058532" visible="true" version="6" changeset="95006979" timestamp="2020-11-30T01:08:55Z" user="manfre_" uid="11647044">
   <nd ref="4688731690"/>
   <nd ref="282023794"/>
   <tag k="highway" v="residential"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Piazza Risorgimento"/>
   <tag k="old_name" v="Porta Milano"/>
   <tag k="oneway" v="yes"/>
   <tag k="postal_code" v="26100"/>
+  <tag k="sidewalk" v="none"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="475058533" visible="true" version="5" changeset="89476954" timestamp="2020-08-16T16:59:36Z" user="manfre_" uid="11647044">
+ <way id="475058533" visible="true" version="6" changeset="95006979" timestamp="2020-11-30T01:08:52Z" user="manfre_" uid="11647044">
   <nd ref="1498943798"/>
   <nd ref="4688731694"/>
   <nd ref="4688731693"/>
@@ -10267,6 +10459,7 @@
   <nd ref="4688731691"/>
   <nd ref="282023794"/>
   <tag k="highway" v="secondary"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Piazza Risorgimento"/>
@@ -10287,11 +10480,12 @@
   <tag k="sidewalk" v="both"/>
   <tag k="surface" v="sett"/>
  </way>
- <way id="475067162" visible="true" version="7" changeset="90765214" timestamp="2020-09-11T15:01:15Z" user="manfre_" uid="11647044">
+ <way id="475067162" visible="true" version="8" changeset="95006979" timestamp="2020-11-30T00:53:55Z" user="manfre_" uid="11647044">
   <nd ref="2061400722"/>
   <nd ref="4688794695"/>
   <nd ref="2061400765"/>
   <tag k="highway" v="residential"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Spalato"/>
@@ -10299,11 +10493,12 @@
   <tag k="sidewalk" v="right"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="475067163" visible="true" version="6" changeset="90765214" timestamp="2020-09-11T15:00:48Z" user="manfre_" uid="11647044">
+ <way id="475067163" visible="true" version="7" changeset="95006979" timestamp="2020-11-30T00:53:47Z" user="manfre_" uid="11647044">
   <nd ref="2061400700"/>
   <nd ref="2061400757"/>
   <nd ref="2061400729"/>
   <tag k="highway" v="residential"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Grado"/>
@@ -10311,10 +10506,11 @@
   <tag k="sidewalk" v="right"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="475067164" visible="true" version="6" changeset="90765214" timestamp="2020-09-11T15:02:51Z" user="manfre_" uid="11647044">
+ <way id="475067164" visible="true" version="7" changeset="95006979" timestamp="2020-11-30T00:55:39Z" user="manfre_" uid="11647044">
   <nd ref="2061400746"/>
   <nd ref="4688794702"/>
   <tag k="highway" v="residential"/>
+  <tag k="lanes" v="2"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Spalato"/>
@@ -10383,10 +10579,11 @@
   <tag k="sidewalk" v="both"/>
   <tag k="surface" v="sett"/>
  </way>
- <way id="475078374" visible="true" version="4" changeset="89476954" timestamp="2020-08-16T17:06:07Z" user="manfre_" uid="11647044">
+ <way id="475078374" visible="true" version="5" changeset="95006979" timestamp="2020-11-30T01:05:35Z" user="manfre_" uid="11647044">
   <nd ref="2561988848"/>
   <nd ref="2836081804"/>
   <tag k="highway" v="residential"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Piazza Risorgimento"/>
@@ -10395,9 +10592,10 @@
   <tag k="postal_code" v="26100"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="475078375" visible="true" version="4" changeset="89476954" timestamp="2020-08-16T17:06:08Z" user="manfre_" uid="11647044">
+ <way id="475078375" visible="true" version="6" changeset="95007174" timestamp="2020-11-30T01:05:32Z" user="manfre_" uid="11647044">
   <nd ref="2836081804"/>
   <nd ref="2561988847"/>
+  <tag k="cycleway:right" v="no"/>
   <tag k="highway" v="secondary"/>
   <tag k="lanes" v="2"/>
   <tag k="lit" v="yes"/>
@@ -10406,18 +10604,22 @@
   <tag k="old_name" v="Porta Milano"/>
   <tag k="oneway" v="yes"/>
   <tag k="postal_code" v="26100"/>
+  <tag k="sidewalk" v="both"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="475271026" visible="true" version="5" changeset="89476954" timestamp="2020-08-16T16:59:31Z" user="manfre_" uid="11647044">
+ <way id="475271026" visible="true" version="8" changeset="95007337" timestamp="2020-11-30T01:08:05Z" user="manfre_" uid="11647044">
   <nd ref="4688731690"/>
   <nd ref="4688731482"/>
   <nd ref="2561988874"/>
   <tag k="cycleway:right" v="no"/>
+  <tag k="foot" v="use_sidepath"/>
   <tag k="highway" v="tertiary"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Dante"/>
   <tag k="oneway" v="yes"/>
+  <tag k="sidewalk" v="separate"/>
   <tag k="surface" v="asphalt"/>
  </way>
  <way id="475274461" visible="true" version="4" changeset="89470726" timestamp="2020-08-16T13:45:49Z" user="manfre_" uid="11647044">
@@ -10459,13 +10661,15 @@
   <tag k="oneway" v="yes"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="475274464" visible="true" version="4" changeset="89470726" timestamp="2020-08-16T13:34:17Z" user="manfre_" uid="11647044">
+ <way id="475274464" visible="true" version="6" changeset="95006979" timestamp="2020-11-30T01:03:40Z" user="manfre_" uid="11647044">
   <nd ref="852939891"/>
   <nd ref="4690409416"/>
   <tag k="highway" v="residential"/>
+  <tag k="lanes" v="2"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Corso Giuseppe Garibaldi"/>
+  <tag k="sidewalk" v="both"/>
   <tag k="surface" v="asphalt"/>
  </way>
  <way id="476301536" visible="true" version="5" changeset="89470726" timestamp="2020-08-16T13:40:55Z" user="manfre_" uid="11647044">
@@ -10487,12 +10691,13 @@
   <tag k="lit" v="no"/>
   <tag k="surface" v="concrete"/>
  </way>
- <way id="483081520" visible="true" version="5" changeset="89423461" timestamp="2020-08-14T17:39:30Z" user="manfre_" uid="11647044">
+ <way id="483081520" visible="true" version="6" changeset="94372307" timestamp="2020-11-18T14:47:01Z" user="manfre_" uid="11647044">
   <nd ref="4758363384"/>
   <nd ref="4758363379"/>
   <nd ref="4758363383"/>
   <nd ref="4758363382"/>
   <nd ref="4758363381"/>
+  <tag k="cycleway:right" v="no"/>
   <tag k="highway" v="unclassified"/>
   <tag k="lit" v="no"/>
   <tag k="maxspeed:type" v="IT:urban"/>
@@ -10838,8 +11043,9 @@
   <nd ref="5432814313"/>
   <tag k="barrier" v="jersey_barrier"/>
  </way>
- <way id="563864842" visible="true" version="2" changeset="56639741" timestamp="2018-02-24T16:07:36Z" user="pigio66" uid="7507474">
+ <way id="563864842" visible="true" version="3" changeset="94344028" timestamp="2020-11-18T09:00:36Z" user="AlessioZappa" uid="12186632">
   <nd ref="5429474584"/>
+  <nd ref="8134128781"/>
   <nd ref="282047848"/>
   <nd ref="1496555610"/>
   <nd ref="282047833"/>
@@ -11814,7 +12020,7 @@
   <nd ref="5887638720"/>
   <tag k="landuse" v="grass"/>
  </way>
- <way id="623424879" visible="true" version="4" changeset="89442116" timestamp="2020-08-15T10:47:22Z" user="manfre_" uid="11647044">
+ <way id="623424879" visible="true" version="5" changeset="95007174" timestamp="2020-11-30T00:58:31Z" user="manfre_" uid="11647044">
   <nd ref="854433100"/>
   <nd ref="2061400719"/>
   <nd ref="854433176"/>
@@ -11822,6 +12028,7 @@
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Pasubio"/>
+  <tag k="sidewalk" v="both"/>
   <tag k="surface" v="asphalt"/>
  </way>
  <way id="623424880" visible="true" version="1" changeset="62340100" timestamp="2018-09-06T11:58:17Z" user="Denisov21" uid="817066">
@@ -11882,10 +12089,11 @@
   <tag k="building" v="kindergarten"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="623424888" visible="true" version="5" changeset="90765214" timestamp="2020-09-11T14:53:37Z" user="manfre_" uid="11647044">
+ <way id="623424888" visible="true" version="6" changeset="95006979" timestamp="2020-11-30T00:52:47Z" user="manfre_" uid="11647044">
   <nd ref="854433176"/>
   <nd ref="852939548"/>
   <tag k="highway" v="residential"/>
+  <tag k="lanes" v="2"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Via Pasubio"/>
@@ -11903,13 +12111,15 @@
   <tag k="building" v="retail"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="623424891" visible="true" version="3" changeset="89442116" timestamp="2020-08-15T10:49:53Z" user="manfre_" uid="11647044">
+ <way id="623424891" visible="true" version="5" changeset="95007174" timestamp="2020-11-30T00:59:35Z" user="manfre_" uid="11647044">
   <nd ref="854433167"/>
   <nd ref="2061400768"/>
+  <tag k="cycleway:both" v="no"/>
   <tag k="highway" v="residential"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed" v="50"/>
   <tag k="name" v="Via Sabotino"/>
+  <tag k="sidewalk" v="left"/>
   <tag k="surface" v="asphalt"/>
  </way>
  <way id="623424893" visible="true" version="5" changeset="89471163" timestamp="2020-08-16T13:27:50Z" user="manfre_" uid="11647044">
@@ -13917,7 +14127,7 @@
   <nd ref="5975374314"/>
   <tag k="building" v="residential"/>
  </way>
- <way id="632945321" visible="true" version="2" changeset="89476598" timestamp="2020-08-16T17:25:06Z" user="manfre_" uid="11647044">
+ <way id="632945321" visible="true" version="3" changeset="94158250" timestamp="2020-11-15T17:53:18Z" user="Michele Bonezzi" uid="12177545">
   <nd ref="5975374322"/>
   <nd ref="5975374323"/>
   <nd ref="5975374306"/>
@@ -13930,8 +14140,14 @@
   <nd ref="5975374327"/>
   <nd ref="5975374328"/>
   <nd ref="5975374322"/>
+  <tag k="addr:city" v="Cremona"/>
+  <tag k="addr:housenumber" v="231"/>
+  <tag k="addr:postcode" v="26100"/>
+  <tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
+  <tag k="architect" v="Gianfranco Del Bon"/>
   <tag k="building" v="residential"/>
   <tag k="building:levels" v="3"/>
+  <tag k="building:levels:underground" v="1"/>
  </way>
  <way id="632945323" visible="true" version="2" changeset="89476598" timestamp="2020-08-16T17:25:13Z" user="manfre_" uid="11647044">
   <nd ref="5975374323"/>
@@ -19786,7 +20002,7 @@
   <tag k="sidewalk" v="both"/>
   <tag k="surface" v="sett"/>
  </way>
- <way id="683790765" visible="true" version="3" changeset="89477088" timestamp="2020-08-16T16:58:30Z" user="manfre_" uid="11647044">
+ <way id="683790765" visible="true" version="4" changeset="95006979" timestamp="2020-11-30T01:10:50Z" user="manfre_" uid="11647044">
   <nd ref="6405157887"/>
   <nd ref="6405157891"/>
   <nd ref="6405157893"/>
@@ -19795,6 +20011,7 @@
   <nd ref="6405157892"/>
   <nd ref="6405157890"/>
   <tag k="highway" v="residential"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Piazza Risorgimento"/>
   <tag k="surface" v="asphalt"/>
@@ -20083,7 +20300,7 @@
   <nd ref="7858065184"/>
   <nd ref="7858099085"/>
  </way>
- <way id="846457915" visible="true" version="2" changeset="90765214" timestamp="2020-09-11T15:00:18Z" user="manfre_" uid="11647044">
+ <way id="846457915" visible="true" version="3" changeset="95006979" timestamp="2020-11-30T00:54:17Z" user="manfre_" uid="11647044">
   <nd ref="4688794696"/>
   <nd ref="2061400712"/>
   <nd ref="2061400694"/>
@@ -20094,6 +20311,7 @@
   <nd ref="2061400721"/>
   <nd ref="4688794699"/>
   <tag k="highway" v="residential"/>
+  <tag k="lane_markings" v="no"/>
   <tag k="lit" v="yes"/>
   <tag k="maxspeed:type" v="IT:urban"/>
   <tag k="name" v="Piazza XXIV Maggio"/>
@@ -20101,7 +20319,208 @@
   <tag k="sidewalk" v="none"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <relation id="183626" visible="true" version="56" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
+ <way id="873423068" visible="true" version="2" changeset="94975453" timestamp="2020-11-29T08:40:06Z" user="AlessioZappa" uid="12186632">
+  <nd ref="8133950220"/>
+  <nd ref="2106374540"/>
+  <nd ref="2106374545"/>
+  <nd ref="8133945091"/>
+  <nd ref="8133945092"/>
+  <nd ref="8133945093"/>
+  <nd ref="8133945094"/>
+  <nd ref="8133945096"/>
+  <nd ref="2090705759"/>
+  <nd ref="8133945097"/>
+  <nd ref="8133945098"/>
+  <nd ref="8133945099"/>
+  <nd ref="8133945100"/>
+  <nd ref="8133945101"/>
+  <nd ref="8133945102"/>
+  <nd ref="8133945095"/>
+  <nd ref="8133858448"/>
+  <nd ref="8133945103"/>
+  <nd ref="8133945104"/>
+  <nd ref="8133945105"/>
+  <nd ref="8133945106"/>
+  <nd ref="8133945107"/>
+  <nd ref="8133945108"/>
+  <nd ref="8133945109"/>
+  <nd ref="8133945110"/>
+  <nd ref="8133945111"/>
+  <nd ref="8133945112"/>
+  <nd ref="8133945113"/>
+  <nd ref="8133945114"/>
+  <nd ref="8133858454"/>
+  <nd ref="8133945115"/>
+  <nd ref="8133945116"/>
+  <nd ref="8133950217"/>
+  <nd ref="8133858455"/>
+  <nd ref="8133950218"/>
+  <nd ref="5532627581"/>
+  <tag k="bicycle" v="designated"/>
+  <tag k="foot" v="designated"/>
+  <tag k="highway" v="cycleway"/>
+  <tag k="name" v="Pista 5 Biciplan Cremona"/>
+  <tag k="oneway" v="no"/>
+  <tag k="segregated" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="873423069" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632">
+  <nd ref="2561988866"/>
+  <nd ref="8133945084"/>
+  <nd ref="8133945085"/>
+  <nd ref="8133945086"/>
+  <nd ref="8133945087"/>
+  <nd ref="8133945088"/>
+  <nd ref="8133945089"/>
+  <nd ref="8133945090"/>
+  <nd ref="6027741161"/>
+  <tag k="bicycle" v="designated"/>
+  <tag k="foot" v="designated"/>
+  <tag k="highway" v="cycleway"/>
+  <tag k="name" v="Pista 5 Biciplan Cremona"/>
+  <tag k="oneway" v="no"/>
+  <tag k="segregated" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="873423070" visible="true" version="1" changeset="94340673" timestamp="2020-11-18T08:17:57Z" user="AlessioZappa" uid="12186632">
+  <nd ref="6027741161"/>
+  <nd ref="8133950220"/>
+  <tag k="bicycle" v="designated"/>
+  <tag k="foot" v="designated"/>
+  <tag k="highway" v="cycleway"/>
+  <tag k="layer" v="-1"/>
+  <tag k="name" v="Pista 5 Biciplan Cremona"/>
+  <tag k="oneway" v="no"/>
+  <tag k="segregated" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+  <tag k="tunnel" v="yes"/>
+ </way>
+ <way id="873443039" visible="true" version="3" changeset="94947851" timestamp="2020-11-28T15:03:55Z" user="AlessioZappa" uid="12186632">
+  <nd ref="5377436717"/>
+  <nd ref="8134169451"/>
+  <nd ref="8134169452"/>
+  <nd ref="8134169453"/>
+  <nd ref="8134169454"/>
+  <nd ref="8134169455"/>
+  <nd ref="8134128784"/>
+  <nd ref="5433311137"/>
+  <nd ref="866726023"/>
+  <nd ref="8134169456"/>
+  <nd ref="8134169457"/>
+  <nd ref="8134169458"/>
+  <nd ref="8134128783"/>
+  <nd ref="5433311121"/>
+  <nd ref="5433311129"/>
+  <nd ref="5433311127"/>
+  <nd ref="5433311123"/>
+  <nd ref="8134169459"/>
+  <nd ref="8134169460"/>
+  <nd ref="8134169461"/>
+  <nd ref="8134169462"/>
+  <nd ref="8134169463"/>
+  <nd ref="8134169464"/>
+  <nd ref="5433301894"/>
+  <nd ref="5433301900"/>
+  <nd ref="5433301899"/>
+  <nd ref="5433301895"/>
+  <nd ref="5433301896"/>
+  <nd ref="8134169465"/>
+  <nd ref="8134169466"/>
+  <nd ref="5433301865"/>
+  <nd ref="8134169467"/>
+  <nd ref="8134169468"/>
+  <nd ref="8134169469"/>
+  <nd ref="852939825"/>
+  <nd ref="8134169470"/>
+  <nd ref="8134169471"/>
+  <nd ref="5433301866"/>
+  <nd ref="8173796861"/>
+  <nd ref="8134169472"/>
+  <nd ref="8134169473"/>
+  <nd ref="8134169474"/>
+  <nd ref="8134169475"/>
+  <nd ref="8134169476"/>
+  <nd ref="5429474584"/>
+  <tag k="highway" v="cycleway"/>
+  <tag k="name" v="Pista ciclopedonale via trento e trieste"/>
+  <tag k="oneway" v="no"/>
+  <tag k="segregated" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="879061113" visible="true" version="2" changeset="95006979" timestamp="2020-11-30T00:55:28Z" user="manfre_" uid="11647044">
+  <nd ref="2061400766"/>
+  <nd ref="2061400730"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed:type" v="IT:urban"/>
+  <tag k="name" v="Via Spalato"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="sidewalk" v="right"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="879061703" visible="true" version="2" changeset="95006979" timestamp="2020-11-30T01:03:05Z" user="manfre_" uid="11647044">
+  <nd ref="8177842986"/>
+  <nd ref="282575968"/>
+  <tag k="highway" v="residential"/>
+  <tag k="is_in" v="Cremona, Lombardia, Italy"/>
+  <tag k="lanes" v="3"/>
+  <tag k="lanes:backward" v="1"/>
+  <tag k="lanes:forward" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed:type" v="IT:urban"/>
+  <tag k="name" v="Via Montello"/>
+  <tag k="postal_code" v="26100"/>
+  <tag k="sidewalk" v="both"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="879062409" visible="true" version="3" changeset="95007337" timestamp="2020-11-30T01:07:37Z" user="manfre_" uid="11647044">
+  <nd ref="8177801306"/>
+  <nd ref="2561988851"/>
+  <nd ref="2561988852"/>
+  <nd ref="2836081804"/>
+  <tag k="cycleway:right" v="no"/>
+  <tag k="foot" v="use_sidepath"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed:type" v="IT:urban"/>
+  <tag k="name" v="Piazza Risorgimento"/>
+  <tag k="old_name" v="Porta Milano"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="postal_code" v="26100"/>
+  <tag k="sidewalk" v="separate"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="879062788" visible="true" version="2" changeset="95006979" timestamp="2020-11-30T01:09:28Z" user="manfre_" uid="11647044">
+  <nd ref="8177859576"/>
+  <nd ref="2561988861"/>
+  <nd ref="282053574"/>
+  <nd ref="2561988874"/>
+  <tag k="cycleway:right" v="shared_lane"/>
+  <tag k="cycleway:right:lane" v="pictogram"/>
+  <tag k="highway" v="secondary_link"/>
+  <tag k="lane_markings" v="no"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed:type" v="IT:urban"/>
+  <tag k="name" v="Via Ferruccio Ghinaglia"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="sidewalk" v="right"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="879064227" visible="true" version="2" changeset="95006979" timestamp="2020-11-30T01:11:44Z" user="manfre_" uid="11647044">
+  <nd ref="282575968"/>
+  <nd ref="2836081803"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed:type" v="IT:urban"/>
+  <tag k="name" v="Corso Giuseppe Garibaldi"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="sidewalk" v="right"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <relation id="183626" visible="true" version="57" changeset="92894016" timestamp="2020-10-22T11:47:39Z" user="Mannivu" uid="1950277">
   <member type="way" ref="38289883" role=""/>
   <member type="way" ref="38289882" role=""/>
   <member type="way" ref="596450377" role=""/>
@@ -20153,6 +20572,7 @@
   <tag k="route" v="railway"/>
   <tag k="type" v="route"/>
   <tag k="wikidata" v="Q803335"/>
+  <tag k="wikimedia_commons" v="Category:Treviglio–Cremona railway"/>
   <tag k="wikipedia" v="it:Ferrovia Treviglio-Cremona"/>
  </relation>
  <relation id="1412021" visible="true" version="14" changeset="80494683" timestamp="2020-02-03T18:35:25Z" user="e pt" uid="3193667">
@@ -20209,17 +20629,17 @@
   <tag k="wikidata" v="Q220085"/>
   <tag k="wikipedia" v="it:Ferrovia Brescia-Cremona"/>
  </relation>
- <relation id="2250847" visible="true" version="32" changeset="92791116" timestamp="2020-10-20T21:11:24Z" user="fedc" uid="602784">
+ <relation id="2250847" visible="true" version="34" changeset="94975453" timestamp="2020-11-29T08:40:06Z" user="AlessioZappa" uid="12186632">
   <member type="way" ref="113678704" role=""/>
   <member type="way" ref="126701315" role=""/>
   <member type="way" ref="126701313" role=""/>
   <member type="way" ref="557365070" role="backward"/>
   <member type="way" ref="557365069" role=""/>
   <member type="way" ref="126701303" role=""/>
-  <member type="way" ref="576978580" role=""/>
-  <member type="way" ref="576978578" role="forward"/>
-  <member type="way" ref="619115096" role="forward"/>
-  <member type="way" ref="619115097" role="backward"/>
+  <member type="way" ref="200665209" role=""/>
+  <member type="way" ref="72217879" role=""/>
+  <member type="way" ref="625057210" role=""/>
+  <member type="way" ref="576978575" role=""/>
   <member type="way" ref="168716011" role=""/>
   <member type="way" ref="168716012" role=""/>
   <member type="way" ref="560510016" role=""/>
@@ -20289,7 +20709,6 @@
   <member type="way" ref="184472631" role="forward"/>
   <member type="way" ref="184472629" role="forward"/>
   <member type="way" ref="184472633" role="forward"/>
-  <member type="way" ref="557365071" role="forward"/>
   <member type="way" ref="27541538" role=""/>
   <member type="way" ref="27541534" role=""/>
   <member type="way" ref="197898591" role=""/>
@@ -20297,15 +20716,13 @@
   <member type="way" ref="168963193" role=""/>
   <member type="way" ref="168968056" role=""/>
   <member type="way" ref="618892725" role=""/>
-  <member type="way" ref="619115098" role=""/>
-  <member type="way" ref="576978575" role=""/>
-  <member type="way" ref="71753117" role=""/>
-  <member type="way" ref="126706431" role=""/>
-  <member type="way" ref="352376795" role=""/>
-  <member type="way" ref="126705915" role=""/>
-  <member type="way" ref="126705912" role=""/>
-  <member type="way" ref="837612967" role=""/>
   <member type="way" ref="126705918" role=""/>
+  <member type="way" ref="837612967" role=""/>
+  <member type="way" ref="126705912" role=""/>
+  <member type="way" ref="126705915" role=""/>
+  <member type="way" ref="352376795" role=""/>
+  <member type="way" ref="126706431" role=""/>
+  <member type="way" ref="71753117" role=""/>
   <member type="way" ref="249617403" role=""/>
   <member type="way" ref="549605532" role="forward"/>
   <member type="way" ref="577680963" role="backward"/>
@@ -20599,8 +21016,8 @@
   <tag k="restriction" v="only_straight_on"/>
   <tag k="type" v="restriction"/>
  </relation>
- <relation id="6986131" visible="true" version="1" changeset="46138272" timestamp="2017-02-16T14:16:47Z" user="Senbee" uid="312126">
-  <member type="way" ref="279400411" role="from"/>
+ <relation id="6986131" visible="true" version="2" changeset="95007174" timestamp="2020-11-30T01:06:47Z" user="manfre_" uid="11647044">
+  <member type="way" ref="879062409" role="from"/>
   <member type="node" ref="2836081804" role="via"/>
   <member type="way" ref="475078375" role="to"/>
   <tag k="restriction" v="only_straight_on"/>
@@ -20620,7 +21037,7 @@
   <tag k="restriction" v="only_straight_on"/>
   <tag k="type" v="restriction"/>
  </relation>
- <relation id="6988348" visible="true" version="1" changeset="46163013" timestamp="2017-02-17T12:21:59Z" user="Senbee" uid="312126">
+ <relation id="6988348" visible="true" version="2" changeset="95006979" timestamp="2020-11-30T01:11:37Z" user="manfre_" uid="11647044">
   <member type="way" ref="249617397" role="from"/>
   <member type="node" ref="4690409416" role="via"/>
   <member type="way" ref="475274464" role="to"/>
@@ -21374,5 +21791,24 @@
   <member type="way" ref="842309076" role="outer"/>
   <tag k="landuse" v="residential"/>
   <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="11958638" visible="true" version="1" changeset="94975453" timestamp="2020-11-29T08:40:06Z" user="AlessioZappa" uid="12186632">
+  <member type="way" ref="878844247" role=""/>
+  <member type="way" ref="873423068" role=""/>
+  <member type="way" ref="873423070" role=""/>
+  <member type="way" ref="873423069" role=""/>
+  <member type="way" ref="576978575" role=""/>
+  <member type="way" ref="625057210" role=""/>
+  <member type="way" ref="72217879" role=""/>
+  <member type="way" ref="200665209" role=""/>
+  <member type="way" ref="126701303" role=""/>
+  <tag k="colour" v="lime"/>
+  <tag k="cycle_network" v="Biciplan - Comune di Cremona"/>
+  <tag k="name" v="Migliaro - via bergamo"/>
+  <tag k="network" v="Icn"/>
+  <tag k="operator" v="Comune di Cremona"/>
+  <tag k="ref" v="5"/>
+  <tag k="route" v="bicycle"/>
+  <tag k="type" v="route"/>
  </relation>
 </osm>

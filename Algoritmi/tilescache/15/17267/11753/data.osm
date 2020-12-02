@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991886 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3440950 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2594220" minlon="9.7009277" maxlat="45.2671548" maxlon="9.7119141"/>
  <node id="252578712" visible="true" version="8" changeset="3128222" timestamp="2009-11-15T23:18:53Z" user="wiso" uid="30891" lat="45.2999106" lon="9.5817973"/>
  <node id="252578713" visible="true" version="8" changeset="3128222" timestamp="2009-11-15T23:18:53Z" user="wiso" uid="30891" lat="45.3005520" lon="9.5849923"/>
@@ -719,8 +719,8 @@
  <node id="3329762395" visible="true" version="1" changeset="28608295" timestamp="2015-02-04T11:05:22Z" user="Pyknite" uid="193512" lat="45.2983200" lon="9.7132450"/>
  <node id="3329762399" visible="true" version="1" changeset="28608295" timestamp="2015-02-04T11:05:22Z" user="Pyknite" uid="193512" lat="45.2986944" lon="9.7133424"/>
  <node id="3329762402" visible="true" version="1" changeset="28608295" timestamp="2015-02-04T11:05:22Z" user="Pyknite" uid="193512" lat="45.2989810" lon="9.7133683"/>
- <node id="3400679978" visible="true" version="1" changeset="29504387" timestamp="2015-03-15T20:47:50Z" user="fedc" uid="602784" lat="45.2600985" lon="9.7014856">
-  <tag k="name" v="Bocca Serio"/>
+ <node id="3400679978" visible="true" version="2" changeset="93846412" timestamp="2020-11-10T08:46:14Z" user="Markko27" uid="11102980" lat="45.2600985" lon="9.7014856">
+  <tag k="name" v="Boccaserio"/>
   <tag k="place" v="hamlet"/>
  </node>
  <node id="3461933740" visible="true" version="1" changeset="30292296" timestamp="2015-04-17T18:39:51Z" user="Alecs01" uid="1476146" lat="45.2569116" lon="9.7217750"/>
@@ -1471,7 +1471,7 @@
  <node id="7824496883" visible="true" version="1" changeset="89598783" timestamp="2020-08-18T23:16:26Z" user="fedc" uid="602784" lat="45.2675507" lon="9.6988968"/>
  <node id="7824496884" visible="true" version="1" changeset="89598783" timestamp="2020-08-18T23:16:26Z" user="fedc" uid="602784" lat="45.2675934" lon="9.6988603"/>
  <node id="7824517385" visible="true" version="1" changeset="89598783" timestamp="2020-08-18T23:16:26Z" user="fedc" uid="602784" lat="45.2676234" lon="9.6988117"/>
- <node id="7824517386" visible="true" version="1" changeset="89598783" timestamp="2020-08-18T23:16:26Z" user="fedc" uid="602784" lat="45.2678756" lon="9.6982529"/>
+ <node id="7824517386" visible="true" version="2" changeset="94993378" timestamp="2020-11-29T17:38:49Z" user="dega180" uid="454306" lat="45.2678170" lon="9.6984715"/>
  <node id="7824517431" visible="true" version="1" changeset="89598783" timestamp="2020-08-18T23:16:26Z" user="fedc" uid="602784" lat="45.2704800" lon="9.7087983"/>
  <node id="7824517432" visible="true" version="1" changeset="89598783" timestamp="2020-08-18T23:16:26Z" user="fedc" uid="602784" lat="45.2640524" lon="9.7062962"/>
  <node id="7824517433" visible="true" version="1" changeset="89598783" timestamp="2020-08-18T23:16:26Z" user="fedc" uid="602784" lat="45.2650243" lon="9.7070222"/>
@@ -3229,7 +3229,7 @@
   <tag k="wikidata" v="Q42538"/>
   <tag k="wikipedia" v="it:Montodine"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -3302,7 +3302,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>
@@ -3799,7 +3800,7 @@
   <tag k="type" v="multipolygon"/>
   <tag k="waterway" v="riverbank"/>
  </relation>
- <relation id="6780651" visible="true" version="38" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306">
+ <relation id="6780651" visible="true" version="40" changeset="94647947" timestamp="2020-11-23T15:51:06Z" user="Luca Sarga" uid="3090360">
   <member type="way" ref="107052224" role=""/>
   <member type="way" ref="107052180" role=""/>
   <member type="way" ref="38845337" role=""/>
@@ -3842,6 +3843,7 @@
   <member type="way" ref="382315362" role=""/>
   <member type="way" ref="382836977" role=""/>
   <member type="way" ref="31654935" role=""/>
+  <member type="way" ref="876213090" role=""/>
   <member type="way" ref="619899698" role=""/>
   <member type="way" ref="24714191" role=""/>
   <member type="way" ref="24714192" role=""/>
@@ -4072,8 +4074,12 @@
   <member type="way" ref="186811024" role=""/>
   <member type="way" ref="186811033" role=""/>
   <member type="way" ref="186811034" role=""/>
+  <member type="way" ref="863578150" role=""/>
+  <member type="way" ref="863578149" role=""/>
   <member type="way" ref="169083488" role=""/>
-  <member type="way" ref="305154341" role=""/>
+  <member type="way" ref="863578147" role=""/>
+  <member type="way" ref="863578148" role=""/>
+  <member type="way" ref="863578146" role=""/>
   <member type="way" ref="358634904" role=""/>
   <member type="way" ref="187778205" role=""/>
   <member type="way" ref="567549252" role=""/>

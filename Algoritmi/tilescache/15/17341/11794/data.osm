@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2320392 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441951 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="44.9414734" minlon="10.5139160" maxlat="44.9492493" maxlon="10.5249023"/>
  <node id="1171087988" visible="true" version="1" changeset="7386102" timestamp="2011-02-24T22:28:33Z" user="ilrobi" uid="22110" lat="44.9623931" lon="10.5292544"/>
  <node id="1171088012" visible="true" version="1" changeset="7386102" timestamp="2011-02-24T22:28:34Z" user="ilrobi" uid="22110" lat="44.9372955" lon="10.5178809"/>
@@ -362,7 +362,7 @@
  <node id="3520195792" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:54:54Z" user="Fredie" uid="2073275" lat="44.9426927" lon="10.5214675"/>
  <node id="3520195995" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:54:55Z" user="Fredie" uid="2073275" lat="44.9427255" lon="10.5213085"/>
  <node id="3520195997" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:54:55Z" user="Fredie" uid="2073275" lat="44.9427375" lon="10.5112968"/>
- <node id="3520196000" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:54:55Z" user="Fredie" uid="2073275" lat="44.9427903" lon="10.5209593"/>
+ <node id="3520196000" visible="true" version="2" changeset="94221955" timestamp="2020-11-16T19:01:14Z" user="MinerMax555" uid="8829660" lat="44.9427751" lon="10.5210451"/>
  <node id="3520196001" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:54:55Z" user="Fredie" uid="2073275" lat="44.9427893" lon="10.5216104"/>
  <node id="3520196002" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:54:55Z" user="Fredie" uid="2073275" lat="44.9427874" lon="10.5217869"/>
  <node id="3520196004" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:54:55Z" user="Fredie" uid="2073275" lat="44.9428070" lon="10.5096771"/>
@@ -389,7 +389,7 @@
  <node id="3520196057" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:54:56Z" user="Fredie" uid="2073275" lat="44.9434071" lon="10.5243136"/>
  <node id="3520196058" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:54:56Z" user="Fredie" uid="2073275" lat="44.9434276" lon="10.5245398"/>
  <node id="3520196061" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:54:56Z" user="Fredie" uid="2073275" lat="44.9434306" lon="10.5193178"/>
- <node id="3520196062" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:54:56Z" user="Fredie" uid="2073275" lat="44.9434466" lon="10.5212075"/>
+ <node id="3520196062" visible="true" version="2" changeset="94221955" timestamp="2020-11-16T19:01:14Z" user="MinerMax555" uid="8829660" lat="44.9434447" lon="10.5213094"/>
  <node id="3520196063" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:54:56Z" user="Fredie" uid="2073275" lat="44.9434766" lon="10.5241733"/>
  <node id="3520196064" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:54:56Z" user="Fredie" uid="2073275" lat="44.9434799" lon="10.5244801"/>
  <node id="3520196065" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:54:56Z" user="Fredie" uid="2073275" lat="44.9434613" lon="10.5245547"/>
@@ -674,6 +674,10 @@
  <node id="5266040179" visible="true" version="1" changeset="54370189" timestamp="2017-12-05T15:49:35Z" user="Michele Giacomoli" uid="3426954" lat="44.9472728" lon="10.5148071"/>
  <node id="5266040180" visible="true" version="1" changeset="54370189" timestamp="2017-12-05T15:49:35Z" user="Michele Giacomoli" uid="3426954" lat="44.9474306" lon="10.5138374"/>
  <node id="5266040181" visible="true" version="1" changeset="54370189" timestamp="2017-12-05T15:49:35Z" user="Michele Giacomoli" uid="3426954" lat="44.9475484" lon="10.5133030"/>
+ <node id="8126701386" visible="true" version="1" changeset="94221955" timestamp="2020-11-16T19:01:14Z" user="MinerMax555" uid="8829660" lat="44.9488344" lon="10.5247547"/>
+ <node id="8126701387" visible="true" version="1" changeset="94221955" timestamp="2020-11-16T19:01:14Z" user="MinerMax555" uid="8829660" lat="44.9491348" lon="10.5248234"/>
+ <node id="8126701388" visible="true" version="1" changeset="94221955" timestamp="2020-11-16T19:01:14Z" user="MinerMax555" uid="8829660" lat="44.9491929" lon="10.5243164"/>
+ <node id="8126701389" visible="true" version="1" changeset="94221955" timestamp="2020-11-16T19:01:14Z" user="MinerMax555" uid="8829660" lat="44.9488925" lon="10.5242477"/>
  <way id="101419257" visible="true" version="5" changeset="31184499" timestamp="2015-05-15T18:57:34Z" user="Fredie" uid="2073275">
   <nd ref="1217571096"/>
   <nd ref="1217571319"/>
@@ -1290,7 +1294,7 @@
   <nd ref="3520196916"/>
   <tag k="landuse" v="farmyard"/>
  </way>
- <way id="345333293" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:57:01Z" user="Fredie" uid="2073275">
+ <way id="345333293" visible="true" version="2" changeset="94221955" timestamp="2020-11-16T19:01:14Z" user="MinerMax555" uid="8829660">
   <nd ref="3520196062"/>
   <nd ref="3520196000"/>
   <nd ref="3520195995"/>
@@ -1298,7 +1302,7 @@
   <nd ref="3520195785"/>
   <nd ref="3520196041"/>
   <nd ref="3520196062"/>
-  <tag k="landuse" v="grass"/>
+  <tag k="landuse" v="farmyard"/>
  </way>
  <way id="345333303" visible="true" version="1" changeset="31184499" timestamp="2015-05-15T18:57:03Z" user="Fredie" uid="2073275">
   <nd ref="3520198370"/>
@@ -1341,7 +1345,7 @@
   <nd ref="1181397837"/>
   <tag k="highway" v="tertiary"/>
  </way>
- <way id="351272964" visible="true" version="2" changeset="31717496" timestamp="2015-06-04T13:09:41Z" user="MH26" uid="97407">
+ <way id="351272964" visible="true" version="3" changeset="94221955" timestamp="2020-11-16T19:01:14Z" user="MinerMax555" uid="8829660">
   <nd ref="3571967230"/>
   <nd ref="3571967229"/>
   <nd ref="3571967228"/>
@@ -1520,6 +1524,14 @@
   <nd ref="1181397837"/>
   <tag k="highway" v="tertiary"/>
   <tag k="name" v="Via Querce"/>
+ </way>
+ <way id="872708965" visible="true" version="1" changeset="94221955" timestamp="2020-11-16T19:01:14Z" user="MinerMax555" uid="8829660">
+  <nd ref="8126701389"/>
+  <nd ref="8126701388"/>
+  <nd ref="8126701387"/>
+  <nd ref="8126701386"/>
+  <nd ref="8126701389"/>
+  <tag k="landuse" v="farmyard"/>
  </way>
  <relation id="2250005" visible="true" version="22" changeset="88689830" timestamp="2020-07-29T16:45:32Z" user="Benny4L" uid="647382">
   <member type="way" ref="168963501" role=""/>

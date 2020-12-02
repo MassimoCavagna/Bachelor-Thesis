@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991860 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3439759 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2671548" minlon="9.5361328" maxlat="45.2748864" maxlon="9.5471191"/>
  <node id="495204899" visible="true" version="2" changeset="9277992" timestamp="2011-09-12T08:14:35Z" user="jack_g" uid="452123" lat="45.2714760" lon="9.5404485"/>
  <node id="495204901" visible="true" version="2" changeset="9277992" timestamp="2011-09-12T08:14:36Z" user="jack_g" uid="452123" lat="45.2727015" lon="9.5404541"/>
@@ -2979,7 +2979,7 @@
   <tag k="route" v="train"/>
   <tag k="type" v="route"/>
  </relation>
- <relation id="7481564" visible="true" version="16" changeset="89583185" timestamp="2020-08-18T15:15:54Z" user="fedc" uid="602784">
+ <relation id="7481564" visible="true" version="19" changeset="93982250" timestamp="2020-11-12T09:28:19Z" user="PaoloRE1981" uid="821025">
   <member type="way" ref="326805437" role=""/>
   <member type="way" ref="326802920" role=""/>
   <member type="way" ref="326802923" role=""/>
@@ -3046,14 +3046,18 @@
   <member type="way" ref="265863757" role=""/>
   <member type="way" ref="265863756" role=""/>
   <member type="way" ref="199800266" role=""/>
+  <member type="way" ref="870707648" role=""/>
+  <member type="way" ref="870707647" role=""/>
   <member type="way" ref="199800265" role=""/>
   <member type="way" ref="199800267" role=""/>
   <member type="way" ref="199800264" role=""/>
   <member type="way" ref="222042807" role=""/>
   <member type="way" ref="222042800" role=""/>
-  <member type="way" ref="70259702" role=""/>
-  <member type="way" ref="70259692" role=""/>
   <member type="way" ref="339151065" role=""/>
+  <member type="way" ref="70259692" role=""/>
+  <member type="way" ref="870710203" role=""/>
+  <member type="way" ref="70259702" role=""/>
+  <member type="way" ref="870710204" role=""/>
   <member type="way" ref="339151064" role=""/>
   <member type="way" ref="48202027" role=""/>
   <member type="way" ref="48202026" role=""/>
@@ -3169,14 +3173,18 @@
   <member type="way" ref="377805301" role=""/>
   <member type="way" ref="377805289" role=""/>
   <member type="way" ref="377805283" role=""/>
+  <member type="way" ref="870707650" role=""/>
+  <member type="way" ref="870707649" role=""/>
   <member type="way" ref="377805292" role=""/>
   <member type="way" ref="377805305" role=""/>
   <member type="way" ref="377805296" role=""/>
   <member type="way" ref="377805282" role=""/>
   <member type="way" ref="377805285" role=""/>
-  <member type="way" ref="377805306" role=""/>
-  <member type="way" ref="377805287" role=""/>
   <member type="way" ref="164015842" role=""/>
+  <member type="way" ref="377805287" role=""/>
+  <member type="way" ref="870710201" role=""/>
+  <member type="way" ref="870710202" role=""/>
+  <member type="way" ref="377805306" role=""/>
   <member type="way" ref="377805311" role=""/>
   <member type="way" ref="377805295" role=""/>
   <member type="way" ref="377805303" role=""/>
@@ -3283,6 +3291,7 @@
   <member type="way" ref="60651125" role=""/>
   <member type="way" ref="411756295" role=""/>
   <member type="way" ref="411756292" role=""/>
+  <member type="way" ref="867529076" role=""/>
   <member type="way" ref="462437759" role=""/>
   <member type="way" ref="462437760" role=""/>
   <member type="way" ref="60651124" role=""/>
@@ -3368,6 +3377,7 @@
   <member type="way" ref="326937226" role=""/>
   <member type="way" ref="462437758" role=""/>
   <member type="way" ref="462437757" role=""/>
+  <member type="way" ref="867529077" role=""/>
   <member type="way" ref="326932115" role=""/>
   <member type="way" ref="411756293" role=""/>
   <member type="way" ref="411756294" role=""/>
@@ -3494,7 +3504,7 @@
   <tag k="route" v="bicycle"/>
   <tag k="type" v="route"/>
  </relation>
- <relation id="10340679" visible="true" version="7" changeset="77599711" timestamp="2019-11-26T23:37:01Z" user="fedc" uid="602784">
+ <relation id="10340679" visible="true" version="8" changeset="93686198" timestamp="2020-11-06T21:46:59Z" user="dega180" uid="454306">
   <member type="way" ref="448895542" role=""/>
   <member type="way" ref="312513363" role=""/>
   <member type="way" ref="83808788" role=""/>
@@ -3537,6 +3547,10 @@
   <member type="way" ref="449460561" role=""/>
   <member type="way" ref="485688131" role=""/>
   <member type="way" ref="706196935" role=""/>
+  <member type="way" ref="867863841" role=""/>
+  <member type="way" ref="867863840" role=""/>
+  <member type="way" ref="867863836" role=""/>
+  <member type="way" ref="867863835" role=""/>
   <member type="way" ref="386762173" role=""/>
   <member type="way" ref="749946788" role=""/>
   <tag k="name" v="Roggia Codogna"/>

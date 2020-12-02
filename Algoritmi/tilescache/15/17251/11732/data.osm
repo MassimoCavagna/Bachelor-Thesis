@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (983807 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1923394 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4215881" minlon="9.5251465" maxlat="45.4292987" maxlon="9.5361328"/>
  <node id="968118639" visible="true" version="1" changeset="6211620" timestamp="2010-10-28T19:37:15Z" user="ilrobi" uid="22110" lat="45.4050590" lon="9.5292065"/>
  <node id="968118641" visible="true" version="1" changeset="6211620" timestamp="2010-10-28T19:37:15Z" user="ilrobi" uid="22110" lat="45.4164538" lon="9.5294284"/>
@@ -1611,18 +1611,13 @@
  <node id="7869584090" visible="true" version="1" changeset="90322028" timestamp="2020-09-02T20:16:49Z" user="astraspera" uid="2653653" lat="45.4264123" lon="9.5274185"/>
  <node id="7869584091" visible="true" version="1" changeset="90322028" timestamp="2020-09-02T20:16:49Z" user="astraspera" uid="2653653" lat="45.4263825" lon="9.5274185"/>
  <node id="7869584092" visible="true" version="1" changeset="90322028" timestamp="2020-09-02T20:16:49Z" user="astraspera" uid="2653653" lat="45.4261366" lon="9.5274610"/>
- <node id="7869584093" visible="true" version="1" changeset="90322028" timestamp="2020-09-02T20:16:49Z" user="astraspera" uid="2653653" lat="45.4229546" lon="9.5276096"/>
- <node id="7869584094" visible="true" version="1" changeset="90322028" timestamp="2020-09-02T20:16:49Z" user="astraspera" uid="2653653" lat="45.4222988" lon="9.5276167"/>
- <node id="7869584095" visible="true" version="1" changeset="90322028" timestamp="2020-09-02T20:16:49Z" user="astraspera" uid="2653653" lat="45.4202271" lon="9.5276698"/>
- <node id="7869584096" visible="true" version="1" changeset="90322028" timestamp="2020-09-02T20:16:49Z" user="astraspera" uid="2653653" lat="45.4199339" lon="9.5276875"/>
- <node id="7869584097" visible="true" version="1" changeset="90322028" timestamp="2020-09-02T20:16:49Z" user="astraspera" uid="2653653" lat="45.4191464" lon="9.5276132"/>
- <node id="7869584098" visible="true" version="1" changeset="90322028" timestamp="2020-09-02T20:16:49Z" user="astraspera" uid="2653653" lat="45.4181205" lon="9.5274398"/>
- <node id="7869584099" visible="true" version="1" changeset="90322028" timestamp="2020-09-02T20:16:49Z" user="astraspera" uid="2653653" lat="45.4176832" lon="9.5274150"/>
- <node id="7869584100" visible="true" version="1" changeset="90322028" timestamp="2020-09-02T20:16:49Z" user="astraspera" uid="2653653" lat="45.4170274" lon="9.5272274"/>
- <node id="7869584101" visible="true" version="1" changeset="90322028" timestamp="2020-09-02T20:16:49Z" user="astraspera" uid="2653653" lat="45.4165901" lon="9.5270681"/>
- <node id="7869584102" visible="true" version="1" changeset="90322028" timestamp="2020-09-02T20:16:49Z" user="astraspera" uid="2653653" lat="45.4144064" lon="9.5263391"/>
- <node id="7869584103" visible="true" version="1" changeset="90322028" timestamp="2020-09-02T20:16:49Z" user="astraspera" uid="2653653" lat="45.4132909" lon="9.5259674"/>
+ <node id="7869584093" visible="true" version="2" changeset="93685812" timestamp="2020-11-06T21:34:05Z" user="dega180" uid="454306" lat="45.4229585" lon="9.5276809"/>
+ <node id="7869584094" visible="true" version="2" changeset="93685812" timestamp="2020-11-06T21:34:05Z" user="dega180" uid="454306" lat="45.4223003" lon="9.5277087"/>
+ <node id="7869584095" visible="true" version="2" changeset="93685812" timestamp="2020-11-06T21:34:05Z" user="dega180" uid="454306" lat="45.4202139" lon="9.5277577"/>
  <node id="7869584112" visible="true" version="1" changeset="90322028" timestamp="2020-09-02T20:16:49Z" user="astraspera" uid="2653653" lat="45.4141327" lon="9.5289938"/>
+ <node id="8089378631" visible="true" version="1" changeset="93685812" timestamp="2020-11-06T21:34:05Z" user="dega180" uid="454306" lat="45.4262390" lon="9.5274433"/>
+ <node id="8089378632" visible="true" version="1" changeset="93685812" timestamp="2020-11-06T21:34:05Z" user="dega180" uid="454306" lat="45.4263282" lon="9.5274279"/>
+ <node id="8089378633" visible="true" version="1" changeset="93685812" timestamp="2020-11-06T21:34:05Z" user="dega180" uid="454306" lat="45.4228280" lon="9.5277155"/>
  <way id="83202009" visible="true" version="9" changeset="90322028" timestamp="2020-09-02T20:16:49Z" user="astraspera" uid="2653653">
   <nd ref="1237159985"/>
   <nd ref="1237159995"/>
@@ -3506,7 +3501,7 @@
   <nd ref="7869584042"/>
   <tag k="waterway" v="ditch"/>
  </way>
- <way id="843649316" visible="true" version="1" changeset="90322028" timestamp="2020-09-02T20:16:49Z" user="astraspera" uid="2653653">
+ <way id="867861140" visible="true" version="1" changeset="93685812" timestamp="2020-11-06T21:34:05Z" user="dega180" uid="454306">
   <nd ref="7869584062"/>
   <nd ref="7869584063"/>
   <nd ref="7869584064"/>
@@ -3538,18 +3533,33 @@
   <nd ref="7869584089"/>
   <nd ref="7869584090"/>
   <nd ref="7869584091"/>
+  <nd ref="8089378632"/>
+  <tag k="waterway" v="ditch"/>
+ </way>
+ <way id="867861141" visible="true" version="1" changeset="93685812" timestamp="2020-11-06T21:34:05Z" user="dega180" uid="454306">
+  <nd ref="8089378632"/>
+  <nd ref="8089378631"/>
+  <tag k="layer" v="-1"/>
+  <tag k="tunnel" v="culvert"/>
+  <tag k="waterway" v="ditch"/>
+ </way>
+ <way id="867861142" visible="true" version="1" changeset="93685812" timestamp="2020-11-06T21:34:05Z" user="dega180" uid="454306">
+  <nd ref="8089378631"/>
   <nd ref="7869584092"/>
   <nd ref="7869584093"/>
+  <tag k="waterway" v="ditch"/>
+ </way>
+ <way id="867861143" visible="true" version="1" changeset="93685812" timestamp="2020-11-06T21:34:05Z" user="dega180" uid="454306">
+  <nd ref="7869584093"/>
+  <nd ref="8089378633"/>
+  <tag k="layer" v="-1"/>
+  <tag k="tunnel" v="culvert"/>
+  <tag k="waterway" v="ditch"/>
+ </way>
+ <way id="867861144" visible="true" version="1" changeset="93685812" timestamp="2020-11-06T21:34:05Z" user="dega180" uid="454306">
+  <nd ref="8089378633"/>
   <nd ref="7869584094"/>
   <nd ref="7869584095"/>
-  <nd ref="7869584096"/>
-  <nd ref="7869584097"/>
-  <nd ref="7869584098"/>
-  <nd ref="7869584099"/>
-  <nd ref="7869584100"/>
-  <nd ref="7869584101"/>
-  <nd ref="7869584102"/>
-  <nd ref="7869584103"/>
   <tag k="waterway" v="ditch"/>
  </way>
  <relation id="8050177" visible="true" version="16" changeset="91839991" timestamp="2020-10-01T17:44:09Z" user="Mannivu" uid="1950277">

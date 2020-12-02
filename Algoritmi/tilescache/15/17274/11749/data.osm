@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1875561 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3897392 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2903466" minlon="9.7778320" maxlat="45.2980751" maxlon="9.7888184"/>
  <node id="264347155" visible="true" version="3" changeset="12541123" timestamp="2012-07-29T21:41:37Z" user="freak_antoni" uid="646083" lat="45.2938931" lon="9.7742227"/>
  <node id="264347156" visible="true" version="3" changeset="12541123" timestamp="2012-07-29T21:41:37Z" user="freak_antoni" uid="646083" lat="45.2939966" lon="9.7759597"/>
@@ -1980,7 +1980,7 @@
   <tag k="name" v="Roggia Madonna Gaiazza"/>
   <tag k="waterway" v="canal"/>
  </way>
- <relation id="183626" visible="true" version="56" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
+ <relation id="183626" visible="true" version="57" changeset="92894016" timestamp="2020-10-22T11:47:39Z" user="Mannivu" uid="1950277">
   <member type="way" ref="38289883" role=""/>
   <member type="way" ref="38289882" role=""/>
   <member type="way" ref="596450377" role=""/>
@@ -2032,6 +2032,7 @@
   <tag k="route" v="railway"/>
   <tag k="type" v="route"/>
   <tag k="wikidata" v="Q803335"/>
+  <tag k="wikimedia_commons" v="Category:Treviglio–Cremona railway"/>
   <tag k="wikipedia" v="it:Ferrovia Treviglio-Cremona"/>
  </relation>
  <relation id="8400077" visible="true" version="10" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">

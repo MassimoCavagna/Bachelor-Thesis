@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3583211 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3439587 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2671548" minlon="9.9206543" maxlat="45.2748864" maxlon="9.9316406"/>
  <node id="307076487" visible="true" version="3" changeset="28592954" timestamp="2015-02-03T16:26:15Z" user="Pyknite" uid="193512" lat="45.2098771" lon="9.9516226"/>
  <node id="307088653" visible="true" version="3" changeset="28631107" timestamp="2015-02-05T14:08:24Z" user="Pyknite" uid="193512" lat="45.2690224" lon="9.9281855"/>
@@ -88,7 +88,7 @@
  <node id="1043783600" visible="true" version="1" changeset="6691008" timestamp="2010-12-17T21:29:43Z" user="ilrobi" uid="22110" lat="45.2621396" lon="9.9203169"/>
  <node id="1043783610" visible="true" version="1" changeset="6691008" timestamp="2010-12-17T21:29:43Z" user="ilrobi" uid="22110" lat="45.2571330" lon="9.9203041"/>
  <node id="1043783616" visible="true" version="1" changeset="6691008" timestamp="2010-12-17T21:29:44Z" user="ilrobi" uid="22110" lat="45.2663940" lon="9.9210116"/>
- <node id="1189394368" visible="true" version="2" changeset="20382322" timestamp="2014-02-04T22:17:21Z" user="Luca Mina" uid="1257620" lat="45.2580663" lon="9.9524762">
+ <node id="1189394368" visible="true" version="3" changeset="94990098" timestamp="2020-11-29T16:23:18Z" user="dega180" uid="454306" lat="45.2580924" lon="9.9524751">
   <tag k="railway" v="level_crossing"/>
  </node>
  <node id="1225639683" visible="true" version="2" changeset="20382183" timestamp="2014-02-04T22:07:35Z" user="Luca Mina" uid="1257620" lat="45.2549955" lon="9.9292530"/>
@@ -132,6 +132,7 @@
  <node id="2346798486" visible="true" version="1" changeset="16570097" timestamp="2013-06-16T00:40:07Z" user="mcheckimport" uid="893327" lat="45.2667180" lon="9.9211142"/>
  <node id="2654782242" visible="true" version="1" changeset="20382183" timestamp="2014-02-04T22:07:32Z" user="Luca Mina" uid="1257620" lat="45.2550773" lon="9.9200911"/>
  <node id="2654782245" visible="true" version="1" changeset="20382183" timestamp="2014-02-04T22:07:32Z" user="Luca Mina" uid="1257620" lat="45.2562396" lon="9.9202364"/>
+ <node id="2654782270" visible="true" version="2" changeset="94990098" timestamp="2020-11-29T16:23:18Z" user="dega180" uid="454306" lat="45.2587849" lon="9.9286604"/>
  <node id="2654782295" visible="true" version="1" changeset="20382183" timestamp="2014-02-04T22:07:33Z" user="Luca Mina" uid="1257620" lat="45.2624493" lon="9.9287089"/>
  <node id="2654782301" visible="true" version="1" changeset="20382183" timestamp="2014-02-04T22:07:33Z" user="Luca Mina" uid="1257620" lat="45.2632786" lon="9.9205754"/>
  <node id="2654803516" visible="true" version="1" changeset="20382322" timestamp="2014-02-04T22:17:20Z" user="Luca Mina" uid="1257620" lat="45.2578249" lon="9.9526075"/>
@@ -384,7 +385,7 @@
   <nd ref="1043783320"/>
   <tag k="highway" v="unclassified"/>
  </way>
- <way id="106549043" visible="true" version="2" changeset="20382183" timestamp="2014-02-04T22:07:35Z" user="Luca Mina" uid="1257620">
+ <way id="106549043" visible="true" version="3" changeset="94990098" timestamp="2020-11-29T16:23:18Z" user="dega180" uid="454306">
   <nd ref="689304332"/>
   <nd ref="1225639859"/>
   <nd ref="1225639912"/>
@@ -406,6 +407,7 @@
   <nd ref="2654782295"/>
   <nd ref="1225639930"/>
   <nd ref="1225639831"/>
+  <nd ref="2654782270"/>
   <nd ref="1225639899"/>
   <nd ref="1225639974"/>
   <nd ref="1225640071"/>

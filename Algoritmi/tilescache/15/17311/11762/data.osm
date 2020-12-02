@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3679741 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1923394 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1897801" minlon="10.1843262" maxlat="45.1975223" maxlon="10.1953125"/>
  <node id="62510582" visible="true" version="4" changeset="73976947" timestamp="2019-09-01T16:22:32Z" user="Alecs01" uid="1476146" lat="45.1949504" lon="10.1866296">
   <tag k="gfoss_id" v="2635"/>
@@ -601,9 +601,10 @@
  <node id="6746680255" visible="true" version="1" changeset="73761747" timestamp="2019-08-26T16:19:28Z" user="claudiopoli" uid="10253119" lat="45.1932272" lon="10.1880351">
   <tag k="amenity" v="library"/>
  </node>
- <node id="6746680256" visible="true" version="1" changeset="73761747" timestamp="2019-08-26T16:19:28Z" user="claudiopoli" uid="10253119" lat="45.1929949" lon="10.1878194">
+ <node id="6746680256" visible="true" version="2" changeset="94504160" timestamp="2020-11-20T13:39:34Z" user="Edward" uid="364" lat="45.1929949" lon="10.1878194">
   <tag k="name" v="Museo del Lino"/>
   <tag k="tourism" v="museum"/>
+  <tag k="wikidata" v="Q55376047"/>
  </node>
  <node id="6746697090" visible="true" version="1" changeset="73761388" timestamp="2019-08-26T16:10:24Z" user="claudiopoli" uid="10253119" lat="45.1951430" lon="10.1856661"/>
  <node id="6746697091" visible="true" version="1" changeset="73761388" timestamp="2019-08-26T16:10:24Z" user="claudiopoli" uid="10253119" lat="45.1950000" lon="10.1856179"/>
@@ -815,6 +816,7 @@
  <node id="7840959518" visible="true" version="1" changeset="89874354" timestamp="2020-08-24T19:08:54Z" user="fedc" uid="602784" lat="45.2047158" lon="10.2037262"/>
  <node id="7840959519" visible="true" version="1" changeset="89874354" timestamp="2020-08-24T19:08:54Z" user="fedc" uid="602784" lat="45.2046136" lon="10.2035968"/>
  <node id="7840959520" visible="true" version="1" changeset="89874354" timestamp="2020-08-24T19:08:54Z" user="fedc" uid="602784" lat="45.2115193" lon="10.2193006"/>
+ <node id="8089463441" visible="true" version="1" changeset="93686516" timestamp="2020-11-06T22:00:44Z" user="dega180" uid="454306" lat="45.1846314" lon="10.2128543"/>
  <way id="30445072" visible="true" version="8" changeset="89874354" timestamp="2020-08-24T19:08:54Z" user="fedc" uid="602784">
   <nd ref="335998006"/>
   <nd ref="1815373719"/>
@@ -857,7 +859,7 @@
   <tag k="highway" v="residential"/>
   <tag k="name" v="Giuseppe Mazzini"/>
  </way>
- <way id="83647071" visible="true" version="5" changeset="73761388" timestamp="2019-08-26T16:10:24Z" user="claudiopoli" uid="10253119">
+ <way id="83647071" visible="true" version="6" changeset="93686516" timestamp="2020-11-06T22:00:44Z" user="dega180" uid="454306">
   <nd ref="335995592"/>
   <nd ref="6746605911"/>
   <nd ref="6746697149"/>
@@ -887,6 +889,7 @@
   <nd ref="974081618"/>
   <nd ref="974081654"/>
   <nd ref="974081225"/>
+  <nd ref="8089463441"/>
   <nd ref="974081116"/>
   <nd ref="974081707"/>
   <nd ref="974081201"/>

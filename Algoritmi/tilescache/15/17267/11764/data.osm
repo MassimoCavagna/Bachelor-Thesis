@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3583218 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3439696 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1742925" minlon="9.7009277" maxlat="45.1820368" maxlon="9.7119141"/>
  <node id="577249454" visible="true" version="1" changeset="3264529" timestamp="2009-12-01T14:44:04Z" user="merto" uid="194280" lat="45.1685538" lon="9.7053463"/>
  <node id="577249457" visible="true" version="3" changeset="81545583" timestamp="2020-02-27T11:17:11Z" user="bubix" uid="1967477" lat="45.1689918" lon="9.7106082"/>
@@ -899,7 +899,7 @@
   <tag k="name" v="Via dei Mulini"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="305732728" visible="true" version="8" changeset="81049392" timestamp="2020-02-15T17:21:38Z" user="Alecs01" uid="1476146">
+ <way id="305732728" visible="true" version="9" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784">
   <nd ref="1802552869"/>
   <nd ref="1802552857"/>
   <nd ref="1802552838"/>
@@ -913,10 +913,12 @@
   <tag k="highway" v="primary"/>
   <tag k="lanes" v="2"/>
   <tag k="maxspeed" v="90"/>
-  <tag k="name" v="Strada Provinciale exSS234 Codognese"/>
-  <tag k="ref" v="SPexSS234"/>
+  <tag k="name" v="Strada provinciale 234 dir Codognese"/>
+  <tag k="oneway" v="no"/>
+  <tag k="ref" v="SP234dir"/>
+  <tag k="surface" v="asphalt"/>
  </way>
- <way id="305732731" visible="true" version="6" changeset="73998253" timestamp="2019-09-02T12:12:23Z" user="fedc" uid="602784">
+ <way id="305732731" visible="true" version="7" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784">
   <nd ref="3103974762"/>
   <nd ref="5031878697"/>
   <nd ref="3103974758"/>
@@ -943,10 +945,11 @@
   <nd ref="3103974762"/>
   <tag k="highway" v="primary"/>
   <tag k="junction" v="roundabout"/>
-  <tag k="name" v="Strada Provinciale exSS234 Codognese"/>
-  <tag k="ref" v="SPexSS234"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="SP234dir"/>
+  <tag k="surface" v="asphalt"/>
  </way>
- <way id="305732734" visible="true" version="4" changeset="73998253" timestamp="2019-09-02T12:12:23Z" user="fedc" uid="602784">
+ <way id="305732734" visible="true" version="5" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784">
   <nd ref="3103974758"/>
   <nd ref="5031878692"/>
   <nd ref="6766191689"/>
@@ -954,20 +957,22 @@
   <nd ref="5031878691"/>
   <nd ref="1802552872"/>
   <tag k="highway" v="primary"/>
-  <tag k="lanes" v="2"/>
+  <tag k="name" v="Strada provinciale 234 dir Codognese"/>
   <tag k="oneway" v="yes"/>
-  <tag k="ref" v="SPexSS234"/>
+  <tag k="ref" v="SP234dir"/>
+  <tag k="surface" v="asphalt"/>
  </way>
- <way id="305732735" visible="true" version="3" changeset="51077158" timestamp="2017-08-13T10:01:49Z" user="Elia Z" uid="2914055">
+ <way id="305732735" visible="true" version="4" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784">
   <nd ref="3103974751"/>
   <nd ref="1802552869"/>
-  <nd ref="3103974757"/>
   <tag k="highway" v="primary"/>
-  <tag k="lanes" v="2"/>
+  <tag k="lanes" v="1"/>
+  <tag k="name" v="Strada provinciale 234 dir Codognese"/>
   <tag k="oneway" v="yes"/>
-  <tag k="ref" v="SPexSS234"/>
+  <tag k="ref" v="SP234dir"/>
+  <tag k="surface" v="asphalt"/>
  </way>
- <way id="305732739" visible="true" version="4" changeset="51108405" timestamp="2017-08-14T11:30:53Z" user="Elia Z" uid="2914055">
+ <way id="305732739" visible="true" version="5" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784">
   <nd ref="3103974766"/>
   <nd ref="1802552912"/>
   <nd ref="5031878700"/>
@@ -980,8 +985,10 @@
   <tag k="highway" v="primary"/>
   <tag k="lanes" v="2"/>
   <tag k="maxspeed" v="90"/>
-  <tag k="name" v="Strada Provinciale exSS234 Codognese"/>
-  <tag k="ref" v="SPexSS234"/>
+  <tag k="name" v="Strada provinciale 234 dir Codognese"/>
+  <tag k="oneway" v="no"/>
+  <tag k="ref" v="SP234dir"/>
+  <tag k="surface" v="asphalt"/>
  </way>
  <way id="383909300" visible="true" version="1" changeset="35698026" timestamp="2015-12-02T02:00:29Z" user="fedc" uid="602784">
   <nd ref="3872157106"/>
@@ -1234,16 +1241,17 @@
   <tag k="foot" v="designated"/>
   <tag k="highway" v="cycleway"/>
  </way>
- <way id="721154573" visible="true" version="1" changeset="73998253" timestamp="2019-09-02T12:12:23Z" user="fedc" uid="602784">
+ <way id="721154573" visible="true" version="2" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784">
   <nd ref="1802552872"/>
   <nd ref="6766191685"/>
   <nd ref="6766191686"/>
   <nd ref="6766191687"/>
   <nd ref="3103974750"/>
   <tag k="highway" v="primary"/>
-  <tag k="lanes" v="2"/>
+  <tag k="name" v="Strada provinciale 234 dir Codognese"/>
   <tag k="oneway" v="yes"/>
-  <tag k="ref" v="SPexSS234"/>
+  <tag k="ref" v="SP234dir"/>
+  <tag k="surface" v="asphalt"/>
  </way>
  <way id="776373763" visible="true" version="1" changeset="81476672" timestamp="2020-02-26T01:10:14Z" user="mcheck" uid="478872">
   <nd ref="7243786718"/>
@@ -1595,6 +1603,16 @@
   <nd ref="7325019433"/>
   <tag k="landuse" v="farmyard"/>
  </way>
+ <way id="863578145" visible="true" version="1" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784">
+  <nd ref="1802552869"/>
+  <nd ref="3103974757"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="1"/>
+  <tag k="name" v="Strada provinciale 234 dir Codognese"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="SP234dir"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
  <relation id="1474245" visible="true" version="7" changeset="73998346" timestamp="2019-09-02T12:15:03Z" user="fedc" uid="602784">
   <member type="way" ref="103406676" role=""/>
   <member type="way" ref="721154570" role=""/>
@@ -1615,7 +1633,7 @@
   <tag k="route" v="bicycle"/>
   <tag k="type" v="route"/>
  </relation>
- <relation id="1795722" visible="true" version="114" changeset="79201046" timestamp="2020-01-04T22:31:04Z" user="fedc" uid="602784">
+ <relation id="1795722" visible="true" version="116" changeset="93711556" timestamp="2020-11-07T15:44:25Z" user="astraspera" uid="2653653">
   <member type="way" ref="46579235" role=""/>
   <member type="way" ref="22882758" role=""/>
   <member type="way" ref="46579240" role=""/>
@@ -1640,19 +1658,12 @@
   <member type="way" ref="677362527" role=""/>
   <member type="way" ref="25870585" role=""/>
   <member type="way" ref="593467740" role=""/>
-  <member type="way" ref="38963336" role=""/>
-  <member type="way" ref="372639399" role=""/>
-  <member type="way" ref="372639398" role=""/>
-  <member type="way" ref="38963337" role=""/>
+  <member type="way" ref="868042564" role=""/>
+  <member type="way" ref="868042560" role=""/>
   <member type="way" ref="304530028" role=""/>
   <member type="way" ref="593467742" role=""/>
   <member type="way" ref="304530027" role=""/>
-  <member type="way" ref="390480323" role=""/>
-  <member type="way" ref="593467735" role=""/>
   <member type="way" ref="677857788" role=""/>
-  <member type="way" ref="665212723" role=""/>
-  <member type="way" ref="480327975" role=""/>
-  <member type="way" ref="593467738" role=""/>
   <member type="way" ref="593467721" role=""/>
   <member type="way" ref="98497763" role=""/>
   <member type="way" ref="689668521" role=""/>
@@ -1783,9 +1794,8 @@
   <member type="way" ref="721154573" role=""/>
   <member type="way" ref="305732731" role=""/>
   <member type="way" ref="305732735" role=""/>
+  <member type="way" ref="863578145" role=""/>
   <member type="way" ref="305732728" role=""/>
-  <member type="way" ref="169083489" role=""/>
-  <member type="way" ref="627610463" role=""/>
   <member type="way" ref="37767972" role=""/>
   <member type="way" ref="187778390" role=""/>
   <member type="way" ref="93391171" role=""/>
@@ -1797,6 +1807,8 @@
   <member type="way" ref="542524217" role=""/>
   <member type="way" ref="542524216" role=""/>
   <member type="way" ref="593467732" role=""/>
+  <member type="way" ref="390480323" role=""/>
+  <member type="way" ref="593467735" role=""/>
   <member type="way" ref="542524219" role=""/>
   <member type="way" ref="596247312" role=""/>
   <member type="way" ref="596247308" role=""/>
@@ -1834,7 +1846,22 @@
   <member type="way" ref="627610462" role=""/>
   <member type="way" ref="627610464" role=""/>
   <member type="way" ref="627610480" role=""/>
+  <member type="way" ref="169083489" role=""/>
+  <member type="way" ref="627610463" role=""/>
   <member type="way" ref="627610481" role=""/>
+  <member type="way" ref="484484690" role="road"/>
+  <member type="way" ref="546028963" role=""/>
+  <member type="way" ref="546028960" role=""/>
+  <member type="way" ref="868042563" role=""/>
+  <member type="way" ref="868042562" role=""/>
+  <member type="way" ref="868042561" role=""/>
+  <member type="way" ref="868042565" role=""/>
+  <member type="way" ref="746096661" role=""/>
+  <member type="way" ref="746096662" role=""/>
+  <member type="way" ref="38963329" role=""/>
+  <member type="way" ref="546028964" role=""/>
+  <member type="way" ref="546028962" role=""/>
+  <member type="way" ref="746096660" role=""/>
   <tag k="name" v="Strada Provinciale exSS234 Codognese"/>
   <tag k="network" v="IT:PV;IT:MI;IT:LO"/>
   <tag k="old_name" v="Strada Statale Codognese"/>

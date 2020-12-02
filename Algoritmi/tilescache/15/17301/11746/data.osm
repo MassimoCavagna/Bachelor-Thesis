@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2320387 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441747 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3135290" minlon="10.0744629" maxlat="45.3212544" maxlon="10.0854492"/>
  <node id="332197688" visible="true" version="6" changeset="59320740" timestamp="2018-05-27T19:32:03Z" user="pigio66" uid="7507474" lat="45.2728783" lon="10.0804088"/>
  <node id="332197700" visible="true" version="3" changeset="829358" timestamp="2009-01-23T13:42:36Z" user="Thorin" uid="92379" lat="45.2740715" lon="10.0804705"/>
@@ -1671,7 +1671,7 @@
   <nd ref="1773052392"/>
   <tag k="highway" v="residential"/>
  </way>
- <relation id="975402" visible="true" version="64" changeset="88768992" timestamp="2020-07-31T07:56:12Z" user="gspinoza" uid="562239">
+ <relation id="975402" visible="true" version="65" changeset="94498886" timestamp="2020-11-20T11:49:10Z" user="dega180" uid="454306">
   <member type="way" ref="58533898" role=""/>
   <member type="way" ref="214333359" role=""/>
   <member type="way" ref="214333356" role=""/>
@@ -1744,6 +1744,8 @@
   <member type="way" ref="206889882" role=""/>
   <member type="way" ref="59505616" role=""/>
   <member type="way" ref="58902408" role=""/>
+  <member type="way" ref="875113505" role=""/>
+  <member type="way" ref="875113506" role=""/>
   <member type="way" ref="59115460" role=""/>
   <member type="way" ref="59115478" role=""/>
   <member type="way" ref="59115463" role=""/>
@@ -1915,7 +1917,6 @@
   <member type="way" ref="122024760" role=""/>
   <member type="way" ref="720174975" role=""/>
   <tag k="cycle_network" v="Sistema Turistico Po di Lombardia"/>
-  <tag k="fixme" v="status=proposed deleted - state=proposed is correct tag if this is a proposed route"/>
   <tag k="name" v="Ciclovia del Mella (tratto sud)"/>
   <tag k="network" v="rcn"/>
   <tag k="ref" v="ME01"/>
@@ -1976,7 +1977,7 @@
   <tag k="wikidata" v="Q220085"/>
   <tag k="wikipedia" v="it:Ferrovia Brescia-Cremona"/>
  </relation>
- <relation id="8189749" visible="true" version="23" changeset="88769659" timestamp="2020-07-31T08:10:12Z" user="gspinoza" uid="562239">
+ <relation id="8189749" visible="true" version="24" changeset="94498886" timestamp="2020-11-20T11:49:10Z" user="dega180" uid="454306">
   <member type="way" ref="484551781" role=""/>
   <member type="way" ref="585185976" role=""/>
   <member type="way" ref="561197553" role=""/>
@@ -2061,6 +2062,8 @@
   <member type="way" ref="59115463" role=""/>
   <member type="way" ref="59115478" role=""/>
   <member type="way" ref="59115460" role=""/>
+  <member type="way" ref="875113506" role=""/>
+  <member type="way" ref="875113505" role=""/>
   <member type="way" ref="58902408" role=""/>
   <member type="way" ref="59505616" role=""/>
   <member type="way" ref="206889882" role=""/>

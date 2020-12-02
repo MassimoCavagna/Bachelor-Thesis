@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2027240 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3439588 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1200528" minlon="9.9975586" maxlat="45.1278045" maxlon="10.0085449"/>
  <node id="286947685" visible="true" version="3" changeset="34672549" timestamp="2015-10-16T11:26:47Z" user="Fredie" uid="2073275" lat="45.1274363" lon="9.9995876"/>
  <node id="286948225" visible="true" version="1" changeset="181792" timestamp="2008-08-11T11:03:26Z" user="wiso" uid="30891" lat="45.1071252" lon="10.0181788"/>
@@ -2262,15 +2262,19 @@
   <tag k="name" v="Piazza Atleti Azzurri d'Italia"/>
   <tag k="parking" v="surface"/>
  </way>
- <way id="114577894" visible="true" version="3" changeset="90144279" timestamp="2020-08-30T12:39:54Z" user="Davide21B" uid="11728659">
+ <way id="114577894" visible="true" version="4" changeset="94144713" timestamp="2020-11-15T12:56:05Z" user="Filippo Bonali" uid="10719212">
   <nd ref="1297538186"/>
   <nd ref="1297538199"/>
   <nd ref="1297538181"/>
   <nd ref="1297538157"/>
   <nd ref="1297538113"/>
   <nd ref="1297538186"/>
+  <tag k="access" v="private"/>
   <tag k="leisure" v="pitch"/>
-  <tag k="sport" v="roller_skating"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Campo Po2 - Livrini - F.Rossetti"/>
+  <tag k="sport" v="ultimate_frisbee"/>
+  <tag k="surface" v="grass"/>
  </way>
  <way id="114577895" visible="true" version="2" changeset="16806411" timestamp="2013-07-03T13:46:48Z" user="mcheckimport" uid="893327">
   <nd ref="1297538159"/>
@@ -4376,7 +4380,7 @@
   <tag k="oneway" v="no"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="551096120" visible="true" version="2" changeset="58588571" timestamp="2018-05-01T16:06:41Z" user="pigio66" uid="7507474">
+ <way id="551096120" visible="true" version="3" changeset="94345247" timestamp="2020-11-18T09:15:46Z" user="AlessioZappa" uid="12186632">
   <nd ref="5322308122"/>
   <nd ref="1186653197"/>
   <nd ref="1186652744"/>
@@ -4398,9 +4402,10 @@
   <nd ref="1200221207"/>
   <nd ref="5590609035"/>
   <nd ref="852975829"/>
-  <tag k="embankment" v="yes"/>
   <tag k="foot" v="yes"/>
   <tag k="highway" v="cycleway"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
  </way>
  <way id="552145066" visible="true" version="4" changeset="58588571" timestamp="2018-05-01T16:06:40Z" user="pigio66" uid="7507474">
   <nd ref="5322357785"/>
@@ -4737,7 +4742,7 @@
   <nd ref="3902656861"/>
   <nd ref="5711781235"/>
  </way>
- <way id="600810276" visible="true" version="4" changeset="81425061" timestamp="2020-02-24T22:08:14Z" user="GiovanniC83" uid="9622178">
+ <way id="600810276" visible="true" version="5" changeset="94345247" timestamp="2020-11-18T09:15:46Z" user="AlessioZappa" uid="12186632">
   <nd ref="5711781236"/>
   <nd ref="5711781238"/>
   <nd ref="5711781239"/>
@@ -4751,8 +4756,6 @@
   <nd ref="5832104092"/>
   <nd ref="852975829"/>
   <tag k="bicycle" v="designated"/>
-  <tag k="cutting" v="left"/>
-  <tag k="embankment" v="right"/>
   <tag k="foot" v="designated"/>
   <tag k="highway" v="cycleway"/>
   <tag k="lit" v="yes"/>
@@ -4858,7 +4861,7 @@
   <nd ref="7858065163"/>
   <nd ref="7858065164"/>
  </way>
- <relation id="42611" visible="true" version="255" changeset="92311473" timestamp="2020-10-11T19:17:00Z" user="MitjaJez" uid="1553347">
+ <relation id="42611" visible="true" version="258" changeset="93553927" timestamp="2020-11-04T16:39:05Z" user="Garmin-User" uid="177389">
   <member type="node" ref="667350399" role="admin_centre"/>
   <member type="node" ref="1781917318" role="label"/>
   <member type="way" ref="481208126" role="outer"/>
@@ -5025,11 +5028,14 @@
   <member type="way" ref="783879478" role="outer"/>
   <member type="way" ref="783879481" role="outer"/>
   <member type="way" ref="783897858" role="outer"/>
+  <member type="way" ref="866778403" role="outer"/>
   <member type="way" ref="443598856" role="outer"/>
+  <member type="way" ref="865402694" role="outer"/>
   <member type="way" ref="27974900" role="outer"/>
   <member type="way" ref="27974814" role="outer"/>
   <member type="way" ref="27974783" role="outer"/>
   <member type="way" ref="27974767" role="outer"/>
+  <member type="way" ref="867029359" role="outer"/>
   <member type="way" ref="527994752" role="outer"/>
   <member type="way" ref="27974753" role="outer"/>
   <member type="way" ref="27974676" role="outer"/>
@@ -5438,7 +5444,7 @@
   <tag k="wikidata" v="Q6231"/>
   <tag k="wikipedia" v="it:Cremona"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -5511,7 +5517,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>
@@ -6190,7 +6197,7 @@
   <tag k="route" v="bicycle"/>
   <tag k="type" v="route"/>
  </relation>
- <relation id="9584949" visible="true" version="58" changeset="92182800" timestamp="2020-10-08T15:08:19Z" user="vrmap" uid="852319">
+ <relation id="9584949" visible="true" version="59" changeset="94020178" timestamp="2020-11-12T21:44:31Z" user="vbertola" uid="4347030">
   <member type="way" ref="252268321" role=""/>
   <member type="way" ref="252268299" role=""/>
   <member type="way" ref="228539544" role=""/>
@@ -6228,12 +6235,13 @@
   <member type="way" ref="24161151" role=""/>
   <member type="way" ref="65427644" role=""/>
   <member type="way" ref="24161122" role=""/>
+  <member type="way" ref="870955974" role=""/>
+  <member type="way" ref="737575818" role=""/>
+  <member type="way" ref="737575821" role=""/>
+  <member type="way" ref="737575819" role=""/>
   <member type="way" ref="189643067" role=""/>
   <member type="way" ref="22956291" role=""/>
   <member type="way" ref="737575820" role=""/>
-  <member type="way" ref="737575821" role=""/>
-  <member type="way" ref="737575819" role=""/>
-  <member type="way" ref="737575818" role=""/>
   <member type="way" ref="189643068" role=""/>
   <member type="way" ref="22956287" role=""/>
   <member type="way" ref="23184183" role=""/>
@@ -7077,9 +7085,10 @@
   <tag k="website" v="http://www.eurovelo8.com/countries/italy"/>
   <tag k="wikipedia" v="en:EV8 The Mediterranean Route"/>
  </relation>
- <relation id="9585839" visible="true" version="26" changeset="89886831" timestamp="2020-08-25T04:23:25Z" user="gzin" uid="35673">
+ <relation id="9585839" visible="true" version="27" changeset="94506437" timestamp="2020-11-20T14:30:02Z" user="patata_28" uid="11166885">
   <member type="way" ref="11701029" role=""/>
   <member type="way" ref="835705627" role=""/>
+  <member type="way" ref="875174822" role=""/>
   <member type="relation" ref="9583387" role="part"/>
   <member type="relation" ref="9629396" role="part"/>
   <member type="relation" ref="3977556" role="part"/>

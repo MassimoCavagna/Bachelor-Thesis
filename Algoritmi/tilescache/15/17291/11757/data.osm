@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (325138 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441658 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2284806" minlon="9.9645996" maxlat="45.2362175" maxlon="9.9755859"/>
  <node id="307076487" visible="true" version="3" changeset="28592954" timestamp="2015-02-03T16:26:15Z" user="Pyknite" uid="193512" lat="45.2098771" lon="9.9516226"/>
  <node id="307081858" visible="true" version="2" changeset="28592954" timestamp="2015-02-03T16:26:15Z" user="Pyknite" uid="193512" lat="45.2313782" lon="10.0041792"/>
@@ -316,11 +316,13 @@
  <node id="7997972042" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.2346951" lon="9.9713110"/>
  <node id="7997972043" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.2343090" lon="9.9788239"/>
  <node id="7997972064" visible="true" version="1" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306" lat="45.2343238" lon="9.9785353"/>
- <way id="110980893" visible="true" version="9" changeset="92312827" timestamp="2020-10-11T20:11:21Z" user="dega180" uid="454306">
+ <node id="8172809945" visible="true" version="1" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2236033" lon="9.9820085"/>
+ <way id="110980893" visible="true" version="10" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973">
   <nd ref="336503966"/>
   <nd ref="336503895"/>
   <nd ref="336503883"/>
   <nd ref="336503319"/>
+  <nd ref="8172809945"/>
   <nd ref="336503331"/>
   <nd ref="1225390602"/>
   <nd ref="4544831225"/>
@@ -344,7 +346,6 @@
   <nd ref="336502010"/>
   <tag k="highway" v="primary"/>
   <tag k="lanes" v="2"/>
-  <tag k="layer" v="0"/>
   <tag k="name" v="Via Bergamo"/>
   <tag k="old_ref" v="SS498"/>
   <tag k="ref" v="SPexSS498"/>

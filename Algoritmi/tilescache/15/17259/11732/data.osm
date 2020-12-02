@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1877508 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3887259 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4215881" minlon="9.6130371" maxlat="45.4292987" maxlon="9.6240234"/>
  <node id="277282823" visible="true" version="4" changeset="8170789" timestamp="2011-05-17T11:43:37Z" user="ulzana" uid="219143" lat="45.4090218" lon="9.6185035"/>
  <node id="287720808" visible="true" version="12" changeset="1098722" timestamp="2009-05-06T17:17:07Z" user="wiso" uid="30891" lat="45.4104734" lon="9.6233562"/>
@@ -421,8 +421,10 @@
  <node id="3113284521" visible="true" version="1" changeset="25880719" timestamp="2014-10-05T18:32:18Z" user="adirricor" uid="245439" lat="45.4199063" lon="9.6156584">
   <tag k="highway" v="crossing"/>
  </node>
- <node id="3113386464" visible="true" version="1" changeset="25883553" timestamp="2014-10-05T19:31:46Z" user="adirricor" uid="245439" lat="45.4263247" lon="9.6139916">
+ <node id="3113386464" visible="true" version="2" changeset="93055940" timestamp="2020-10-26T10:38:22Z" user="volpit" uid="9629951" lat="45.4263247" lon="9.6139916">
+  <tag k="bus" v="yes"/>
   <tag k="highway" v="bus_stop"/>
+  <tag k="public_transport" v="platform"/>
   <tag k="shelter" v="yes"/>
  </node>
  <node id="3113386465" visible="true" version="1" changeset="25883553" timestamp="2014-10-05T19:31:46Z" user="adirricor" uid="245439" lat="45.4259936" lon="9.6142920">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2320387 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3440695 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2748864" minlon="10.0854492" maxlat="45.2826171" maxlon="10.0964355"/>
  <node id="336122290" visible="true" version="7" changeset="41865622" timestamp="2016-09-02T09:44:13Z" user="Elia Z" uid="2914055" lat="45.2708776" lon="10.0942581"/>
  <node id="336122294" visible="true" version="6" changeset="834170" timestamp="2009-01-24T22:57:57Z" user="Diego Guidotti" uid="1700" lat="45.2701556" lon="10.1002179"/>
@@ -1003,6 +1003,41 @@
  <node id="7409022889" visible="true" version="1" changeset="83615304" timestamp="2020-04-15T22:30:51Z" user="mcheck" uid="478872" lat="45.2689750" lon="10.0910512"/>
  <node id="7409041319" visible="true" version="1" changeset="83615414" timestamp="2020-04-15T22:37:10Z" user="mcheck" uid="478872" lat="45.2667810" lon="10.0852990"/>
  <node id="7409041320" visible="true" version="1" changeset="83615414" timestamp="2020-04-15T22:37:10Z" user="mcheck" uid="478872" lat="45.2664733" lon="10.0847036"/>
+ <node id="8048324039" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864" lat="45.2779684" lon="10.0936838">
+  <tag k="addr:city" v="Pontevico"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="25026"/>
+  <tag k="addr:street" v="Via Vincenzo Foppa"/>
+  <tag k="entrance" v="main"/>
+ </node>
+ <node id="8048324040" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864" lat="45.2780257" lon="10.0936011">
+  <tag k="addr:city" v="Pontevico"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="25026"/>
+  <tag k="addr:street" v="Via Vincenzo Foppa"/>
+  <tag k="email" v="candytedoldi@gmail.com"/>
+  <tag k="name" v="Studio Olos"/>
+  <tag k="phone" v="+39 346 6845323"/>
+  <tag k="shop" v="massage"/>
+ </node>
+ <node id="8048324041" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864" lat="45.2778842" lon="10.0935066"/>
+ <node id="8048324042" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864" lat="45.2778804" lon="10.0934992"/>
+ <node id="8048324043" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864" lat="45.2778747" lon="10.0934925"/>
+ <node id="8048324044" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864" lat="45.2778662" lon="10.0934912"/>
+ <node id="8048324045" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864" lat="45.2778577" lon="10.0934938"/>
+ <node id="8048324046" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864" lat="45.2778511" lon="10.0934992"/>
+ <node id="8048324047" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864" lat="45.2778474" lon="10.0935126"/>
+ <node id="8048324048" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864" lat="45.2778403" lon="10.0936186"/>
+ <node id="8048324049" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864" lat="45.2778431" lon="10.0936286"/>
+ <node id="8048324050" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864" lat="45.2778525" lon="10.0936326"/>
+ <node id="8048324051" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864" lat="45.2778648" lon="10.0936313"/>
+ <node id="8048324052" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864" lat="45.2778747" lon="10.0936279"/>
+ <node id="8048324053" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864" lat="45.2778799" lon="10.0936172"/>
+ <node id="8048324054" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864" lat="45.2778875" lon="10.0935166"/>
+ <node id="8048324055" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864" lat="45.2779115" lon="10.0934919"/>
+ <node id="8048324056" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864" lat="45.2778969" lon="10.0936721"/>
+ <node id="8048324057" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864" lat="45.2780550" lon="10.0936979"/>
+ <node id="8048324058" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864" lat="45.2780696" lon="10.0935178"/>
  <way id="30453110" visible="true" version="16" changeset="65678081" timestamp="2018-12-21T19:32:21Z" user="fedc" uid="602784">
   <nd ref="336125069"/>
   <nd ref="336125070"/>
@@ -1560,10 +1595,10 @@
   <tag k="name" v="Strada Rota Servolta"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
  </way>
- <way id="66867892" visible="true" version="4" changeset="83615304" timestamp="2020-04-15T22:30:51Z" user="mcheck" uid="478872">
+ <way id="66867892" visible="true" version="5" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864">
   <nd ref="807998771"/>
   <nd ref="807998538"/>
-  <tag k="highway" v="residential"/>
+  <tag k="highway" v="unclassified"/>
   <tag k="name" v="Via Giuseppe Di Vittorio"/>
   <tag k="oneway" v="yes"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
@@ -1595,7 +1630,7 @@
   <nd ref="1718511153"/>
   <tag k="landuse" v="farmyard"/>
  </way>
- <way id="159745858" visible="true" version="2" changeset="18054143" timestamp="2013-09-26T23:36:52Z" user="Mesana" uid="852112">
+ <way id="159745858" visible="true" version="3" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864">
   <nd ref="1718511302"/>
   <nd ref="1718511297"/>
   <nd ref="1718511258"/>
@@ -1603,10 +1638,6 @@
   <nd ref="1718511288"/>
   <nd ref="1718511414"/>
   <nd ref="1718511434"/>
-  <nd ref="1718511470"/>
-  <nd ref="1718511474"/>
-  <nd ref="1718511475"/>
-  <nd ref="1718511481"/>
   <tag k="highway" v="residential"/>
   <tag k="name" v="Via Romanino"/>
  </way>
@@ -1652,10 +1683,10 @@
   <tag k="highway" v="residential"/>
   <tag k="junction" v="roundabout"/>
  </way>
- <way id="159745874" visible="true" version="3" changeset="18988997" timestamp="2013-11-19T08:34:52Z" user="demetrio_m" uid="196617">
+ <way id="159745874" visible="true" version="4" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864">
   <nd ref="1718511150"/>
   <nd ref="1718511163"/>
-  <tag k="highway" v="residential"/>
+  <tag k="highway" v="unclassified"/>
   <tag k="oneway" v="yes"/>
  </way>
  <way id="159745883" visible="true" version="2" changeset="11316660" timestamp="2012-04-15T22:16:30Z" user="Gianluigi" uid="498903">
@@ -1685,16 +1716,17 @@
   <nd ref="1718511236"/>
   <tag k="highway" v="residential"/>
  </way>
- <way id="159745896" visible="true" version="2" changeset="18988997" timestamp="2013-11-19T08:34:52Z" user="demetrio_m" uid="196617">
+ <way id="159745896" visible="true" version="3" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864">
   <nd ref="1718511219"/>
   <nd ref="1718511207"/>
-  <tag k="highway" v="residential"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="name" v="Via Vincenzo Foppa"/>
   <tag k="oneway" v="yes"/>
  </way>
- <way id="159745899" visible="true" version="2" changeset="18988997" timestamp="2013-11-19T08:34:52Z" user="demetrio_m" uid="196617">
+ <way id="159745899" visible="true" version="3" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864">
   <nd ref="807998538"/>
   <nd ref="1718511161"/>
-  <tag k="highway" v="residential"/>
+  <tag k="highway" v="unclassified"/>
   <tag k="oneway" v="yes"/>
  </way>
  <way id="159745903" visible="true" version="3" changeset="42329238" timestamp="2016-09-21T17:08:44Z" user="ratrun" uid="474183">
@@ -1702,10 +1734,10 @@
   <nd ref="1718511001"/>
   <tag k="highway" v="residential"/>
  </way>
- <way id="159745909" visible="true" version="2" changeset="18988997" timestamp="2013-11-19T08:34:52Z" user="demetrio_m" uid="196617">
+ <way id="159745909" visible="true" version="3" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864">
   <nd ref="1718511154"/>
   <nd ref="1718511150"/>
-  <tag k="highway" v="residential"/>
+  <tag k="highway" v="unclassified"/>
   <tag k="oneway" v="yes"/>
  </way>
  <way id="159745916" visible="true" version="1" changeset="11315891" timestamp="2012-04-15T20:55:34Z" user="Gianluigi" uid="498903">
@@ -1750,7 +1782,7 @@
   <nd ref="1718511614"/>
   <tag k="highway" v="unclassified"/>
  </way>
- <way id="159745967" visible="true" version="2" changeset="41856908" timestamp="2016-09-01T20:21:46Z" user="Elia Z" uid="2914055">
+ <way id="159745967" visible="true" version="3" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864">
   <nd ref="1718511443"/>
   <nd ref="1718511436"/>
   <nd ref="4379712541"/>
@@ -1758,6 +1790,7 @@
   <nd ref="4379712540"/>
   <nd ref="1718511417"/>
   <tag k="highway" v="residential"/>
+  <tag k="name" v="Via Moretto"/>
  </way>
  <way id="159745977" visible="true" version="2" changeset="11316660" timestamp="2012-04-15T22:16:35Z" user="Gianluigi" uid="498903">
   <nd ref="1718511158"/>
@@ -1784,7 +1817,7 @@
   <nd ref="1718511074"/>
   <tag k="highway" v="residential"/>
  </way>
- <way id="159745990" visible="true" version="2" changeset="41856908" timestamp="2016-09-01T20:21:46Z" user="Elia Z" uid="2914055">
+ <way id="159745990" visible="true" version="3" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864">
   <nd ref="1718511436"/>
   <nd ref="1718511388"/>
   <nd ref="4379712543"/>
@@ -1794,6 +1827,7 @@
   <nd ref="1718511373"/>
   <nd ref="1718511384"/>
   <tag k="highway" v="residential"/>
+  <tag k="name" v="Via Floriano Ferramola"/>
  </way>
  <way id="159745992" visible="true" version="2" changeset="18988997" timestamp="2013-11-19T08:34:51Z" user="demetrio_m" uid="196617">
   <nd ref="1718511211"/>
@@ -1838,10 +1872,11 @@
   <tag k="highway" v="residential"/>
   <tag k="junction" v="roundabout"/>
  </way>
- <way id="159746004" visible="true" version="2" changeset="18988997" timestamp="2013-11-19T08:34:51Z" user="demetrio_m" uid="196617">
+ <way id="159746004" visible="true" version="3" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864">
   <nd ref="1718511194"/>
   <nd ref="1718511219"/>
-  <tag k="highway" v="residential"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="name" v="Via Vincenzo Foppa"/>
   <tag k="oneway" v="yes"/>
  </way>
  <way id="159755486" visible="true" version="6" changeset="83615414" timestamp="2020-04-15T22:37:10Z" user="mcheck" uid="478872">
@@ -2090,7 +2125,7 @@
   <nd ref="1718511240"/>
   <tag k="highway" v="residential"/>
  </way>
- <way id="246991038" visible="true" version="1" changeset="18988997" timestamp="2013-11-19T08:34:50Z" user="demetrio_m" uid="196617">
+ <way id="246991038" visible="true" version="2" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864">
   <nd ref="1718511219"/>
   <nd ref="1718511297"/>
   <nd ref="1718511384"/>
@@ -2099,8 +2134,9 @@
   <nd ref="1718511481"/>
   <nd ref="1718511486"/>
   <tag k="highway" v="residential"/>
+  <tag k="name" v="Via Vincenzo Foppa"/>
  </way>
- <way id="246991039" visible="true" version="3" changeset="41865622" timestamp="2016-09-02T09:44:13Z" user="Elia Z" uid="2914055">
+ <way id="246991039" visible="true" version="4" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864">
   <nd ref="1718511150"/>
   <nd ref="1718511125"/>
   <nd ref="1718511115"/>
@@ -2115,7 +2151,7 @@
   <nd ref="1718510976"/>
   <nd ref="1718510995"/>
   <tag k="highway" v="residential"/>
-  <tag k="name" v="Via G. Verdi"/>
+  <tag k="name" v="Via Giuseppe Verdi"/>
  </way>
  <way id="317726954" visible="true" version="3" changeset="48706159" timestamp="2017-05-15T16:32:21Z" user="SiMaz96" uid="3141745">
   <nd ref="3240217936"/>
@@ -2452,7 +2488,43 @@
   <tag k="layer" v="1"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
  </way>
- <relation id="975402" visible="true" version="64" changeset="88768992" timestamp="2020-07-31T07:56:12Z" user="gspinoza" uid="562239">
+ <way id="863901455" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864">
+  <nd ref="8048324054"/>
+  <nd ref="8048324053"/>
+  <nd ref="8048324052"/>
+  <nd ref="8048324051"/>
+  <nd ref="8048324050"/>
+  <nd ref="8048324049"/>
+  <nd ref="8048324048"/>
+  <nd ref="8048324047"/>
+  <nd ref="8048324046"/>
+  <nd ref="8048324045"/>
+  <nd ref="8048324044"/>
+  <nd ref="8048324043"/>
+  <nd ref="8048324042"/>
+  <nd ref="8048324041"/>
+  <nd ref="8048324054"/>
+  <tag k="leisure" v="swimming_pool"/>
+ </way>
+ <way id="863901456" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864">
+  <nd ref="8048324058"/>
+  <nd ref="8048324057"/>
+  <nd ref="8048324039"/>
+  <nd ref="8048324056"/>
+  <nd ref="8048324055"/>
+  <nd ref="8048324058"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="863901457" visible="true" version="1" changeset="93078670" timestamp="2020-10-26T20:03:18Z" user="demon_box" uid="350864">
+  <nd ref="1718511434"/>
+  <nd ref="1718511470"/>
+  <nd ref="1718511474"/>
+  <nd ref="1718511475"/>
+  <nd ref="1718511481"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Via Giovanni Gerolamo Savoldo"/>
+ </way>
+ <relation id="975402" visible="true" version="65" changeset="94498886" timestamp="2020-11-20T11:49:10Z" user="dega180" uid="454306">
   <member type="way" ref="58533898" role=""/>
   <member type="way" ref="214333359" role=""/>
   <member type="way" ref="214333356" role=""/>
@@ -2525,6 +2597,8 @@
   <member type="way" ref="206889882" role=""/>
   <member type="way" ref="59505616" role=""/>
   <member type="way" ref="58902408" role=""/>
+  <member type="way" ref="875113505" role=""/>
+  <member type="way" ref="875113506" role=""/>
   <member type="way" ref="59115460" role=""/>
   <member type="way" ref="59115478" role=""/>
   <member type="way" ref="59115463" role=""/>
@@ -2696,7 +2770,6 @@
   <member type="way" ref="122024760" role=""/>
   <member type="way" ref="720174975" role=""/>
   <tag k="cycle_network" v="Sistema Turistico Po di Lombardia"/>
-  <tag k="fixme" v="status=proposed deleted - state=proposed is correct tag if this is a proposed route"/>
   <tag k="name" v="Ciclovia del Mella (tratto sud)"/>
   <tag k="network" v="rcn"/>
   <tag k="ref" v="ME01"/>
@@ -2823,7 +2896,7 @@
   <tag k="route" v="road"/>
   <tag k="type" v="route"/>
  </relation>
- <relation id="8189749" visible="true" version="23" changeset="88769659" timestamp="2020-07-31T08:10:12Z" user="gspinoza" uid="562239">
+ <relation id="8189749" visible="true" version="24" changeset="94498886" timestamp="2020-11-20T11:49:10Z" user="dega180" uid="454306">
   <member type="way" ref="484551781" role=""/>
   <member type="way" ref="585185976" role=""/>
   <member type="way" ref="561197553" role=""/>
@@ -2908,6 +2981,8 @@
   <member type="way" ref="59115463" role=""/>
   <member type="way" ref="59115478" role=""/>
   <member type="way" ref="59115460" role=""/>
+  <member type="way" ref="875113506" role=""/>
+  <member type="way" ref="875113505" role=""/>
   <member type="way" ref="58902408" role=""/>
   <member type="way" ref="59505616" role=""/>
   <member type="way" ref="206889882" role=""/>

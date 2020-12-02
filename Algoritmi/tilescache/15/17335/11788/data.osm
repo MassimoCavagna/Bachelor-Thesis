@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3076199 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (1836503 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="44.9881130" minlon="10.4479980" maxlat="44.9958826" maxlon="10.4589844"/>
  <node id="307032793" visible="true" version="3" changeset="28249044" timestamp="2015-01-19T10:16:09Z" user="Pyknite" uid="193512" lat="45.0038579" lon="10.5967139"/>
  <node id="307034066" visible="true" version="3" changeset="28249044" timestamp="2015-01-19T10:16:09Z" user="Pyknite" uid="193512" lat="45.0148113" lon="10.4641388"/>
@@ -2770,7 +2770,7 @@
   <tag k="highway" v="tertiary"/>
   <tag k="name" v="Via del Santuario"/>
  </way>
- <relation id="43798" visible="true" version="46" changeset="66903819" timestamp="2019-02-04T13:39:45Z" user="Garmin-User" uid="177389">
+ <relation id="43798" visible="true" version="47" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="62505610" role="admin_centre"/>
   <member type="way" ref="27977551" role="outer"/>
   <member type="way" ref="27977480" role="outer"/>
@@ -2812,8 +2812,9 @@
   <member type="way" ref="27978792" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27979166" role="outer"/>
@@ -3074,7 +3075,7 @@
   <tag k="wikidata" v="Q43014"/>
   <tag k="wikipedia" v="it:Sabbioneta"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -3147,7 +3148,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>
@@ -3558,7 +3560,7 @@
   <tag k="wikidata" v="Q1210"/>
   <tag k="wikipedia" v="it:Lombardia"/>
  </relation>
- <relation id="2163392" visible="true" version="314" changeset="92369540" timestamp="2020-10-12T18:06:39Z" user="frasty" uid="549825">
+ <relation id="2163392" visible="true" version="315" changeset="94135371" timestamp="2020-11-15T08:53:17Z" user="tytoalba" uid="676877">
   <member type="way" ref="161676540" role=""/>
   <member type="way" ref="590489115" role=""/>
   <member type="way" ref="379903241" role=""/>
@@ -3827,6 +3829,7 @@
   <member type="way" ref="200574743" role=""/>
   <member type="way" ref="115753025" role=""/>
   <member type="way" ref="23915462" role=""/>
+  <member type="way" ref="871818113" role=""/>
   <member type="way" ref="293954575" role=""/>
   <member type="way" ref="646081937" role=""/>
   <member type="way" ref="91888930" role=""/>

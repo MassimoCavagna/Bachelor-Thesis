@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2320407 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441241 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3367019" minlon="9.7229004" maxlat="45.3444241" maxlon="9.7338867"/>
  <node id="249617083" visible="true" version="16" changeset="572776" timestamp="2009-02-20T12:18:47Z" user="wiso" uid="30891" lat="45.3420668" lon="9.7315000"/>
  <node id="249617084" visible="true" version="14" changeset="572776" timestamp="2009-02-20T12:18:47Z" user="wiso" uid="30891" lat="45.3332075" lon="9.7350626"/>
@@ -5874,7 +5874,7 @@
   <nd ref="901649781"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="76487076" visible="true" version="2" changeset="22122769" timestamp="2014-05-04T11:04:50Z" user="Alecs01" uid="1476146">
+ <way id="76487076" visible="true" version="3" changeset="94255585" timestamp="2020-11-17T08:11:31Z" user="Edward" uid="364">
   <nd ref="901649308"/>
   <nd ref="901648913"/>
   <nd ref="901649761"/>
@@ -5900,6 +5900,7 @@
   <tag k="name" v="Chiesa di San Pietro in Vincoli"/>
   <tag k="religion" v="christian"/>
   <tag k="start_date" v="1494"/>
+  <tag k="wikidata" v="Q3671800"/>
   <tag k="wikipedia" v="it:Chiesa di San Pietro in Vincoli (Madignano)"/>
  </way>
  <way id="76487079" visible="true" version="1" changeset="5712447" timestamp="2010-09-07T21:31:28Z" user="bt1950" uid="330776">
@@ -8558,7 +8559,7 @@
   <nd ref="977577991"/>
   <tag k="landuse" v="meadow"/>
  </way>
- <way id="84018056" visible="true" version="3" changeset="39456057" timestamp="2016-05-20T17:29:21Z" user="Marco_T" uid="1227619">
+ <way id="84018056" visible="true" version="4" changeset="94255585" timestamp="2020-11-17T08:08:05Z" user="Edward" uid="364">
   <nd ref="977577862"/>
   <nd ref="977577124"/>
   <nd ref="977577705"/>
@@ -8581,6 +8582,7 @@
   <tag k="name" v="Chiesa del Sacro Cuore di Maria"/>
   <tag k="religion" v="christian"/>
   <tag k="start_date" v="1850"/>
+  <tag k="wikidata" v="Q3668613"/>
   <tag k="wikipedia" v="it:Chiesa del Sacro Cuore di Maria (Madignano)"/>
  </way>
  <way id="84018057" visible="true" version="1" changeset="6295884" timestamp="2010-11-05T15:27:10Z" user="bt1950" uid="330776">
@@ -9572,7 +9574,7 @@
   <tag k="wikidata" v="Q42883"/>
   <tag k="wikipedia" v="it:Madignano"/>
  </relation>
- <relation id="67534" visible="true" version="193" changeset="74193056" timestamp="2019-09-06T20:52:47Z" user="fedc" uid="602784">
+ <relation id="67534" visible="true" version="194" changeset="94991437" timestamp="2020-11-29T16:59:52Z" user="dega180" uid="454306">
   <member type="way" ref="585187099" role=""/>
   <member type="way" ref="542472413" role=""/>
   <member type="way" ref="542472412" role=""/>
@@ -9600,10 +9602,10 @@
   <member type="way" ref="478858129" role=""/>
   <member type="way" ref="478858128" role=""/>
   <member type="way" ref="478858127" role=""/>
-  <member type="way" ref="133268719" role=""/>
   <member type="way" ref="656862949" role=""/>
-  <member type="way" ref="656862953" role=""/>
-  <member type="way" ref="656862954" role=""/>
+  <member type="way" ref="133268719" role=""/>
+  <member type="way" ref="878939333" role=""/>
+  <member type="way" ref="878939332" role=""/>
   <member type="way" ref="656862955" role=""/>
   <member type="way" ref="656862956" role=""/>
   <member type="way" ref="656862957" role=""/>
@@ -9615,6 +9617,8 @@
   <member type="way" ref="493666030" role=""/>
   <member type="way" ref="656862960" role=""/>
   <member type="way" ref="133268666" role=""/>
+  <member type="way" ref="656862953" role=""/>
+  <member type="way" ref="656862954" role=""/>
   <member type="way" ref="656862961" role=""/>
   <member type="way" ref="505304855" role=""/>
   <member type="way" ref="656862948" role=""/>
@@ -9731,7 +9735,7 @@
   <tag k="route" v="road"/>
   <tag k="type" v="route"/>
  </relation>
- <relation id="183626" visible="true" version="56" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
+ <relation id="183626" visible="true" version="57" changeset="92894016" timestamp="2020-10-22T11:47:39Z" user="Mannivu" uid="1950277">
   <member type="way" ref="38289883" role=""/>
   <member type="way" ref="38289882" role=""/>
   <member type="way" ref="596450377" role=""/>
@@ -9783,6 +9787,7 @@
   <tag k="route" v="railway"/>
   <tag k="type" v="route"/>
   <tag k="wikidata" v="Q803335"/>
+  <tag k="wikimedia_commons" v="Category:Treviglio–Cremona railway"/>
   <tag k="wikipedia" v="it:Ferrovia Treviglio-Cremona"/>
  </relation>
  <relation id="270114" visible="true" version="6" changeset="47242403" timestamp="2017-03-28T20:53:08Z" user="Heinz_V" uid="91490">

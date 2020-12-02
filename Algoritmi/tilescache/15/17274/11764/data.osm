@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2320393 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3440587 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1742925" minlon="9.7778320" maxlat="45.1820368" maxlon="9.7888184"/>
  <node id="257335815" visible="true" version="8" changeset="1458539" timestamp="2009-06-08T13:58:46Z" user="EdoM" uid="4526" lat="45.2262672" lon="9.7324341"/>
  <node id="257335816" visible="true" version="9" changeset="53114526" timestamp="2017-10-20T22:08:57Z" user="fedc" uid="602784" lat="45.2280020" lon="9.7368322"/>
@@ -77,8 +77,8 @@
  <node id="298136328" visible="true" version="3" changeset="51077158" timestamp="2017-08-13T10:01:41Z" user="Elia Z" uid="2914055" lat="45.1798645" lon="9.7974231"/>
  <node id="298136330" visible="true" version="1" changeset="663293" timestamp="2008-09-19T15:23:43Z" user="simone" uid="137" lat="45.1799600" lon="9.8023604"/>
  <node id="298136332" visible="true" version="1" changeset="663293" timestamp="2008-09-19T15:23:43Z" user="simone" uid="137" lat="45.1801411" lon="9.8125525"/>
- <node id="298136334" visible="true" version="3" changeset="53379537" timestamp="2017-10-30T21:17:48Z" user="fedc" uid="602784" lat="45.1802649" lon="9.8198099"/>
- <node id="298136335" visible="true" version="3" changeset="51108650" timestamp="2017-08-14T11:40:35Z" user="Elia Z" uid="2914055" lat="45.1802226" lon="9.8226491"/>
+ <node id="298136334" visible="true" version="4" changeset="93595678" timestamp="2020-11-05T10:22:53Z" user="pigio66" uid="7507474" lat="45.1802658" lon="9.8198515"/>
+ <node id="298136335" visible="true" version="4" changeset="93595678" timestamp="2020-11-05T10:22:53Z" user="pigio66" uid="7507474" lat="45.1802113" lon="9.8226491"/>
  <node id="307050966" visible="true" version="2" changeset="28616465" timestamp="2015-02-04T18:54:05Z" user="Pyknite" uid="193512" lat="45.1597331" lon="9.8045195"/>
  <node id="417285786" visible="true" version="2" changeset="77088460" timestamp="2019-11-14T17:54:29Z" user="morsi" uid="139580" lat="45.1755353" lon="9.7830537"/>
  <node id="417285787" visible="true" version="2" changeset="1456210" timestamp="2009-06-08T09:04:42Z" user="EdoM" uid="4526" lat="45.1755478" lon="9.7843109"/>
@@ -434,7 +434,7 @@
  <node id="1260520803" visible="true" version="1" changeset="7972123" timestamp="2011-04-26T08:22:47Z" user="SkyOne" uid="330450" lat="45.1764616" lon="9.7355922">
   <tag k="power" v="tower"/>
  </node>
- <node id="1348921776" visible="true" version="1" changeset="8626162" timestamp="2011-07-04T06:38:09Z" user="SkyOne" uid="330450" lat="45.1800889" lon="9.8234514"/>
+ <node id="1348921776" visible="true" version="2" changeset="93595678" timestamp="2020-11-05T10:22:53Z" user="pigio66" uid="7507474" lat="45.1800738" lon="9.8234702"/>
  <node id="1555492853" visible="true" version="1" changeset="10162406" timestamp="2011-12-20T10:45:35Z" user="noperante" uid="68842" lat="45.2263390" lon="9.7693536"/>
  <node id="1616703581" visible="true" version="1" changeset="10576117" timestamp="2012-02-03T15:02:58Z" user="ilrobi" uid="22110" lat="45.1891045" lon="9.7790857"/>
  <node id="1758861640" visible="true" version="3" changeset="84104347" timestamp="2020-04-25T12:56:13Z" user="astraspera" uid="2653653" lat="45.1345346" lon="9.8833485"/>
@@ -1236,10 +1236,10 @@
  <node id="5031878706" visible="true" version="2" changeset="53115605" timestamp="2017-10-20T22:53:10Z" user="fedc" uid="602784" lat="45.1795861" lon="9.7855617"/>
  <node id="5031878707" visible="true" version="2" changeset="53115605" timestamp="2017-10-20T22:53:10Z" user="fedc" uid="602784" lat="45.1796057" lon="9.7857516"/>
  <node id="5031878708" visible="true" version="2" changeset="53115605" timestamp="2017-10-20T22:53:10Z" user="fedc" uid="602784" lat="45.1796163" lon="9.7858759"/>
- <node id="5031878709" visible="true" version="2" changeset="51108650" timestamp="2017-08-14T11:40:35Z" user="Elia Z" uid="2914055" lat="45.1802775" lon="9.8221714"/>
+ <node id="5031878709" visible="true" version="3" changeset="93595678" timestamp="2020-11-05T10:22:53Z" user="pigio66" uid="7507474" lat="45.1802756" lon="9.8221714"/>
  <node id="5034398684" visible="true" version="2" changeset="57499914" timestamp="2018-03-25T04:13:01Z" user="fedc" uid="602784" lat="45.1826224" lon="9.7796403"/>
  <node id="5034398687" visible="true" version="1" changeset="51108650" timestamp="2017-08-14T11:40:33Z" user="Elia Z" uid="2914055" lat="45.1826967" lon="9.7796408"/>
- <node id="5034398708" visible="true" version="1" changeset="51108650" timestamp="2017-08-14T11:40:34Z" user="Elia Z" uid="2914055" lat="45.1802557" lon="9.8223968"/>
+ <node id="5034398708" visible="true" version="2" changeset="93595678" timestamp="2020-11-05T10:22:53Z" user="pigio66" uid="7507474" lat="45.1802519" lon="9.8223861"/>
  <node id="5175535119" visible="true" version="2" changeset="53112094" timestamp="2017-10-20T20:56:44Z" user="fedc" uid="602784" lat="45.2405122" lon="9.7676345"/>
  <node id="5178932008" visible="true" version="1" changeset="53112094" timestamp="2017-10-20T20:56:41Z" user="fedc" uid="602784" lat="45.1956040" lon="9.7838932"/>
  <node id="5178932015" visible="true" version="1" changeset="53112094" timestamp="2017-10-20T20:56:41Z" user="fedc" uid="602784" lat="45.1957203" lon="9.7839765"/>
@@ -3728,7 +3728,7 @@
   <tag k="wikidata" v="Q42619"/>
   <tag k="wikipedia" v="it:Pizzighettone"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -3801,7 +3801,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>
@@ -4274,7 +4275,7 @@
   <tag k="wikidata" v="Q63109"/>
   <tag k="wikipedia" v="en:Adda (river)"/>
  </relation>
- <relation id="1795722" visible="true" version="114" changeset="79201046" timestamp="2020-01-04T22:31:04Z" user="fedc" uid="602784">
+ <relation id="1795722" visible="true" version="116" changeset="93711556" timestamp="2020-11-07T15:44:25Z" user="astraspera" uid="2653653">
   <member type="way" ref="46579235" role=""/>
   <member type="way" ref="22882758" role=""/>
   <member type="way" ref="46579240" role=""/>
@@ -4299,19 +4300,12 @@
   <member type="way" ref="677362527" role=""/>
   <member type="way" ref="25870585" role=""/>
   <member type="way" ref="593467740" role=""/>
-  <member type="way" ref="38963336" role=""/>
-  <member type="way" ref="372639399" role=""/>
-  <member type="way" ref="372639398" role=""/>
-  <member type="way" ref="38963337" role=""/>
+  <member type="way" ref="868042564" role=""/>
+  <member type="way" ref="868042560" role=""/>
   <member type="way" ref="304530028" role=""/>
   <member type="way" ref="593467742" role=""/>
   <member type="way" ref="304530027" role=""/>
-  <member type="way" ref="390480323" role=""/>
-  <member type="way" ref="593467735" role=""/>
   <member type="way" ref="677857788" role=""/>
-  <member type="way" ref="665212723" role=""/>
-  <member type="way" ref="480327975" role=""/>
-  <member type="way" ref="593467738" role=""/>
   <member type="way" ref="593467721" role=""/>
   <member type="way" ref="98497763" role=""/>
   <member type="way" ref="689668521" role=""/>
@@ -4442,9 +4436,8 @@
   <member type="way" ref="721154573" role=""/>
   <member type="way" ref="305732731" role=""/>
   <member type="way" ref="305732735" role=""/>
+  <member type="way" ref="863578145" role=""/>
   <member type="way" ref="305732728" role=""/>
-  <member type="way" ref="169083489" role=""/>
-  <member type="way" ref="627610463" role=""/>
   <member type="way" ref="37767972" role=""/>
   <member type="way" ref="187778390" role=""/>
   <member type="way" ref="93391171" role=""/>
@@ -4456,6 +4449,8 @@
   <member type="way" ref="542524217" role=""/>
   <member type="way" ref="542524216" role=""/>
   <member type="way" ref="593467732" role=""/>
+  <member type="way" ref="390480323" role=""/>
+  <member type="way" ref="593467735" role=""/>
   <member type="way" ref="542524219" role=""/>
   <member type="way" ref="596247312" role=""/>
   <member type="way" ref="596247308" role=""/>
@@ -4493,7 +4488,22 @@
   <member type="way" ref="627610462" role=""/>
   <member type="way" ref="627610464" role=""/>
   <member type="way" ref="627610480" role=""/>
+  <member type="way" ref="169083489" role=""/>
+  <member type="way" ref="627610463" role=""/>
   <member type="way" ref="627610481" role=""/>
+  <member type="way" ref="484484690" role="road"/>
+  <member type="way" ref="546028963" role=""/>
+  <member type="way" ref="546028960" role=""/>
+  <member type="way" ref="868042563" role=""/>
+  <member type="way" ref="868042562" role=""/>
+  <member type="way" ref="868042561" role=""/>
+  <member type="way" ref="868042565" role=""/>
+  <member type="way" ref="746096661" role=""/>
+  <member type="way" ref="746096662" role=""/>
+  <member type="way" ref="38963329" role=""/>
+  <member type="way" ref="546028964" role=""/>
+  <member type="way" ref="546028962" role=""/>
+  <member type="way" ref="746096660" role=""/>
   <tag k="name" v="Strada Provinciale exSS234 Codognese"/>
   <tag k="network" v="IT:PV;IT:MI;IT:LO"/>
   <tag k="old_name" v="Strada Statale Codognese"/>

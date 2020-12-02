@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1876270 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3439759 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.0036512" minlon="10.4040527" maxlat="45.0114186" maxlon="10.4150391"/>
  <node id="332794788" visible="true" version="17" changeset="85502" timestamp="2009-02-02T16:50:37Z" user="Thorin" uid="92379" lat="45.0107787" lon="10.4004144"/>
  <node id="332794789" visible="true" version="17" changeset="85502" timestamp="2009-02-02T16:50:37Z" user="Thorin" uid="92379" lat="45.0090735" lon="10.4039077"/>
@@ -659,6 +659,19 @@
  <node id="7995008898" visible="true" version="1" changeset="92275617" timestamp="2020-10-10T13:23:14Z" user="dega180" uid="454306" lat="45.0074358" lon="10.4100864"/>
  <node id="7995008899" visible="true" version="1" changeset="92275617" timestamp="2020-10-10T13:23:14Z" user="dega180" uid="454306" lat="45.0072276" lon="10.4099872"/>
  <node id="7995008900" visible="true" version="1" changeset="92275617" timestamp="2020-10-10T13:23:14Z" user="dega180" uid="454306" lat="45.0131168" lon="10.4125316"/>
+ <node id="8040257657" visible="true" version="1" changeset="92961680" timestamp="2020-10-23T16:45:50Z" user="Attilio Murtas" uid="9210044" lat="45.0083745" lon="10.4102889">
+  <tag k="denotation" v="natural_monument"/>
+  <tag k="ele" v="25"/>
+  <tag k="genus" v="Quercus"/>
+  <tag k="leaf_cycle" v="deciduous"/>
+  <tag k="leaf_type" v="broadleaved"/>
+  <tag k="natural" v="tree"/>
+  <tag k="source" v="Ministero delle politiche agricole alimentari e forestali"/>
+  <tag k="source:date" v="2020-07-24"/>
+  <tag k="species" v="Quercus robur L."/>
+  <tag k="species:it" v="Farnia"/>
+  <tag k="website" v="https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260"/>
+ </node>
  <way id="30428860" visible="true" version="12" changeset="32025949" timestamp="2015-06-17T10:35:57Z" user="Fredie" uid="2073275">
   <nd ref="335801886"/>
   <nd ref="1180505062"/>

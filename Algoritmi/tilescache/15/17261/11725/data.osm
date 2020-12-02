@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2088359 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (398209 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4755403" minlon="9.6350098" maxlat="45.4832435" maxlon="9.6459961"/>
  <node id="207318659" visible="true" version="7" changeset="61127352" timestamp="2018-07-27T18:15:55Z" user="Mannivu" uid="1950277" lat="45.4790268" lon="9.6444611"/>
  <node id="207318660" visible="true" version="7" changeset="62406297" timestamp="2018-09-08T16:25:15Z" user="SiMaz96" uid="3141745" lat="45.4785667" lon="9.6398744"/>
@@ -98,7 +98,7 @@
  <node id="558701204" visible="true" version="1" changeset="3053742" timestamp="2009-11-07T07:53:16Z" user="Luigi62" uid="90148" lat="45.4545127" lon="9.6502592"/>
  <node id="558701205" visible="true" version="1" changeset="3053742" timestamp="2009-11-07T07:53:16Z" user="Luigi62" uid="90148" lat="45.4543693" lon="9.6501552"/>
  <node id="1393474146" visible="true" version="4" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4781808" lon="9.6356977"/>
- <node id="1393494617" visible="true" version="5" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4781076" lon="9.6349418"/>
+ <node id="1393494617" visible="true" version="6" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4780850" lon="9.6347434"/>
  <node id="1393494637" visible="true" version="5" changeset="62406297" timestamp="2018-09-08T16:25:15Z" user="SiMaz96" uid="3141745" lat="45.4789277" lon="9.6435664"/>
  <node id="1393494660" visible="true" version="3" changeset="16146213" timestamp="2013-05-16T00:14:51Z" user="gigi2037" uid="616481" lat="45.4797812" lon="9.6434868"/>
  <node id="1393494740" visible="true" version="3" changeset="20751266" timestamp="2014-02-24T13:56:09Z" user="Mannivu" uid="1950277" lat="45.4812707" lon="9.6433289"/>
@@ -276,7 +276,7 @@
  <node id="4086079660" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4772602" lon="9.6401293"/>
  <node id="4086079661" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4772658" lon="9.6403130"/>
  <node id="4086079662" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4779119" lon="9.6341085"/>
- <node id="4086079663" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4779570" lon="9.6342855"/>
+ <node id="4086079663" visible="true" version="2" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4777502" lon="9.6347335"/>
  <node id="4086079664" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4781526" lon="9.6364098"/>
  <node id="4086079665" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4781714" lon="9.6364635"/>
  <node id="4086079667" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:24Z" user="morsi" uid="139580" lat="45.4783369" lon="9.6439830"/>
@@ -457,7 +457,6 @@
  <node id="6100270374" visible="true" version="1" changeset="64976862" timestamp="2018-11-28T16:13:41Z" user="Mannivu" uid="1950277" lat="45.4784159" lon="9.6437001"/>
  <node id="6100270375" visible="true" version="1" changeset="64976862" timestamp="2018-11-28T16:13:41Z" user="Mannivu" uid="1950277" lat="45.4787770" lon="9.6436653"/>
  <node id="6100270376" visible="true" version="1" changeset="64976862" timestamp="2018-11-28T16:13:41Z" user="Mannivu" uid="1950277" lat="45.4780567" lon="9.6374318"/>
- <node id="6100270377" visible="true" version="1" changeset="64976862" timestamp="2018-11-28T16:13:41Z" user="Mannivu" uid="1950277" lat="45.4747917" lon="9.6443546"/>
  <node id="6100270378" visible="true" version="1" changeset="64976862" timestamp="2018-11-28T16:13:41Z" user="Mannivu" uid="1950277" lat="45.4748105" lon="9.6441400"/>
  <node id="6100270379" visible="true" version="1" changeset="64976862" timestamp="2018-11-28T16:13:41Z" user="Mannivu" uid="1950277" lat="45.4748293" lon="9.6436626"/>
  <node id="6100270380" visible="true" version="1" changeset="64976862" timestamp="2018-11-28T16:13:41Z" user="Mannivu" uid="1950277" lat="45.4746337" lon="9.6426755"/>
@@ -1267,9 +1266,11 @@
  <node id="7704828572" visible="true" version="1" changeset="87851362" timestamp="2020-07-11T11:34:03Z" user="Mannivu" uid="1950277" lat="45.4885692" lon="9.6416544"/>
  <node id="7868324887" visible="true" version="1" changeset="90303805" timestamp="2020-09-02T12:15:10Z" user="Mannivu" uid="1950277" lat="45.4892473" lon="9.6410550"/>
  <node id="7980427737" visible="true" version="1" changeset="92033234" timestamp="2020-10-06T08:44:46Z" user="Mannivu" uid="1950277" lat="45.4760469" lon="9.6479277"/>
- <node id="7992785883" visible="true" version="1" changeset="92247861" timestamp="2020-10-09T16:44:30Z" user="Mannivu" uid="1950277" lat="45.4780182" lon="9.6340198"/>
+ <node id="7992785883" visible="true" version="2" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4780351" lon="9.6342298"/>
  <node id="8003104899" visible="true" version="1" changeset="92412089" timestamp="2020-10-13T11:09:45Z" user="Mannivu" uid="1950277" lat="45.4778198" lon="9.6457265"/>
  <node id="8003104900" visible="true" version="1" changeset="92412089" timestamp="2020-10-13T11:09:45Z" user="Mannivu" uid="1950277" lat="45.4777878" lon="9.6456756"/>
+ <node id="8093404668" visible="true" version="1" changeset="93734865" timestamp="2020-11-08T11:10:52Z" user="Mannivu" uid="1950277" lat="45.4748049" lon="9.6442036"/>
+ <node id="8120500412" visible="true" version="1" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277" lat="45.4780248" lon="9.6349856"/>
  <way id="27981628" visible="true" version="7" changeset="65337427" timestamp="2018-12-10T09:43:19Z" user="Mannivu" uid="1950277">
   <nd ref="307111698"/>
   <nd ref="558701205"/>
@@ -1434,7 +1435,7 @@
   <tag k="name" v="Via Valle"/>
   <tag k="surface" v="dirt"/>
  </way>
- <way id="125479753" visible="true" version="23" changeset="79617110" timestamp="2020-01-15T18:07:09Z" user="Mannivu" uid="1950277">
+ <way id="125479753" visible="true" version="24" changeset="93058004" timestamp="2020-10-26T11:21:13Z" user="Mannivu" uid="1950277">
   <nd ref="1393636588"/>
   <nd ref="1393636573"/>
   <nd ref="1393636557"/>
@@ -1467,6 +1468,7 @@
   <tag k="maxspeed" v="70"/>
   <tag k="name" v="Via Valle"/>
   <tag k="oneway" v="no"/>
+  <tag k="parking:lane:both" v="no_stopping"/>
   <tag k="sidewalk" v="no"/>
   <tag k="surface" v="asphalt"/>
  </way>
@@ -1554,11 +1556,12 @@
   <tag k="surface" v="dirt"/>
   <tag k="tracktype" v="grade2"/>
  </way>
- <way id="263217479" visible="true" version="5" changeset="61127352" timestamp="2018-07-27T18:15:55Z" user="Mannivu" uid="1950277">
+ <way id="263217479" visible="true" version="6" changeset="95065367" timestamp="2020-11-30T19:35:56Z" user="Mannivu" uid="1950277">
   <nd ref="1393494637"/>
   <nd ref="5790338859"/>
   <nd ref="207318660"/>
   <nd ref="207318661"/>
+  <tag k="cycleway:both" v="no"/>
   <tag k="highway" v="primary"/>
   <tag k="lanes" v="2"/>
   <tag k="maxspeed" v="70"/>
@@ -1630,10 +1633,11 @@
   <tag k="ref" v="SP185"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="406551544" visible="true" version="1" changeset="38160020" timestamp="2016-03-30T07:29:25Z" user="morsi" uid="139580">
+ <way id="406551544" visible="true" version="2" changeset="94138989" timestamp="2020-11-15T10:31:26Z" user="Mannivu" uid="1950277">
   <nd ref="4086079663"/>
   <nd ref="4086079655"/>
   <nd ref="4086079664"/>
+  <nd ref="8120500412"/>
   <nd ref="4086079663"/>
   <tag k="landuse" v="construction"/>
  </way>
@@ -1949,7 +1953,7 @@
   <tag k="name" v="Roggia Resega"/>
   <tag k="waterway" v="ditch"/>
  </way>
- <way id="650146841" visible="true" version="1" changeset="64976862" timestamp="2018-11-28T16:13:44Z" user="Mannivu" uid="1950277">
+ <way id="650146841" visible="true" version="2" changeset="93734865" timestamp="2020-11-08T11:10:52Z" user="Mannivu" uid="1950277">
   <nd ref="6100274094"/>
   <nd ref="6100274093"/>
   <nd ref="6100274092"/>
@@ -1967,7 +1971,7 @@
   <nd ref="6100270380"/>
   <nd ref="6100270379"/>
   <nd ref="6100270378"/>
-  <nd ref="6100270377"/>
+  <nd ref="8093404668"/>
   <tag k="name" v="Roggia Resega"/>
   <tag k="waterway" v="ditch"/>
  </way>

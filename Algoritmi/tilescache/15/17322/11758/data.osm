@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1829361 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2553324 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2207426" minlon="10.3051758" maxlat="45.2284806" maxlon="10.3161621"/>
  <node id="377048230" visible="true" version="3" changeset="32550655" timestamp="2015-07-10T18:47:25Z" user="Moliva" uid="107039" lat="45.2158763" lon="10.3040361"/>
  <node id="377048247" visible="true" version="1" changeset="558751" timestamp="2009-04-15T22:21:39Z" user="lucadelu" uid="13591" lat="45.2183279" lon="10.3047728"/>
@@ -815,6 +815,13 @@
  <node id="3771667216" visible="true" version="1" changeset="34425057" timestamp="2015-10-04T11:30:36Z" user="Moliva" uid="107039" lat="45.2246170" lon="10.3012966"/>
  <node id="3771667217" visible="true" version="1" changeset="34425057" timestamp="2015-10-04T11:30:36Z" user="Moliva" uid="107039" lat="45.2246461" lon="10.3011866"/>
  <node id="3771667300" visible="true" version="1" changeset="34425057" timestamp="2015-10-04T11:30:37Z" user="Moliva" uid="107039" lat="45.2316361" lon="10.3033240"/>
+ <node id="8048706801" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2270883" lon="10.3049169"/>
+ <node id="8048706802" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2270600" lon="10.3075836"/>
+ <node id="8048706803" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2270193" lon="10.3077597"/>
+ <node id="8048706804" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2268610" lon="10.3077992"/>
+ <node id="8048706805" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2263092" lon="10.3078417"/>
+ <node id="8048706806" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2262150" lon="10.3079176"/>
+ <node id="8048706807" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306" lat="45.2261744" lon="10.3081728"/>
  <way id="51353515" visible="true" version="4" changeset="20050162" timestamp="2014-01-17T14:19:37Z" user="woodpeck_repair" uid="145231">
   <nd ref="658763310"/>
   <nd ref="655309768"/>
@@ -1572,11 +1579,12 @@
   <tag k="name" v="Via Aldo Moro"/>
   <tag k="width" v="5"/>
  </way>
- <way id="359859888" visible="true" version="4" changeset="55114514" timestamp="2018-01-02T23:10:56Z" user="ilcamminare" uid="582732">
+ <way id="359859888" visible="true" version="5" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306">
   <nd ref="377048522"/>
   <nd ref="3647675692"/>
   <nd ref="377048542"/>
   <nd ref="377048552"/>
+  <nd ref="8048706801"/>
   <nd ref="377048564"/>
   <nd ref="377048573"/>
   <nd ref="377048597"/>
@@ -1940,6 +1948,17 @@
   <tag k="tracktype" v="grade2"/>
   <tag k="width" v="3"/>
  </way>
+ <way id="863980131" visible="true" version="1" changeset="93082546" timestamp="2020-10-26T22:09:34Z" user="dega180" uid="454306">
+  <nd ref="8048706801"/>
+  <nd ref="8048706802"/>
+  <nd ref="8048706803"/>
+  <nd ref="8048706804"/>
+  <nd ref="8048706805"/>
+  <nd ref="8048706806"/>
+  <nd ref="8048706807"/>
+  <nd ref="3647677904"/>
+  <tag k="highway" v="track"/>
+ </way>
  <relation id="43893" visible="true" version="69" changeset="65915268" timestamp="2018-12-31T15:21:32Z" user="fayor" uid="743479">
   <member type="way" ref="323021234" role="outer"/>
   <member type="way" ref="323021229" role="outer"/>
@@ -2129,7 +2148,7 @@
   <tag k="wikidata" v="Q104616"/>
   <tag k="wikipedia" v="it:Gambara"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -2202,7 +2221,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (864984 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2553324 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4755403" minlon="9.6459961" maxlat="45.4832435" maxlon="9.6569824"/>
  <node id="207316832" visible="true" version="9" changeset="65910622" timestamp="2018-12-31T13:20:43Z" user="Mannivu" uid="1950277" lat="45.4817721" lon="9.6820371"/>
  <node id="207316835" visible="true" version="8" changeset="66069020" timestamp="2019-01-06T12:56:03Z" user="Mannivu" uid="1950277" lat="45.4812144" lon="9.6718794"/>
@@ -615,7 +615,7 @@
   <tag k="access" v="private"/>
   <tag k="barrier" v="gate"/>
  </node>
- <node id="6576320861" visible="true" version="1" changeset="71700598" timestamp="2019-06-28T09:36:31Z" user="Mannivu" uid="1950277" lat="45.4818280" lon="9.6536089"/>
+ <node id="6576320861" visible="true" version="2" changeset="93302428" timestamp="2020-10-30T17:18:59Z" user="Micael Camozzi" uid="2557267" lat="45.4818382" lon="9.6536500"/>
  <node id="6576320862" visible="true" version="1" changeset="71700598" timestamp="2019-06-28T09:36:31Z" user="Mannivu" uid="1950277" lat="45.4838792" lon="9.6526923"/>
  <node id="7098169762" visible="true" version="2" changeset="85033492" timestamp="2020-05-11T15:34:35Z" user="Mannivu" uid="1950277" lat="45.4766193" lon="9.6566591"/>
  <node id="7098169763" visible="true" version="2" changeset="85033492" timestamp="2020-05-11T15:34:35Z" user="Mannivu" uid="1950277" lat="45.4750890" lon="9.6572519"/>
@@ -1153,6 +1153,9 @@
  <node id="8003104956" visible="true" version="1" changeset="92412089" timestamp="2020-10-13T11:09:45Z" user="Mannivu" uid="1950277" lat="45.4779345" lon="9.6465151"/>
  <node id="8003104957" visible="true" version="1" changeset="92412089" timestamp="2020-10-13T11:09:45Z" user="Mannivu" uid="1950277" lat="45.4779382" lon="9.6466559"/>
  <node id="8003104958" visible="true" version="1" changeset="92412089" timestamp="2020-10-13T11:09:45Z" user="Mannivu" uid="1950277" lat="45.4780417" lon="9.6465822"/>
+ <node id="8066218430" visible="true" version="1" changeset="93302428" timestamp="2020-10-30T17:18:59Z" user="Micael Camozzi" uid="2557267" lat="45.4829023" lon="9.6530771"/>
+ <node id="8066218431" visible="true" version="1" changeset="93302428" timestamp="2020-10-30T17:18:59Z" user="Micael Camozzi" uid="2557267" lat="45.4819731" lon="9.6536005"/>
+ <node id="8066218432" visible="true" version="1" changeset="93302428" timestamp="2020-10-30T17:18:59Z" user="Micael Camozzi" uid="2557267" lat="45.4819052" lon="9.6533763"/>
  <way id="32126493" visible="true" version="9" changeset="68619533" timestamp="2019-03-28T10:24:22Z" user="Mannivu" uid="1950277">
   <nd ref="2689618621"/>
   <nd ref="2689618629"/>
@@ -1891,7 +1894,7 @@
   <nd ref="6367280749"/>
   <tag k="building" v="industrial"/>
  </way>
- <way id="680031842" visible="true" version="1" changeset="68619389" timestamp="2019-03-28T10:26:02Z" user="Mannivu" uid="1950277">
+ <way id="680031842" visible="true" version="3" changeset="93302510" timestamp="2020-10-30T17:21:04Z" user="Micael Camozzi" uid="2557267">
   <nd ref="6367282882"/>
   <nd ref="6367283085"/>
   <nd ref="6367283086"/>
@@ -1901,7 +1904,14 @@
   <nd ref="6367282881"/>
   <nd ref="6367282883"/>
   <nd ref="6367282882"/>
+  <tag k="addr:city" v="Caravaggio"/>
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="addr:postcode" v="24043"/>
+  <tag k="addr:street" v="Via Panizzardo"/>
   <tag k="building" v="industrial"/>
+  <tag k="name" v="Sorem Trasmissioni Meccaniche S.p.A."/>
+  <tag k="phone" v="+39036351591"/>
+  <tag k="website" v="http://www.sorem.it/"/>
  </way>
  <way id="680032524" visible="true" version="1" changeset="68619389" timestamp="2019-03-28T10:30:13Z" user="Mannivu" uid="1950277">
   <nd ref="6367291917"/>
@@ -1956,7 +1966,7 @@
   <nd ref="6367291924"/>
   <tag k="building" v="industrial"/>
  </way>
- <way id="680032529" visible="true" version="1" changeset="68619389" timestamp="2019-03-28T10:30:13Z" user="Mannivu" uid="1950277">
+ <way id="680032529" visible="true" version="2" changeset="93302510" timestamp="2020-10-30T17:21:04Z" user="Micael Camozzi" uid="2557267">
   <nd ref="6367291927"/>
   <nd ref="6367291928"/>
   <nd ref="6367291925"/>
@@ -1966,7 +1976,12 @@
   <nd ref="6367291931"/>
   <nd ref="6367291930"/>
   <nd ref="6367291927"/>
+  <tag k="addr:city" v="Caravaggio"/>
+  <tag k="addr:housenumber" v="155"/>
+  <tag k="addr:postcode" v="24043"/>
+  <tag k="addr:street" v="Via Leonardo da Vinci"/>
   <tag k="building" v="industrial"/>
+  <tag k="name" v="Ferfabbro S.n.c."/>
  </way>
  <way id="680032530" visible="true" version="2" changeset="87821437" timestamp="2020-07-10T14:13:31Z" user="Mannivu" uid="1950277">
   <nd ref="6367291935"/>
@@ -2008,11 +2023,12 @@
   <nd ref="6367303144"/>
   <tag k="building" v="house"/>
  </way>
- <way id="700293798" visible="true" version="1" changeset="71700598" timestamp="2019-06-28T09:36:31Z" user="Mannivu" uid="1950277">
+ <way id="700293798" visible="true" version="2" changeset="93302428" timestamp="2020-10-30T17:18:59Z" user="Micael Camozzi" uid="2557267">
   <nd ref="6576320859"/>
   <nd ref="6576320861"/>
-  <nd ref="6576320860"/>
+  <tag k="bridge" v="yes"/>
   <tag k="highway" v="service"/>
+  <tag k="layer" v="1"/>
  </way>
  <way id="759838758" visible="true" version="1" changeset="79055718" timestamp="2019-12-31T12:40:21Z" user="Mannivu" uid="1950277">
   <nd ref="7098169781"/>
@@ -2370,7 +2386,7 @@
   <tag k="tunnel" v="culvert"/>
   <tag k="waterway" v="ditch"/>
  </way>
- <way id="824890263" visible="true" version="1" changeset="87821437" timestamp="2020-07-10T14:13:31Z" user="Mannivu" uid="1950277">
+ <way id="824890263" visible="true" version="2" changeset="93302428" timestamp="2020-10-30T17:18:59Z" user="Micael Camozzi" uid="2557267">
   <nd ref="7702580677"/>
   <nd ref="7702580623"/>
   <nd ref="7702580624"/>
@@ -2380,6 +2396,7 @@
   <nd ref="7702580628"/>
   <nd ref="7702580629"/>
   <nd ref="7702580630"/>
+  <nd ref="8066218432"/>
   <nd ref="7702580631"/>
   <nd ref="7702580632"/>
   <nd ref="7702580633"/>
@@ -2742,7 +2759,22 @@
   <nd ref="8003104956"/>
   <tag k="man_made" v="silo"/>
  </way>
- <relation id="183626" visible="true" version="56" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
+ <way id="865394455" visible="true" version="1" changeset="93302428" timestamp="2020-10-30T17:18:59Z" user="Micael Camozzi" uid="2557267">
+  <nd ref="6576320861"/>
+  <nd ref="6576320860"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="865394456" visible="true" version="1" changeset="93302428" timestamp="2020-10-30T17:18:59Z" user="Micael Camozzi" uid="2557267">
+  <nd ref="7702580633"/>
+  <nd ref="8066218430"/>
+  <nd ref="8066218431"/>
+  <nd ref="8066218432"/>
+  <nd ref="7702580631"/>
+  <nd ref="7702580632"/>
+  <nd ref="7702580633"/>
+  <tag k="amenity" v="parking"/>
+ </way>
+ <relation id="183626" visible="true" version="57" changeset="92894016" timestamp="2020-10-22T11:47:39Z" user="Mannivu" uid="1950277">
   <member type="way" ref="38289883" role=""/>
   <member type="way" ref="38289882" role=""/>
   <member type="way" ref="596450377" role=""/>
@@ -2794,6 +2826,7 @@
   <tag k="route" v="railway"/>
   <tag k="type" v="route"/>
   <tag k="wikidata" v="Q803335"/>
+  <tag k="wikimedia_commons" v="Category:Treviglio–Cremona railway"/>
   <tag k="wikipedia" v="it:Ferrovia Treviglio-Cremona"/>
  </relation>
  <relation id="8400077" visible="true" version="10" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">

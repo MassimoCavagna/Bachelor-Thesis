@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3094907 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2936223 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1045463" minlon="10.4260254" maxlat="45.1123001" maxlon="10.4370117"/>
  <node id="335981425" visible="true" version="9" changeset="5785090" timestamp="2010-09-15T09:13:23Z" user="Andrea Marchini" uid="191899" lat="45.0836890" lon="10.4244240"/>
  <node id="335981427" visible="true" version="9" changeset="5785090" timestamp="2010-09-15T09:13:21Z" user="Andrea Marchini" uid="191899" lat="45.0826562" lon="10.4244932"/>
@@ -761,7 +761,7 @@
   <nd ref="4674938328"/>
   <tag k="landuse" v="farmyard"/>
  </way>
- <way id="834019627" visible="true" version="1" changeset="88947953" timestamp="2020-08-04T20:48:29Z" user="fedc" uid="602784">
+ <way id="834019627" visible="true" version="2" changeset="94255585" timestamp="2020-11-17T08:23:55Z" user="Edward" uid="364">
   <nd ref="7785592969"/>
   <nd ref="7785592970"/>
   <nd ref="7785592971"/>
@@ -773,6 +773,7 @@
   <tag k="historic" v="church"/>
   <tag k="name" v="Chiesa di Sant’Antonio Abate e Sant’Ambrogio Vescovo"/>
   <tag k="religion" v="christian"/>
+  <tag k="wikidata" v="Q98075727"/>
   <tag k="wikimedia_commons" v="Category:Sant’Antonio Abate e Sant’Ambrogio Vescovo (Tornata)"/>
  </way>
  <way id="857533170" visible="true" version="1" changeset="92276135" timestamp="2020-10-10T13:43:36Z" user="dega180" uid="454306">

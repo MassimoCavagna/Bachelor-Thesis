@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2027240 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3887259 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2594220" minlon="10.0744629" maxlat="45.2671548" maxlon="10.0854492"/>
  <node id="275186779" visible="true" version="7" changeset="10579114" timestamp="2012-02-03T20:55:53Z" user="Gianluigi" uid="498903" lat="45.1411137" lon="10.4215145"/>
  <node id="288034979" visible="true" version="4" changeset="28236692" timestamp="2015-01-18T18:08:56Z" user="Fredie" uid="2073275" lat="45.0465187" lon="10.6628115"/>
@@ -11937,7 +11937,7 @@
   <tag k="wikidata" v="Q111460"/>
   <tag k="wikipedia" v="it:Pontevico"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -12010,7 +12010,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>
@@ -12591,7 +12592,7 @@
   <tag k="wikidata" v="Q16144"/>
   <tag k="wikipedia" v="it:Provincia di Brescia"/>
  </relation>
- <relation id="554044" visible="true" version="38" changeset="88584671" timestamp="2020-07-27T20:31:11Z" user="Benny4L" uid="647382">
+ <relation id="554044" visible="true" version="39" changeset="94397007" timestamp="2020-11-18T21:47:29Z" user="dega180" uid="454306">
   <member type="way" ref="830775358" role=""/>
   <member type="way" ref="252583751" role=""/>
   <member type="way" ref="50847830" role=""/>
@@ -12732,6 +12733,8 @@
   <member type="way" ref="377039296" role=""/>
   <member type="way" ref="377039302" role=""/>
   <member type="way" ref="377039310" role=""/>
+  <member type="way" ref="874421005" role=""/>
+  <member type="way" ref="874421004" role=""/>
   <member type="way" ref="368806903" role=""/>
   <member type="way" ref="378532927" role=""/>
   <member type="way" ref="378532928" role=""/>
@@ -12857,7 +12860,7 @@
   <tag k="type" v="route"/>
   <tag k="website" v="www.cicloviadelloglio.it"/>
  </relation>
- <relation id="975402" visible="true" version="64" changeset="88768992" timestamp="2020-07-31T07:56:12Z" user="gspinoza" uid="562239">
+ <relation id="975402" visible="true" version="65" changeset="94498886" timestamp="2020-11-20T11:49:10Z" user="dega180" uid="454306">
   <member type="way" ref="58533898" role=""/>
   <member type="way" ref="214333359" role=""/>
   <member type="way" ref="214333356" role=""/>
@@ -12930,6 +12933,8 @@
   <member type="way" ref="206889882" role=""/>
   <member type="way" ref="59505616" role=""/>
   <member type="way" ref="58902408" role=""/>
+  <member type="way" ref="875113505" role=""/>
+  <member type="way" ref="875113506" role=""/>
   <member type="way" ref="59115460" role=""/>
   <member type="way" ref="59115478" role=""/>
   <member type="way" ref="59115463" role=""/>
@@ -13101,7 +13106,6 @@
   <member type="way" ref="122024760" role=""/>
   <member type="way" ref="720174975" role=""/>
   <tag k="cycle_network" v="Sistema Turistico Po di Lombardia"/>
-  <tag k="fixme" v="status=proposed deleted - state=proposed is correct tag if this is a proposed route"/>
   <tag k="name" v="Ciclovia del Mella (tratto sud)"/>
   <tag k="network" v="rcn"/>
   <tag k="ref" v="ME01"/>
@@ -13272,7 +13276,7 @@
   <tag k="route" v="road"/>
   <tag k="type" v="route"/>
  </relation>
- <relation id="8189749" visible="true" version="23" changeset="88769659" timestamp="2020-07-31T08:10:12Z" user="gspinoza" uid="562239">
+ <relation id="8189749" visible="true" version="24" changeset="94498886" timestamp="2020-11-20T11:49:10Z" user="dega180" uid="454306">
   <member type="way" ref="484551781" role=""/>
   <member type="way" ref="585185976" role=""/>
   <member type="way" ref="561197553" role=""/>
@@ -13357,6 +13361,8 @@
   <member type="way" ref="59115463" role=""/>
   <member type="way" ref="59115478" role=""/>
   <member type="way" ref="59115460" role=""/>
+  <member type="way" ref="875113506" role=""/>
+  <member type="way" ref="875113505" role=""/>
   <member type="way" ref="58902408" role=""/>
   <member type="way" ref="59505616" role=""/>
   <member type="way" ref="206889882" role=""/>

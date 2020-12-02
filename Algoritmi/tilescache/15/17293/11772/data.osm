@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1876318 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2408566 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1123001" minlon="9.9865723" maxlat="45.1200528" maxlon="9.9975586"/>
  <node id="252474612" visible="true" version="1" changeset="335589" timestamp="2008-03-16T19:07:31Z" user="Osid" uid="20412" lat="45.1174860" lon="9.9915977">
   <tag k="created_by" v="JOSM"/>
@@ -6855,7 +6855,7 @@
   <tag k="source" v="Regione Emilia Romagna"/>
   <tag k="type" v="multipolygon"/>
  </relation>
- <relation id="6722300" visible="true" version="44" changeset="84532710" timestamp="2020-05-02T18:28:20Z" user="Anonix35" uid="2362150">
+ <relation id="6722300" visible="true" version="46" changeset="93627206" timestamp="2020-11-05T22:40:59Z" user="damianeue" uid="10124288">
   <member type="way" ref="400633111" role=""/>
   <member type="way" ref="129644639" role=""/>
   <member type="way" ref="35040999" role=""/>
@@ -6894,6 +6894,9 @@
   <member type="way" ref="104233515" role=""/>
   <member type="way" ref="315171207" role=""/>
   <member type="way" ref="315171206" role=""/>
+  <member type="way" ref="867533200" role=""/>
+  <member type="way" ref="867533197" role=""/>
+  <member type="way" ref="867533199" role=""/>
   <member type="way" ref="147039510" role=""/>
   <member type="way" ref="147039492" role=""/>
   <member type="way" ref="581692146" role=""/>
@@ -6948,32 +6951,26 @@
   <member type="way" ref="418598396" role=""/>
   <member type="way" ref="418598394" role=""/>
   <member type="way" ref="69563172" role=""/>
+  <member type="way" ref="864951252" role=""/>
   <member type="way" ref="184265083" role=""/>
+  <member type="way" ref="864951251" role=""/>
   <member type="way" ref="69563255" role=""/>
   <member type="way" ref="69563227" role=""/>
-  <member type="way" ref="455678806" role=""/>
   <member type="way" ref="455678805" role=""/>
+  <member type="way" ref="455678806" role=""/>
+  <member type="way" ref="455678807" role=""/>
+  <member type="way" ref="421823261" role=""/>
+  <member type="way" ref="464156461" role=""/>
   <member type="way" ref="421823259" role=""/>
   <member type="way" ref="59867189" role=""/>
+  <member type="way" ref="59867192" role=""/>
+  <member type="way" ref="421823260" role=""/>
   <member type="way" ref="455678804" role=""/>
   <member type="way" ref="184265086" role=""/>
   <member type="way" ref="69563166" role=""/>
   <member type="way" ref="421822425" role=""/>
-  <member type="way" ref="421822428" role=""/>
-  <member type="way" ref="455678807" role=""/>
-  <member type="way" ref="421823261" role=""/>
-  <member type="way" ref="464156461" role=""/>
-  <member type="way" ref="421823260" role=""/>
-  <member type="way" ref="59867192" role=""/>
   <member type="way" ref="464312357" role=""/>
   <member type="way" ref="455678808" role=""/>
-  <member type="way" ref="464307188" role=""/>
-  <member type="way" ref="98114996" role=""/>
-  <member type="way" ref="464307224" role=""/>
-  <member type="way" ref="464307221" role=""/>
-  <member type="way" ref="98114998" role=""/>
-  <member type="way" ref="464307186" role=""/>
-  <member type="way" ref="327673033" role=""/>
   <member type="way" ref="100782863" role=""/>
   <member type="way" ref="316255820" role=""/>
   <member type="way" ref="59868150" role=""/>
@@ -6987,6 +6984,14 @@
   <member type="way" ref="464307169" role=""/>
   <member type="way" ref="653782039" role=""/>
   <member type="way" ref="154990481" role=""/>
+  <member type="way" ref="464307188" role=""/>
+  <member type="way" ref="98114996" role=""/>
+  <member type="way" ref="464307224" role=""/>
+  <member type="way" ref="464307221" role=""/>
+  <member type="way" ref="98114998" role=""/>
+  <member type="way" ref="464307186" role=""/>
+  <member type="way" ref="327673033" role=""/>
+  <member type="way" ref="421822428" role=""/>
   <member type="way" ref="464307181" role=""/>
   <member type="way" ref="316255819" role=""/>
   <member type="way" ref="316255818" role=""/>
@@ -7534,7 +7539,7 @@
   <tag k="type" v="route"/>
   <tag k="website" v="http://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/61-bi2-ciclovia-del-po"/>
  </relation>
- <relation id="9585794" visible="true" version="38" changeset="92635120" timestamp="2020-10-17T16:48:02Z" user="IlBano" uid="1720269">
+ <relation id="9585794" visible="true" version="40" changeset="95052395" timestamp="2020-11-30T15:00:01Z" user="grawal" uid="9265159">
   <member type="way" ref="727636060" role=""/>
   <member type="way" ref="327386797" role=""/>
   <member type="way" ref="324752344" role=""/>
@@ -7583,6 +7588,9 @@
   <member type="way" ref="251653213" role=""/>
   <member type="way" ref="283375374" role=""/>
   <member type="way" ref="43340514" role=""/>
+  <member type="way" ref="879300350" role=""/>
+  <member type="way" ref="879207653" role=""/>
+  <member type="way" ref="879207652" role=""/>
   <member type="way" ref="667868787" role=""/>
   <member type="way" ref="37236303" role=""/>
   <member type="way" ref="37236304" role=""/>
@@ -8487,9 +8495,10 @@
   <tag k="website" v="http://www.eurovelo8.com/countries/italy"/>
   <tag k="wikipedia" v="en:EV8 The Mediterranean Route"/>
  </relation>
- <relation id="9585839" visible="true" version="26" changeset="89886831" timestamp="2020-08-25T04:23:25Z" user="gzin" uid="35673">
+ <relation id="9585839" visible="true" version="27" changeset="94506437" timestamp="2020-11-20T14:30:02Z" user="patata_28" uid="11166885">
   <member type="way" ref="11701029" role=""/>
   <member type="way" ref="835705627" role=""/>
+  <member type="way" ref="875174822" role=""/>
   <member type="relation" ref="9583387" role="part"/>
   <member type="relation" ref="9629396" role="part"/>
   <member type="relation" ref="3977556" role="part"/>

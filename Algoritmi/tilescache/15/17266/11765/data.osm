@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991885 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (2936320 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1665472" minlon="9.6899414" maxlat="45.1742925" maxlon="9.7009277"/>
  <node id="281826231" visible="true" version="7" changeset="51076248" timestamp="2017-08-13T09:23:53Z" user="Elia Z" uid="2914055" lat="45.1647741" lon="9.7020511">
   <tag k="highway" v="traffic_signals"/>
  </node>
  <node id="305808236" visible="true" version="5" changeset="13636680" timestamp="2012-10-26T10:42:35Z" user="peppe10" uid="504502" lat="45.1670487" lon="9.6970080"/>
- <node id="305808306" visible="true" version="3" changeset="737925" timestamp="2008-11-12T09:48:07Z" user="mapper_07" uid="12295" lat="45.1731495" lon="9.6949523"/>
+ <node id="305808306" visible="true" version="4" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784" lat="45.1729871" lon="9.6950589"/>
  <node id="311474469" visible="true" version="4" changeset="51076088" timestamp="2017-08-13T09:17:17Z" user="Elia Z" uid="2914055" lat="45.1666563" lon="9.6955434"/>
  <node id="311474473" visible="true" version="3" changeset="32427189" timestamp="2015-07-05T14:14:42Z" user="fedc" uid="602784" lat="45.1690658" lon="9.6964466"/>
  <node id="451915501" visible="true" version="3" changeset="81424075" timestamp="2020-02-24T21:26:38Z" user="mcheck" uid="478872" lat="45.1665137" lon="9.7007540"/>
@@ -76,10 +76,9 @@
  <node id="452086360" visible="true" version="4" changeset="51076088" timestamp="2017-08-13T09:17:17Z" user="Elia Z" uid="2914055" lat="45.1664777" lon="9.6952555"/>
  <node id="452086372" visible="true" version="3" changeset="81424075" timestamp="2020-02-24T21:26:38Z" user="mcheck" uid="478872" lat="45.1655117" lon="9.7015228"/>
  <node id="495246780" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:30:31Z" user="Guido Piazzi" uid="38067" lat="45.1728886" lon="9.6970458"/>
- <node id="495246794" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:30:31Z" user="Guido Piazzi" uid="38067" lat="45.1737984" lon="9.6950299"/>
- <node id="495246855" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:30:33Z" user="Guido Piazzi" uid="38067" lat="45.1732855" lon="9.6949920"/>
+ <node id="495246855" visible="true" version="2" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784" lat="45.1732346" lon="9.6950436"/>
  <node id="495246878" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:30:34Z" user="Guido Piazzi" uid="38067" lat="45.1743344" lon="9.6968992"/>
- <node id="495246917" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:30:35Z" user="Guido Piazzi" uid="38067" lat="45.1742627" lon="9.6950720"/>
+ <node id="495246917" visible="true" version="2" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784" lat="45.1742675" lon="9.6951373"/>
  <node id="495246981" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:30:36Z" user="Guido Piazzi" uid="38067" lat="45.1728137" lon="9.6951839"/>
  <node id="495247101" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:30:40Z" user="Guido Piazzi" uid="38067" lat="45.1732139" lon="9.6969237"/>
  <node id="495247121" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T15:30:40Z" user="Guido Piazzi" uid="38067" lat="45.1737712" lon="9.6969743"/>
@@ -472,7 +471,6 @@
  <node id="2617599658" visible="true" version="2" changeset="81475969" timestamp="2020-02-26T00:09:15Z" user="mcheck" uid="478872" lat="45.1702491" lon="9.6964368"/>
  <node id="2617599659" visible="true" version="1" changeset="19920778" timestamp="2014-01-10T17:29:38Z" user="Alecs01" uid="1476146" lat="45.1705016" lon="9.6962277"/>
  <node id="2617599660" visible="true" version="1" changeset="19920778" timestamp="2014-01-10T17:29:38Z" user="Alecs01" uid="1476146" lat="45.1705207" lon="9.6963258"/>
- <node id="2701155767" visible="true" version="4" changeset="32427189" timestamp="2015-07-05T14:14:42Z" user="fedc" uid="602784" lat="45.1749457" lon="9.6950822"/>
  <node id="2899398851" visible="true" version="2" changeset="51076088" timestamp="2017-08-13T09:17:17Z" user="Elia Z" uid="2914055" lat="45.1665949" lon="9.6951372"/>
  <node id="2899398852" visible="true" version="2" changeset="51076088" timestamp="2017-08-13T09:17:17Z" user="Elia Z" uid="2914055" lat="45.1665791" lon="9.6951118"/>
  <node id="2899398854" visible="true" version="2" changeset="51076088" timestamp="2017-08-13T09:17:17Z" user="Elia Z" uid="2914055" lat="45.1664725" lon="9.6951369"/>
@@ -5366,6 +5364,14 @@
  <node id="7954312406" visible="true" version="1" changeset="91705080" timestamp="2020-09-29T11:41:12Z" user="Marco00g" uid="10478456" lat="45.1687384" lon="9.6994189"/>
  <node id="7954312407" visible="true" version="1" changeset="91705080" timestamp="2020-09-29T11:41:12Z" user="Marco00g" uid="10478456" lat="45.1693668" lon="9.6991315"/>
  <node id="7954312408" visible="true" version="1" changeset="91705080" timestamp="2020-09-29T11:41:12Z" user="Marco00g" uid="10478456" lat="45.1697190" lon="9.6989063"/>
+ <node id="8044716987" visible="true" version="1" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784" lat="45.1731434" lon="9.6950114"/>
+ <node id="8044716988" visible="true" version="1" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784" lat="45.1732500" lon="9.6949942"/>
+ <node id="8044716989" visible="true" version="1" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784" lat="45.1733567" lon="9.6949873"/>
+ <node id="8044716990" visible="true" version="1" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784" lat="45.1734828" lon="9.6949942"/>
+ <node id="8044716991" visible="true" version="1" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784" lat="45.1745370" lon="9.6950905"/>
+ <node id="8044717016" visible="true" version="1" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784" lat="45.1737254" lon="9.6921261"/>
+ <node id="8044717017" visible="true" version="1" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784" lat="45.1738380" lon="9.6907332"/>
+ <node id="8155976154" visible="true" version="1" changeset="94662240" timestamp="2020-11-23T21:04:12Z" user="astraspera" uid="2653653" lat="45.1554399" lon="9.6968977"/>
  <way id="38295181" visible="true" version="13" changeset="81424075" timestamp="2020-02-24T21:26:38Z" user="mcheck" uid="478872">
   <nd ref="281826231"/>
   <nd ref="452086372"/>
@@ -5479,10 +5485,9 @@
   <tag k="junction" v="roundabout"/>
   <tag k="name" v="Via Falchetti"/>
  </way>
- <way id="40766694" visible="true" version="1" changeset="2468682" timestamp="2009-09-13T18:45:11Z" user="Guido Piazzi" uid="38067">
+ <way id="40766694" visible="true" version="2" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784">
   <nd ref="495246981"/>
   <nd ref="495246855"/>
-  <nd ref="495246794"/>
   <nd ref="495246917"/>
   <nd ref="495246878"/>
   <nd ref="495247121"/>
@@ -5492,7 +5497,7 @@
   <tag k="it:lombardia:ctrn:cascina:CS_ID" v="2100"/>
   <tag k="landuse" v="farmyard"/>
  </way>
- <way id="45391956" visible="true" version="24" changeset="89470192" timestamp="2020-08-16T12:11:38Z" user="mcheck" uid="478872">
+ <way id="45391956" visible="true" version="25" changeset="94662240" timestamp="2020-11-23T21:04:12Z" user="astraspera" uid="2653653">
   <nd ref="577249465"/>
   <nd ref="577249466"/>
   <nd ref="577249467"/>
@@ -5660,6 +5665,7 @@
   <nd ref="3049655218"/>
   <nd ref="577249426"/>
   <nd ref="3049655414"/>
+  <nd ref="8155976154"/>
   <nd ref="3393923414"/>
   <nd ref="3914854857"/>
   <nd ref="3914854877"/>
@@ -6312,16 +6318,6 @@
   <nd ref="2617599657"/>
   <nd ref="2617599659"/>
   <tag k="building" v="grandstand"/>
- </way>
- <way id="305154341" visible="true" version="4" changeset="44331662" timestamp="2016-12-11T20:37:55Z" user="Elia Z" uid="2914055">
-  <nd ref="2701155767"/>
-  <nd ref="305808306"/>
-  <nd ref="3635356337"/>
-  <tag k="highway" v="secondary"/>
-  <tag k="lanes" v="2"/>
-  <tag k="name" v="Strada Provinciale exSS591 Cremasca"/>
-  <tag k="ref" v="SPexSS591"/>
-  <tag k="surface" v="asphalt"/>
  </way>
  <way id="318864120" visible="true" version="1" changeset="27695140" timestamp="2014-12-25T19:48:32Z" user="wiso_dbtopo_lodi" uid="2317501">
   <nd ref="3252580727"/>
@@ -10836,6 +10832,27 @@
   <tag k="lit" v="yes"/>
   <tag k="name" v="Via Rosolino Ferrari"/>
  </way>
+ <way id="863578146" visible="true" version="1" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784">
+  <nd ref="8044716991"/>
+  <nd ref="8044716990"/>
+  <nd ref="8044716989"/>
+  <nd ref="8044716988"/>
+  <nd ref="8044716987"/>
+  <nd ref="305808306"/>
+  <nd ref="3635356337"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="Strada provinciale ex SS 591 Cremasca"/>
+  <tag k="oneway" v="no"/>
+  <tag k="ref" v="SPexSS591"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="863578152" visible="true" version="1" changeset="93025469" timestamp="2020-10-25T18:29:52Z" user="fedc" uid="602784">
+  <nd ref="8044717017"/>
+  <nd ref="8044717016"/>
+  <nd ref="8044716990"/>
+  <tag k="highway" v="track"/>
+ </way>
  <relation id="3095724" visible="true" version="1" changeset="17050184" timestamp="2013-07-22T15:23:57Z" user="SkyOne" uid="330450">
   <member type="node" ref="281826231" role="end"/>
   <member type="way" ref="38295181" role="ways"/>
@@ -10862,7 +10879,7 @@
   <tag k="sport" v="athletics"/>
   <tag k="type" v="multipolygon"/>
  </relation>
- <relation id="6780651" visible="true" version="38" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306">
+ <relation id="6780651" visible="true" version="40" changeset="94647947" timestamp="2020-11-23T15:51:06Z" user="Luca Sarga" uid="3090360">
   <member type="way" ref="107052224" role=""/>
   <member type="way" ref="107052180" role=""/>
   <member type="way" ref="38845337" role=""/>
@@ -10905,6 +10922,7 @@
   <member type="way" ref="382315362" role=""/>
   <member type="way" ref="382836977" role=""/>
   <member type="way" ref="31654935" role=""/>
+  <member type="way" ref="876213090" role=""/>
   <member type="way" ref="619899698" role=""/>
   <member type="way" ref="24714191" role=""/>
   <member type="way" ref="24714192" role=""/>
@@ -11135,8 +11153,12 @@
   <member type="way" ref="186811024" role=""/>
   <member type="way" ref="186811033" role=""/>
   <member type="way" ref="186811034" role=""/>
+  <member type="way" ref="863578150" role=""/>
+  <member type="way" ref="863578149" role=""/>
   <member type="way" ref="169083488" role=""/>
-  <member type="way" ref="305154341" role=""/>
+  <member type="way" ref="863578147" role=""/>
+  <member type="way" ref="863578148" role=""/>
+  <member type="way" ref="863578146" role=""/>
   <member type="way" ref="358634904" role=""/>
   <member type="way" ref="187778205" role=""/>
   <member type="way" ref="567549252" role=""/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1829361 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441241 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3675844" minlon="10.1403809" maxlat="45.3753024" maxlon="10.1513672"/>
  <node id="143544713" visible="true" version="18" changeset="4629660" timestamp="2010-05-07T12:30:40Z" user="Moliva" uid="107039" lat="45.3702213" lon="10.1484686"/>
  <node id="335390702" visible="true" version="2" changeset="829358" timestamp="2009-01-23T13:42:35Z" user="Thorin" uid="92379" lat="45.4182348" lon="10.1772697"/>
@@ -207,7 +207,7 @@
  <node id="450684026" visible="true" version="3" changeset="11064561" timestamp="2012-03-22T16:18:54Z" user="White_Rabbit" uid="604999" lat="45.3497882" lon="9.7556997">
   <tag k="power" v="tower"/>
  </node>
- <node id="450684029" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:11Z" user="Bs72" uid="622251" lat="45.3652220" lon="10.0429061">
+ <node id="450684029" visible="true" version="4" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.3652936" lon="10.0428471">
   <tag k="power" v="tower"/>
  </node>
  <node id="450684032" visible="true" version="3" changeset="11064561" timestamp="2012-03-22T16:18:54Z" user="White_Rabbit" uid="604999" lat="45.3487767" lon="9.5277876">
@@ -267,7 +267,7 @@
  <node id="450684085" visible="true" version="3" changeset="13260820" timestamp="2012-09-26T16:01:48Z" user="Bs72" uid="622251" lat="45.3783062" lon="10.3761284">
   <tag k="power" v="tower"/>
  </node>
- <node id="450684087" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:08Z" user="Bs72" uid="622251" lat="45.3650243" lon="10.0394464">
+ <node id="450684087" visible="true" version="4" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.3650563" lon="10.0396020">
   <tag k="power" v="tower"/>
  </node>
  <node id="450684090" visible="true" version="3" changeset="11064561" timestamp="2012-03-22T16:18:57Z" user="White_Rabbit" uid="604999" lat="45.3470481" lon="9.7102479">
@@ -1086,7 +1086,7 @@
  <node id="450684725" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:10Z" user="Bs72" uid="622251" lat="45.3616350" lon="9.9793850">
   <tag k="power" v="tower"/>
  </node>
- <node id="450684727" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:10Z" user="Bs72" uid="622251" lat="45.3649363" lon="10.0361367">
+ <node id="450684727" visible="true" version="4" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.3649269" lon="10.0361877">
   <tag k="power" v="tower"/>
  </node>
  <node id="450684728" visible="true" version="3" changeset="13195255" timestamp="2012-09-21T14:51:09Z" user="Bs72" uid="622251" lat="45.3647363" lon="10.0330146">
@@ -1695,9 +1695,6 @@
  <node id="1755825506" visible="true" version="1" changeset="11620965" timestamp="2012-05-17T07:59:33Z" user="sbiribizio" uid="354284" lat="45.3671803" lon="10.1448100"/>
  <node id="1755825507" visible="true" version="1" changeset="11620965" timestamp="2012-05-17T07:59:33Z" user="sbiribizio" uid="354284" lat="45.3674442" lon="10.1448989"/>
  <node id="1755825508" visible="true" version="1" changeset="11620965" timestamp="2012-05-17T07:59:33Z" user="sbiribizio" uid="354284" lat="45.3678207" lon="10.1451270"/>
- <node id="1769950206" visible="true" version="2" changeset="13195255" timestamp="2012-09-21T14:51:11Z" user="Bs72" uid="622251" lat="45.3648955" lon="10.0371957">
-  <tag k="power" v="tower"/>
- </node>
  <node id="1932304068" visible="true" version="1" changeset="13247233" timestamp="2012-09-25T14:11:22Z" user="Bs72" uid="622251" lat="45.3946152" lon="10.6113767">
   <tag k="power" v="tower"/>
  </node>
@@ -2665,7 +2662,7 @@
   <tag k="railway" v="rail"/>
   <tag k="service" v="spur"/>
  </way>
- <way id="210625430" visible="true" version="10" changeset="69963421" timestamp="2019-05-07T07:44:43Z" user="dvvuyyur" uid="9634896">
+ <way id="210625430" visible="true" version="11" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973">
   <nd ref="2207016430"/>
   <nd ref="2207016425"/>
   <nd ref="2207016417"/>
@@ -2914,7 +2911,6 @@
   <nd ref="450684205"/>
   <nd ref="450684029"/>
   <nd ref="450684087"/>
-  <nd ref="1769950206"/>
   <nd ref="450684727"/>
   <nd ref="450684728"/>
   <nd ref="450684043"/>
@@ -3554,5 +3550,53 @@
   <member type="node" ref="4379739948" role="via"/>
   <tag k="restriction" v="only_straight_on"/>
   <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="11818519" visible="true" version="2" changeset="93354268" timestamp="2020-10-31T22:33:22Z" user="Moliva" uid="107039">
+  <member type="way" ref="58555601" role=""/>
+  <member type="way" ref="85591526" role=""/>
+  <member type="way" ref="58556599" role=""/>
+  <member type="way" ref="58556597" role=""/>
+  <member type="way" ref="58556594" role=""/>
+  <member type="way" ref="58555595" role=""/>
+  <member type="way" ref="58555581" role=""/>
+  <member type="way" ref="101997399" role=""/>
+  <member type="way" ref="58555587" role=""/>
+  <member type="way" ref="58555591" role=""/>
+  <member type="way" ref="99468541" role=""/>
+  <member type="way" ref="99468540" role=""/>
+  <member type="way" ref="58555586" role=""/>
+  <member type="way" ref="339392118" role=""/>
+  <member type="way" ref="339392119" role=""/>
+  <member type="way" ref="58555583" role=""/>
+  <member type="way" ref="58555584" role=""/>
+  <member type="way" ref="58704004" role=""/>
+  <member type="way" ref="288306021" role=""/>
+  <member type="way" ref="288306020" role=""/>
+  <member type="way" ref="288305713" role=""/>
+  <member type="way" ref="288305712" role=""/>
+  <member type="way" ref="58704011" role=""/>
+  <member type="way" ref="288305137" role=""/>
+  <member type="way" ref="288305138" role=""/>
+  <member type="way" ref="59225117" role=""/>
+  <member type="way" ref="59225115" role=""/>
+  <member type="way" ref="58555599" role=""/>
+  <member type="way" ref="66945913" role=""/>
+  <member type="way" ref="58555598" role=""/>
+  <member type="way" ref="58555589" role=""/>
+  <member type="way" ref="58555590" role=""/>
+  <member type="way" ref="58555588" role=""/>
+  <member type="way" ref="59225114" role=""/>
+  <member type="way" ref="59225121" role=""/>
+  <member type="way" ref="59225118" role=""/>
+  <member type="way" ref="59225119" role=""/>
+  <member type="way" ref="59225116" role=""/>
+  <member type="way" ref="58704010" role=""/>
+  <member type="way" ref="58704007" role=""/>
+  <member type="way" ref="59225120" role=""/>
+  <tag k="alt_name" v="Garza"/>
+  <tag k="name" v="Molone"/>
+  <tag k="old_name" v="Garza"/>
+  <tag k="type" v="waterway"/>
+  <tag k="wikipedia" v="it:Garza (torrente)"/>
  </relation>
 </osm>

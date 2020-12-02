@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2320407 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3897392 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="44.9259184" minlon="10.4919434" maxlat="44.9336964" maxlon="10.5029297"/>
  <node id="204021845" visible="true" version="7" changeset="31038849" timestamp="2015-05-12T08:45:44Z" user="Fredie" uid="2073275" lat="44.9195348" lon="10.5062298"/>
  <node id="204021847" visible="true" version="3" changeset="11740911" timestamp="2012-05-29T18:50:57Z" user="KlausG" uid="204238" lat="44.9129263" lon="10.5091846"/>
@@ -3838,7 +3838,7 @@
   <nd ref="6443196827"/>
   <tag k="highway" v="service"/>
  </way>
- <relation id="42611" visible="true" version="255" changeset="92311473" timestamp="2020-10-11T19:17:00Z" user="MitjaJez" uid="1553347">
+ <relation id="42611" visible="true" version="258" changeset="93553927" timestamp="2020-11-04T16:39:05Z" user="Garmin-User" uid="177389">
   <member type="node" ref="667350399" role="admin_centre"/>
   <member type="node" ref="1781917318" role="label"/>
   <member type="way" ref="481208126" role="outer"/>
@@ -4005,11 +4005,14 @@
   <member type="way" ref="783879478" role="outer"/>
   <member type="way" ref="783879481" role="outer"/>
   <member type="way" ref="783897858" role="outer"/>
+  <member type="way" ref="866778403" role="outer"/>
   <member type="way" ref="443598856" role="outer"/>
+  <member type="way" ref="865402694" role="outer"/>
   <member type="way" ref="27974900" role="outer"/>
   <member type="way" ref="27974814" role="outer"/>
   <member type="way" ref="27974783" role="outer"/>
   <member type="way" ref="27974767" role="outer"/>
+  <member type="way" ref="867029359" role="outer"/>
   <member type="way" ref="527994752" role="outer"/>
   <member type="way" ref="27974753" role="outer"/>
   <member type="way" ref="27974676" role="outer"/>
@@ -4262,7 +4265,7 @@
   <tag k="wikidata" v="Q42336"/>
   <tag k="wikipedia" v="it:Viadana"/>
  </relation>
- <relation id="43798" visible="true" version="46" changeset="66903819" timestamp="2019-02-04T13:39:45Z" user="Garmin-User" uid="177389">
+ <relation id="43798" visible="true" version="47" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="62505610" role="admin_centre"/>
   <member type="way" ref="27977551" role="outer"/>
   <member type="way" ref="27977480" role="outer"/>
@@ -4304,8 +4307,9 @@
   <member type="way" ref="27978792" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27979166" role="outer"/>
@@ -4391,7 +4395,7 @@
   <tag k="wikidata" v="Q16204"/>
   <tag k="wikipedia" v="it:Provincia di Mantova"/>
  </relation>
- <relation id="44879" visible="true" version="231" changeset="84772596" timestamp="2020-05-06T16:43:08Z" user="Yiyi (itwikipedia)" uid="1404750">
+ <relation id="44879" visible="true" version="232" changeset="93008175" timestamp="2020-10-25T07:59:29Z" user="BelluClau" uid="6894102">
   <member type="node" ref="1781917324" role="label"/>
   <member type="node" ref="62505581" role="admin_centre"/>
   <member type="way" ref="123170540" role="outer"/>
@@ -4464,7 +4468,8 @@
   <member type="way" ref="27979153" role="outer"/>
   <member type="way" ref="27978791" role="outer"/>
   <member type="way" ref="27978699" role="outer"/>
-  <member type="way" ref="27978927" role="outer"/>
+  <member type="way" ref="863477896" role="outer"/>
+  <member type="way" ref="863477898" role="outer"/>
   <member type="way" ref="27978926" role="outer"/>
   <member type="way" ref="27978807" role="outer"/>
   <member type="way" ref="27978792" role="outer"/>
@@ -5295,16 +5300,20 @@
   <tag k="type" v="route"/>
   <tag k="website" v="http://www.ilcamminare.it/"/>
  </relation>
- <relation id="7944114" visible="true" version="11" changeset="89138507" timestamp="2020-08-08T20:46:07Z" user="ilcamminare" uid="582732">
+ <relation id="7944114" visible="true" version="15" changeset="95071684" timestamp="2020-11-30T22:44:42Z" user="ilcamminare" uid="582732">
   <member type="relation" ref="7395978" role=""/>
   <member type="relation" ref="7509559" role=""/>
   <member type="relation" ref="7509677" role=""/>
+  <member type="relation" ref="7908409" role=""/>
   <member type="relation" ref="11485077" role=""/>
   <member type="relation" ref="7511106" role=""/>
   <member type="relation" ref="7512833" role=""/>
   <member type="relation" ref="7515706" role=""/>
+  <member type="relation" ref="11961433" role=""/>
   <member type="relation" ref="7520011" role=""/>
+  <member type="relation" ref="11964540" role=""/>
   <member type="relation" ref="7522484" role=""/>
+  <member type="relation" ref="11964908" role=""/>
   <member type="relation" ref="7527433" role=""/>
   <member type="relation" ref="7820031" role=""/>
   <member type="relation" ref="7821406" role=""/>
@@ -5327,7 +5336,7 @@
   <tag k="network" v="nwn"/>
   <tag k="osmc:symbol" v="blue:blue:red_stripe:CSG:white"/>
   <tag k="pilgrimage" v="yes"/>
-  <tag k="ref" v="CSG_26_Total"/>
+  <tag k="ref" v="CSG_27_Total"/>
   <tag k="route" v="hiking"/>
   <tag k="state" v="proposed"/>
   <tag k="type" v="route"/>
@@ -5376,7 +5385,7 @@
   <tag k="wikidata" v="Q60331270"/>
   <tag k="wikipedia" v="it:Sorbolo Mezzani"/>
  </relation>
- <relation id="9584949" visible="true" version="58" changeset="92182800" timestamp="2020-10-08T15:08:19Z" user="vrmap" uid="852319">
+ <relation id="9584949" visible="true" version="59" changeset="94020178" timestamp="2020-11-12T21:44:31Z" user="vbertola" uid="4347030">
   <member type="way" ref="252268321" role=""/>
   <member type="way" ref="252268299" role=""/>
   <member type="way" ref="228539544" role=""/>
@@ -5414,12 +5423,13 @@
   <member type="way" ref="24161151" role=""/>
   <member type="way" ref="65427644" role=""/>
   <member type="way" ref="24161122" role=""/>
+  <member type="way" ref="870955974" role=""/>
+  <member type="way" ref="737575818" role=""/>
+  <member type="way" ref="737575821" role=""/>
+  <member type="way" ref="737575819" role=""/>
   <member type="way" ref="189643067" role=""/>
   <member type="way" ref="22956291" role=""/>
   <member type="way" ref="737575820" role=""/>
-  <member type="way" ref="737575821" role=""/>
-  <member type="way" ref="737575819" role=""/>
-  <member type="way" ref="737575818" role=""/>
   <member type="way" ref="189643068" role=""/>
   <member type="way" ref="22956287" role=""/>
   <member type="way" ref="23184183" role=""/>
@@ -6263,9 +6273,10 @@
   <tag k="website" v="http://www.eurovelo8.com/countries/italy"/>
   <tag k="wikipedia" v="en:EV8 The Mediterranean Route"/>
  </relation>
- <relation id="9585839" visible="true" version="26" changeset="89886831" timestamp="2020-08-25T04:23:25Z" user="gzin" uid="35673">
+ <relation id="9585839" visible="true" version="27" changeset="94506437" timestamp="2020-11-20T14:30:02Z" user="patata_28" uid="11166885">
   <member type="way" ref="11701029" role=""/>
   <member type="way" ref="835705627" role=""/>
+  <member type="way" ref="875174822" role=""/>
   <member type="relation" ref="9583387" role="part"/>
   <member type="relation" ref="9629396" role="part"/>
   <member type="relation" ref="3977556" role="part"/>

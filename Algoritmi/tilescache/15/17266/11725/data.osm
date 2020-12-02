@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2523336 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3163584 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4755403" minlon="9.6899414" maxlat="45.4832435" maxlon="9.7009277"/>
  <node id="207316811" visible="true" version="5" changeset="8983087" timestamp="2011-08-11T08:00:30Z" user="ilrobi" uid="22110" lat="45.4824784" lon="9.7050562"/>
  <node id="207316813" visible="true" version="5" changeset="8983087" timestamp="2011-08-11T08:00:30Z" user="ilrobi" uid="22110" lat="45.4817261" lon="9.7006915"/>
@@ -2868,7 +2868,7 @@
   <tag k="tower:construction" v="brick"/>
   <tag k="tower:type" v="bell_tower"/>
  </way>
- <relation id="2623941" visible="true" version="69" changeset="85283263" timestamp="2020-05-15T22:10:34Z" user="gigi2037" uid="616481">
+ <relation id="2623941" visible="true" version="70" changeset="94647947" timestamp="2020-11-23T15:51:06Z" user="Luca Sarga" uid="3090360">
   <member type="way" ref="125589803" role=""/>
   <member type="way" ref="654187716" role=""/>
   <member type="way" ref="254048067" role=""/>
@@ -2984,13 +2984,14 @@
   <member type="way" ref="43345870" role=""/>
   <member type="way" ref="43345872" role=""/>
   <member type="way" ref="31654939" role=""/>
-  <member type="way" ref="43345873" role=""/>
   <member type="way" ref="382315372" role=""/>
+  <member type="way" ref="43345873" role=""/>
   <member type="way" ref="382315365" role=""/>
   <member type="way" ref="243344080" role=""/>
   <member type="way" ref="382315362" role=""/>
   <member type="way" ref="382836977" role=""/>
   <member type="way" ref="31654935" role=""/>
+  <member type="way" ref="876213090" role=""/>
   <member type="way" ref="619899698" role=""/>
   <member type="way" ref="24714191" role=""/>
   <member type="way" ref="24714192" role=""/>
@@ -3065,7 +3066,7 @@
   <tag k="source" v="http://www.muoversi.regione.lombardia.it"/>
   <tag k="type" v="route"/>
  </relation>
- <relation id="6780651" visible="true" version="38" changeset="92643748" timestamp="2020-10-17T22:52:37Z" user="dega180" uid="454306">
+ <relation id="6780651" visible="true" version="40" changeset="94647947" timestamp="2020-11-23T15:51:06Z" user="Luca Sarga" uid="3090360">
   <member type="way" ref="107052224" role=""/>
   <member type="way" ref="107052180" role=""/>
   <member type="way" ref="38845337" role=""/>
@@ -3108,6 +3109,7 @@
   <member type="way" ref="382315362" role=""/>
   <member type="way" ref="382836977" role=""/>
   <member type="way" ref="31654935" role=""/>
+  <member type="way" ref="876213090" role=""/>
   <member type="way" ref="619899698" role=""/>
   <member type="way" ref="24714191" role=""/>
   <member type="way" ref="24714192" role=""/>
@@ -3338,8 +3340,12 @@
   <member type="way" ref="186811024" role=""/>
   <member type="way" ref="186811033" role=""/>
   <member type="way" ref="186811034" role=""/>
+  <member type="way" ref="863578150" role=""/>
+  <member type="way" ref="863578149" role=""/>
   <member type="way" ref="169083488" role=""/>
-  <member type="way" ref="305154341" role=""/>
+  <member type="way" ref="863578147" role=""/>
+  <member type="way" ref="863578148" role=""/>
+  <member type="way" ref="863578146" role=""/>
   <member type="way" ref="358634904" role=""/>
   <member type="way" ref="187778205" role=""/>
   <member type="way" ref="567549252" role=""/>
@@ -3356,7 +3362,7 @@
   <tag k="route" v="road"/>
   <tag k="type" v="route"/>
  </relation>
- <relation id="6782208" visible="true" version="46" changeset="91841154" timestamp="2020-10-01T18:20:37Z" user="Mannivu" uid="1950277">
+ <relation id="6782208" visible="true" version="47" changeset="94501093" timestamp="2020-11-20T12:30:53Z" user="dega180" uid="454306">
   <member type="way" ref="285591085" role=""/>
   <member type="way" ref="256114733" role=""/>
   <member type="way" ref="172687416" role=""/>
@@ -3407,6 +3413,8 @@
   <member type="way" ref="117060295" role=""/>
   <member type="way" ref="356987209" role=""/>
   <member type="way" ref="297000423" role=""/>
+  <member type="way" ref="875135684" role=""/>
+  <member type="way" ref="875135683" role=""/>
   <member type="way" ref="458684860" role=""/>
   <member type="way" ref="298298832" role=""/>
   <member type="way" ref="458684859" role=""/>

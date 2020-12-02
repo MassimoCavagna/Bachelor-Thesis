@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3583211 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3897392 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1742925" minlon="9.6350098" maxlat="45.1820368" maxlon="9.6459961"/>
  <node id="281824029" visible="true" version="5" changeset="51076088" timestamp="2017-08-13T09:17:14Z" user="Elia Z" uid="2914055" lat="45.1765939" lon="9.6403967"/>
  <node id="281824127" visible="true" version="6" changeset="76366837" timestamp="2019-10-29T21:50:32Z" user="fedc" uid="602784" lat="45.1768571" lon="9.6391244"/>
@@ -6605,7 +6605,7 @@
   <nd ref="993703404"/>
   <tag k="building" v="apartments"/>
  </way>
- <way id="85650053" visible="true" version="3" changeset="9168174" timestamp="2011-08-30T15:04:00Z" user="SkyOne" uid="330450">
+ <way id="85650053" visible="true" version="4" changeset="94255585" timestamp="2020-11-17T08:20:48Z" user="Edward" uid="364">
   <nd ref="993703358"/>
   <nd ref="993703555"/>
   <nd ref="993703193"/>
@@ -6644,6 +6644,7 @@
   <tag k="denomination" v="catholic"/>
   <tag k="name" v="Chiesa di Sant'Antonio Abate"/>
   <tag k="religion" v="christian"/>
+  <tag k="wikidata" v="Q72852053"/>
  </way>
  <way id="85650061" visible="true" version="1" changeset="6400731" timestamp="2010-11-18T15:14:05Z" user="SkyOne" uid="330450">
   <nd ref="993703268"/>
@@ -7029,7 +7030,7 @@
   <nd ref="1059249237"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="91250838" visible="true" version="4" changeset="36363480" timestamp="2016-01-04T16:31:06Z" user="Fredie" uid="2073275">
+ <way id="91250838" visible="true" version="5" changeset="94255585" timestamp="2020-11-17T08:20:48Z" user="Edward" uid="364">
   <nd ref="1059247553"/>
   <nd ref="1059249125"/>
   <nd ref="3927308170"/>
@@ -7048,6 +7049,7 @@
   <tag k="denomination" v="roman_catholic"/>
   <tag k="name" v="Chiesa di San Bernardino da Siena"/>
   <tag k="religion" v="christian"/>
+  <tag k="wikidata" v="Q72851526"/>
  </way>
  <way id="91250840" visible="true" version="1" changeset="6745628" timestamp="2010-12-23T14:04:43Z" user="SkyOne" uid="330450">
   <nd ref="1059247938"/>
@@ -11308,7 +11310,7 @@
   <tag k="building" v="apartments"/>
   <tag k="type" v="multipolygon"/>
  </relation>
- <relation id="1795722" visible="true" version="114" changeset="79201046" timestamp="2020-01-04T22:31:04Z" user="fedc" uid="602784">
+ <relation id="1795722" visible="true" version="116" changeset="93711556" timestamp="2020-11-07T15:44:25Z" user="astraspera" uid="2653653">
   <member type="way" ref="46579235" role=""/>
   <member type="way" ref="22882758" role=""/>
   <member type="way" ref="46579240" role=""/>
@@ -11333,19 +11335,12 @@
   <member type="way" ref="677362527" role=""/>
   <member type="way" ref="25870585" role=""/>
   <member type="way" ref="593467740" role=""/>
-  <member type="way" ref="38963336" role=""/>
-  <member type="way" ref="372639399" role=""/>
-  <member type="way" ref="372639398" role=""/>
-  <member type="way" ref="38963337" role=""/>
+  <member type="way" ref="868042564" role=""/>
+  <member type="way" ref="868042560" role=""/>
   <member type="way" ref="304530028" role=""/>
   <member type="way" ref="593467742" role=""/>
   <member type="way" ref="304530027" role=""/>
-  <member type="way" ref="390480323" role=""/>
-  <member type="way" ref="593467735" role=""/>
   <member type="way" ref="677857788" role=""/>
-  <member type="way" ref="665212723" role=""/>
-  <member type="way" ref="480327975" role=""/>
-  <member type="way" ref="593467738" role=""/>
   <member type="way" ref="593467721" role=""/>
   <member type="way" ref="98497763" role=""/>
   <member type="way" ref="689668521" role=""/>
@@ -11476,9 +11471,8 @@
   <member type="way" ref="721154573" role=""/>
   <member type="way" ref="305732731" role=""/>
   <member type="way" ref="305732735" role=""/>
+  <member type="way" ref="863578145" role=""/>
   <member type="way" ref="305732728" role=""/>
-  <member type="way" ref="169083489" role=""/>
-  <member type="way" ref="627610463" role=""/>
   <member type="way" ref="37767972" role=""/>
   <member type="way" ref="187778390" role=""/>
   <member type="way" ref="93391171" role=""/>
@@ -11490,6 +11484,8 @@
   <member type="way" ref="542524217" role=""/>
   <member type="way" ref="542524216" role=""/>
   <member type="way" ref="593467732" role=""/>
+  <member type="way" ref="390480323" role=""/>
+  <member type="way" ref="593467735" role=""/>
   <member type="way" ref="542524219" role=""/>
   <member type="way" ref="596247312" role=""/>
   <member type="way" ref="596247308" role=""/>
@@ -11527,7 +11523,22 @@
   <member type="way" ref="627610462" role=""/>
   <member type="way" ref="627610464" role=""/>
   <member type="way" ref="627610480" role=""/>
+  <member type="way" ref="169083489" role=""/>
+  <member type="way" ref="627610463" role=""/>
   <member type="way" ref="627610481" role=""/>
+  <member type="way" ref="484484690" role="road"/>
+  <member type="way" ref="546028963" role=""/>
+  <member type="way" ref="546028960" role=""/>
+  <member type="way" ref="868042563" role=""/>
+  <member type="way" ref="868042562" role=""/>
+  <member type="way" ref="868042561" role=""/>
+  <member type="way" ref="868042565" role=""/>
+  <member type="way" ref="746096661" role=""/>
+  <member type="way" ref="746096662" role=""/>
+  <member type="way" ref="38963329" role=""/>
+  <member type="way" ref="546028964" role=""/>
+  <member type="way" ref="546028962" role=""/>
+  <member type="way" ref="746096660" role=""/>
   <tag k="name" v="Strada Provinciale exSS234 Codognese"/>
   <tag k="network" v="IT:PV;IT:MI;IT:LO"/>
   <tag k="old_name" v="Strada Statale Codognese"/>

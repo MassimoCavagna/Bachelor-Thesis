@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2868701 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3440835 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2362175" minlon="9.7998047" maxlat="45.2439534" maxlon="9.8107910"/>
  <node id="62511394" visible="true" version="3" changeset="25092413" timestamp="2014-08-29T09:53:45Z" user="Hjart" uid="207581" lat="45.2423717" lon="9.8069612"/>
  <node id="971083105" visible="true" version="2" changeset="17232244" timestamp="2013-08-05T19:45:40Z" user="pdovera" uid="1545610" lat="45.2423377" lon="9.8000827"/>
@@ -2500,7 +2500,8 @@
  <node id="7979844357" visible="true" version="1" changeset="92023537" timestamp="2020-10-06T06:40:37Z" user="tdovera" uid="1694801" lat="45.2437093" lon="9.8084606"/>
  <node id="7979844358" visible="true" version="1" changeset="92023537" timestamp="2020-10-06T06:40:37Z" user="tdovera" uid="1694801" lat="45.2436507" lon="9.8085035"/>
  <node id="7979844359" visible="true" version="1" changeset="92023537" timestamp="2020-10-06T06:40:37Z" user="tdovera" uid="1694801" lat="45.2436300" lon="9.8084391"/>
- <way id="83422167" visible="true" version="11" changeset="69344870" timestamp="2019-04-18T13:27:08Z" user="kmarjbh" uid="9310279">
+ <node id="8176707025" visible="true" version="1" changeset="94991437" timestamp="2020-11-29T16:59:52Z" user="dega180" uid="454306" lat="45.2522964" lon="9.7706262"/>
+ <way id="83422167" visible="true" version="12" changeset="94991437" timestamp="2020-11-29T16:59:52Z" user="dega180" uid="454306">
   <nd ref="971085530"/>
   <nd ref="971085488"/>
   <nd ref="971085537"/>
@@ -2542,6 +2543,7 @@
   <nd ref="1083268760"/>
   <nd ref="1083269788"/>
   <nd ref="1083270847"/>
+  <nd ref="8176707025"/>
   <nd ref="1083269246"/>
   <nd ref="2410927807"/>
   <nd ref="1083269918"/>

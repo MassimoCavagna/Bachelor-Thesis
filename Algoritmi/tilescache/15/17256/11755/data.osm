@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (864984 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3858488 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2439534" minlon="9.5800781" maxlat="45.2516883" maxlon="9.5910645"/>
  <node id="662929171" visible="true" version="3" changeset="60871398" timestamp="2018-07-19T12:58:20Z" user="fedc" uid="602784" lat="45.2512048" lon="9.5788191"/>
  <node id="662929172" visible="true" version="3" changeset="60871398" timestamp="2018-07-19T12:58:20Z" user="fedc" uid="602784" lat="45.2513101" lon="9.5794633"/>
@@ -1452,6 +1452,7 @@
  <node id="7258433909" visible="true" version="1" changeset="81690310" timestamp="2020-03-02T16:56:19Z" user="mcheck" uid="478872" lat="45.2502750" lon="9.5818700"/>
  <node id="7258433929" visible="true" version="1" changeset="81690310" timestamp="2020-03-02T16:56:19Z" user="mcheck" uid="478872" lat="45.2513390" lon="9.5814625"/>
  <node id="7258433955" visible="true" version="1" changeset="81690310" timestamp="2020-03-02T16:56:19Z" user="mcheck" uid="478872" lat="45.2514053" lon="9.5805004"/>
+ <node id="8040950451" visible="true" version="1" changeset="92972420" timestamp="2020-10-23T21:33:46Z" user="fedc" uid="602784" lat="45.1969478" lon="9.6427266"/>
  <way id="128605369" visible="true" version="1" changeset="9191105" timestamp="2011-09-02T08:27:51Z" user="jack_g" uid="452123">
   <nd ref="1420746268"/>
   <nd ref="1420746321"/>
@@ -1557,7 +1558,7 @@
   <tag k="name:right" v="Mairago"/>
   <tag k="source" v="Based on Confini Amministrativi 2012 by Regione Lombardia"/>
  </way>
- <way id="450027323" visible="true" version="6" changeset="77599297" timestamp="2019-11-26T23:09:57Z" user="fedc" uid="602784">
+ <way id="450027323" visible="true" version="7" changeset="92972420" timestamp="2020-10-23T21:33:46Z" user="fedc" uid="602784">
   <nd ref="4469459222"/>
   <nd ref="4469459223"/>
   <nd ref="4469459224"/>
@@ -2029,6 +2030,7 @@
   <nd ref="1140932034"/>
   <nd ref="1140914024"/>
   <nd ref="1140913757"/>
+  <nd ref="8040950451"/>
   <nd ref="1140913550"/>
   <nd ref="1140913703"/>
   <nd ref="1140914406"/>
@@ -2733,7 +2735,7 @@
   <tag k="landuse" v="residential"/>
   <tag k="type" v="multipolygon"/>
  </relation>
- <relation id="10340679" visible="true" version="7" changeset="77599711" timestamp="2019-11-26T23:37:01Z" user="fedc" uid="602784">
+ <relation id="10340679" visible="true" version="8" changeset="93686198" timestamp="2020-11-06T21:46:59Z" user="dega180" uid="454306">
   <member type="way" ref="448895542" role=""/>
   <member type="way" ref="312513363" role=""/>
   <member type="way" ref="83808788" role=""/>
@@ -2776,6 +2778,10 @@
   <member type="way" ref="449460561" role=""/>
   <member type="way" ref="485688131" role=""/>
   <member type="way" ref="706196935" role=""/>
+  <member type="way" ref="867863841" role=""/>
+  <member type="way" ref="867863840" role=""/>
+  <member type="way" ref="867863836" role=""/>
+  <member type="way" ref="867863835" role=""/>
   <member type="way" ref="386762173" role=""/>
   <member type="way" ref="749946788" role=""/>
   <tag k="name" v="Roggia Codogna"/>

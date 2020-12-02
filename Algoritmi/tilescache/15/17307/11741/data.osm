@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3930316 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3440695 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3521452" minlon="10.1403809" maxlat="45.3598653" maxlon="10.1513672"/>
  <node id="227928816" visible="true" version="6" changeset="89340131" timestamp="2020-08-13T07:26:48Z" user="LuSirto" uid="506470" lat="45.3586968" lon="10.1444552">
   <tag k="amenity" v="fuel"/>
@@ -5278,5 +5278,53 @@
   <member type="way" ref="370027608" role="to"/>
   <tag k="restriction" v="only_straight_on"/>
   <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="11818519" visible="true" version="2" changeset="93354268" timestamp="2020-10-31T22:33:22Z" user="Moliva" uid="107039">
+  <member type="way" ref="58555601" role=""/>
+  <member type="way" ref="85591526" role=""/>
+  <member type="way" ref="58556599" role=""/>
+  <member type="way" ref="58556597" role=""/>
+  <member type="way" ref="58556594" role=""/>
+  <member type="way" ref="58555595" role=""/>
+  <member type="way" ref="58555581" role=""/>
+  <member type="way" ref="101997399" role=""/>
+  <member type="way" ref="58555587" role=""/>
+  <member type="way" ref="58555591" role=""/>
+  <member type="way" ref="99468541" role=""/>
+  <member type="way" ref="99468540" role=""/>
+  <member type="way" ref="58555586" role=""/>
+  <member type="way" ref="339392118" role=""/>
+  <member type="way" ref="339392119" role=""/>
+  <member type="way" ref="58555583" role=""/>
+  <member type="way" ref="58555584" role=""/>
+  <member type="way" ref="58704004" role=""/>
+  <member type="way" ref="288306021" role=""/>
+  <member type="way" ref="288306020" role=""/>
+  <member type="way" ref="288305713" role=""/>
+  <member type="way" ref="288305712" role=""/>
+  <member type="way" ref="58704011" role=""/>
+  <member type="way" ref="288305137" role=""/>
+  <member type="way" ref="288305138" role=""/>
+  <member type="way" ref="59225117" role=""/>
+  <member type="way" ref="59225115" role=""/>
+  <member type="way" ref="58555599" role=""/>
+  <member type="way" ref="66945913" role=""/>
+  <member type="way" ref="58555598" role=""/>
+  <member type="way" ref="58555589" role=""/>
+  <member type="way" ref="58555590" role=""/>
+  <member type="way" ref="58555588" role=""/>
+  <member type="way" ref="59225114" role=""/>
+  <member type="way" ref="59225121" role=""/>
+  <member type="way" ref="59225118" role=""/>
+  <member type="way" ref="59225119" role=""/>
+  <member type="way" ref="59225116" role=""/>
+  <member type="way" ref="58704010" role=""/>
+  <member type="way" ref="58704007" role=""/>
+  <member type="way" ref="59225120" role=""/>
+  <tag k="alt_name" v="Garza"/>
+  <tag k="name" v="Molone"/>
+  <tag k="old_name" v="Garza"/>
+  <tag k="type" v="waterway"/>
+  <tag k="wikipedia" v="it:Garza (torrente)"/>
  </relation>
 </osm>

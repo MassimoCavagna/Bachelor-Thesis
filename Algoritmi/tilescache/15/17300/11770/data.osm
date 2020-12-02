@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3583211 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3887259 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1278045" minlon="10.0634766" maxlat="45.1355552" maxlon="10.0744629"/>
  <node id="262342416" visible="true" version="9" changeset="86142887" timestamp="2020-06-03T15:12:10Z" user="Anonix35" uid="2362150" lat="45.1303800" lon="10.0669523"/>
  <node id="262342431" visible="true" version="8" changeset="86140680" timestamp="2020-06-03T14:10:21Z" user="Anonix35" uid="2362150" lat="45.1154506" lon="10.0574341"/>
@@ -458,6 +458,13 @@
  <node id="7589803290" visible="true" version="1" changeset="86142887" timestamp="2020-06-03T15:12:10Z" user="Anonix35" uid="2362150" lat="45.1291973" lon="10.0662830"/>
  <node id="7589803291" visible="true" version="1" changeset="86142887" timestamp="2020-06-03T15:12:10Z" user="Anonix35" uid="2362150" lat="45.1319324" lon="10.0681153"/>
  <node id="7589803292" visible="true" version="1" changeset="86142887" timestamp="2020-06-03T15:12:10Z" user="Anonix35" uid="2362150" lat="45.1320115" lon="10.0678778"/>
+ <node id="8134256315" visible="true" version="1" changeset="94346689" timestamp="2020-11-18T09:32:37Z" user="AlessioZappa" uid="12186632" lat="45.1350356" lon="10.0721685"/>
+ <node id="8134259923" visible="true" version="1" changeset="94346689" timestamp="2020-11-18T09:32:37Z" user="AlessioZappa" uid="12186632" lat="45.1392640" lon="10.0733717"/>
+ <node id="8134259924" visible="true" version="1" changeset="94346689" timestamp="2020-11-18T09:32:37Z" user="AlessioZappa" uid="12186632" lat="45.1357911" lon="10.0727547"/>
+ <node id="8134259925" visible="true" version="1" changeset="94346689" timestamp="2020-11-18T09:32:37Z" user="AlessioZappa" uid="12186632" lat="45.1354063" lon="10.0724000"/>
+ <node id="8134259926" visible="true" version="1" changeset="94346689" timestamp="2020-11-18T09:32:37Z" user="AlessioZappa" uid="12186632" lat="45.1362335" lon="10.0729780"/>
+ <node id="8134259927" visible="true" version="1" changeset="94346689" timestamp="2020-11-18T09:32:37Z" user="AlessioZappa" uid="12186632" lat="45.1375820" lon="10.0732169"/>
+ <node id="8134259928" visible="true" version="1" changeset="94346689" timestamp="2020-11-18T09:32:37Z" user="AlessioZappa" uid="12186632" lat="45.1368634" lon="10.0731267"/>
  <way id="33073509" visible="true" version="13" changeset="71414739" timestamp="2019-06-19T19:45:33Z" user="fedc" uid="602784">
   <nd ref="373123452"/>
   <nd ref="373123456"/>
@@ -1301,6 +1308,31 @@
   <tag k="ref" v="SP27"/>
   <tag k="surface" v="asphalt"/>
  </way>
+ <way id="873453307" visible="true" version="1" changeset="94346689" timestamp="2020-11-18T09:32:37Z" user="AlessioZappa" uid="12186632">
+  <nd ref="5323619364"/>
+  <nd ref="8134256315"/>
+  <tag k="bicycle" v="designated"/>
+  <tag k="foot" v="designated"/>
+  <tag k="highway" v="cycleway"/>
+ </way>
+ <way id="873453308" visible="true" version="1" changeset="94346689" timestamp="2020-11-18T09:32:37Z" user="AlessioZappa" uid="12186632">
+  <nd ref="8134256315"/>
+  <nd ref="8134259925"/>
+  <nd ref="8134259924"/>
+  <nd ref="8134259926"/>
+  <nd ref="8134259928"/>
+  <nd ref="8134259927"/>
+  <nd ref="8134259923"/>
+  <tag k="bicycle" v="designated"/>
+  <tag k="bridge" v="yes"/>
+  <tag k="foot" v="designated"/>
+  <tag k="highway" v="cycleway"/>
+  <tag k="layer" v="1"/>
+  <tag k="name" v="Ciclabile 10 biciplan"/>
+  <tag k="oneway" v="no"/>
+  <tag k="segregated" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
  <relation id="27057" visible="true" version="2783" changeset="64592950" timestamp="2018-11-17T10:48:38Z" user="aytfadc" uid="58255">
   <member type="relation" ref="3922855" role=""/>
   <member type="relation" ref="2195442" role=""/>
@@ -1331,7 +1363,7 @@
   <tag k="wikidata" v="Q741488"/>
   <tag k="wikipedia" v="en:European route E70"/>
  </relation>
- <relation id="375396" visible="true" version="73" changeset="82021122" timestamp="2020-03-10T19:27:27Z" user="Андрей Клопов" uid="3375889">
+ <relation id="375396" visible="true" version="74" changeset="93259382" timestamp="2020-10-29T22:41:41Z" user="nick1993" uid="3335735">
   <member type="way" ref="25904545" role=""/>
   <member type="way" ref="58267628" role=""/>
   <member type="way" ref="58267623" role=""/>
@@ -1473,6 +1505,10 @@
   <member type="way" ref="86216954" role=""/>
   <member type="way" ref="86216942" role=""/>
   <member type="way" ref="86216964" role=""/>
+  <member type="way" ref="865168978" role=""/>
+  <member type="way" ref="865168977" role=""/>
+  <member type="way" ref="865168970" role=""/>
+  <member type="way" ref="865168969" role=""/>
   <member type="way" ref="38453827" role=""/>
   <member type="way" ref="38453828" role=""/>
   <member type="way" ref="582236902" role=""/>
@@ -1487,6 +1523,10 @@
   <member type="way" ref="582236894" role=""/>
   <member type="way" ref="38453815" role=""/>
   <member type="way" ref="38453824" role=""/>
+  <member type="way" ref="865168967" role=""/>
+  <member type="way" ref="865168968" role=""/>
+  <member type="way" ref="865168975" role=""/>
+  <member type="way" ref="865168976" role=""/>
   <member type="way" ref="38453825" role=""/>
   <member type="way" ref="86216952" role=""/>
   <member type="way" ref="86216957" role=""/>
@@ -2028,7 +2068,7 @@
   <tag k="restriction" v="only_straight_on"/>
   <tag k="type" v="restriction"/>
  </relation>
- <relation id="6088003" visible="true" version="77" changeset="91757597" timestamp="2020-09-30T09:28:36Z" user="fabioavi" uid="3555583">
+ <relation id="6088003" visible="true" version="78" changeset="93132807" timestamp="2020-10-27T16:31:26Z" user="Tresho" uid="6178157">
   <member type="node" ref="6083599362" role="stop"/>
   <member type="node" ref="527958074" role="platform"/>
   <member type="node" ref="4238802393" role="platform"/>
@@ -2514,6 +2554,8 @@
   <member type="way" ref="24217338" role=""/>
   <member type="way" ref="24217340" role=""/>
   <member type="way" ref="186942090" role=""/>
+  <member type="way" ref="864206667" role=""/>
+  <member type="way" ref="864206668" role=""/>
   <member type="way" ref="410100936" role=""/>
   <member type="way" ref="23963891" role=""/>
   <member type="way" ref="23963965" role=""/>
@@ -2963,7 +3005,7 @@
   <tag k="restriction" v="only_straight_on"/>
   <tag k="type" v="restriction"/>
  </relation>
- <relation id="9039031" visible="true" version="76" changeset="92848366" timestamp="2020-10-21T18:05:35Z" user="laser82" uid="1060356">
+ <relation id="9039031" visible="true" version="80" changeset="94058449" timestamp="2020-11-13T11:34:17Z" user="sovereign_ch" uid="5755216">
   <member type="node" ref="1799420570" role="stop"/>
   <member type="node" ref="4318833054" role="platform"/>
   <member type="node" ref="6658728073" role="stop"/>
@@ -3039,6 +3081,7 @@
   <member type="way" ref="47948740" role=""/>
   <member type="way" ref="640103112" role=""/>
   <member type="way" ref="48386458" role=""/>
+  <member type="way" ref="870738523" role=""/>
   <member type="way" ref="119452773" role=""/>
   <member type="way" ref="46947058" role=""/>
   <member type="way" ref="163937075" role=""/>
@@ -3334,13 +3377,15 @@
   <member type="way" ref="24163228" role=""/>
   <member type="way" ref="24401923" role=""/>
   <member type="way" ref="80176715" role=""/>
+  <member type="way" ref="863860016" role=""/>
   <member type="way" ref="115346638" role=""/>
   <member type="way" ref="13228064" role=""/>
   <member type="way" ref="238407747" role=""/>
   <member type="way" ref="304746770" role=""/>
+  <member type="way" ref="863860019" role=""/>
   <member type="way" ref="238769558" role=""/>
   <member type="way" ref="554083404" role=""/>
-  <member type="way" ref="138038774" role=""/>
+  <member type="way" ref="864949276" role=""/>
   <member type="way" ref="39821048" role=""/>
   <member type="way" ref="238343350" role=""/>
   <member type="way" ref="26290883" role=""/>

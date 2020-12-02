@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3583218 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441951 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.1975223" minlon="9.7448730" maxlat="45.2052635" maxlon="9.7558594"/>
  <node id="1331582122" visible="true" version="1" changeset="8489917" timestamp="2011-06-19T22:36:40Z" user="BiKike" uid="414640" lat="45.2023874" lon="9.7561889"/>
  <node id="1331582166" visible="true" version="1" changeset="8489917" timestamp="2011-06-19T22:36:40Z" user="BiKike" uid="414640" lat="45.2059560" lon="9.7345558"/>
@@ -1496,6 +1496,10 @@
  <node id="7275012750" visible="true" version="1" changeset="81908456" timestamp="2020-03-07T20:07:30Z" user="Aury88" uid="579545" lat="45.1968381" lon="9.7432959"/>
  <node id="7275012751" visible="true" version="1" changeset="81908456" timestamp="2020-03-07T20:07:30Z" user="Aury88" uid="579545" lat="45.1968041" lon="9.7432262"/>
  <node id="7275012752" visible="true" version="1" changeset="81908456" timestamp="2020-03-07T20:07:30Z" user="Aury88" uid="579545" lat="45.1963920" lon="9.7434515"/>
+ <node id="8165135329" visible="true" version="1" changeset="94788178" timestamp="2020-11-25T16:34:50Z" user="Antani78" uid="12237656" lat="45.2031742" lon="9.7490875">
+  <tag k="name" v="Cascina Castellina"/>
+  <tag k="place" v="farm"/>
+ </node>
  <way id="118395160" visible="true" version="7" changeset="81049392" timestamp="2020-02-15T17:21:38Z" user="Alecs01" uid="1476146">
   <nd ref="7022442624"/>
   <nd ref="7022442625"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2320392 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3440835 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2594220" minlon="9.9426270" maxlat="45.2671548" maxlon="9.9536133"/>
  <node id="336499327" visible="true" version="6" changeset="835319" timestamp="2009-01-25T18:42:16Z" user="Diego Guidotti" uid="1700" lat="45.2584553" lon="9.9521654"/>
  <node id="336499334" visible="true" version="1" changeset="835319" timestamp="2009-01-25T18:27:32Z" user="Diego Guidotti" uid="1700" lat="45.2581049" lon="9.9598901"/>
@@ -28,7 +28,6 @@
  <node id="336508689" visible="true" version="1" changeset="835319" timestamp="2009-01-25T18:42:14Z" user="Diego Guidotti" uid="1700" lat="45.2627568" lon="9.9445264"/>
  <node id="336508695" visible="true" version="1" changeset="835319" timestamp="2009-01-25T18:42:14Z" user="Diego Guidotti" uid="1700" lat="45.2611256" lon="9.9471614"/>
  <node id="451752894" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:04Z" user="wiso" uid="30891" lat="45.2562924" lon="9.9590454"/>
- <node id="451752899" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:04Z" user="wiso" uid="30891" lat="45.2580476" lon="9.9524259"/>
  <node id="451752901" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:04Z" user="wiso" uid="30891" lat="45.2568437" lon="9.9568851"/>
  <node id="451752902" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:04Z" user="wiso" uid="30891" lat="45.2589477" lon="9.9491814"/>
  <node id="451752910" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:05Z" user="wiso" uid="30891" lat="45.2563280" lon="9.9589115"/>
@@ -47,7 +46,9 @@
  <node id="451752921" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:05Z" user="wiso" uid="30891" lat="45.2630538" lon="9.9339689"/>
  <node id="451752922" visible="true" version="2" changeset="42740876" timestamp="2016-10-08T19:26:44Z" user="fedc" uid="602784" lat="45.2755543" lon="9.8871978"/>
  <node id="451752925" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:06Z" user="wiso" uid="30891" lat="45.2716408" lon="9.9020513"/>
- <node id="451752926" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:06Z" user="wiso" uid="30891" lat="45.2737727" lon="9.8939643"/>
+ <node id="451752926" visible="true" version="2" changeset="94990331" timestamp="2020-11-29T16:29:39Z" user="dega180" uid="454306" lat="45.2737773" lon="9.8939474">
+  <tag k="railway" v="level_crossing"/>
+ </node>
  <node id="451752927" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:06Z" user="wiso" uid="30891" lat="45.2618545" lon="9.9384406"/>
  <node id="451752929" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:06Z" user="wiso" uid="30891" lat="45.2673621" lon="9.9181483"/>
  <node id="451752930" visible="true" version="1" changeset="1984871" timestamp="2009-07-30T13:58:06Z" user="wiso" uid="30891" lat="45.2675499" lon="9.9174571"/>
@@ -388,7 +389,7 @@
  <node id="1043783237" visible="true" version="2" changeset="16570097" timestamp="2013-06-16T00:40:54Z" user="mcheckimport" uid="893327" lat="45.2665448" lon="9.9210685">
   <tag k="railway" v="crossing"/>
  </node>
- <node id="1189394368" visible="true" version="2" changeset="20382322" timestamp="2014-02-04T22:17:21Z" user="Luca Mina" uid="1257620" lat="45.2580663" lon="9.9524762">
+ <node id="1189394368" visible="true" version="3" changeset="94990098" timestamp="2020-11-29T16:23:18Z" user="dega180" uid="454306" lat="45.2580924" lon="9.9524751">
   <tag k="railway" v="level_crossing"/>
  </node>
  <node id="1225639776" visible="true" version="1" changeset="7718875" timestamp="2011-03-30T18:13:09Z" user="ilrobi" uid="22110" lat="45.2645680" lon="9.9284200">
@@ -1219,7 +1220,7 @@
   <tag k="ref" v="21.363"/>
   <tag k="voltage" v="380000"/>
  </way>
- <way id="446571510" visible="true" version="4" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
+ <way id="446571510" visible="true" version="5" changeset="94990098" timestamp="2020-11-29T16:23:18Z" user="dega180" uid="454306">
   <nd ref="4438153744"/>
   <nd ref="4438153735"/>
   <nd ref="4438153736"/>
@@ -1247,7 +1248,7 @@
   <nd ref="451752932"/>
   <nd ref="451752914"/>
   <nd ref="451752902"/>
-  <nd ref="451752899"/>
+  <nd ref="1189394368"/>
   <nd ref="451752918"/>
   <nd ref="451752901"/>
   <nd ref="451752910"/>
@@ -1380,7 +1381,7 @@
   <tag k="segregated" v="yes"/>
   <tag k="surface" v="compacted"/>
  </way>
- <relation id="183626" visible="true" version="56" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
+ <relation id="183626" visible="true" version="57" changeset="92894016" timestamp="2020-10-22T11:47:39Z" user="Mannivu" uid="1950277">
   <member type="way" ref="38289883" role=""/>
   <member type="way" ref="38289882" role=""/>
   <member type="way" ref="596450377" role=""/>
@@ -1432,19 +1433,20 @@
   <tag k="route" v="railway"/>
   <tag k="type" v="route"/>
   <tag k="wikidata" v="Q803335"/>
+  <tag k="wikimedia_commons" v="Category:Treviglio–Cremona railway"/>
   <tag k="wikipedia" v="it:Ferrovia Treviglio-Cremona"/>
  </relation>
- <relation id="2250847" visible="true" version="32" changeset="92791116" timestamp="2020-10-20T21:11:24Z" user="fedc" uid="602784">
+ <relation id="2250847" visible="true" version="34" changeset="94975453" timestamp="2020-11-29T08:40:06Z" user="AlessioZappa" uid="12186632">
   <member type="way" ref="113678704" role=""/>
   <member type="way" ref="126701315" role=""/>
   <member type="way" ref="126701313" role=""/>
   <member type="way" ref="557365070" role="backward"/>
   <member type="way" ref="557365069" role=""/>
   <member type="way" ref="126701303" role=""/>
-  <member type="way" ref="576978580" role=""/>
-  <member type="way" ref="576978578" role="forward"/>
-  <member type="way" ref="619115096" role="forward"/>
-  <member type="way" ref="619115097" role="backward"/>
+  <member type="way" ref="200665209" role=""/>
+  <member type="way" ref="72217879" role=""/>
+  <member type="way" ref="625057210" role=""/>
+  <member type="way" ref="576978575" role=""/>
   <member type="way" ref="168716011" role=""/>
   <member type="way" ref="168716012" role=""/>
   <member type="way" ref="560510016" role=""/>
@@ -1514,7 +1516,6 @@
   <member type="way" ref="184472631" role="forward"/>
   <member type="way" ref="184472629" role="forward"/>
   <member type="way" ref="184472633" role="forward"/>
-  <member type="way" ref="557365071" role="forward"/>
   <member type="way" ref="27541538" role=""/>
   <member type="way" ref="27541534" role=""/>
   <member type="way" ref="197898591" role=""/>
@@ -1522,15 +1523,13 @@
   <member type="way" ref="168963193" role=""/>
   <member type="way" ref="168968056" role=""/>
   <member type="way" ref="618892725" role=""/>
-  <member type="way" ref="619115098" role=""/>
-  <member type="way" ref="576978575" role=""/>
-  <member type="way" ref="71753117" role=""/>
-  <member type="way" ref="126706431" role=""/>
-  <member type="way" ref="352376795" role=""/>
-  <member type="way" ref="126705915" role=""/>
-  <member type="way" ref="126705912" role=""/>
-  <member type="way" ref="837612967" role=""/>
   <member type="way" ref="126705918" role=""/>
+  <member type="way" ref="837612967" role=""/>
+  <member type="way" ref="126705912" role=""/>
+  <member type="way" ref="126705915" role=""/>
+  <member type="way" ref="352376795" role=""/>
+  <member type="way" ref="126706431" role=""/>
+  <member type="way" ref="71753117" role=""/>
   <member type="way" ref="249617403" role=""/>
   <member type="way" ref="549605532" role="forward"/>
   <member type="way" ref="577680963" role="backward"/>

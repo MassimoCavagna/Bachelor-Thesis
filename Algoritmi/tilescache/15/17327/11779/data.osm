@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991877 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3160027 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.0580014" minlon="10.3601074" maxlat="45.0657615" maxlon="10.3710938"/>
  <node id="307038358" visible="true" version="4" changeset="28648100" timestamp="2015-02-06T10:29:19Z" user="Pyknite" uid="193512" lat="45.0454325" lon="10.3607851"/>
  <node id="307045065" visible="true" version="3" changeset="28646808" timestamp="2015-02-06T09:04:39Z" user="Pyknite" uid="193512" lat="45.1076827" lon="10.3663978"/>
@@ -1069,6 +1069,9 @@
  <node id="7994964315" visible="true" version="1" changeset="92275974" timestamp="2020-10-10T13:36:29Z" user="dega180" uid="454306" lat="45.0621720" lon="10.3656059"/>
  <node id="7994964316" visible="true" version="1" changeset="92275974" timestamp="2020-10-10T13:36:29Z" user="dega180" uid="454306" lat="45.0620850" lon="10.3656274"/>
  <node id="8033504097" visible="true" version="1" changeset="92854157" timestamp="2020-10-21T20:53:57Z" user="MinerMax555" uid="8829660" lat="45.0494548" lon="10.5312122"/>
+ <node id="8043235287" visible="true" version="1" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306" lat="45.0587088" lon="10.5072512"/>
+ <node id="8043235294" visible="true" version="1" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306" lat="45.0535181" lon="10.5183361"/>
+ <node id="8043235295" visible="true" version="1" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306" lat="45.0539882" lon="10.5227882"/>
  <way id="103182558" visible="true" version="3" changeset="92275974" timestamp="2020-10-10T13:36:29Z" user="dega180" uid="454306">
   <nd ref="1191351733"/>
   <nd ref="1191351944"/>
@@ -1467,7 +1470,7 @@
   <tag k="boundary" v="administrative"/>
   <tag k="source" v="Based on confini amministrativi 2013 by Regione Lombardia"/>
  </way>
- <way id="531414890" visible="true" version="2" changeset="92854157" timestamp="2020-10-21T20:53:57Z" user="MinerMax555" uid="8829660">
+ <way id="531414890" visible="true" version="3" changeset="93002310" timestamp="2020-10-24T23:07:29Z" user="dega180" uid="454306">
   <nd ref="5158634747"/>
   <nd ref="796819157"/>
   <nd ref="796819370"/>
@@ -1651,6 +1654,7 @@
   <nd ref="900741157"/>
   <nd ref="900741120"/>
   <nd ref="900741110"/>
+  <nd ref="8043235287"/>
   <nd ref="900741064"/>
   <nd ref="900741050"/>
   <nd ref="900741148"/>
@@ -1667,6 +1671,7 @@
   <nd ref="900741171"/>
   <nd ref="900741132"/>
   <nd ref="900741122"/>
+  <nd ref="8043235294"/>
   <nd ref="900741083"/>
   <nd ref="900741066"/>
   <nd ref="900741163"/>
@@ -1675,6 +1680,7 @@
   <nd ref="900741114"/>
   <nd ref="900741070"/>
   <nd ref="900741053"/>
+  <nd ref="8043235295"/>
   <nd ref="900741151"/>
   <nd ref="900741141"/>
   <nd ref="900741154"/>

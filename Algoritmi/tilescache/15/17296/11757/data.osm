@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2320392 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3439779 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2284806" minlon="10.0195312" maxlat="45.2362175" maxlon="10.0305176"/>
  <node id="62511891" visible="true" version="1" changeset="85182" timestamp="2007-10-10T06:22:13Z" user="Niccolo" uid="864" lat="45.2358730" lon="10.0222700">
   <tag k="created_by" v="JOSM"/>
@@ -847,7 +847,7 @@
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
   <tag k="width" v="6"/>
  </way>
- <way id="69740728" visible="true" version="2" changeset="27874157" timestamp="2015-01-02T21:37:20Z" user="kaitu" uid="69717">
+ <way id="69740728" visible="true" version="3" changeset="94255585" timestamp="2020-11-17T08:15:26Z" user="Edward" uid="364">
   <nd ref="834186699"/>
   <nd ref="834186299"/>
   <nd ref="834186199"/>
@@ -862,6 +862,7 @@
   <tag k="name" v="San Giovanni Battista"/>
   <tag k="religion" v="christian"/>
   <tag k="source" v="PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"/>
+  <tag k="wikidata" v="Q25350047"/>
  </way>
  <way id="69740729" visible="true" version="1" changeset="5322432" timestamp="2010-07-26T16:35:20Z" user="Moliva" uid="107039">
   <nd ref="834186295"/>
@@ -1406,7 +1407,7 @@
   <tag k="wikidata" v="Q42405"/>
   <tag k="wikipedia" v="it:Olmeneta"/>
  </relation>
- <relation id="183626" visible="true" version="56" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">
+ <relation id="183626" visible="true" version="57" changeset="92894016" timestamp="2020-10-22T11:47:39Z" user="Mannivu" uid="1950277">
   <member type="way" ref="38289883" role=""/>
   <member type="way" ref="38289882" role=""/>
   <member type="way" ref="596450377" role=""/>
@@ -1458,6 +1459,7 @@
   <tag k="route" v="railway"/>
   <tag k="type" v="route"/>
   <tag k="wikidata" v="Q803335"/>
+  <tag k="wikimedia_commons" v="Category:Treviglio–Cremona railway"/>
   <tag k="wikipedia" v="it:Ferrovia Treviglio-Cremona"/>
  </relation>
  <relation id="8400077" visible="true" version="10" changeset="75455816" timestamp="2019-10-09T11:18:40Z" user="astraspera" uid="2653653">

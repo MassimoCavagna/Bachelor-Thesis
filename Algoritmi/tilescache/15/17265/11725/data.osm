@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2771650 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3160033 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4755403" minlon="9.6789551" maxlat="45.4832435" maxlon="9.6899414"/>
  <node id="62507029" visible="true" version="1" changeset="85182" timestamp="2007-10-10T06:18:41Z" user="Niccolo" uid="864" lat="45.4760760" lon="9.6892580">
   <tag k="created_by" v="JOSM"/>
@@ -383,7 +383,6 @@
  <node id="1790059715" visible="true" version="1" changeset="11915264" timestamp="2012-06-16T15:26:23Z" user="Luca Vetturi" uid="307829" lat="45.4929239" lon="9.6869639"/>
  <node id="1790059722" visible="true" version="1" changeset="11915264" timestamp="2012-06-16T15:26:24Z" user="Luca Vetturi" uid="307829" lat="45.4914648" lon="9.6876023"/>
  <node id="1790059725" visible="true" version="1" changeset="11915264" timestamp="2012-06-16T15:26:24Z" user="Luca Vetturi" uid="307829" lat="45.4981548" lon="9.6792829"/>
- <node id="1790059730" visible="true" version="1" changeset="11915264" timestamp="2012-06-16T15:26:24Z" user="Luca Vetturi" uid="307829" lat="45.4998430" lon="9.6766543"/>
  <node id="1790059733" visible="true" version="1" changeset="11915264" timestamp="2012-06-16T15:26:24Z" user="Luca Vetturi" uid="307829" lat="45.4977863" lon="9.6791970"/>
  <node id="1790059734" visible="true" version="1" changeset="11915264" timestamp="2012-06-16T15:26:24Z" user="Luca Vetturi" uid="307829" lat="45.4927171" lon="9.6873770"/>
  <node id="1790059735" visible="true" version="1" changeset="11915264" timestamp="2012-06-16T15:26:24Z" user="Luca Vetturi" uid="307829" lat="45.4993542" lon="9.6778667"/>
@@ -701,6 +700,8 @@
  <node id="3895165762" visible="true" version="1" changeset="35989805" timestamp="2015-12-16T14:33:22Z" user="Taurus77" uid="2044340" lat="45.4774850" lon="9.6852786"/>
  <node id="3895165763" visible="true" version="1" changeset="35989805" timestamp="2015-12-16T14:33:27Z" user="Taurus77" uid="2044340" lat="45.4784042" lon="9.6850055"/>
  <node id="3895165764" visible="true" version="1" changeset="35989805" timestamp="2015-12-16T14:33:27Z" user="Taurus77" uid="2044340" lat="45.4784595" lon="9.6853154"/>
+ <node id="4463657109" visible="true" version="2" changeset="94464913" timestamp="2020-11-19T23:15:43Z" user="dega180" uid="454306" lat="45.4994200" lon="9.6777708"/>
+ <node id="4463657156" visible="true" version="1" changeset="43164986" timestamp="2016-10-25T16:46:58Z" user="Ale_Zena_IT" uid="22290" lat="45.4998420" lon="9.6765528"/>
  <node id="4510153920" visible="true" version="4" changeset="74491743" timestamp="2019-09-15T09:43:51Z" user="Mannivu" uid="1950277" lat="45.4816131" lon="9.6847968"/>
  <node id="4510153922" visible="true" version="4" changeset="74491743" timestamp="2019-09-15T09:43:51Z" user="Mannivu" uid="1950277" lat="45.4818074" lon="9.6845259"/>
  <node id="4510153923" visible="true" version="3" changeset="65910622" timestamp="2018-12-31T13:20:44Z" user="Mannivu" uid="1950277" lat="45.4819868" lon="9.6844565"/>
@@ -1917,10 +1918,11 @@
   <tag k="highway" v="residential"/>
   <tag k="name" v="Via Toscanini"/>
  </way>
- <way id="167628311" visible="true" version="5" changeset="74491743" timestamp="2019-09-15T09:43:51Z" user="Mannivu" uid="1950277">
-  <nd ref="1790059730"/>
+ <way id="167628311" visible="true" version="6" changeset="94464913" timestamp="2020-11-19T23:15:43Z" user="dega180" uid="454306">
+  <nd ref="4463657156"/>
   <nd ref="1790059749"/>
   <nd ref="1790059711"/>
+  <nd ref="4463657109"/>
   <nd ref="1790059735"/>
   <nd ref="1790059745"/>
   <nd ref="1790059739"/>
@@ -3556,7 +3558,7 @@
   <tag k="wikidata" v="Q101077"/>
   <tag k="wikipedia" v="it:Fornovo San Giovanni"/>
  </relation>
- <relation id="6782208" visible="true" version="46" changeset="91841154" timestamp="2020-10-01T18:20:37Z" user="Mannivu" uid="1950277">
+ <relation id="6782208" visible="true" version="47" changeset="94501093" timestamp="2020-11-20T12:30:53Z" user="dega180" uid="454306">
   <member type="way" ref="285591085" role=""/>
   <member type="way" ref="256114733" role=""/>
   <member type="way" ref="172687416" role=""/>
@@ -3607,6 +3609,8 @@
   <member type="way" ref="117060295" role=""/>
   <member type="way" ref="356987209" role=""/>
   <member type="way" ref="297000423" role=""/>
+  <member type="way" ref="875135684" role=""/>
+  <member type="way" ref="875135683" role=""/>
   <member type="way" ref="458684860" role=""/>
   <member type="way" ref="298298832" role=""/>
   <member type="way" ref="458684859" role=""/>

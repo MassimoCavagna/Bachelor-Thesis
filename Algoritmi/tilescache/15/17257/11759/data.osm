@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1991863 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3440835 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2130036" minlon="9.5910645" maxlat="45.2207426" maxlon="9.6020508"/>
  <node id="252586014" visible="true" version="9" changeset="28658643" timestamp="2015-02-06T21:00:24Z" user="Alecs01" uid="1476146" lat="45.2337446" lon="9.5759401"/>
  <node id="252586015" visible="true" version="8" changeset="28658643" timestamp="2015-02-06T20:55:23Z" user="Alecs01" uid="1476146" lat="45.2215554" lon="9.5886442"/>
@@ -2310,7 +2310,7 @@
   <tag k="wikidata" v="Q802777"/>
   <tag k="wikipedia" v="it:Ferrovia Milano-Bologna"/>
  </relation>
- <relation id="7481564" visible="true" version="16" changeset="89583185" timestamp="2020-08-18T15:15:54Z" user="fedc" uid="602784">
+ <relation id="7481564" visible="true" version="19" changeset="93982250" timestamp="2020-11-12T09:28:19Z" user="PaoloRE1981" uid="821025">
   <member type="way" ref="326805437" role=""/>
   <member type="way" ref="326802920" role=""/>
   <member type="way" ref="326802923" role=""/>
@@ -2377,14 +2377,18 @@
   <member type="way" ref="265863757" role=""/>
   <member type="way" ref="265863756" role=""/>
   <member type="way" ref="199800266" role=""/>
+  <member type="way" ref="870707648" role=""/>
+  <member type="way" ref="870707647" role=""/>
   <member type="way" ref="199800265" role=""/>
   <member type="way" ref="199800267" role=""/>
   <member type="way" ref="199800264" role=""/>
   <member type="way" ref="222042807" role=""/>
   <member type="way" ref="222042800" role=""/>
-  <member type="way" ref="70259702" role=""/>
-  <member type="way" ref="70259692" role=""/>
   <member type="way" ref="339151065" role=""/>
+  <member type="way" ref="70259692" role=""/>
+  <member type="way" ref="870710203" role=""/>
+  <member type="way" ref="70259702" role=""/>
+  <member type="way" ref="870710204" role=""/>
   <member type="way" ref="339151064" role=""/>
   <member type="way" ref="48202027" role=""/>
   <member type="way" ref="48202026" role=""/>
@@ -2500,14 +2504,18 @@
   <member type="way" ref="377805301" role=""/>
   <member type="way" ref="377805289" role=""/>
   <member type="way" ref="377805283" role=""/>
+  <member type="way" ref="870707650" role=""/>
+  <member type="way" ref="870707649" role=""/>
   <member type="way" ref="377805292" role=""/>
   <member type="way" ref="377805305" role=""/>
   <member type="way" ref="377805296" role=""/>
   <member type="way" ref="377805282" role=""/>
   <member type="way" ref="377805285" role=""/>
-  <member type="way" ref="377805306" role=""/>
-  <member type="way" ref="377805287" role=""/>
   <member type="way" ref="164015842" role=""/>
+  <member type="way" ref="377805287" role=""/>
+  <member type="way" ref="870710201" role=""/>
+  <member type="way" ref="870710202" role=""/>
+  <member type="way" ref="377805306" role=""/>
   <member type="way" ref="377805311" role=""/>
   <member type="way" ref="377805295" role=""/>
   <member type="way" ref="377805303" role=""/>
@@ -2614,6 +2622,7 @@
   <member type="way" ref="60651125" role=""/>
   <member type="way" ref="411756295" role=""/>
   <member type="way" ref="411756292" role=""/>
+  <member type="way" ref="867529076" role=""/>
   <member type="way" ref="462437759" role=""/>
   <member type="way" ref="462437760" role=""/>
   <member type="way" ref="60651124" role=""/>
@@ -2699,6 +2708,7 @@
   <member type="way" ref="326937226" role=""/>
   <member type="way" ref="462437758" role=""/>
   <member type="way" ref="462437757" role=""/>
+  <member type="way" ref="867529077" role=""/>
   <member type="way" ref="326932115" role=""/>
   <member type="way" ref="411756293" role=""/>
   <member type="way" ref="411756294" role=""/>

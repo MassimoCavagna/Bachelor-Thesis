@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (2320387 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3897392 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2594220" minlon="10.0195312" maxlat="45.2671548" maxlon="10.0305176"/>
  <node id="307085345" visible="true" version="3" changeset="28639550" timestamp="2015-02-05T21:11:50Z" user="Pyknite" uid="193512" lat="45.2485195" lon="10.0297674"/>
- <node id="336490845" visible="true" version="5" changeset="835319" timestamp="2009-01-25T18:23:36Z" user="Diego Guidotti" uid="1700" lat="45.2657763" lon="9.9860061"/>
+ <node id="336490845" visible="true" version="6" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2657433" lon="9.9860088"/>
  <node id="336490881" visible="true" version="3" changeset="835319" timestamp="2009-01-25T18:23:36Z" user="Diego Guidotti" uid="1700" lat="45.2661810" lon="9.9896968"/>
- <node id="336490882" visible="true" version="4" changeset="38743530" timestamp="2016-04-21T01:35:42Z" user="andrewpmk" uid="1679" lat="45.2658737" lon="9.9868579"/>
  <node id="336492914" visible="true" version="3" changeset="835319" timestamp="2009-01-25T18:23:34Z" user="Diego Guidotti" uid="1700" lat="45.2646763" lon="10.0269034"/>
  <node id="336492992" visible="true" version="3" changeset="5316073" timestamp="2010-07-25T20:05:01Z" user="Moliva" uid="107039" lat="45.2610063" lon="10.0612195"/>
  <node id="336492994" visible="true" version="3" changeset="5316073" timestamp="2010-07-25T20:04:59Z" user="Moliva" uid="107039" lat="45.2613536" lon="10.0594448"/>
@@ -408,7 +407,7 @@
   <tag k="it:lombardia:ctrn:cascina:CS_ID" v="1431"/>
   <tag k="landuse" v="farmyard"/>
  </way>
- <way id="69679956" visible="true" version="7" changeset="81185817" timestamp="2020-02-18T19:16:41Z" user="pigio66" uid="7507474">
+ <way id="69679956" visible="true" version="8" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973">
   <nd ref="833366057"/>
   <nd ref="833366186"/>
   <nd ref="833366144"/>
@@ -467,7 +466,6 @@
   <nd ref="336493031"/>
   <nd ref="336490881"/>
   <nd ref="1762412671"/>
-  <nd ref="336490882"/>
   <nd ref="336490845"/>
   <tag k="highway" v="tertiary"/>
   <tag k="lanes" v="2"/>

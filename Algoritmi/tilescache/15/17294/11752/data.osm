@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1876270 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3890695 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2671548" minlon="9.9975586" maxlat="45.2748864" maxlon="10.0085449"/>
  <node id="62510512" visible="true" version="2" changeset="66129937" timestamp="2019-01-08T14:20:53Z" user="GFS" uid="362065" lat="45.2731740" lon="10.0078690">
   <tag k="gfoss_id" v="2598"/>
@@ -10,9 +10,8 @@
   <tag k="source" v="geodati.gfoss.it"/>
  </node>
  <node id="336490175" visible="true" version="4" changeset="11674634" timestamp="2012-05-22T19:05:24Z" user="Gianluigi" uid="498903" lat="45.2870126" lon="9.9864956"/>
- <node id="336490845" visible="true" version="5" changeset="835319" timestamp="2009-01-25T18:23:36Z" user="Diego Guidotti" uid="1700" lat="45.2657763" lon="9.9860061"/>
+ <node id="336490845" visible="true" version="6" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973" lat="45.2657433" lon="9.9860088"/>
  <node id="336490881" visible="true" version="3" changeset="835319" timestamp="2009-01-25T18:23:36Z" user="Diego Guidotti" uid="1700" lat="45.2661810" lon="9.9896968"/>
- <node id="336490882" visible="true" version="4" changeset="38743530" timestamp="2016-04-21T01:35:42Z" user="andrewpmk" uid="1679" lat="45.2658737" lon="9.9868579"/>
  <node id="336492914" visible="true" version="3" changeset="835319" timestamp="2009-01-25T18:23:34Z" user="Diego Guidotti" uid="1700" lat="45.2646763" lon="10.0269034"/>
  <node id="336492992" visible="true" version="3" changeset="5316073" timestamp="2010-07-25T20:05:01Z" user="Moliva" uid="107039" lat="45.2610063" lon="10.0612195"/>
  <node id="336492994" visible="true" version="3" changeset="5316073" timestamp="2010-07-25T20:04:59Z" user="Moliva" uid="107039" lat="45.2613536" lon="10.0594448"/>
@@ -324,7 +323,7 @@
  </node>
  <node id="7223338160" visible="true" version="1" changeset="81185817" timestamp="2020-02-18T19:16:41Z" user="pigio66" uid="7507474" lat="45.2689616" lon="10.0107808"/>
  <node id="7223338161" visible="true" version="1" changeset="81185817" timestamp="2020-02-18T19:16:41Z" user="pigio66" uid="7507474" lat="45.2687594" lon="10.0112380"/>
- <way id="69679956" visible="true" version="7" changeset="81185817" timestamp="2020-02-18T19:16:41Z" user="pigio66" uid="7507474">
+ <way id="69679956" visible="true" version="8" changeset="94928961" timestamp="2020-11-28T06:20:47Z" user="dgitto" uid="554973">
   <nd ref="833366057"/>
   <nd ref="833366186"/>
   <nd ref="833366144"/>
@@ -383,7 +382,6 @@
   <nd ref="336493031"/>
   <nd ref="336490881"/>
   <nd ref="1762412671"/>
-  <nd ref="336490882"/>
   <nd ref="336490845"/>
   <tag k="highway" v="tertiary"/>
   <tag k="lanes" v="2"/>

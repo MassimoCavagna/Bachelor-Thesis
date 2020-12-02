@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (1046608 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3441241 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.3830193" minlon="9.6679688" maxlat="45.3907352" maxlon="9.6789551"/>
  <node id="310897763" visible="true" version="4" changeset="38171950" timestamp="2016-03-30T16:17:58Z" user="bt1950" uid="330776" lat="45.3944240" lon="9.6740826"/>
  <node id="310897767" visible="true" version="3" changeset="801083" timestamp="2009-01-17T11:01:47Z" user="wiso" uid="30891" lat="45.3951715" lon="9.6733134"/>
@@ -266,10 +266,6 @@
  <node id="4086747816" visible="true" version="1" changeset="38171950" timestamp="2016-03-30T16:17:53Z" user="bt1950" uid="330776" lat="45.3924461" lon="9.6748143"/>
  <node id="4086747821" visible="true" version="1" changeset="38171950" timestamp="2016-03-30T16:17:53Z" user="bt1950" uid="330776" lat="45.3938739" lon="9.6743959"/>
  <node id="4086747825" visible="true" version="1" changeset="38171950" timestamp="2016-03-30T16:17:53Z" user="bt1950" uid="330776" lat="45.3948363" lon="9.6737387"/>
- <node id="4693533087" visible="true" version="1" changeset="46215766" timestamp="2017-02-19T13:29:43Z" user="luca scandelli" uid="1786966" lat="45.3712976" lon="9.6838668"/>
- <node id="4698034045" visible="true" version="1" changeset="46286732" timestamp="2017-02-21T20:51:50Z" user="luca scandelli" uid="1786966" lat="45.3714153" lon="9.6831372"/>
- <node id="4698034046" visible="true" version="1" changeset="46286732" timestamp="2017-02-21T20:51:50Z" user="luca scandelli" uid="1786966" lat="45.3713497" lon="9.6822219"/>
- <node id="4698034047" visible="true" version="1" changeset="46286732" timestamp="2017-02-21T20:51:50Z" user="luca scandelli" uid="1786966" lat="45.3714172" lon="9.6819206"/>
  <node id="4698034048" visible="true" version="1" changeset="46286732" timestamp="2017-02-21T20:51:50Z" user="luca scandelli" uid="1786966" lat="45.3716094" lon="9.6810301"/>
  <node id="4698034049" visible="true" version="1" changeset="46286732" timestamp="2017-02-21T20:51:51Z" user="luca scandelli" uid="1786966" lat="45.3717639" lon="9.6808531"/>
  <node id="4698034050" visible="true" version="1" changeset="46286732" timestamp="2017-02-21T20:51:51Z" user="luca scandelli" uid="1786966" lat="45.3718393" lon="9.6806761"/>
@@ -315,10 +311,9 @@
  <node id="4698034090" visible="true" version="1" changeset="46286732" timestamp="2017-02-21T20:51:51Z" user="luca scandelli" uid="1786966" lat="45.3859118" lon="9.6706992"/>
  <node id="4698034091" visible="true" version="1" changeset="46286732" timestamp="2017-02-21T20:51:51Z" user="luca scandelli" uid="1786966" lat="45.3865057" lon="9.6711221"/>
  <node id="4698034092" visible="true" version="1" changeset="46286732" timestamp="2017-02-21T20:51:51Z" user="luca scandelli" uid="1786966" lat="45.3878850" lon="9.6713497"/>
- <node id="4698034095" visible="true" version="1" changeset="46286732" timestamp="2017-02-21T20:51:51Z" user="luca scandelli" uid="1786966" lat="45.3713539" lon="9.6835178"/>
- <node id="4706999009" visible="true" version="1" changeset="46421831" timestamp="2017-02-26T17:57:29Z" user="luca scandelli" uid="1786966" lat="45.3713445" lon="9.6835764"/>
  <node id="6441768038" visible="true" version="1" changeset="69786070" timestamp="2019-05-02T01:34:15Z" user="jojoyal" uid="8476264" lat="45.3947641" lon="9.6737989"/>
  <node id="6443174998" visible="true" version="1" changeset="69807478" timestamp="2019-05-02T14:39:45Z" user="mhdrahm" uid="9196095" lat="45.3916141" lon="9.6750666"/>
+ <node id="8176938217" visible="true" version="1" changeset="94995650" timestamp="2020-11-29T18:36:50Z" user="dega180" uid="454306" lat="45.3715804" lon="9.6811012"/>
  <way id="40768099" visible="true" version="3" changeset="37781696" timestamp="2016-03-12T11:52:35Z" user="bt1950" uid="330776">
   <nd ref="495313136"/>
   <nd ref="4056325939"/>
@@ -733,13 +728,8 @@
   <tag k="highway" v="tertiary"/>
   <tag k="name" v="Via Ponte Rino"/>
  </way>
- <way id="476157029" visible="true" version="2" changeset="46421831" timestamp="2017-02-26T17:57:29Z" user="luca scandelli" uid="1786966">
-  <nd ref="4693533087"/>
-  <nd ref="4706999009"/>
-  <nd ref="4698034095"/>
-  <nd ref="4698034045"/>
-  <nd ref="4698034046"/>
-  <nd ref="4698034047"/>
+ <way id="476157029" visible="true" version="4" changeset="94995650" timestamp="2020-11-29T18:36:50Z" user="dega180" uid="454306">
+  <nd ref="8176938217"/>
   <nd ref="4698034048"/>
   <nd ref="4698034049"/>
   <nd ref="4698034050"/>

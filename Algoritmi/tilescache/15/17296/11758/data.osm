@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (3930455 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3440950 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.2207426" minlon="10.0195312" maxlat="45.2284806" maxlon="10.0305176"/>
  <node id="307222232" visible="true" version="2" changeset="28639550" timestamp="2015-02-05T21:11:50Z" user="Pyknite" uid="193512" lat="45.2357910" lon="10.0663490"/>
  <node id="481302980" visible="true" version="5" changeset="56406754" timestamp="2018-02-16T08:45:18Z" user="pigio66" uid="7507474" lat="45.2277212" lon="10.0318730"/>
@@ -575,7 +575,7 @@
   <tag k="oneway" v="yes"/>
   <tag k="ref" v="SP95"/>
  </way>
- <way id="107289980" visible="true" version="4" changeset="56266039" timestamp="2018-02-11T15:19:49Z" user="pigio66" uid="7507474">
+ <way id="107289980" visible="true" version="5" changeset="93617037" timestamp="2020-11-05T17:40:42Z" user="pigio66" uid="7507474">
   <nd ref="1225118597"/>
   <nd ref="4177426873"/>
   <nd ref="4177426874"/>
@@ -616,6 +616,8 @@
   <nd ref="1233436445"/>
   <nd ref="5405427114"/>
   <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Via Olmeneta"/>
+  <tag k="ref" v="SP65"/>
  </way>
  <way id="298151456" visible="true" version="1" changeset="24789709" timestamp="2014-08-16T15:57:22Z" user="Pab09" uid="178610">
   <nd ref="3020562720"/>

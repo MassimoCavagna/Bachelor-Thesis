@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="CGImap 0.8.3 (864984 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<osm version="0.6" generator="CGImap 0.8.3 (3890695 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
  <bounds minlat="45.4601306" minlon="9.6789551" maxlat="45.4678360" maxlon="9.6899414"/>
  <node id="527998495" visible="true" version="2" changeset="3052471" timestamp="2009-11-06T22:55:24Z" user="Luigi62" uid="90148" lat="45.4671123" lon="9.6814648"/>
  <node id="527998502" visible="true" version="2" changeset="3052471" timestamp="2009-11-06T22:55:23Z" user="Luigi62" uid="90148" lat="45.4668502" lon="9.6801345"/>
@@ -17,13 +17,6 @@
  <node id="527998540" visible="true" version="2" changeset="3052471" timestamp="2009-11-06T22:55:23Z" user="Luigi62" uid="90148" lat="45.4677754" lon="9.6789448"/>
  <node id="527998541" visible="true" version="2" changeset="3052471" timestamp="2009-11-06T22:55:23Z" user="Luigi62" uid="90148" lat="45.4677261" lon="9.6789154"/>
  <node id="527998542" visible="true" version="2" changeset="3052471" timestamp="2009-11-06T22:55:23Z" user="Luigi62" uid="90148" lat="45.4666936" lon="9.6792244"/>
- <node id="2528934691" visible="true" version="1" changeset="18850368" timestamp="2013-11-12T08:18:40Z" user="mircozorzo" uid="224342" lat="45.4505181" lon="9.6712366"/>
- <node id="2528934692" visible="true" version="1" changeset="18850368" timestamp="2013-11-12T08:18:40Z" user="mircozorzo" uid="224342" lat="45.4508010" lon="9.6737298"/>
- <node id="2528934693" visible="true" version="1" changeset="18850368" timestamp="2013-11-12T08:18:40Z" user="mircozorzo" uid="224342" lat="45.4510134" lon="9.6756157"/>
- <node id="2528934694" visible="true" version="1" changeset="18850368" timestamp="2013-11-12T08:18:40Z" user="mircozorzo" uid="224342" lat="45.4523007" lon="9.6751886"/>
- <node id="2528934695" visible="true" version="1" changeset="18850368" timestamp="2013-11-12T08:18:40Z" user="mircozorzo" uid="224342" lat="45.4530454" lon="9.6750824"/>
- <node id="2528934696" visible="true" version="1" changeset="18850368" timestamp="2013-11-12T08:18:40Z" user="mircozorzo" uid="224342" lat="45.4538088" lon="9.6750888"/>
- <node id="2528934697" visible="true" version="1" changeset="18850368" timestamp="2013-11-12T08:18:40Z" user="mircozorzo" uid="224342" lat="45.4557979" lon="9.6764465"/>
  <node id="2528934698" visible="true" version="1" changeset="18850368" timestamp="2013-11-12T08:18:40Z" user="mircozorzo" uid="224342" lat="45.4577058" lon="9.6778595"/>
  <node id="2528934699" visible="true" version="1" changeset="18850368" timestamp="2013-11-12T08:18:40Z" user="mircozorzo" uid="224342" lat="45.4617358" lon="9.6809336"/>
  <node id="2528934700" visible="true" version="1" changeset="18850368" timestamp="2013-11-12T08:18:40Z" user="mircozorzo" uid="224342" lat="45.4657258" lon="9.6839436"/>
@@ -117,7 +110,6 @@
  <node id="6470678645" visible="true" version="1" changeset="70201875" timestamp="2019-05-13T17:54:35Z" user="Mannivu" uid="1950277" lat="45.4611465" lon="9.6806073"/>
  <node id="6470678646" visible="true" version="1" changeset="70201875" timestamp="2019-05-13T17:54:35Z" user="Mannivu" uid="1950277" lat="45.4612150" lon="9.6805363"/>
  <node id="6470678647" visible="true" version="1" changeset="70201875" timestamp="2019-05-13T17:54:35Z" user="Mannivu" uid="1950277" lat="45.4587949" lon="9.6787888"/>
- <node id="6470678655" visible="true" version="1" changeset="70201875" timestamp="2019-05-13T17:54:36Z" user="Mannivu" uid="1950277" lat="45.4575669" lon="9.6777566"/>
  <node id="6470700551" visible="true" version="1" changeset="70201875" timestamp="2019-05-13T18:03:43Z" user="Mannivu" uid="1950277" lat="45.4696611" lon="9.6869493"/>
  <way id="42316621" visible="true" version="2" changeset="3052471" timestamp="2009-11-06T22:55:27Z" user="Luigi62" uid="90148">
   <nd ref="527998542"/>
@@ -139,7 +131,7 @@
   <nd ref="527998542"/>
   <tag k="landuse" v="quarry"/>
  </way>
- <way id="245760125" visible="true" version="8" changeset="70201875" timestamp="2019-05-13T18:03:43Z" user="Mannivu" uid="1950277">
+ <way id="245760125" visible="true" version="9" changeset="93686666" timestamp="2020-11-06T22:07:06Z" user="Murtinho" uid="12129627">
   <nd ref="2528934701"/>
   <nd ref="6470700551"/>
   <nd ref="2528934700"/>
@@ -150,14 +142,6 @@
   <nd ref="6470540696"/>
   <nd ref="6470678647"/>
   <nd ref="2528934698"/>
-  <nd ref="6470678655"/>
-  <nd ref="2528934697"/>
-  <nd ref="2528934696"/>
-  <nd ref="2528934695"/>
-  <nd ref="2528934694"/>
-  <nd ref="2528934693"/>
-  <nd ref="2528934692"/>
-  <nd ref="2528934691"/>
   <tag k="highway" v="unclassified"/>
   <tag k="name" v="Strada consorziale delle Volte"/>
   <tag k="surface" v="asphalt"/>
